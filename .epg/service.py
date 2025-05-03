@@ -6,7 +6,7 @@ import socket
 from collections import Counter
 import xml_structure
 import magenta_DE
-import tvspielfilm_DE
+#import tvspielfilm_DE
 #import swisscom_CH
 #import horizon
 #import zattoo
@@ -100,7 +100,7 @@ def run_grabber():
 	if check_startup():
 		importlib.reload(xml_structure)
 		importlib.reload(magenta_DE)
-		importlib.reload(tvspielfilm_DE)
+		#importlib.reload(tvspielfilm_DE)
 		xml_structure.xml_start()
 		xml_structure.xml_channels_start('ZAPPN')
 		xml_structure.xml_channels('PULS24', 'PULS24', 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PULS24logo.png/640px-PULS24logo.png', 'de')
@@ -108,9 +108,9 @@ def run_grabber():
 		if enable_grabber_magentaDE:
 			if magenta_DE.startup():
 				magenta_DE.create_xml_channels()
-		if enable_grabber_tvsDE:
-			if tvspielfilm_DE.startup():
-				tvspielfilm_DE.create_xml_channels()
+		#if enable_grabber_tvsDE:
+			#if tvspielfilm_DE.startup():
+				#tvspielfilm_DE.create_xml_channels()
 
 		# Check for Channel Dupes
 		if check_channel_dupes():
@@ -178,9 +178,9 @@ def run_grabber():
 			if enable_grabber_magentaDE:
 				if magenta_DE.startup():
 					magenta_DE.create_xml_broadcast(enable_rating_mapper, thread_temppath, download_threads)
-			if enable_grabber_tvsDE:
-				if tvspielfilm_DE.startup():
-					tvspielfilm_DE.create_xml_broadcast(enable_rating_mapper, thread_temppath, download_threads)
+			#if enable_grabber_tvsDE:
+				#if tvspielfilm_DE.startup():
+					#tvspielfilm_DE.create_xml_broadcast(enable_rating_mapper, thread_temppath, download_threads)
 
 			## Finish XML
 			xml_structure.xml_end()
