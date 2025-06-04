@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-04 00:53:03.008930 -->
+<!-- created on 2025-06-04 02:29:48.903143 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250604004500 +0000" stop="20250604013500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250604013500 +0000" stop="20250604022500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250604022500 +0000" stop="20250604023500 +0000" channel="PULS24">
         <title lang="de">Wirtschaft 24</title>
@@ -649,23 +631,13 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250603234500 +0000" stop="20250604021000 +0000" channel="ServusTV">
-        <title lang="de">Todesmelodie</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Mexiko, im Jahre 1913. Juan Miranda raubt mit seiner Bande reiche Reisende aus. Er begegnet dem irischen Ex-Revolutionär Sean Mallory kurz nach einem seiner erfolgreichen Raubzüge. Beeindruckt von Mallorys Dynamit- und Nitroglyzerin-Vorräten beschließt er, mit ihm gemeinsame Sache zu machen: Er will mit ihm zusammen eine Bank plündern, zu deren Tresor Mallory den Weg frei sprengen soll. Doch seine Rechnung geht nicht auf, stattdessen wird der kleine Bandit an der Seite des Iren zum Revolutionshelden wider Willen.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Rod Steiger</actor>
-            <actor> James Coburn</actor>
-            <actor> Romolo Valli</actor>
-            <actor> Maria Monti</actor>
-            <actor> Rik Battaglia</actor>
-            <actor> Franco Graziosi</actor>
-            <actor> Antoine Saint-John; [B]Regie[/B]: Sergio Leone; [B]Drehbuch[/B]: Sergio Donati</actor>
-            <actor>  Luciano Vincenzoni</actor>
-        </credits>
-        <date>1971</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/11232371526081663635"/>
-        <country>Italien, Spanien, Vereinigte Staaten</country>
+    <programme start="20250606014000 +0000" stop="20250606023000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250604021000 +0000" stop="20250604023500 +0000" channel="ServusTV">
@@ -1582,6 +1554,58 @@
         <date>2022</date>
         <category lang="de">Natur</category>
         <icon src="https://images.mdn.ors.at/7599891017609546647"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250606010500 +0000" stop="20250606014500 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Die harmonische Tonfrequenz</sub-title>
+        <desc lang="de">Archäologen fällt bei ihrer Arbeit auf antiken Schauplätzen weltweit auf, dass die Menschen damals viel Wert auf eine harmonische Tonfrequenz legten. Diese hat einen beachtlichen Einfluss auf das menschliche Gehirn. Klang, Ton und Musik spielen auch in den meisten Religionen eine wesentliche Rolle. Ist die richtige Frequenz womöglich der Schlüssel zur Kommunikation mit Außerirdischen?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Giorgio Tsoukalos</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku; [B]ErzählerIn[/B]:  Simon Allix</actor>
+            <actor> Robert Clotworthy; [B]Produzent[/B]: Mary Ellen Iwata</actor>
+            <actor> Lara Shaghoian</actor>
+            <actor> Michelle Gorski; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns</actor>
+            <actor> Jon Levy</actor>
+            <actor> Susan E. Leventhal; [B]Drehbuch[/B]: W. Scott Goldie</actor>
+            <actor>  Max Thompson</actor>
+            <actor> Erik Pinkston; [B]Editor[/B]: Adrian Herrera</actor>
+            <actor> Tom Ronca</actor>
+            <actor> Paul Marengo</actor>
+            <actor> Gary Edgren; [B]Kamera[/B]: Ryan Firth</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/12179640673147178950"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250606014500 +0000" stop="20250606023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
         <country>Deutschland</country>
     </programme>
 
