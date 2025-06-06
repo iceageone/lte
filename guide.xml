@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-06 00:51:51.091678 -->
+<!-- created on 2025-06-06 02:28:00.502664 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250606005000 +0000" stop="20250606014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250606014000 +0000" stop="20250606023000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -575,67 +566,13 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250606002000 +0000" stop="20250606010500 +0000" channel="ServusTV">
-        <title lang="de">Unsere Kontinente</title>
-        <sub-title lang="de">Asien</sub-title>
-        <desc lang="de">Vor 200 Millionen Jahren zerbricht der Superkontinent Pangäa und die Kontinente, die wir heute Heimat nennen, entstehen. Tektonische Kräfte schaffen bis heute einzigartige Lebensräume und prägen unsere Kultur. Der größte Kontinent, Asien, bietet natürliche Bedingungen im Superlativ: der kälteste Ort, die seismisch heißeste Region und die höchsten Gebirge unseres Planeten.&lt;br /&gt;&lt;br /&gt;Die Kontinente ordnen die Welt und stehen für die Vielfalt von Natur und Kultur auf dem Planeten. Sie prägen das Leben der Menschen, auf jedem Erdteil unterschiedlich. Überraschende Erkenntnisse aus Geschichte, Wissenschaft und Alltag werden zu einer filmischen Enzyklopädie gebündelt. In der globalen Gesamtschau liefert der Sechsteiler die Antwort auf die Frage, wie die Welt wurde, wie sie ist.</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Friederike Schmidt-Vogt; [B]Kamera[/B]:  Jan Peter</actor>
-            <actor> Arsenij Gusev</actor>
-            <actor> Tim Fabian; [B]Produzent[/B]:  Jens Afflerbach</actor>
-            <actor> Andy Nguyen</actor>
-            <actor> Sarit Bino</actor>
-            <actor> Carsten Obländer; [B]Drehbuch[/B]: Sigrun Laste</actor>
-            <actor> Susanne Rostosky; [B]Editor[/B]: Ronald Rist</actor>
-            <actor> Holger Finck</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/7599891017609546647"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20250606010500 +0000" stop="20250606014500 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Die harmonische Tonfrequenz</sub-title>
-        <desc lang="de">Archäologen fällt bei ihrer Arbeit auf antiken Schauplätzen weltweit auf, dass die Menschen damals viel Wert auf eine harmonische Tonfrequenz legten. Diese hat einen beachtlichen Einfluss auf das menschliche Gehirn. Klang, Ton und Musik spielen auch in den meisten Religionen eine wesentliche Rolle. Ist die richtige Frequenz womöglich der Schlüssel zur Kommunikation mit Außerirdischen?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress</actor>
-            <actor> William Henry</actor>
-            <actor> Jonathan Young</actor>
-            <actor> Erich von Däniken</actor>
-            <actor> Jason Martell</actor>
-            <actor> Andrew Collins</actor>
-            <actor> Nick Pope</actor>
-            <actor> Colgate Salsbury</actor>
-            <actor> Giorgio Tsoukalos</actor>
-            <actor> Linda Moulton Howe</actor>
-            <actor> David Wilcock</actor>
-            <actor> George Noory</actor>
-            <actor> Michio Kaku; [B]ErzählerIn[/B]:  Simon Allix</actor>
-            <actor> Robert Clotworthy; [B]Produzent[/B]: Mary Ellen Iwata</actor>
-            <actor> Lara Shaghoian</actor>
-            <actor> Michelle Gorski; [B]Regie[/B]: Jon A. Levy</actor>
-            <actor> Keith Guinto</actor>
-            <actor> Robin Feinberg</actor>
-            <actor> Mitch Marcus</actor>
-            <actor> William Martens</actor>
-            <actor> Jonathan Haug</actor>
-            <actor> Phil Grabsky</actor>
-            <actor> Kevin Burns</actor>
-            <actor> Jon Levy</actor>
-            <actor> Susan E. Leventhal; [B]Drehbuch[/B]: W. Scott Goldie</actor>
-            <actor>  Max Thompson</actor>
-            <actor> Erik Pinkston; [B]Editor[/B]: Adrian Herrera</actor>
-            <actor> Tom Ronca</actor>
-            <actor> Paul Marengo</actor>
-            <actor> Gary Edgren; [B]Kamera[/B]: Ryan Firth</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/12179640673147178950"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20250608014000 +0000" stop="20250608023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250606014500 +0000" stop="20250606023500 +0000" channel="ServusTV">
@@ -1596,6 +1533,25 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/10327224612880789950"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250608015500 +0000" stop="20250608022500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250608022500 +0000" stop="20250608031000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Welche Hausmittel helfen? // Kann jeder fliegen? // Schöner wohnen mit Solarfassade?</sub-title>
+        <desc lang="de">Themen: Was verrät steinzeitlicher Müll? // Warum wurde Tutanchamun eilig bestattet? // Welche Frau machte den Benz zum Erfolgsauto? // Alles über Photovoltaik // Können Solarfassaden Gebäude verschönern? // Kann jeder ein Flugzeug fliegen? // Wie wirksam sind Hausmittel? // Warum schrumpfen in der Kalahari-Wüste die Erdmännchen? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
