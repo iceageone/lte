@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-07 00:51:41.038928 -->
+<!-- created on 2025-06-07 02:26:22.229174 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,42 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250607002500 +0000" stop="20250607011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Von Wut getrieben</sub-title>
-        <desc lang="de">Am Morgen des 18. Mai 2019 wird die Polizei in Cedar Rapids, Iowa, zum Tatort einer Schießerei gerufen: Ein Bewaffneter hat das Feuer auf vier Teenager in einem Auto eröffnet. Zwei von ihnen überleben schwer verletzt, der Schütze kann entkommen. Liefert das Überwachungsvideo den Ermittlern die nötigen Hinweise, um die Spur des Mörders aufzunehmen?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/3897626000379790947"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E10</episode-num>
-    </programme>
-
-    <programme start="20250607011000 +0000" stop="20250607020000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250607020000 +0000" stop="20250607021500 +0000" channel="PULS24">
-        <title lang="de">Adiweiss.TV</title>
-        <sub-title lang="de">07.06.2025 04:00.</sub-title>
-        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Mode</category>
-        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250607021500 +0000" stop="20250607024000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -552,36 +516,24 @@
         <episode-num system="onscreen">S10 E5</episode-num>
     </programme>
 
-    <programme start="20250607001500 +0000" stop="20250607010500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Wenn alles zusammenfließt</sub-title>
-        <desc lang="de">Die Salza, die Große Mühl und die Pielach: Drei höchst unterschiedliche Flüsse, die aber die Kraft haben, Menschen zu verbinden -  mit ihrer Heimat, mit ihrer Kindheit und miteinander&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/16224143583745041246"/>
+    <programme start="20250609013000 +0000" stop="20250609022000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250607010500 +0000" stop="20250607015000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Zweites Leben für Beton - Österreichische Pioniere binden CO2 in Bauschutt</sub-title>
-        <desc lang="de">Diesmal bei TM Wissen: Wie bindet Beton CO2? // WIe werden Bienen resistent gegen die Varroamilbe? // Warum sagen wir "Grüne Neune?" // Wie rettet ein furzender Fisch ein Ökosystem? // Welche Landwirtschaft hat tausende Menschen hungern lassen? // Wo gibt es den größten Spiegel der Welt? // Wie hat Max Valier den Raketenantrieb erfunden? // Warum ist unser Sonnensystem ein Glücksfall?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+    <programme start="20250609022000 +0000" stop="20250609023000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">09.06.2025 04:20.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
         <date>2025</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/2037567341756987080"/>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
         <country>Österreich</country>
-    </programme>
-
-    <programme start="20250607015000 +0000" stop="20250607022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250607022000 +0000" stop="20250607030500 +0000" channel="ServusTV">
@@ -1493,6 +1445,15 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/11931960187798309740"/>
         <country>Spanien, Deutschland, Vereinigte Staaten, Frankreich, Belgien, Tschechien, Luxemburg, Niederlande, Vereinigtes Königreich, Lettland</country>
+    </programme>
+
+    <programme start="20250609022000 +0000" stop="20250609023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
