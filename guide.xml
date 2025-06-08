@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-08 00:57:48.092007 -->
+<!-- created on 2025-06-08 02:51:23.235585 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250608005000 +0000" stop="20250608014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250608014000 +0000" stop="20250608023500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250608023500 +0000" stop="20250608025000 +0000" channel="PULS24">
-        <title lang="de">Adiweiss.TV</title>
-        <sub-title lang="de">08.06.2025 04:35.</sub-title>
-        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Mode</category>
-        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250608025000 +0000" stop="20250608030000 +0000" channel="PULS24">
         <title lang="de">Wirtschaft 24</title>
@@ -587,33 +556,33 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250608000000 +0000" stop="20250608015500 +0000" channel="ServusTV">
-        <title lang="de">Widows - Tödliche Witwen</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Für ein Team von vier kriminellen Männern , die einen bewaffneten Raubüberfall durchführen wollen, läuft dieser Job vollkommen aus dem Ruder und sie müssen mit ihrem Leben dafür bezahlen. Die Frauen der Verstorbenen ergeben sich daraufhin aber nicht ihrer Trauer, sondern beschliessen, den Job zu Ende zu bringen, den ihre Männer angefangen haben. Um den Coup umzusetzen, müssen sie allerdings einen nichtsahnenden Politiker in ihre Pläne einberechnen.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Viola Davis</actor>
-            <actor> Michelle Rodriguez</actor>
-            <actor> Elizabeth Debicki</actor>
-            <actor> Liam Neeson</actor>
-            <actor> Jon Bernthal</actor>
-            <actor> Manuel Garcia-Rulfo</actor>
-            <actor> Coburn Goss</actor>
-            <actor> Alejandro Verdin; [B]Regie[/B]: Steve McQueen; [B]Drehbuch[/B]: Gillian Flynn</actor>
-            <actor> Lynda La Plante</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/10327224612880789950"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    <programme start="20250610010500 +0000" stop="20250610020000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250608015500 +0000" stop="20250608022500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250610020000 +0000" stop="20250610025000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250610025000 +0000" stop="20250610030000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">10.06.2025 04:50.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250608022500 +0000" stop="20250608031000 +0000" channel="ServusTV">
@@ -1353,6 +1322,42 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/5209175647159957161"/>
         <country>Vereinigte Staaten, Frankreich, Italien, Japan</country>
+    </programme>
+
+    <programme start="20250610012000 +0000" stop="20250610020000 +0000" channel="ServusTV">
+        <title lang="de">Höhlenwelten</title>
+        <sub-title lang="de">Großbritanniens Titan</sub-title>
+        <desc lang="de">Tief unter der Erde der britischen Inseln liegen einige der unzugänglichsten Höhlen der Welt. Es geht für die Forscher in Großbritanniens größte vertikale Höhle, wo sie einen beispiellosen Versuch wagen. Sie liegt im Peak District – ein Nationalpark, der für seine verwinkelten Kalksteinhöhlen bekannt ist. Der einzige Hinweis auf die Existenz der Höhle ist ein in den Berg getriebener Eingang. &lt;br /&gt;Teamleiter der Expedition ist Dave Nixon, auch „Moose“, also „Elch“, genannt. Dave Nixon war der erste, der die Titan-Höhle entdeckte. Das war im Jahr 1999. Doch noch niemand hat die Höhle in ihrer Gänze zu Gesicht bekommen. &lt;br /&gt;Die Titan-Höhle gilt als tiefster Schacht aller bekannter Höhlen Großbritanniens. Ihre genauen Ausmaße sind unbekannt. Dave Nixon beabsichtigt, die Höhle per 3D-Scanner zu vermessen. Er will endlich wissen, was genau sich in diesem Hügel verbirgt. &lt;br /&gt;Werden die Scan-Daten Dave Nixons Theorie bestätigen, dass Titan die tiefste vertikale Höhle Großbritanniens ist? Und können sie ihre Entstehung erklären? Für ein präzises digitales Modell braucht man spezielle Ausrüstung – und Fachwissen. &lt;br /&gt;Dave Nixon hat Roo Walters um Hilfe gebeten, einen der besten Höhlenforscher weltweit. Mithilfe neuester Lasertechnik hat Walters bereits 200 Höhlen rund um den Globus gescannt. Darunter die Miao-Kaverne in China - die größte bekannte Höhle der Welt.&lt;br /&gt;&lt;br /&gt;Unter der Erdoberfläche liegt ein gewaltiges Reich: Unzählige Höhlen, verborgene Tunnel, unterirdische Flüsse. Immer mehr Höhlenforscher steigen in mysteriöse Abgründe, wo erstaunliche Geheimnisse schlummern.</desc>
+        <credits>
+            <actor>[B]Produzent[/B]: Sophie Elwin Harris; [B]Regie[/B]: Joseph Cunningham; [B]Kamera[/B]: Rob Franklin; [B]Editor[/B]: Joanna Lincoln</actor>
+            <actor> Tim Trussler</actor>
+            <actor> Richard Atherton</actor>
+            <actor> Dominic Stabb</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3320187799011669082"/>
+        <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250610020000 +0000" stop="20250610023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250610023500 +0000" stop="20250610032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">10.06.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
