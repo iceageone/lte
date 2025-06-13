@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-13 00:53:05.880241 -->
+<!-- created on 2025-06-13 02:30:13.607021 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250613005000 +0000" stop="20250613014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250613014000 +0000" stop="20250613023500 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -573,63 +564,22 @@
         <episode-num system="onscreen">S8 E11</episode-num>
     </programme>
 
-    <programme start="20250613002000 +0000" stop="20250613011000 +0000" channel="ServusTV">
-        <title lang="de">Unsere Kontinente</title>
-        <sub-title lang="de">Australien und Ozeanien</sub-title>
-        <desc lang="de">Kein anderer Kontinent ist so weit von allem anderen entfernt wie dieser: Australien und Ozeanien. Die Abgeschiedenheit lässt einzigartige Tierarten und paradiesische Besonderheiten ohne Fremdeinfluss entstehen und eine der ältesten Kulturen der Welt überleben. Doch gerade diese natürliche Schönheit zieht die Europäer an den Pazifik, was die Inseln für immer verändert.&lt;br /&gt;&lt;br /&gt;Die Kontinente ordnen die Welt und stehen für die Vielfalt von Natur und Kultur auf dem Planeten. Sie prägen das Leben der Menschen, auf jedem Erdteil unterschiedlich. Überraschende Erkenntnisse aus Geschichte, Wissenschaft und Alltag werden zu einer filmischen Enzyklopädie gebündelt. In der globalen Gesamtschau liefert der Sechsteiler die Antwort auf die Frage, wie die Welt wurde, wie sie ist.</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Friederike Schmidt-Vogt</actor>
-            <actor>  Jan Peter</actor>
-            <actor> Sigrun Laste</actor>
-            <actor> Andre Eavis; [B]Produzent[/B]:  Jens Afflerbach</actor>
-            <actor> Yana Groves</actor>
-            <actor> David Grusovin; [B]Editor[/B]: Ronald Rist</actor>
-            <actor> Holger Finck</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/3808834461762915764"/>
-        <country>Deutschland</country>
+    <programme start="20250615005500 +0000" stop="20250615014500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250613011000 +0000" stop="20250613015000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Aliens in den Highlands</sub-title>
-        <desc lang="de">Vom Ungeheuer von Loch Ness über Feen bis hin zu interdimensionalen Portalen: In Schottland gibt es seit Jahrhunderten Berichte über mysteriöse Phänomene. Schottland ist die Heimat alter Steinkreise und ein bekannter Hotspot für UFO-Sichtungen. Es gibt zahlreiche Geschichten über seltsame Kreaturen. Ein besonders berüchtigtes Gebiet ist das sogenannte Falkirk-Dreieck, das eine hohe Konzentration von UFO-Sichtungen aufweist. Einige Forscher vermuten, dass die seltsamen Vorkommnisse in der nördlichsten Nation der Britischen Inseln auf die energiereiche Geologie und seismische Aktivität zurückzuführen sein könnten. Könnte Schottland ein Magnet für außerirdische Besucher sein?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress</actor>
-            <actor> William Henry</actor>
-            <actor> Jonathan Young</actor>
-            <actor> Erich von Däniken</actor>
-            <actor> Jason Martell</actor>
-            <actor> Andrew Collins</actor>
-            <actor> Nick Pope</actor>
-            <actor> Colgate Salsbury</actor>
-            <actor> Giorgio Tsoukalos</actor>
-            <actor> Linda Moulton Howe</actor>
-            <actor> David Wilcock</actor>
-            <actor> George Noory</actor>
-            <actor> Michio Kaku; [B]ErzählerIn[/B]: Robert Clotworthy</actor>
-            <actor>  Simon Allix; [B]Regie[/B]: Jon A. Levy</actor>
-            <actor> Keith Guinto</actor>
-            <actor> Robin Feinberg</actor>
-            <actor> Mitch Marcus</actor>
-            <actor> William Martens</actor>
-            <actor> Phil Grabsky</actor>
-            <actor> Kevin Burns</actor>
-            <actor> Jonathan Haug; [B]Produzent[/B]: Mary Ellen Iwata</actor>
-            <actor> Gabriel Rotello; [B]Editor[/B]:  Margaret Moore</actor>
-            <actor> Damon Brewster</actor>
-            <actor> Lara Andre; [B]Drehbuch[/B]:  Max Thompson</actor>
-            <actor> Erik Pinkston; [B]Kamera[/B]: Luke de la Nougerede</actor>
-            <actor> Kris Denton</actor>
-            <actor> Tim Askew</actor>
-        </credits>
+    <programme start="20250615014500 +0000" stop="20250615023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
         <date>2024</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/14395904945951552964"/>
-        <country>Vereinigte Staaten</country>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250613015000 +0000" stop="20250613023500 +0000" channel="ServusTV">
