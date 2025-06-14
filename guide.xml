@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-14 00:50:57.297839 -->
+<!-- created on 2025-06-14 02:25:15.703297 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,34 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250614001000 +0000" stop="20250614010000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Falsches Vertrauen</sub-title>
-        <desc lang="de">Sandra Cantu wächst wohlbehütet in einer Wohnsiedlung in Tracy/Kalifornien auf. Als das achtjährige Mädchen eines Tages spurlos verschwindet, suchen die Polizei und hunderte Helfer tagelang die Umgebung ab - ohne Erfolg. Die Ermittler schauen sich die Aufnahmen einer Überwachungskamera an. Eine merkwürdige Notiz bringt sie schließlich auf die richtige Spur.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/5752261991699386412"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E12</episode-num>
-    </programme>
-
-    <programme start="20250614010000 +0000" stop="20250614014500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord auf Video</sub-title>
-        <desc lang="de">Die Schauspielerin Sharon Anderson stand noch am Anfang ihrer Karriere, als ihr Leben ein Ende fand. Zusammen mit ihrer Freundin Marie Rogers hatte sie im Jahr 1994 eine Bar in Miami besucht. Danach waren beide verschwunden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/10323441984596410428"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E13</episode-num>
-    </programme>
 
     <programme start="20250614014500 +0000" stop="20250614022500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -596,24 +568,29 @@
         <episode-num system="onscreen">S8 E18</episode-num>
     </programme>
 
-    <programme start="20250614004000 +0000" stop="20250614012500 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Bergrettung mit Künstlicher Intelligenz - Wie eine Drohne hilft, Leben zu retten</sub-title>
-        <desc lang="de">Diesmal bei P.M. Wissen: Welche Vorteile hat eine Bergrettungsdrohne mit K.I.? // Wie kommen wir an versunkene Artefakte auf dem Meeresgrund? // Wie lässt sich Plastik ohne Qualitätsverlust recyceln? // Wie hilft der Kabeljau bei der Wundheilung // Gibt es Freundschaften unter Kühen? // Was lernen Architekten von Termiten? // Warum glauben wir an "Wilde Leute"?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+    <programme start="20250616013500 +0000" stop="20250616022000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Lottolose</sub-title>
+        <desc lang="de">Im März 2014 wurde in Dalton, Georgia, der Supermarktangestellte Dahyabhai Kalidas Chaudhari an seinem Arbeitsplatz erstochen. Die Polizei musste auf die Aufnahmen der Überwachungskameras im Markt und darum herum bauen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
+        </credits>
         <date>2022</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/15277570702993814283"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E157</episode-num>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/5752261991699386412"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S8 E15</episode-num>
     </programme>
 
-    <programme start="20250614012500 +0000" stop="20250614022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250616022000 +0000" stop="20250616024500 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">16.06.2025 04:20.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250614022000 +0000" stop="20250614030500 +0000" channel="ServusTV">
@@ -1529,6 +1506,30 @@
         <icon src="https://images.mdn.ors.at/4704501284457002532"/>
         <country>Vereinigtes Königreich</country>
         <episode-num system="onscreen">S1 E3</episode-num>
+    </programme>
+
+    <programme start="20250616011000 +0000" stop="20250616015000 +0000" channel="ServusTV">
+        <title lang="de">Aufgedeckt - Rätsel der Geschichte</title>
+        <sub-title lang="de">Das Geheimnis der Pyramidenstadt</sub-title>
+        <desc lang="de">Vor über 1000 Jahren erbaut, nach 400 Jahren aber schon wieder verschwunden: Cahokia, die Metropole im Herzen von Nordamerika.&lt;br /&gt;&lt;br /&gt;Die Doku-Reihe widmet sich der Lösung zahlreicher archäologischer Rätsel der Menschheitsgeschichte und kommt mit moderner Forensik und ausgefeilten wissenschaftlichen Methoden der Enthüllung uralter Geheimisse ein Stück näher.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Mark Bazeley</actor>
+            <actor> Joseph May</actor>
+            <actor> Corey Johnson</actor>
+        </credits>
+        <date>2014</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/5471146553866528977"/>
+        <country>Kanada</country>
+    </programme>
+
+    <programme start="20250616015000 +0000" stop="20250616023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
