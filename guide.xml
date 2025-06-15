@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-15 00:58:28.091038 -->
+<!-- created on 2025-06-15 02:53:06.199352 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250615005000 +0000" stop="20250615014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250615014000 +0000" stop="20250615023000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250615023000 +0000" stop="20250615030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -578,22 +560,24 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250615005000 +0000" stop="20250615024000 +0000" channel="ServusTV">
-        <title lang="de">Highlander - Es kann nur einen geben</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Russel Nash lebt als Antiquitätenexperte in New York. Schwierigkeiten mit der Polizei kriegt er, als er einen Mann tötet. Die Waffenexpertin Brenda Wyatt rückt ihm zu Leibe, sie hat historische Ungereimtheiten an seiner Waffe entdeckt. Kein Wunder, Russel alias Connor, ist 500 Jahre alt und unsterblich. Er ist ein Highlander. Mit mächtigen Feinden.&lt;br /&gt;Christopher Lambert in seiner berühmtesten Rolle.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Christopher Lambert</actor>
-            <actor> Sean Connery</actor>
-            <actor> Clancy Brown</actor>
-            <actor> Roxanne Hart</actor>
-            <actor> Beatie Edney; [B]Regie[/B]: Russell Mulcahy; [B]Drehbuch[/B]:  Gregory Widen</actor>
-            <actor> Peter Bellwood</actor>
-            <actor> Larry Ferguson</actor>
-        </credits>
-        <date>1986</date>
-        <category lang="de">Action</category>
-        <icon src="https://images.mdn.ors.at/1580310787469401622"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    <programme start="20250617014500 +0000" stop="20250617023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250617023500 +0000" stop="20250617030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">17.06.2025 04:35.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250615024000 +0000" stop="20250615031000 +0000" channel="ServusTV">
@@ -1471,6 +1455,42 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/5481064051282613068"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250617010500 +0000" stop="20250617015000 +0000" channel="ServusTV">
+        <title lang="de">Höhlenwelten</title>
+        <sub-title lang="de">Gibraltar - Die Höhle der Medusa</sub-title>
+        <desc lang="de">Im Mittelmeerraum befindet sich ein gewaltiges Meereshöhlenlabyrinth mit winzigen Durchgängen – und einem 2.000 Jahre alten Rätsel.&lt;br /&gt;An der Südspitze der iberischen Halbinsel befindet sich ein knapp sieben Quadratkilometer großes Territorium: Gibraltar, ein britisches Überseegebiet, berühmt für seinen Felsen. Ein Kalksteinmonolith, der 300 Meter über einer der meistbefahrenen Schifffahrtsstraßen der Welt in die Höhe ragt. Die Lage an der Wasserscheide zwischen Mittelmeer und Atlantik hat Gibraltar schon immer große Bedeutung verliehen. Ein strategisch günstiger Militärstützpunkt, an dem die Menschheit seit jeher ihre Spuren hinterlassen hat - zwischen zwei Ozeanen und zwei Kontinenten. Das Gestein mag solide aussehen, doch es ist von unzähligen Höhlen und künstlichen Gängen durchzogen. Zudem befindet sich hier ein UNESCO-Welterbe mit außergewöhnlichen Artefakten aus der Urgeschichte der Menschheit. Um die Geheimnisse Gibraltars zu lüften, haben die heimischen Wissenschaftler Roo Walters zu Hilfe gerufen – Walters ist einer der weltweit renommiertesten Höhlenforscher.&lt;br /&gt;&lt;br /&gt;Unter der Erdoberfläche liegt ein gewaltiges Reich: Unzählige Höhlen, verborgene Tunnel, unterirdische Flüsse. Immer mehr Höhlenforscher steigen in mysteriöse Abgründe, wo erstaunliche Geheimnisse schlummern.</desc>
+        <credits>
+            <actor>[B]Produzent[/B]: Sophie Elwin Harris</actor>
+            <actor> Rob Myler; [B]Kamera[/B]: Rob Franklin; [B]Editor[/B]: Tim Trussler</actor>
+            <actor> Dominic Stabb</actor>
+            <actor> Becky Way; [B]Regie[/B]: Sophie Stephenson-Wright</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/10606307585711843143"/>
+        <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250617015000 +0000" stop="20250617023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250617023500 +0000" stop="20250617032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">17.06.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
