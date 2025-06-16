@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-16 00:55:03.886384 -->
+<!-- created on 2025-06-16 02:45:24.543609 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,34 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250616005000 +0000" stop="20250616013500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Komplott</sub-title>
-        <desc lang="de">Als der 25-jährige, kognitiv beeinträchtigte Christopher Grey aus Vermont von der Arbeit nicht nach Hause kommt, ruft sein Vormund Annie Crowley die Polizei. Die Suche nach dem vermissten Mann bleibt ohne Erfolg. Ob die Überwachungsvideos der Walmart-Filiale, in der Christopher Grey arbeitet, die entscheidenden Hinweise liefern können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/6601627325340659052"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E18</episode-num>
-    </programme>
-
-    <programme start="20250616013500 +0000" stop="20250616022000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Lottolose</sub-title>
-        <desc lang="de">Im März 2014 wurde in Dalton, Georgia, der Supermarktangestellte Dahyabhai Kalidas Chaudhari an seinem Arbeitsplatz erstochen. Die Polizei musste auf die Aufnahmen der Überwachungskameras im Markt und darum herum bauen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/5752261991699386412"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E15</episode-num>
-    </programme>
 
     <programme start="20250616022000 +0000" stop="20250616024500 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -576,42 +548,26 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250616002500 +0000" stop="20250616011000 +0000" channel="ServusTV">
-        <title lang="de">Spektakuläre Erde</title>
-        <sub-title lang="de">Vulkane</sub-title>
-        <desc lang="de">Von magisch aufflammenden Polarlichtern bis hin zu gewaltigen Vulkaneruptionen: Um diese einzigartigen Momente mitzuerleben, muss man nicht nur zur richtigen Zeit am richtigen Ort sein, sondern auch einige der extremsten Regionen unseres Planeten aufsuchen.&lt;br /&gt;&lt;br /&gt;Bahnbrechende Erkenntnisse und bahnbrechende Filmtechniken machen es möglich, einigen der schönsten Naturphänomene der Welt spannend nahe zu kommen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Kwame Augustine; [B]Regie[/B]: Ben Wilson</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/4704501284457002532"/>
-        <country>Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S1 E3</episode-num>
+    <programme start="20250618014500 +0000" stop="20250618023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250616011000 +0000" stop="20250616015000 +0000" channel="ServusTV">
-        <title lang="de">Aufgedeckt - Rätsel der Geschichte</title>
-        <sub-title lang="de">Das Geheimnis der Pyramidenstadt</sub-title>
-        <desc lang="de">Vor über 1000 Jahren erbaut, nach 400 Jahren aber schon wieder verschwunden: Cahokia, die Metropole im Herzen von Nordamerika.&lt;br /&gt;&lt;br /&gt;Die Doku-Reihe widmet sich der Lösung zahlreicher archäologischer Rätsel der Menschheitsgeschichte und kommt mit moderner Forensik und ausgefeilten wissenschaftlichen Methoden der Enthüllung uralter Geheimisse ein Stück näher.</desc>
+    <programme start="20250618023500 +0000" stop="20250618025000 +0000" channel="PULS24">
+        <title lang="de">Adiweiss.TV</title>
+        <sub-title lang="de">18.06.2025 04:35.</sub-title>
+        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Mark Bazeley</actor>
-            <actor> Joseph May</actor>
-            <actor> Corey Johnson</actor>
+            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
         </credits>
-        <date>2014</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/5471146553866528977"/>
-        <country>Kanada</country>
-    </programme>
-
-    <programme start="20250616015000 +0000" stop="20250616023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+        <date>2025</date>
+        <category lang="de">Mode</category>
+        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250616023500 +0000" stop="20250616032500 +0000" channel="ServusTV">
@@ -1496,6 +1452,26 @@
         <icon src="https://images.mdn.ors.at/10968328694136106518"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E182</episode-num>
+    </programme>
+
+    <programme start="20250618012000 +0000" stop="20250618023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250618023500 +0000" stop="20250618032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">18.06.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
