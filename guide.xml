@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-17 00:53:03.036851 -->
+<!-- created on 2025-06-17 02:39:11.554178 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250617005000 +0000" stop="20250617014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250617014000 +0000" stop="20250617023000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250617023000 +0000" stop="20250617030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -555,38 +537,24 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250617001000 +0000" stop="20250617010000 +0000" channel="ServusTV">
-        <title lang="de">3000 Meilen durch die USA - Lukas Kaufmann und das Race Across America</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Das RACE ACROSS AMERICA gilt als das härteste Radrennen der Welt. 2024 stellt sich der Oberösterreicher Lukas Kaufmann erstmals dieser Herausforderung. Das Ziel: Die die knapp 5.000 km von der US-West- an die Ostküste in unter 9 Tagen bewältigen. Der Weg dorthin führt durch 11 US-Bundesstaaten, sowie mehrere Zeit-und Klimazonen. „3000 Meilen durch die USA – Lukas Kaufmann und das Race Across America“ gibt dabei einen Blick in die Welt dieser Extremsportler, der sonst verborgen bleibt.</desc>
+    <programme start="20250619014500 +0000" stop="20250619023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
         <date>2024</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/5481064051282613068"/>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250617010000 +0000" stop="20250617015000 +0000" channel="ServusTV">
-        <title lang="de">Höhlenwelten</title>
-        <sub-title lang="de">Gibraltar - Die Höhle der Medusa</sub-title>
-        <desc lang="de">Im Mittelmeerraum befindet sich ein gewaltiges Meereshöhlenlabyrinth mit winzigen Durchgängen – und einem 2.000 Jahre alten Rätsel.&lt;br /&gt;An der Südspitze der iberischen Halbinsel befindet sich ein knapp sieben Quadratkilometer großes Territorium: Gibraltar, ein britisches Überseegebiet, berühmt für seinen Felsen. Ein Kalksteinmonolith, der 300 Meter über einer der meistbefahrenen Schifffahrtsstraßen der Welt in die Höhe ragt. Die Lage an der Wasserscheide zwischen Mittelmeer und Atlantik hat Gibraltar schon immer große Bedeutung verliehen. Ein strategisch günstiger Militärstützpunkt, an dem die Menschheit seit jeher ihre Spuren hinterlassen hat - zwischen zwei Ozeanen und zwei Kontinenten. Das Gestein mag solide aussehen, doch es ist von unzähligen Höhlen und künstlichen Gängen durchzogen. Zudem befindet sich hier ein UNESCO-Welterbe mit außergewöhnlichen Artefakten aus der Urgeschichte der Menschheit. Um die Geheimnisse Gibraltars zu lüften, haben die heimischen Wissenschaftler Roo Walters zu Hilfe gerufen – Walters ist einer der weltweit renommiertesten Höhlenforscher.&lt;br /&gt;&lt;br /&gt;Unter der Erdoberfläche liegt ein gewaltiges Reich: Unzählige Höhlen, verborgene Tunnel, unterirdische Flüsse. Immer mehr Höhlenforscher steigen in mysteriöse Abgründe, wo erstaunliche Geheimnisse schlummern.</desc>
-        <credits>
-            <actor>[B]Produzent[/B]: Sophie Elwin Harris</actor>
-            <actor> Rob Myler; [B]Kamera[/B]: Rob Franklin; [B]Editor[/B]: Tim Trussler</actor>
-            <actor> Dominic Stabb</actor>
-            <actor> Becky Way; [B]Regie[/B]: Sophie Stephenson-Wright</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/10606307585711843143"/>
-        <country>Vereinigtes Königreich</country>
-    </programme>
-
-    <programme start="20250617015000 +0000" stop="20250617023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250619023500 +0000" stop="20250619024500 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">19.06.2025 04:35.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250617023500 +0000" stop="20250617032500 +0000" channel="ServusTV">
@@ -1513,6 +1481,37 @@
         <category lang="de">Abenteuer</category>
         <icon src="https://images.mdn.ors.at/12776343823053838010"/>
         <country>Vereinigte Staaten, Hongkong, Island, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250619005500 +0000" stop="20250619014000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Kraft des Wassers - Erst Bach, dann reißender Strom</sub-title>
+        <desc lang="de">Diesmal bei P.M. Wissen: Warum kommt es zu Hochwasser und was können wir dagegen tun? // Wie wird Island wieder bewaldet? // Was verraten Wolken über Wetter? // Was sagt ein Jahrtausende alter Speer über die Intelligenz unserer Vorfahren? // Was passiert im Körper bei Doping? // Wie hilft ein Haarzopf bei Ölkatastrophen? // Wie wurde die bruchsichere Windschutzscheibe erfunden?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2022</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E148</episode-num>
+    </programme>
+
+    <programme start="20250619014000 +0000" stop="20250619023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250619023500 +0000" stop="20250619032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">19.06.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
