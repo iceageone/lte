@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-19 00:53:09.267859 -->
+<!-- created on 2025-06-19 02:30:38.569819 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250619005000 +0000" stop="20250619014000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250619014000 +0000" stop="20250619023000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -607,38 +598,27 @@
         <episode-num system="onscreen">S8 E18</episode-num>
     </programme>
 
-    <programme start="20250618233000 +0000" stop="20250619005500 +0000" channel="ServusTV">
-        <title lang="de">Die Farbe des Horizonts</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Auf Tahiti lernt die lebenslustige Tami den erfahrenen Segler Richard kennen. Bis über beide Ohren verliebt entschließen die beiden, gemeinsam in See zu stechen. Doch mitten auf dem Pazifik geraten sie in einen gewaltigen Hurrikan.</desc>
+    <programme start="20250621010000 +0000" stop="20250621014500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Der letzte Anruf</sub-title>
+        <desc lang="de">Am 24. Dezember 2010 verschwand in Houston, Texas, der zwölfjährige Jonathan Paul Foster. Der Junge lebte mit seiner Mutter Angela Davis und deren Freundin zusammen. Vier Tage nach seinem Verschwinden wurde sein Leichnam gefunden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Shailene Woodley</actor>
-            <actor> Sam Claflin</actor>
-            <actor> Jeffrey Thomas</actor>
-            <actor> Elizabeth Hawthorne</actor>
-            <actor> Grace Palmer</actor>
-            <actor> Marisiale Tunoka</actor>
-            <actor> Tami Ashcraft</actor>
-            <actor> Siale Tunoka</actor>
-            <actor> Kael Damlamian</actor>
-            <actor> Lei-Ming Caine; [B]Regie[/B]: Baltasar Kormákur; [B]Drehbuch[/B]: Aaron Kandell</actor>
-            <actor>  Jordan Kandell</actor>
-            <actor> David Branson Smith</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
         </credits>
-        <date>2018</date>
-        <category lang="de">Abenteuer</category>
-        <icon src="https://images.mdn.ors.at/12776343823053838010"/>
-        <country>Vereinigte Staaten, Hongkong, Island, Vereinigtes Königreich</country>
+        <date>2022</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/6601627325340659052"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S8 E20</episode-num>
     </programme>
 
-    <programme start="20250619005500 +0000" stop="20250619014500 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Kraft des Wassers - Erst Bach, dann reißender Strom</sub-title>
-        <desc lang="de">Diesmal bei P.M. Wissen: Warum kommt es zu Hochwasser und was können wir dagegen tun? // Wie wird Island wieder bewaldet? // Was verraten Wolken über Wetter? // Was sagt ein Jahrtausende alter Speer über die Intelligenz unserer Vorfahren? // Was passiert im Körper bei Doping? // Wie hilft ein Haarzopf bei Ölkatastrophen? // Wie wurde die bruchsichere Windschutzscheibe erfunden?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2022</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+    <programme start="20250621014500 +0000" stop="20250621023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S1 E148</episode-num>
     </programme>
 
     <programme start="20250619014500 +0000" stop="20250619023500 +0000" channel="ServusTV">
@@ -1608,6 +1588,67 @@
         <category lang="de">Wissensmagazin</category>
         <icon src="https://images.mdn.ors.at/13155520612060613828"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250621011500 +0000" stop="20250621015500 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Die Theorien von Linda Moulton Howe</sub-title>
+        <desc lang="de">Die US-amerikanische Investigativjournalistin und UFO-Forscherin Linda Moulton Howe hat einige der rätselhaftesten Phänomene der Erde untersucht. Könnten diese Phänomene Teile eines größeren Puzzles sein, das eine bisher ungeahnte Realität offenbart?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> William Henry</actor>
+            <actor> Jonathan Young</actor>
+            <actor> Erich von Däniken</actor>
+            <actor> Jason Martell</actor>
+            <actor> Andrew Collins</actor>
+            <actor> Nick Pope</actor>
+            <actor> Colgate Salsbury</actor>
+            <actor> Giorgio Tsoukalos</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> David Wilcock</actor>
+            <actor> George Noory</actor>
+            <actor> Michio Kaku; [B]ErzählerIn[/B]: Robert Clotworthy</actor>
+            <actor>  Simon Allix; [B]Regie[/B]: Jon A. Levy</actor>
+            <actor> Keith Guinto</actor>
+            <actor> Robin Feinberg</actor>
+            <actor> Mitch Marcus</actor>
+            <actor> William Martens</actor>
+            <actor> Jonathan Haug</actor>
+            <actor> Phil Grabsky</actor>
+            <actor> Kevin Burns; [B]Produzent[/B]: Mary Ellen Iwata</actor>
+            <actor> Taurence Armstrong; [B]Editor[/B]:  Margaret Moore</actor>
+            <actor> Damon Brewster</actor>
+            <actor> Jennifer Lehman; [B]Drehbuch[/B]:  Max Thompson</actor>
+            <actor>  Kristina Djokic</actor>
+            <actor> Erik Pinkston; [B]Kamera[/B]: Dan Marks</actor>
+            <actor> Colin Bressler</actor>
+            <actor> Ross Conklin</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/10954434541786316274"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250621015500 +0000" stop="20250621022500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250621022500 +0000" stop="20250621031500 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Heizung für Bienen // KI gegen Ertrinken // Physik des Golfballs</sub-title>
+        <desc lang="de">Themen diesmal: Wie retten wir die Störe? // Wie wäre die Welt ohne Sand? // Wie können Bäume die Landwirtschaft retten? // Warum hat der Golfball Dellen? // Was verdanken unsere PCs dem „Manchester Baby“? // Wie schützt Künstliche Intelligenz Kinder vor Ertrinken? // Wie passen sich Korallen dem Klimawandel an? // Wie kann Wärme Bienen schützen? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/10968328694136106518"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E182</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
