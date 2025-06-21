@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-21 00:51:57.378203 -->
+<!-- created on 2025-06-21 02:26:28.231582 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,34 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250621001000 +0000" stop="20250621010000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Komplott</sub-title>
-        <desc lang="de">Als der 25-jährige, kognitiv beeinträchtigte Christopher Grey aus Vermont von der Arbeit nicht nach Hause kommt, ruft sein Vormund Annie Crowley die Polizei. Die Suche nach dem vermissten Mann bleibt ohne Erfolg. Ob die Überwachungsvideos der Walmart-Filiale, in der Christopher Grey arbeitet, die entscheidenden Hinweise liefern können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/6601627325340659052"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E18</episode-num>
-    </programme>
-
-    <programme start="20250621010000 +0000" stop="20250621014500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der letzte Anruf</sub-title>
-        <desc lang="de">Am 24. Dezember 2010 verschwand in Houston, Texas, der zwölfjährige Jonathan Paul Foster. Der Junge lebte mit seiner Mutter Angela Davis und deren Freundin zusammen. Vier Tage nach seinem Verschwinden wurde sein Leichnam gefunden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/6601627325340659052"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E20</episode-num>
-    </programme>
 
     <programme start="20250621014500 +0000" stop="20250621023500 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -550,64 +522,26 @@
         <episode-num system="onscreen">S4 E3</episode-num>
     </programme>
 
-    <programme start="20250621002500 +0000" stop="20250621011500 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Hell macht bunt - Der Einfluss von Licht auf Farben</sub-title>
-        <desc lang="de">Themen der Sendung: Was lebt in unseren Böden? // Wie füllen die Alpen unsere Grundwasserspeicher? // Welche Rolle spielt Physik beim Skateboarden? // Wie wurden Cornflakes erfunden? // Wie intelligent sind Mantarochen? // Wie funktioniert Brandbekämpfung mit Daten? // Wie hat Feuer die Menschheit verändert? // Wie wirkt Licht auf Farben? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2022</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/13155520612060613828"/>
+    <programme start="20250623012500 +0000" stop="20250623022000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250621011500 +0000" stop="20250621015500 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Die Theorien von Linda Moulton Howe</sub-title>
-        <desc lang="de">Die US-amerikanische Investigativjournalistin und UFO-Forscherin Linda Moulton Howe hat einige der rätselhaftesten Phänomene der Erde untersucht. Könnten diese Phänomene Teile eines größeren Puzzles sein, das eine bisher ungeahnte Realität offenbart?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+    <programme start="20250623022000 +0000" stop="20250623023000 +0000" channel="PULS24">
+        <title lang="de">Adiweiss.TV</title>
+        <sub-title lang="de">23.06.2025 04:20.</sub-title>
+        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress</actor>
-            <actor> William Henry</actor>
-            <actor> Jonathan Young</actor>
-            <actor> Erich von Däniken</actor>
-            <actor> Jason Martell</actor>
-            <actor> Andrew Collins</actor>
-            <actor> Nick Pope</actor>
-            <actor> Colgate Salsbury</actor>
-            <actor> Giorgio Tsoukalos</actor>
-            <actor> Linda Moulton Howe</actor>
-            <actor> David Wilcock</actor>
-            <actor> George Noory</actor>
-            <actor> Michio Kaku; [B]ErzählerIn[/B]:  Simon Allix</actor>
-            <actor> Robert Clotworthy; [B]Regie[/B]: Jon A. Levy</actor>
-            <actor> Keith Guinto</actor>
-            <actor> Robin Feinberg</actor>
-            <actor> Mitch Marcus</actor>
-            <actor> William Martens</actor>
-            <actor> Jonathan Haug</actor>
-            <actor> Phil Grabsky</actor>
-            <actor> Kevin Burns; [B]Produzent[/B]: Mary Ellen Iwata</actor>
-            <actor> Taurence Armstrong; [B]Editor[/B]: Jennifer Lehman</actor>
-            <actor> Damon Brewster</actor>
-            <actor>  Margaret Moore; [B]Kamera[/B]: Ross Conklin</actor>
-            <actor> Colin Bressler</actor>
-            <actor> Dan Marks; [B]Drehbuch[/B]: Erik Pinkston</actor>
-            <actor>  Kristina Djokic</actor>
-            <actor>  Max Thompson</actor>
+            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
         </credits>
-        <date>2024</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/10954434541786316274"/>
-        <country>Vereinigte Staaten</country>
-    </programme>
-
-    <programme start="20250621015500 +0000" stop="20250621022500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+        <date>2025</date>
+        <category lang="de">Mode</category>
+        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250621022500 +0000" stop="20250621031500 +0000" channel="ServusTV">
@@ -1470,6 +1404,15 @@
         <icon src="https://images.mdn.ors.at/6498329678113492886"/>
         <country>Vereinigtes Königreich</country>
         <episode-num system="onscreen">S1 E2</episode-num>
+    </programme>
+
+    <programme start="20250623013000 +0000" stop="20250623023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
