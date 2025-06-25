@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-25 00:53:59.032929 -->
+<!-- created on 2025-06-25 02:40:59.836430 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250625004500 +0000" stop="20250625013500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250625013500 +0000" stop="20250625023000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250625023000 +0000" stop="20250625030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -580,31 +562,26 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250624234500 +0000" stop="20250625013500 +0000" channel="ServusTV">
-        <title lang="de">Rivalen unter roter Sonne</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ein Samurai muss im Westen unfreiwillig mit Pistolero Link zusammenspannen. Beide haben sie eine Rechnung mit Bösewicht Gauche offen und versuchen deshalb, über eine Prostituierte an den Kerl heranzukommen. Western mit Charles Bronson, Alain Delon und Ursula Andress, die im März 89 Jahre alt wird.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Charles Bronson</actor>
-            <actor> Toshiro Mifune</actor>
-            <actor> Alain Delon</actor>
-            <actor> Ursula Andress</actor>
-            <actor> Barta Barri; [B]Regie[/B]: Terence Young; [B]Drehbuch[/B]:  Laird Koenig</actor>
-            <actor> Denne Bart Petitclerc</actor>
-            <actor> William Roberts</actor>
-        </credits>
-        <date>1971</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/8281604516230503839"/>
-        <country>Frankreich, Italien, Spanien, Vereinigte Staaten</country>
+    <programme start="20250627014000 +0000" stop="20250627023500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250625013500 +0000" stop="20250625023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250627023500 +0000" stop="20250627030000 +0000" channel="PULS24">
+        <title lang="de">Adiweiss.TV</title>
+        <sub-title lang="de">27.06.2025 04:35.</sub-title>
+        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Mode</category>
+        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250625023500 +0000" stop="20250625032500 +0000" channel="ServusTV">
@@ -1534,6 +1511,36 @@
         <category lang="de">Natur</category>
         <icon src="https://images.mdn.ors.at/5567501732454240920"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250627011500 +0000" stop="20250627020000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Jeans-Wunder // Schwimmende Solarparks // Kampf gegen Mondstaub</sub-title>
+        <desc lang="de">"P.M. Wissen" erklärt Phänomene des Alltags, schaut in Labore und Werkstätten und zeigt, wo und wie gerade Zukunft entsteht. Gemeinsam mit Astro-Physiker Gernot Grömer begibt sich das Team von "P.M. Wissen" jede Woche auf eine Reise zu Ideen, die vor kurzem noch Science-Fiction waren.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250627020000 +0000" stop="20250627023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250627023500 +0000" stop="20250627032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">27.06.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
