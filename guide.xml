@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-27 00:54:04.607767 -->
+<!-- created on 2025-06-27 02:40:48.115429 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250627005000 +0000" stop="20250627014500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250627014500 +0000" stop="20250627023500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250627023500 +0000" stop="20250627030000 +0000" channel="PULS24">
         <title lang="de">Adiweiss.TV</title>
@@ -560,43 +542,24 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250627003000 +0000" stop="20250627011500 +0000" channel="ServusTV">
-        <title lang="de">Unsere Kontinente</title>
-        <sub-title lang="de">Nordamerika</sub-title>
-        <desc lang="de">Nordamerika – ein Kontinent zwischen Eis im Norden und Feuer im Süden. Seine Kultur und Geschichte werden von einem schieren Reichtum an natürlichen Ressourcen und einer idealen natürlichen Infrastruktur geprägt. Diese Konstellation ermöglichte es ihrem Zentrum, den USA, an die Weltspitze aufzusteigen und die Kulturen aller anderen Kontinente zu prägen.&lt;br /&gt;&lt;br /&gt;Die Kontinente ordnen die Welt und stehen für die Vielfalt von Natur und Kultur auf dem Planeten. Sie prägen das Leben der Menschen, auf jedem Erdteil unterschiedlich. Überraschende Erkenntnisse aus Geschichte, Wissenschaft und Alltag werden zu einer filmischen Enzyklopädie gebündelt. In der globalen Gesamtschau liefert der Sechsteiler die Antwort auf die Frage, wie die Welt wurde, wie sie ist.</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Sigrun Laste</actor>
-            <actor> Friederike Schmidt-Vogt</actor>
-            <actor> Susanne Rostosky; [B]Produzent[/B]:  Jens Afflerbach</actor>
-            <actor> Phil Claroni</actor>
-            <actor> Elena Lehmann; [B]Drehbuch[/B]: Rudolph Herzog</actor>
-            <actor> Arne Peisker; [B]Kamera[/B]: Arsenij Gusev</actor>
-            <actor> Paul Salter</actor>
-            <actor> Tim Archibald; [B]Editor[/B]: Holger Finck</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/5567501732454240920"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20250627011500 +0000" stop="20250627015500 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">u.a. Jeans-Wunder // Schwimmende Solarparks // Kampf gegen Mondstaub</sub-title>
-        <desc lang="de">"P.M. Wissen" erklärt Phänomene des Alltags, schaut in Labore und Werkstätten und zeigt, wo und wie gerade Zukunft entsteht. Gemeinsam mit Astro-Physiker Gernot Grömer begibt sich das Team von "P.M. Wissen" jede Woche auf eine Reise zu Ideen, die vor kurzem noch Science-Fiction waren.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+    <programme start="20250629013000 +0000" stop="20250629022000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250627015500 +0000" stop="20250627023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250629022000 +0000" stop="20250629024500 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">29.06.2025 04:20.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250627023500 +0000" stop="20250627032500 +0000" channel="ServusTV">
@@ -1583,6 +1546,25 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/10963717633244849520"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250629014500 +0000" stop="20250629032500 +0000" channel="ServusTV">
+        <title lang="de">The Drop - Bargeld</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Packendes Gangster-Drama nach einer Kurzgeschichte von Dennis Lehane: Der Barkeeper Bob Saginowski führt ein sehr normales und fast schon langweiliges Leben. Erst als er einen Hundewelpen findet und dabei auf Nadia und ihren Ex-Freund trifft, wird sein Leben spannend, denn plötzlich findet er sich inmitten von Gangstern wieder, die für Geld alles tun würden. Was steckt dahinter und inwieweit sind Menschen in die Verbrechen verstrickt, die ihnen sogar sehr nahe stehen?</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Tom Hardy</actor>
+            <actor> Noomi Rapace</actor>
+            <actor> James Gandolfini</actor>
+            <actor> Matthias Schoenaerts</actor>
+            <actor> John Ortiz</actor>
+            <actor> Elizabeth Rodriguez</actor>
+            <actor> Michael Aronov</actor>
+            <actor> Morgan Spector; [B]Regie[/B]: Michael R. Roskam; [B]Drehbuch[/B]: Dennis Lehane</actor>
+        </credits>
+        <date>2014</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/2392452053900774552"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
