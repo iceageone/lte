@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-06-28 00:51:42.095065 -->
+<!-- created on 2025-06-28 02:27:09.059498 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,34 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250628001000 +0000" stop="20250628005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Tote im Koffer</sub-title>
-        <desc lang="de">Als der Leichnam der 29-Jährigen Summer Baldwin auf einer texanischen Mülldeponie gefunden wird, müssen die Ermittler auf den einzigen Zeugen zurückgreifen: eine Videokamera. Was sie auf den Aufnahmen entdecken ist erschreckend ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/12074324541572789196"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S3 E2</episode-num>
-    </programme>
-
-    <programme start="20250628005500 +0000" stop="20250628014000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Auf offener Straße entführt</sub-title>
-        <desc lang="de">Carlesha wollte nur nach Hause, als sie von einem Unbekannten entführt wird. Um sie schnellstmöglich zu finden, greift die Polizei zu einem vertrauten Hilfsmittel - Überwachungskameras.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/10095969871199701337"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S3 E1</episode-num>
-    </programme>
 
     <programme start="20250628014000 +0000" stop="20250628023000 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -590,22 +562,53 @@
         <episode-num system="onscreen">S3 E4</episode-num>
     </programme>
 
-    <programme start="20250628004000 +0000" stop="20250628014000 +0000" channel="ServusTV">
-        <title lang="de">Mnozil Brass - Der Film</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Österreichs beste Blasmusik-Band Mnozil Brass ist einzigartig. Musik ist ihr Lebenselixier, der spezielle Humor hält sie zusammen - nicht ohne Grund wird die weltweit erfolgreiche Band immer wieder als die „Monty Pythons der Blasmusik“ beschrieben. Das 30-jährige Bandjubiläum bietet einen würdigen Anlass, den weltweit erfolgreichen Musikern mit „Mnozil Brass – Der Film“ ein filmisches, ein klein wenig schräg sitzendes Denkmal zu errichten.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/17205247062004252196"/>
+    <programme start="20250630011500 +0000" stop="20250630020000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Der Mörder mit dem roten Roller</sub-title>
+        <desc lang="de">Im März 2011 wird die 32-jährige Patty Ayala tot im Geschäftsbüro einer Burger King-Filiale aufgefunden. Dort konnte der Safe mit ihrer Kombination geknackt und eine vierstellige Summe entwendet werden. Doch ein bloßer Raubmord scheint diese Tat nicht zu sein: neben der Leiche wird eine kryptische Nachricht entdeckt, die den Ermittlern Rätsel aufgibt ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/10181914371083775276"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S3 E5</episode-num>
+    </programme>
+
+    <programme start="20250630020000 +0000" stop="20250630021000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">30.06.2025 04:00.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250630021000 +0000" stop="20250630022500 +0000" channel="PULS24">
+        <title lang="de">Adiweiss.TV</title>
+        <sub-title lang="de">30.06.2025 04:10.</sub-title>
+        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Mode</category>
+        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250628014000 +0000" stop="20250628022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250630022500 +0000" stop="20250630025000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">30.06.2025 04:25.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250628022000 +0000" stop="20250628030500 +0000" channel="ServusTV">
@@ -1546,6 +1549,35 @@
         <category lang="de">Rally</category>
         <icon src="https://images.mdn.ors.at/15231857690309743180"/>
         <country>Griechenland</country>
+    </programme>
+
+    <programme start="20250630010500 +0000" stop="20250630020500 +0000" channel="ServusTV">
+        <title lang="de">Motorsport - Fia World Rally Championship</title>
+        <sub-title lang="de">EKO Acropolis Rally Greece: Powerstage</sub-title>
+        <desc lang="de">Die Strecken sind glatter als früher, stellen aber immer noch hohe Anforderungen an Reifen und Autos. Der harte Untergrund und die hohen Temperaturen erfordern ein sorgfältiges Management von Reifen und Fahrzeugen. Besonders schwierig sind die Bedingungen auf wiederholten Etappen, wenn Felsen und Gestein, die beim ersten Durchgang freigelegt wurden, besonders schädlich sein können.&lt;br /&gt;&lt;br /&gt;Übertragung des Programms - FIA World Rally Championship.</desc>
+        <date>2025</date>
+        <category lang="de">Rally</category>
+        <icon src="https://images.mdn.ors.at/15231857690309743180"/>
+        <country>Griechenland</country>
+    </programme>
+
+    <programme start="20250630020500 +0000" stop="20250630021500 +0000" channel="ServusTV">
+        <title lang="de">Motorsport - Fia World Rally Championship</title>
+        <sub-title lang="de">EKO Acropolis Rally Greece: Nachbericht</sub-title>
+        <desc lang="de">Die Strecken sind glatter als früher, stellen aber immer noch hohe Anforderungen an Reifen und Autos. Der harte Untergrund und die hohen Temperaturen erfordern ein sorgfältiges Management von Reifen und Fahrzeugen. Besonders schwierig sind die Bedingungen auf wiederholten Etappen, wenn Felsen und Gestein, die beim ersten Durchgang freigelegt wurden, besonders schädlich sein können.&lt;br /&gt;&lt;br /&gt;Übertragung des Programms - FIA World Rally Championship.</desc>
+        <date>2025</date>
+        <category lang="de">Rally</category>
+        <icon src="https://images.mdn.ors.at/15231857690309743180"/>
+        <country>Griechenland</country>
+    </programme>
+
+    <programme start="20250630021500 +0000" stop="20250630023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
