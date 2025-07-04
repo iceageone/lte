@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-04 00:53:09.438000 -->
+<!-- created on 2025-07-04 02:39:35.095174 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,39 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250704002000 +0000" stop="20250704010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Mörder mit dem roten Roller</sub-title>
-        <desc lang="de">Im März 2011 wird die 32-jährige Patty Ayala tot im Geschäftsbüro einer Burger King-Filiale aufgefunden. Dort konnte der Safe mit ihrer Kombination geknackt und eine vierstellige Summe entwendet werden. Doch ein bloßer Raubmord scheint diese Tat nicht zu sein: neben der Leiche wird eine kryptische Nachricht entdeckt, die den Ermittlern Rätsel aufgibt ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/10181914371083775276"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S3 E5</episode-num>
-    </programme>
-
-    <programme start="20250704010500 +0000" stop="20250704014500 +0000" channel="PULS24">
-        <title lang="de">Witness to Murder - Digitale Zeugen</title>
-        <sub-title lang="de">Zweifelhaftes Alibi</sub-title>
-        <desc lang="de">Die 24-jährige Sydney Sutherland verschwindet während einer Jogging-Runde auf einer einsamen Straße in der Einöde von Arkansas. Digitale Forensiker versuchen, Daten aus ihrem Handy und ihrer Smart Watch zu erhalten. Einer der Suchhelfer verhält sich verdächtig, und die Beamten entdecken auf seinem Handy verstörendes Material.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/16686535975244104552"/>
-        <country>Vereinigte Staaten</country>
-    </programme>
-
-    <programme start="20250704014500 +0000" stop="20250704023500 +0000" channel="PULS24">
-        <title lang="de">Polizisten &amp; Tuner</title>
-        <desc lang="de">Die Beamten ziehen zwei junge Männer aus dem Verkehr, die durch gefährliche Fahrmanöver aufgefallen sind. Als sie die beiden Autos genauer unter die Lupe nehmen, kommt es zu einem ungeahnten Zwischenfall. Außerdem begleitet ATV die junge Tunerin Sofie beim Aussuchen neuer Teile für ihren BMW. Und ein Essenszusteller gerät in Erklärungsnot, als er sich einer polizeilichen Kontrolle unterziehen muss.&lt;br /&gt;&lt;br /&gt;ATV gewährt Einblick in die tägliche Arbeit der Verkehrspolizei und beleuchtet zudem spannende Geschichten aus der Tuning-Szene.</desc>
-        <date>2020</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/12921793473742905700"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250704023500 +0000" stop="20250704030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -535,71 +502,22 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250704002000 +0000" stop="20250704010500 +0000" channel="ServusTV">
-        <title lang="de">Unsere Kontinente</title>
-        <sub-title lang="de">Südamerika</sub-title>
-        <desc lang="de">Südamerikas Natur hat sich in Jahrmillionen der Isolation entwickelt. Immer wieder sind es natürliche Faktoren, die über die Zeit die Natur und Kultur dieses Kontinents prägen und umgestalten. Die Dokumentation unternimmt eine faszinierende Reise zu den Ursprüngen Südamerikas.&lt;br /&gt;&lt;br /&gt;Die Kontinente ordnen die Welt und stehen für die Vielfalt von Natur und Kultur auf dem Planeten. Sie prägen das Leben der Menschen, auf jedem Erdteil unterschiedlich. Überraschende Erkenntnisse aus Geschichte, Wissenschaft und Alltag werden zu einer filmischen Enzyklopädie gebündelt. In der globalen Gesamtschau liefert der Sechsteiler die Antwort auf die Frage, wie die Welt wurde, wie sie ist.</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Sigrun Laste</actor>
-            <actor> Friederike Schmidt-Vogt; [B]Kamera[/B]: Jürgen Rehberg</actor>
-            <actor> Arsenij Gusev</actor>
-            <actor> Paul Näther; [B]Produzent[/B]:  Jens Afflerbach</actor>
-            <actor> Bruno Canale</actor>
-            <actor> Axel Lafleur</actor>
-            <actor> Carsten Obländer; [B]Drehbuch[/B]: Rudolph Herzog</actor>
-            <actor> Arne Peisker; [B]Editor[/B]: Holger Finck</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/16901190499506789159"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20250704010500 +0000" stop="20250704014500 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Die Top Ten der mysteriösen Katastrophen</sub-title>
-        <desc lang="de">Präsentiert werden die zehn verheerendsten Katastrophen, die jemals belegt wurden, und die vielleicht im Zusammenhang mit außerirdischen Aktivitäten stehen: Während eines nuklearen Zwischenfalls wird ein fliegendes Monster gesichtet, ein Asteroid führt zum Aussterben der Dinosaurier, und ein tödlicher Virus könnte aus einer anderen Welt stammen. Liefern diese Vorfälle Beweise für das Wirken von Außerirdischen?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress</actor>
-            <actor> William Henry</actor>
-            <actor> Jonathan Young</actor>
-            <actor> Erich von Däniken</actor>
-            <actor> Jason Martell</actor>
-            <actor> Andrew Collins</actor>
-            <actor> Nick Pope</actor>
-            <actor> Colgate Salsbury</actor>
-            <actor> Giorgio Tsoukalos</actor>
-            <actor> Linda Moulton Howe</actor>
-            <actor> David Wilcock</actor>
-            <actor> George Noory</actor>
-            <actor> Michio Kaku; [B]ErzählerIn[/B]: Robert Clotworthy</actor>
-            <actor>  Simon Allix; [B]Regie[/B]: Jon A. Levy</actor>
-            <actor> Keith Guinto</actor>
-            <actor> Robin Feinberg</actor>
-            <actor> William Martens</actor>
-            <actor> Jonathan Haug</actor>
-            <actor> Phil Grabsky</actor>
-            <actor> Kevin Burns</actor>
-            <actor> Mitch Marcus; [B]Produzent[/B]: Mary Ellen Iwata</actor>
-            <actor> Gabriel Rotello; [B]Editor[/B]:  Margaret Moore</actor>
-            <actor> Damon Brewster</actor>
-            <actor> Nicholas Siapkaris; [B]Drehbuch[/B]:  Max Thompson</actor>
-            <actor> Erik Pinkston; [B]Kamera[/B]: Kieran Murphy</actor>
-        </credits>
+    <programme start="20250706011500 +0000" stop="20250706021000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
         <date>2024</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/10954434541786316274"/>
-        <country>Vereinigte Staaten</country>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250704014500 +0000" stop="20250704023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250706021000 +0000" stop="20250706030000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250704023500 +0000" stop="20250704032500 +0000" channel="ServusTV">
@@ -1493,6 +1411,27 @@
         <category lang="de">Romantik</category>
         <icon src="https://images.mdn.ors.at/7655543778123165912"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250706013000 +0000" stop="20250706031000 +0000" channel="ServusTV">
+        <title lang="de">Das Glück des Augenblicks</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Alltag von Dane Jensen ist geprägt von Gier und Missgunst. Er arbeitet als Headhunter für eine Arbeitsvermittlungsfirma. Er sehnt sich nach einem neuen Job, doch dafür müsste er die Bedürfnisse seiner Familie vernachlässigen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Gerard Butler</actor>
+            <actor> Gretchen Mol</actor>
+            <actor> Alison Brie</actor>
+            <actor> Anupam Kher</actor>
+            <actor> Alfred Molina</actor>
+            <actor> Willem Dafoe</actor>
+            <actor> Dylan Roberts</actor>
+            <actor> Dustin Milligan</actor>
+            <actor> Julia Butters</actor>
+            <actor> Maxwell Jenkins; [B]Regie[/B]: Mark Williams; [B]Drehbuch[/B]:  Bill Dubuque</actor>
+        </credits>
+        <date>2016</date>
+        <category lang="de">Drama</category>
+        <icon src="https://images.mdn.ors.at/10258235244791329331"/>
+        <country>Vereinigte Staaten, Kanada</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
