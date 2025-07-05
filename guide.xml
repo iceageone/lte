@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-05 00:51:14.357928 -->
+<!-- created on 2025-07-05 02:26:38.475804 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250705003000 +0000" stop="20250705011500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250705011500 +0000" stop="20250705020500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250705020500 +0000" stop="20250705025500 +0000" channel="PULS24">
         <title lang="de">Notaufnahme</title>
@@ -514,36 +496,22 @@
         <episode-num system="onscreen">S3 E9</episode-num>
     </programme>
 
-    <programme start="20250705001500 +0000" stop="20250705010500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Hier lässt sich's leben - Zuhause auf der Alm</sub-title>
-        <desc lang="de">Ungeachtet der aktuellen Trends bei der heutigen Almbewirtschaftung entscheidet sich Richard Natter beim Sennen bewusst für seinen eigenen, durchaus traditionellen Weg. Auf der abgelegenen Alpe Untergüntenstall, die schon sein Großvater bewirtschaftet hat, ist nun er - der Jungsenner - Chef. In der Kehre 3 der Großglockner Hochalpenstraße, einer der meist befahrenen Bergstraßen Europas liegt auf Salzburger Seite die Piffalm. Die gebürtige Bayerin Martina Mühlbauer ist dort oben völlig alleine für die Tiere der Landwirtschaftsschule Bruck verantwortlich. Was die beiden verbindet? Ein Leben auf der Alm.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/15149444784984406078"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250705010500 +0000" stop="20250705015500 +0000" channel="ServusTV">
-        <title lang="de">TM Wissen Spezial</title>
-        <sub-title lang="de">Farbenfrohe Welt - Wie Licht, Leben und Technik zusammenspielen</sub-title>
-        <desc lang="de">Die elektrolumineszierende Farbe, bisher bekannt aus der Welt des Motorsports und Showbusiness, bekommt eine neue Dimension: Sicherheit. Der spanische Ingenieur Roger Calaf entwickelt in einem internationalen Projekt Farben, die Leben retten könnten. Inspiriert wurde er von einem Unfall seines Freundes, des Apnoe-Tauchers Miguel Lozano, der beinahe während eines Weltrekordversuchs verunglückte. Seitdem hat Roger Calaf eine Vision: einen Taucheranzug zu entwickeln, der mithilfe der leuchtenden Farbe biometrische Werte wie Puls und Sauerstoffsättigung in Echtzeit anzeigt. Sobald die Werte gefährlich werden, beginnt der Anzug zu blinken – ein sofortiges Signal für Rettungskräfte. Die Farbe besteht aus mehreren Schichten, darunter Kupfer und Phosphor, und kann auf unterschiedlichste Oberflächen aufgetragen werden. Sie könnte nicht nur im Tauchsport, sondern auch in Feuerwehranzügen eingesetzt werden, um Einsatzkräfte in gefährlichen Situationen zu warnen. Kann diese Technologie die Zukunft der Schutzkleidung neu definieren?&lt;br /&gt;&lt;br /&gt;Faszinierende Geschichten und spannende Phänomene: Im wöchentlichen Magazin TM Wissen präsentiert Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer regelmäßig Faszinierendes, Überraschendes und Skurriles aus der Welt der Forschung.</desc>
+    <programme start="20250707011000 +0000" stop="20250707020000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
         <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/2757079119331479194"/>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250705015500 +0000" stop="20250705022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250707020000 +0000" stop="20250707025000 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250705022000 +0000" stop="20250705030500 +0000" channel="ServusTV">
@@ -1400,6 +1368,30 @@
         <category lang="de">Antiquitäten</category>
         <icon src="https://images.mdn.ors.at/10156158151431626300"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250707012000 +0000" stop="20250707022000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">07.07.2025 03:20.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/13728755379161328160"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250707022000 +0000" stop="20250707023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
