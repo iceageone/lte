@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-07 00:57:47.845919 -->
+<!-- created on 2025-07-07 02:52:20.000883 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,38 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250707002500 +0000" stop="20250707011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Spiel mit dem Tode</sub-title>
-        <desc lang="de">Eine Nacht im Casino endet damit, dass Christie Wilson vermisst wird. Die Überwachungskameras zeigen ihre letzten Stunden und einen mysteriösen Mann an ihrer Seite. Hat er sie entführt?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7318186401287882797"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S3 E9</episode-num>
-    </programme>
-
-    <programme start="20250707011000 +0000" stop="20250707020000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250707020000 +0000" stop="20250707025000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250707025000 +0000" stop="20250707030000 +0000" channel="PULS24">
         <title lang="de">Wirtschaft 24</title>
@@ -589,37 +557,36 @@
         <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
-    <programme start="20250707000500 +0000" stop="20250707012000 +0000" channel="ServusTV">
-        <title lang="de">Bares für Rares Österreich</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Am vierten Adventsonntag begrüßt Willi Gabalier Verkäufer und Gäste zur ersten österreichischen Weihnachtsausgabe von „Bares für Rares Österreich“.</desc>
-        <date>2020</date>
-        <category lang="de">Antiquitäten</category>
-        <icon src="https://images.mdn.ors.at/10156158151431626300"/>
-        <country>Österreich</country>
+    <programme start="20250709010500 +0000" stop="20250709014500 +0000" channel="PULS24">
+        <title lang="de">Witness to Murder - Digitale Zeugen</title>
+        <sub-title lang="de">Digitale Obsession</sub-title>
+        <desc lang="de">Die Ermittler beschäftigen sich mit dem Mord an einer jungen Mutter in Ohio. Sie stoßen auf überraschende Hinweise aus der digitalen Welt und folgen ihnen in einen Strudel aus Cyberkriminalität, Lug und Betrug sowie Stalking.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/5446385162309245320"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
-    <programme start="20250707012000 +0000" stop="20250707022000 +0000" channel="ServusTV">
-        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
-        <sub-title lang="de">07.07.2025 03:20.</sub-title>
-        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
-            <actor> Christoph Kotanko</actor>
-        </credits>
+    <programme start="20250709014500 +0000" stop="20250709022500 +0000" channel="PULS24">
+        <title lang="de">Witness to Murder - Digitale Zeugen</title>
+        <sub-title lang="de">Doppelmord auf Video</sub-title>
+        <desc lang="de">Ein Ermittler-Team aus Aurora, Colorado, sammelt über die Auswertung von Material aus Überwachungskameras wichtige Fakten zu einem Doppelmord. Doch erst eine Reihe digitaler Informationen führt die Beamten schließlich zum Täter.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/2436688643475335502"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
+    </programme>
+
+    <programme start="20250709022500 +0000" stop="20250709030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">09.07.2025 04:25.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
         <date>2025</date>
-        <category lang="de">Politik</category>
-        <icon src="https://images.mdn.ors.at/13728755379161328160"/>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
-    </programme>
-
-    <programme start="20250707022000 +0000" stop="20250707023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
     </programme>
 
     <programme start="20250707023500 +0000" stop="20250707032500 +0000" channel="ServusTV">
@@ -1509,6 +1476,26 @@
         <category lang="de">Western</category>
         <icon src="https://images.mdn.ors.at/2167001345893843371"/>
         <country>Vereinigte Staaten, Mexiko</country>
+    </programme>
+
+    <programme start="20250709014000 +0000" stop="20250709023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250709023500 +0000" stop="20250709032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">09.07.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
