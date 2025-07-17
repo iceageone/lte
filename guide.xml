@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-17 00:56:21.447203 -->
+<!-- created on 2025-07-17 02:51:57.157794 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,40 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250717003500 +0000" stop="20250717012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tote Augen lächeln nicht</sub-title>
-        <desc lang="de">Die alleinerziehende Mutter Laura Ackerson geht eines Morgens zur Arbeit und kehrt nicht zurück. Da es keine Spuren gibt, nutzt die Polizei das Material von Überwachungskameras, um sie ausfindig zu machen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E4</episode-num>
-    </programme>
-
-    <programme start="20250717012000 +0000" stop="20250717021500 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250717021500 +0000" stop="20250717024000 +0000" channel="PULS24">
-        <title lang="de">Heinzl und die VIPs - Weekend</title>
-        <sub-title lang="de">17.07.2025 04:15.</sub-title>
-        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
-    </programme>
 
     <programme start="20250717024000 +0000" stop="20250717030000 +0000" channel="PULS24">
         <title lang="de">Adiweiss.TV</title>
@@ -592,29 +558,37 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250716235500 +0000" stop="20250717014500 +0000" channel="ServusTV">
-        <title lang="de">Three Burials - Die drei Begräbnisse des Melquiades Estrada</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der unerfahrene Grenzpolizist Mike Norton erschießt aus Versehen den illegal eingewanderten Mexikaner Melquiades Estrada. Aus Furcht vor den Konsequenzen lässt Norton den Toten einfach in der Wüste liegen. Sheriff Belmont findet die Leiche und bestattet sie in einem Gemeinschaftsgrab. Pete will seinem besten Freund Estrada nicht nur ein würdevolles Begräbnis ermöglichen, sondern auch den Mord an ihm rächen. Moderner Western von und mit Tommy Lee Jones.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Tommy Lee Jones</actor>
-            <actor> Barry Pepper</actor>
-            <actor> Dwight Yoakam</actor>
-            <actor> January Jones</actor>
-            <actor> Julio Cesar Cedillo; [B]Drehbuch[/B]: Guillermo Arriaga</actor>
-        </credits>
-        <date>2005</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/15650354178533781081"/>
-        <country>Frankreich, Vereinigte Staaten, Mexiko</country>
+    <programme start="20250719013000 +0000" stop="20250719021500 +0000" channel="PULS24">
+        <title lang="de">Notaufnahme</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
+        <date>2024</date>
+        <category lang="de">Reality-TV</category>
+        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250717014500 +0000" stop="20250717023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250719021500 +0000" stop="20250719024500 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">19.07.2025 04:15.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250719024500 +0000" stop="20250719030000 +0000" channel="PULS24">
+        <title lang="de">Adiweiss.TV</title>
+        <sub-title lang="de">19.07.2025 04:45.</sub-title>
+        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Mode</category>
+        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250717023500 +0000" stop="20250717032500 +0000" channel="ServusTV">
@@ -1415,6 +1389,40 @@
         <date>2024</date>
         <category lang="de">Wissensmagazin</category>
         <icon src="https://images.mdn.ors.at/2757079119331479194"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250719011500 +0000" stop="20250719015500 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Himmelsgeschosse</sub-title>
+        <desc lang="de">Könnte es sein, dass die Erde bereits vor Tausenden von Jahren von außerirdischem Leben heimgesucht worden ist? Könnte die Menschheit in ihrer Entwicklung von den neuartigen Technologien der Außerirdischen profitiert haben? &lt;br /&gt;Die Prä-Astronautik, in der eben jene Möglichkeit untersucht wird, ob bereits in der Vorgeschichte und im Altertum Außerirdische das Leben auf der Erde beeinflusst haben, findet Indizien, die diese Theorie untermauern.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/11172081331464097353"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S11 E12</episode-num>
+    </programme>
+
+    <programme start="20250719015500 +0000" stop="20250719022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250719022000 +0000" stop="20250719030500 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Vernetzter Weinberg - Wie hilft künstliche Intelligenz beim Weinanbau?</sub-title>
+        <desc lang="de">Die Qualität eines Weins steht und fällt mit dem richtigen Erntezeitpunkt. Wenige Tage können hier bereits den Unterschied machen. Um den Winzern schneller wichtige Daten über den Zustand ihrer Trauben an die Hand zu geben, entwickeln Forscher der Universität Freiburg einen Sensor, der an die Beeren gehängt wird und anhand verschiedener Messwerte erkennt, wann sie reif sind. Die Sensoren im Weinberg sind vernetzt, dadurch erfährt der Winzer in Echtzeit, in welchen Teilbereichen der Reben die Trauben den perfekten Reifegrad haben. // Glaziologinnen der Österreichischen Akademie der Wissenschaften forschen am Jamtalferner, wie und warum sich das Abschmelzen beschleunigt. Denn jeder Gletscher schrumpft anders. Alle zwei Wochen machen sich die Wissenschaftlerinnen Lea Hartl und Violeta Lauria auf den Weg zum Jamtalferner, um rund 30 Messstationen zu überprüfen. Meistens schmelzen Gletscher vor allem an der Oberfläche, doch der Jamtalferner scheint von allen Seiten zu schmelzen. Hier können die Glaziologinnen erstmals Prozesse beobachten, die sich unter einem zerfallenden Gletscher abspielen.  // Als „Nudging“ bezeichnet man in der Verhaltensforschung die bewusste Beeinflussung unsers Verhaltens zu einem bestimmten Zweck. Nudges begegnen uns dabei überall. Weitreichende Entscheidungen können durch Regierungen oder Institutionen beeinflusst werden. Beispielsweise durch die finanzielle Bezuschussung klimafreundlicher Baumaterialien oder Heizsysteme. Nudging soll durch kleine Kniffe zu klugen Entscheidungen führen. Doch wie funktioniert das? // Je größer eine Stadt, desto heißer wird sie. Wissenschaftler des Karlsruher Institut für Technologie erforschen deshalb, wie wir in Städten Luftströme begünstigen können und welche Auswirkungen das auf die Temperatur hat.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2022</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
         <country>Österreich</country>
     </programme>
 
