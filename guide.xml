@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-19 00:54:27.177765 -->
+<!-- created on 2025-07-19 02:43:51.632788 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250719004000 +0000" stop="20250719013000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250719013000 +0000" stop="20250719022000 +0000" channel="PULS24">
-        <title lang="de">Notaufnahme</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Notfall im Krankenhaus! Jeden Tag treffen Menschen in der Klinik ein, die unerwartet aus ihrem Alltag herausgerissen werden und dringend ärztliche Hilfe benötigen.</desc>
-        <date>2024</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/1847406969315015532"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250719022000 +0000" stop="20250719024500 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -514,38 +496,24 @@
         <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20250719002500 +0000" stop="20250719011500 +0000" channel="ServusTV">
-        <title lang="de">TM Wissen Spezial</title>
-        <sub-title lang="de">Vom Meeresgrund bis in den Weltraum</sub-title>
-        <desc lang="de">Insekten retten durch Blütenwaschen, alte Apfelsorten bewahren und rätselhafte Orca-Attacken erforschen – Geschichten über das fragile Gleichgewicht in der Natur. &lt;br /&gt;Insekten sind essenziell für Ökosysteme, doch ihre Bestände schrumpfen dramatisch – auch in Österreich. Zwei Biologen der Universität Salzburg entwickeln daher eine neue Monitoring-Methode: Statt klassischer Insektenfallen waschen sie Blüten, um aus der Umwelt-DNA Rückschlüsse auf Insektenbesuche zu ziehen. Diese Methode könnte helfen, Artensterben frühzeitig zu erkennen und gezielt gegenzusteuern.&lt;br /&gt;Auch in Österreichs Obstgärten geht es um bedrohte Vielfalt: Alte Apfelsorten wie der „Kronprinz Rudolf“ drohen durch Klimawandel, Spätfröste und Krankheiten zu verschwinden. Der Verein Arche Noah dokumentiert, sichert und erhält diese Sorten – ein genetisches Erbe, das sonst verloren wäre.&lt;br /&gt;Indes sorgen Orcas in der Straße von Gibraltar für Aufsehen. Immer häufiger greifen sie Boote an. Forscher um den Walexperten Dr. Renaud de Stephanis versuchen mit Satellitentechnik, Kameras und Fotoanalysen zu verstehen, was hinter diesem Verhalten steckt. Ist es Spiel, Stress oder gezielte Reaktion? Die Forschung zeigt: Orcas sind klug und sensibel – und unsere Eingriffe ins Meer komplexer, als wir denken.&lt;br /&gt;&lt;br /&gt;Faszinierende Geschichten und spannende Phänomene: Im wöchentlichen Magazin TM Wissen präsentiert Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer regelmäßig Faszinierendes, Überraschendes und Skurriles aus der Welt der Forschung.</desc>
-        <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/2757079119331479194"/>
+    <programme start="20250721011500 +0000" stop="20250721020500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Das Unfallkommando</title>
+        <sub-title lang="de">Kurioser Moped Diebstahl</sub-title>
+        <desc lang="de">Die Wiener Streifenpolizei will eine Verkehrskontrolle bei zwei jungen Mopedfahrern durchführen. Doch als sich die Beamten den beiden nähern, ergreifen diese plötzlich die Flucht. Nach einer kurzen Verfolgungsjagd stellen die Polizisten die Jugendlichen zur Rede. Außerdem wird das Unfallkommando zu einem Zusammenstoß zwischen einem Auto und einer Radfahrerin gerufen.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
-    <programme start="20250719011500 +0000" stop="20250719015500 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Himmelsgeschosse</sub-title>
-        <desc lang="de">Könnte es sein, dass die Erde bereits vor Tausenden von Jahren von außerirdischem Leben heimgesucht worden ist? Könnte die Menschheit in ihrer Entwicklung von den neuartigen Technologien der Außerirdischen profitiert haben? &lt;br /&gt;Die Prä-Astronautik, in der eben jene Möglichkeit untersucht wird, ob bereits in der Vorgeschichte und im Altertum Außerirdische das Leben auf der Erde beeinflusst haben, findet Indizien, die diese Theorie untermauern.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/11172081331464097353"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S11 E12</episode-num>
-    </programme>
-
-    <programme start="20250719015500 +0000" stop="20250719022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250721020500 +0000" stop="20250721030000 +0000" channel="PULS24">
+        <title lang="de">Polizeieinsatz am Neusiedler See</title>
+        <desc lang="de">Der Neusiedler See ist ein beliebter Hotspot für Badegäste und Hobbysportler. Doch seine geringe Tiefe wird so manchem zum Verhängnis: Bei einem Kontrollgang bemerken die Beamten einen gekenterten Katamaran und eilen zur Hilfe. Derweil wird im Strandbad ein übler Fund gemacht. Der Bademeister entdeckt auf der Liegewiese zwischen den Gästen eine Pistole. Kann der Besitzer der Waffe ausfindig gemacht werden?&lt;br /&gt;&lt;br /&gt;Alkoholisierte Wassersportler, Diebe und illegale Grenzgänger: Am Neusiedler See im Burgenland hat die Polizei allerhand zu tun. Alleine 2014 wurden 10.000 Straftaten angezeigt. Dazu kommt die sommerliche Wasserwacht, denn so mancher Badegast überschätzt seine Fähigkeiten und ist auf Rettung angewiesen. Die Reportage begleitet die Beamten bei ihren täglichen Einsätzen zu Land und Wasser.</desc>
+        <date>2015</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3020299367143242452"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250719022000 +0000" stop="20250719030500 +0000" channel="ServusTV">
@@ -1450,6 +1418,41 @@
         <icon src="https://images.mdn.ors.at/13728755379161328160"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250721005500 +0000" stop="20250721013500 +0000" channel="ServusTV">
+        <title lang="de">Der letzte Tag von Pompeji</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der letzte Tag von Pompeji spielte sich ganz anders ab als bisher angenommen. Nicht einmal das überlieferte Datum der Katastrophe stimmt! Eine Jahrhundertgrabung lüftet die letzten Geheimnisse.</desc>
+        <credits>
+            <actor>[B]Drehbuch[/B]: Flore Kosinetz</actor>
+            <actor>  Raúl Fernández</actor>
+            <actor>  Marco Martelli; [B]Regie[/B]: Pierre Stine; [B]Kamera[/B]: Hervé Glabeck</actor>
+            <actor> Pasquale Remia; [B]Produzent[/B]: Stéphane Milliere; [B]Editor[/B]: Andreas Lupczyk</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/7720527286278792021"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250721013500 +0000" stop="20250721023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250721023500 +0000" stop="20250721032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">21.07.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
