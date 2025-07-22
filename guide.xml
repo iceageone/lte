@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-22 00:56:12.170396 -->
+<!-- created on 2025-07-22 02:53:29.318225 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250722005500 +0000" stop="20250722014500 +0000" channel="PULS24">
-        <title lang="de">Polizeieinsatz am Neusiedler See</title>
-        <desc lang="de">Der Neusiedler See ist ein beliebter Hotspot für Badegäste und Hobbysportler. Doch seine geringe Tiefe wird so manchem zum Verhängnis: Bei einem Kontrollgang bemerken die Beamten einen gekenterten Katamaran und eilen zur Hilfe. Derweil wird im Strandbad ein übler Fund gemacht. Der Bademeister entdeckt auf der Liegewiese zwischen den Gästen eine Pistole. Kann der Besitzer der Waffe ausfindig gemacht werden?&lt;br /&gt;&lt;br /&gt;Alkoholisierte Wassersportler, Diebe und illegale Grenzgänger: Am Neusiedler See im Burgenland hat die Polizei allerhand zu tun. Alleine 2014 wurden 10.000 Straftaten angezeigt. Dazu kommt die sommerliche Wasserwacht, denn so mancher Badegast überschätzt seine Fähigkeiten und ist auf Rettung angewiesen. Die Reportage begleitet die Beamten bei ihren täglichen Einsätzen zu Land und Wasser.</desc>
-        <date>2015</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3020299367143242452"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250722014500 +0000" stop="20250722024000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Gefahr auf der Autobahn</sub-title>
-        <desc lang="de">Bei ihren Einsätzen wird die Motorrad-Polizei immer wieder mit gefährlichen Situationen konfrontiert. Zwei Kollegen bezahlten ihren Einsatz auf der Autobahn bereits mit dem Leben. So gehen die beiden Gruppeninspektoren Michael und Christian bei der Überprüfung einer kaputten Brückenfuge auf der Wiener Ostautobahn besonders vorsichtig vor. Währenddessen zieht ein rücksichtsloser Autofahrer die Aufmerksamkeit zweier Motorrad-Polizisten auf sich.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E1</episode-num>
-    </programme>
 
     <programme start="20250722024000 +0000" stop="20250722030000 +0000" channel="PULS24">
         <title lang="de">Adiweiss.TV</title>
@@ -564,22 +544,40 @@
         <episode-num system="onscreen">S8 E6</episode-num>
     </programme>
 
-    <programme start="20250722004000 +0000" stop="20250722013000 +0000" channel="ServusTV">
-        <title lang="de">Space Jump - ein Sprung, der Geschichte schrieb</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Die Red Bull Stratos Mission hat nicht nur das Leben aller Beteiligter maßgeblich geprägt. Sie hat die junge Generation emotional berührt, neue TV-Systeme entstehen lassen, die mittlerweile in entlegenen Gegenden für Sportaufzeichnungen genützt werden. Die Technologien, die Astronauten im Alltag verwenden, wurden auf den Prüfstand gestellt. Die Sicherheit von Piloten auf großer Höhe wurde verbessert. Und die Welt kann nun auf zuvor nicht zugängliche, inspirierende Ansichten der Erde zugreifen.</desc>
+    <programme start="20250724013500 +0000" stop="20250724022000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Die Spur der Mörder</sub-title>
+        <desc lang="de">Als ein Polizist in Tennessee auf einer Autobahn ermordet aufgefunden wird, suchen die Ermittler mit Hilfe seiner Dashcam nach Antworten. Es braucht noch mehr Überwachungsvideos, um die Spur des Mörders aufzunehmen und den Fall zu lösen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
+        </credits>
         <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3808245439131102838"/>
-        <country>Deutschland, Österreich</country>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S8 E3</episode-num>
     </programme>
 
-    <programme start="20250722013000 +0000" stop="20250722023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250724022000 +0000" stop="20250724025000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">24.07.2025 04:20.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250724025000 +0000" stop="20250724030000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">24.07.2025 04:50.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250722023500 +0000" stop="20250722032500 +0000" channel="ServusTV">
@@ -1359,6 +1357,34 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/4070193280264498305"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250724011500 +0000" stop="20250724020000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Bergrettung mit Künstlicher Intelligenz - Wie eine Drohne hilft, Leben zu retten</sub-title>
+        <desc lang="de">Diesmal bei P.M. Wissen: Welche Vorteile hat eine Bergrettungsdrohne mit K.I.? // Wie kommen wir an versunkene Artefakte auf dem Meeresgrund? // Wie lässt sich Plastik ohne Qualitätsverlust recyceln? // Wie hilft der Kabeljau bei der Wundheilung // Gibt es Freundschaften unter Kühen? // Was lernen Architekten von Termiten? // Warum glauben wir an "Wilde Leute"?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2022</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E157</episode-num>
+    </programme>
+
+    <programme start="20250724020000 +0000" stop="20250724023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250724023500 +0000" stop="20250724032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
