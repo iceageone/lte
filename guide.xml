@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-24 00:56:24.225625 -->
+<!-- created on 2025-07-24 02:53:51.748231 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,45 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250724004500 +0000" stop="20250724013500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der weiße Mustang</sub-title>
-        <desc lang="de">Julian Soler und Kennia Duran sind begeisterte Autofans. Am 5. Juli 2011 halten sie auf dem Heimweg von einem Autotreffen zum Tanken. Kurz darauf stoppt ein SUV neben ihnen. Augenblicke später sind Julian und Kennia von Kugeln durchlöchert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E6</episode-num>
-    </programme>
-
-    <programme start="20250724013500 +0000" stop="20250724022000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Spur der Mörder</sub-title>
-        <desc lang="de">Als ein Polizist in Tennessee auf einer Autobahn ermordet aufgefunden wird, suchen die Ermittler mit Hilfe seiner Dashcam nach Antworten. Es braucht noch mehr Überwachungsvideos, um die Spur des Mörders aufzunehmen und den Fall zu lösen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E3</episode-num>
-    </programme>
-
-    <programme start="20250724022000 +0000" stop="20250724024500 +0000" channel="PULS24">
-        <title lang="de">Heinzl und die VIPs - Weekend</title>
-        <sub-title lang="de">24.07.2025 04:20.</sub-title>
-        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
-    </programme>
 
     <programme start="20250724024500 +0000" stop="20250724030000 +0000" channel="PULS24">
         <title lang="de">Wirtschaft 24</title>
@@ -615,43 +576,25 @@
         <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
-    <programme start="20250723234500 +0000" stop="20250724012000 +0000" channel="ServusTV">
-        <title lang="de">Broken City - Stadt des Verbrechens</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;New York Citys Bürgermeister Nicholas Hostetler glaubt, dass ihn seine Frau Cathleen betrügt. Er beauftragt Privatdetektiv Billy Taggert, zu ermitteln. Das Stadtoberhaupt kennt Taggert aus früheren Tagen, dank Histotelers Hilfe wurde der Ex-Polizist bei einem Prozess freigesprochen. Taggert entdeckt, dass Cathleen tatsächlich eine Affäre hat. Doch der Privatdetektiv ist einer Intrige zum Opfer gefallen. Thriller von Allen Hughes, mit Mark Wahlberg, Russell Crowe und Catherine Zeta-Jones.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Mark Wahlberg</actor>
-            <actor> Russell Crowe</actor>
-            <actor> Catherine Zeta-Jones</actor>
-            <actor> Jeffrey Wright</actor>
-            <actor> Barry Pepper</actor>
-            <actor> Alona Tal</actor>
-            <actor> Michael Beach</actor>
-            <actor> Natalie Martinez; [B]Regie[/B]:  Allen Hughes; [B]Drehbuch[/B]: Brian Tucker</actor>
-        </credits>
-        <date>2013</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/4070193280264498305"/>
-        <country>Vereinigte Staaten</country>
-    </programme>
-
-    <programme start="20250724012000 +0000" stop="20250724021000 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Bergrettung mit Künstlicher Intelligenz - Wie eine Drohne hilft, Leben zu retten</sub-title>
-        <desc lang="de">Diesmal bei P.M. Wissen: Welche Vorteile hat eine Bergrettungsdrohne mit K.I.? // Wie kommen wir an versunkene Artefakte auf dem Meeresgrund? // Wie lässt sich Plastik ohne Qualitätsverlust recyceln? // Wie hilft der Kabeljau bei der Wundheilung // Gibt es Freundschaften unter Kühen? // Was lernen Architekten von Termiten? // Warum glauben wir an "Wilde Leute"?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2022</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+    <programme start="20250726014500 +0000" stop="20250726024000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
+        <desc lang="de">Die beiden Wasserpolizisten Mario und Leo werden aus einer Routinekontrolle herausgerissen und zu einem Familienstreit gerufen. Ein Mann soll seine Ehefrau mit einem Messer angegriffen haben. Hubschrauberpilot Martin macht in der Nacht auf seinem Kontrollflug am Flughafen Wien Schwechat zwei verdächtige Personen in der Sicherheitszone ausfindig. Für die Polizeischüler der Klasse 2209 des Bildungszentrums Wien wird es spannend: Die Abschlussprüfungen stehen an.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S1 E157</episode-num>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250724021000 +0000" stop="20250724023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250726024000 +0000" stop="20250726031000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">26.07.2025 04:40.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250724023500 +0000" stop="20250724032500 +0000" channel="ServusTV">
@@ -1451,6 +1394,38 @@
         <date>2016</date>
         <category lang="de">Kabarett</category>
         <icon src="https://images.mdn.ors.at/8731858871276682960"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250726011500 +0000" stop="20250726020500 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Glocken, Glück und Grauvieh - Ein Leben mit Kühen</sub-title>
+        <desc lang="de">Am Wilden Kaiser in Tirol tragen die Haflinger des Bundesheeres schwere Käserlaiber ins Tal. Im Pinzgau treiben die Senner ihre Kühe auf einem hochalpinen Weg nach Südtirol. Und auf der Gampernunalpe in Tirol hütet ein unerschrockener Hirte eine Herde Stiere. Es sind besondere Geschichten, die Menschen mit ihren Rindern verbinden - so vielfältig wie das Land.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250726020500 +0000" stop="20250726022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250726022000 +0000" stop="20250726030500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Geheimnisse der Burg und autonome Fahrräder</sub-title>
+        <desc lang="de">Themen: Hat die Hohensalzburg noch Geheimnsisse? // Wie funktioniert das umweltfreundlichste Auto der Welt? // Wie sinnvoll sind autonome Fahrräder? // Was kann ein Turbo-Rollator? //Was macht Wien zur Hamsterhochburg? // Warum hat eine Zwergaffenart so große Augen? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
         <country>Österreich</country>
     </programme>
 
