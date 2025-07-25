@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-25 00:56:04.781843 -->
+<!-- created on 2025-07-25 02:53:24.011398 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,58 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250725003500 +0000" stop="20250725012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der weiße Mustang</sub-title>
-        <desc lang="de">Julian Soler und Kennia Duran sind begeisterte Autofans. Am 5. Juli 2011 halten sie auf dem Heimweg von einem Autotreffen zum Tanken. Kurz darauf stoppt ein SUV neben ihnen. Augenblicke später sind Julian und Kennia von Kugeln durchlöchert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E6</episode-num>
-    </programme>
-
-    <programme start="20250725012000 +0000" stop="20250725020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Barbarische Eifersucht</sub-title>
-        <desc lang="de">Im März 2015 wird die Leiche von Tierra Hall in Durham, North Carolina gefunden. Wer hat den Teenager so brutal erstochen? Da es keine Zeugen und kaum Beweise am Tatort gibt, schauen sich die Ermittler die Aufnahmen der Überwachungskameras an.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E7</episode-num>
-    </programme>
-
-    <programme start="20250725020500 +0000" stop="20250725021500 +0000" channel="PULS24">
-        <title lang="de">Wirtschaft 24</title>
-        <sub-title lang="de">25.07.2025 04:05.</sub-title>
-        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
-    </programme>
-
-    <programme start="20250725021500 +0000" stop="20250725023000 +0000" channel="PULS24">
-        <title lang="de">Adiweiss.TV</title>
-        <sub-title lang="de">25.07.2025 04:15.</sub-title>
-        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Mode</category>
-        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250725023000 +0000" stop="20250725030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -545,44 +493,26 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250725002500 +0000" stop="20250725011000 +0000" channel="ServusTV">
-        <title lang="de">Unser grüner Planet</title>
-        <sub-title lang="de">Jahreszeiten</sub-title>
-        <desc lang="de">Eine Expedition ins Reich der Pflanzen! Welche Überlebensstrategien nutzen Pflanzen um in verschiedenen Klimazonen zu gedeihen? Welche Herausforderungen stellen die unterschiedlichen Jahreszeiten für Pflanzen dar?&lt;br /&gt;&lt;br /&gt;Pflanzen sind die heimlichen Herrscher unseres Planeten. Über das Leben der Pflanzen ist aber erstaunlich wenig bekannt. Vieles davon spielt sich in zeitlichen Maßstäben ab, die der Mensch kaum wahrnehmen kann. Tatsächlich kommt es unter Pflanzen zu dramatischen Kämpfen, um sich und ihren Nachwuchs durchzubringen. Und sie verfügen alle über dieselbe erstaunliche Fähigkeit: Sie können aus Wasser und Kohlendioxid mithilfe von Sonnenlicht energiereichen Zucker produzieren. Damit sind sie die Grundlage allen Lebens auf der Erde. Die Reihe zeigt die Welt der Pflanzen, wie sie noch nie zu sehen war.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: David Attenborough</actor>
-            <actor> Cong Liu</actor>
-            <actor> Freek Vonk</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/16366967635972815810"/>
-        <country>Vereinigtes Königreich, Frankreich, Deutschland, Vereinigte Staaten, China</country>
+    <programme start="20250727014000 +0000" stop="20250727023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Das Unfallkommando</title>
+        <sub-title lang="de">Glimpflicher Fahrradunfall</sub-title>
+        <desc lang="de">Eine Radfahrerin hat einen Verkehrsunfall mit einem Einsatzwagen der Polizei verursacht und wird dabei zum Glück nur leicht verletzt. Als die Beamten die Frau befragen wollen, bricht diese jedoch plötzlich in Tränen aus. Außerdem wird das Unfallkommando zu einem Einsatz in den 22. Wiener Gemeindebezirk gerufen. Hier haben sich dramatischen Szenen abgespielt, sodass die Rettungskräfte sogar einen Hubschrauber zur Unterstützung anfordern müssen.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
+        <country>Österreich</country>
         <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20250725011000 +0000" stop="20250725015000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Sirius-Verbindung</sub-title>
-        <desc lang="de">Sirius B ist ein kleiner Planet, dessen Bewohner einst die Erde besucht und ihr Wissen mit den Menschen geteilt haben sollen. Haben die Außerirdischen womöglich auch die verschiedenen Sprachen auf die Erde gebracht?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/11172081331464097353"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S12 E4</episode-num>
-    </programme>
-
-    <programme start="20250725015000 +0000" stop="20250725023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250727023500 +0000" stop="20250727030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">27.07.2025 04:35.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250725023500 +0000" stop="20250725032500 +0000" channel="ServusTV">
@@ -1484,6 +1414,26 @@
         <category lang="de">Komödie</category>
         <icon src="https://images.mdn.ors.at/16824607290244200713"/>
         <country>Irland, Vereinigtes Königreich, Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250727020500 +0000" stop="20250727022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250727022000 +0000" stop="20250727031000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Bergrettung mit Künstlicher Intelligenz - Wie eine Drohne hilft, Leben zu retten</sub-title>
+        <desc lang="de">Diesmal bei P.M. Wissen: Welche Vorteile hat eine Bergrettungsdrohne mit K.I.? // Wie kommen wir an versunkene Artefakte auf dem Meeresgrund? // Wie lässt sich Plastik ohne Qualitätsverlust recyceln? // Wie hilft der Kabeljau bei der Wundheilung // Gibt es Freundschaften unter Kühen? // Was lernen Architekten von Termiten? // Warum glauben wir an "Wilde Leute"?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2022</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E157</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
