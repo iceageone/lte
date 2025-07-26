@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-26 00:54:48.896046 -->
+<!-- created on 2025-07-26 02:45:56.453656 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250726000500 +0000" stop="20250726005500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Gefahr auf der Autobahn</sub-title>
-        <desc lang="de">Bei ihren Einsätzen wird die Motorrad-Polizei immer wieder mit gefährlichen Situationen konfrontiert. Zwei Kollegen bezahlten ihren Einsatz auf der Autobahn bereits mit dem Leben. So gehen die beiden Gruppeninspektoren Michael und Christian bei der Überprüfung einer kaputten Brückenfuge auf der Wiener Ostautobahn besonders vorsichtig vor. Währenddessen zieht ein rücksichtsloser Autofahrer die Aufmerksamkeit zweier Motorrad-Polizisten auf sich.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E1</episode-num>
-    </programme>
-
-    <programme start="20250726005500 +0000" stop="20250726014500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Das Unfallkommando</title>
-        <sub-title lang="de">Kurioser Moped Diebstahl</sub-title>
-        <desc lang="de">Die Wiener Streifenpolizei will eine Verkehrskontrolle bei zwei jungen Mopedfahrern durchführen. Doch als sich die Beamten den beiden nähern, ergreifen diese plötzlich die Flucht. Nach einer kurzen Verfolgungsjagd stellen die Polizisten die Jugendlichen zur Rede. Außerdem wird das Unfallkommando zu einem Zusammenstoß zwischen einem Auto und einer Radfahrerin gerufen.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E2</episode-num>
-    </programme>
-
-    <programme start="20250726014500 +0000" stop="20250726024000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
-        <desc lang="de">Die beiden Wasserpolizisten Mario und Leo werden aus einer Routinekontrolle herausgerissen und zu einem Familienstreit gerufen. Ein Mann soll seine Ehefrau mit einem Messer angegriffen haben. Hubschrauberpilot Martin macht in der Nacht auf seinem Kontrollflug am Flughafen Wien Schwechat zwei verdächtige Personen in der Sicherheitszone ausfindig. Für die Polizeischüler der Klasse 2209 des Bildungszentrums Wien wird es spannend: Die Abschlussprüfungen stehen an.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250726024000 +0000" stop="20250726031000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -523,23 +492,27 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250726002500 +0000" stop="20250726010000 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Kabarett-Legenden</title>
-        <sub-title lang="de">Helmut Qualtinger</sub-title>
-        <desc lang="de">Schonungslos und radikal hielt Helmut Qualtinger (1928 - 1986) Zeit seines Lebens anderen Menschen den Spiegel vors Gesicht. Für einen handfesten Skandal sorgte in „Der Herr Karl“ (1961) seine Entlarvung des Nachkriegs-Durchschnittsbürgers als Mittäter und Mitläufer des Nationalsozialismus. Zu Meilensteinen der österreichischen Kabarett-Geschichte zählen die bis heute legendären „Travnicek-Dialoge“ und Sketche mit Gerhard Bronner, Carl Merz und Louise Martini. Ebenso: die Lieder vom „Gschupftn Ferdl“, „Der Halbwilde“ und „Der Papa wird's schon richten“. Seine letzte Rolle spielte er neben Sean Connery in dem Film „Der Name der Rose“ – Qualtinger erkrankte während der Dreharbeiten.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Für die Sendereihe „Österreichische Kabarett-Legenden“ konnte Regisseur Rudi Dolezal Qualtingers Sohn Christian zu einem TV-Interview überreden. Weiter sind in dem Porträt zu erleben: Gerhard Bronner (jahrelanger Bühnen-Partner, Autor der größten Qualtinger-Hits und Weggefährte), Heinz Marecek (Schauspieler und Freund), Georg Biron (Qualtinger-Biograph), Werner Schneyder (Kabarettist, Freund und Wegbegleiter), Ulrike Leitner (Kabarett-Spezialistin und Buchautorin), Werner Rosenberger (Kabarett-Experte / Journalist), André Heller (Freund und Wegbegleiter) sowie Louise Martini (trat mit Qualtinger in den 1950er und 1960er-Jahren auf).&lt;br /&gt;&lt;br /&gt;Alltagsanalysen, Gesellschaftskritik, Politiksatire- Österreichs feinste Kabarettisten sind für alles zu haben: Hier werden sie porträtiert.</desc>
-        <date>2016</date>
-        <category lang="de">Kabarett</category>
-        <icon src="https://images.mdn.ors.at/8731858871276682960"/>
-        <country>Österreich</country>
+    <programme start="20250728012000 +0000" stop="20250728020000 +0000" channel="PULS24">
+        <title lang="de">Witness to Murder - Digitale Zeugen</title>
+        <sub-title lang="de">Game Over</sub-title>
+        <desc lang="de">In Mobile, Alabama, wird ein Uni-Professor ermordet. Die Ermittler machen schnell einen Verdächtigen aus, doch die Auswertung eines vom Tatort gestohlenen technischen Geräts lenkt die Ermittlungen in eine völlig andere Richtung.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: SCOTT MCDONNELL</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/5446385162309245320"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
-    <programme start="20250726010000 +0000" stop="20250726022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250728020000 +0000" stop="20250728025000 +0000" channel="PULS24">
+        <title lang="de">Polizeieinsatz am Neusiedler See</title>
+        <desc lang="de">Der Neusiedler See ist ein beliebter Hotspot für Badegäste und Hobbysportler. Doch seine geringe Tiefe wird so manchem zum Verhängnis: Bei einem Kontrollgang bemerken die Beamten einen gekenterten Katamaran und eilen zur Hilfe. Derweil wird im Strandbad ein übler Fund gemacht. Der Bademeister entdeckt auf der Liegewiese zwischen den Gästen eine Pistole. Kann der Besitzer der Waffe ausfindig gemacht werden?&lt;br /&gt;&lt;br /&gt;Alkoholisierte Wassersportler, Diebe und illegale Grenzgänger: Am Neusiedler See im Burgenland hat die Polizei allerhand zu tun. Alleine 2014 wurden 10.000 Straftaten angezeigt. Dazu kommt die sommerliche Wasserwacht, denn so mancher Badegast überschätzt seine Fähigkeiten und ist auf Rettung angewiesen. Die Reportage begleitet die Beamten bei ihren täglichen Einsätzen zu Land und Wasser.</desc>
+        <date>2015</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3020299367143242452"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250726022000 +0000" stop="20250726030500 +0000" channel="ServusTV">
@@ -1448,6 +1421,36 @@
         <category lang="de">Motorsport</category>
         <icon src="https://images.mdn.ors.at/8315777467211305861"/>
         <country>Belgien</country>
+    </programme>
+
+    <programme start="20250728010500 +0000" stop="20250728015000 +0000" channel="ServusTV">
+        <title lang="de">Porsche Supercup - Spa-Franchorchamps, Belgien</title>
+        <sub-title lang="de">Rennen</sub-title>
+        <desc lang="de">Der Porsche Supercup bei ServusTV in voller Länge. Alle Rennen, alle Highlights mit deutschem Kommentar von Bernd Kainz.&lt;br /&gt;&lt;br /&gt;</desc>
+        <date>2025</date>
+        <category lang="de">Motorsport</category>
+        <icon src="https://images.mdn.ors.at/2984150343994761940"/>
+        <country>Belgien</country>
+    </programme>
+
+    <programme start="20250728015000 +0000" stop="20250728023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250728023500 +0000" stop="20250728032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">28.07.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
