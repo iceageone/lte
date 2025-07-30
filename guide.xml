@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-30 00:57:21.709044 -->
+<!-- created on 2025-07-30 02:59:25.533459 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,40 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250730002000 +0000" stop="20250730010000 +0000" channel="PULS24">
-        <title lang="de">Witness to Murder - Digitale Zeugen</title>
-        <sub-title lang="de">Game Over</sub-title>
-        <desc lang="de">In Mobile, Alabama, wird ein Uni-Professor ermordet. Die Ermittler machen schnell einen Verdächtigen aus, doch die Auswertung eines vom Tatort gestohlenen technischen Geräts lenkt die Ermittlungen in eine völlig andere Richtung.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
-        <credits>
-            <actor>[B]Regie[/B]: SCOTT MCDONNELL</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/5446385162309245320"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S1 E6</episode-num>
-    </programme>
-
-    <programme start="20250730010000 +0000" stop="20250730015500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Das Unfallkommando</title>
-        <desc lang="de">Die Beamten werden zu einem schweren Verkehrsunfall gerufen. Ein Motorradfahrer ist dabei auf tragische Weise ums Leben gekommen. Nun müssen die Einsatzkräfte den Unfallhergang rekonstruieren und die Angehörigen des Opfers informieren. Außerdem führen die Wiener Streifenpolizisten einen Alkoholtest bei einigen Jugendlichen durch.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250730015500 +0000" stop="20250730024500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Blutiger Verkehrsunfall</sub-title>
-        <desc lang="de">Bei einem Autounfall in Wien wird eine Frau angefahren und schwer verletzt ins Krankenhaus transportiert. Währenddessen liefert der Autofahrer eine schlüssige Erklärung für den Unfallhergang. Die verantwortlichen Polizisten bleiben dennoch skeptisch. Der in der Ausbildung befindliche Polizist Richard hat derweil seinen ersten Einsatz mit einem dienstälteren Kollegen. Schon bald müssen sie sich mit einem renitenten Motorradtuner auseinandersetzen ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E4</episode-num>
-    </programme>
 
     <programme start="20250730024500 +0000" stop="20250730030000 +0000" channel="PULS24">
         <title lang="de">Wirtschaft 24</title>
@@ -586,33 +552,35 @@
         <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
     </programme>
 
-    <programme start="20250729235000 +0000" stop="20250730015500 +0000" channel="ServusTV">
-        <title lang="de">Der letzte Befehl</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Während des amerikanischen Bürgerkriegs erhält der Nordstaaten-Colonel John Marlowe den Befehl, mit seiner Kavallerie weit ins Gebiet der Konföderierten vorzustoßen und dort Gleisanlagen und Brücken zu zerstören, um den Nachschub des Gegners zu behindern. Bei dem gefährlichen Einsatz kommt es zu wachsenden Spannungen zwischen dem Colonel und dem Arzt der Truppe.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: John Wayne</actor>
-            <actor> William Holden</actor>
-            <actor> Constance Towers</actor>
-            <actor> Judson Pratt</actor>
-            <actor> Hoot Gibson</actor>
-            <actor> Ken Curtis</actor>
-            <actor> Willis Bouchey; [B]Regie[/B]: John Ford; [B]Drehbuch[/B]:  John Lee Mahin</actor>
-            <actor>  Martin Rackin</actor>
-            <actor> Harold Sinclair</actor>
-        </credits>
-        <date>1959</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/10361479634145595462"/>
-        <country>Vereinigte Staaten, Spanien</country>
+    <programme start="20250801011000 +0000" stop="20250801020000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Blutiger Verkehrsunfall</sub-title>
+        <desc lang="de">Bei einem Autounfall in Wien wird eine Frau angefahren und schwer verletzt ins Krankenhaus transportiert. Währenddessen liefert der Autofahrer eine schlüssige Erklärung für den Unfallhergang. Die verantwortlichen Polizisten bleiben dennoch skeptisch. Der in der Ausbildung befindliche Polizist Richard hat derweil seinen ersten Einsatz mit einem dienstälteren Kollegen. Schon bald müssen sie sich mit einem renitenten Motorradtuner auseinandersetzen ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20250730015500 +0000" stop="20250730023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250801020000 +0000" stop="20250801025000 +0000" channel="PULS24">
+        <title lang="de">Polizeieinsatz am Neusiedler See</title>
+        <desc lang="de">Alkoholbedingte Delikte sind polizeilicher Alltag, doch sie stellen die Nerven der Beamten immer wieder auf eine harte Probe: Ein Betrunkener beschimpft die Polizisten, nachdem sie sich um seine medizinische Erstversorgung bemühen. Auch ein flüchtiger Fahrer muss sich seines Alkoholkonsums verantworten - und möglicherweise seinen Führerschein abgeben.&lt;br /&gt;&lt;br /&gt;Alkoholisierte Wassersportler, Diebe und illegale Grenzgänger: Am Neusiedler See im Burgenland hat die Polizei allerhand zu tun. Alleine 2014 wurden 10.000 Straftaten angezeigt. Dazu kommt die sommerliche Wasserwacht, denn so mancher Badegast überschätzt seine Fähigkeiten und ist auf Rettung angewiesen. Die Reportage begleitet die Beamten bei ihren täglichen Einsätzen zu Land und Wasser.</desc>
+        <date>2015</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3020299367143242452"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250801025000 +0000" stop="20250801030000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">01.08.2025 04:50.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250730023500 +0000" stop="20250730032500 +0000" channel="ServusTV">
@@ -1504,6 +1472,36 @@
         <category lang="de">Reportage</category>
         <icon src="https://images.mdn.ors.at/2795458677359447319"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250801011500 +0000" stop="20250801020000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Vernetzter Weinberg - Wie hilft künstliche Intelligenz beim Weinanbau?</sub-title>
+        <desc lang="de">Die Qualität eines Weins steht und fällt mit dem richtigen Erntezeitpunkt. Wenige Tage können hier bereits den Unterschied machen. Um den Winzern schneller wichtige Daten über den Zustand ihrer Trauben an die Hand zu geben, entwickeln Forscher der Universität Freiburg einen Sensor, der an die Beeren gehängt wird und anhand verschiedener Messwerte erkennt, wann sie reif sind. Die Sensoren im Weinberg sind vernetzt, dadurch erfährt der Winzer in Echtzeit, in welchen Teilbereichen der Reben die Trauben den perfekten Reifegrad haben. // Glaziologinnen der Österreichischen Akademie der Wissenschaften forschen am Jamtalferner, wie und warum sich das Abschmelzen beschleunigt. Denn jeder Gletscher schrumpft anders. Alle zwei Wochen machen sich die Wissenschaftlerinnen Lea Hartl und Violeta Lauria auf den Weg zum Jamtalferner, um rund 30 Messstationen zu überprüfen. Meistens schmelzen Gletscher vor allem an der Oberfläche, doch der Jamtalferner scheint von allen Seiten zu schmelzen. Hier können die Glaziologinnen erstmals Prozesse beobachten, die sich unter einem zerfallenden Gletscher abspielen.  // Als „Nudging“ bezeichnet man in der Verhaltensforschung die bewusste Beeinflussung unsers Verhaltens zu einem bestimmten Zweck. Nudges begegnen uns dabei überall. Weitreichende Entscheidungen können durch Regierungen oder Institutionen beeinflusst werden. Beispielsweise durch die finanzielle Bezuschussung klimafreundlicher Baumaterialien oder Heizsysteme. Nudging soll durch kleine Kniffe zu klugen Entscheidungen führen. Doch wie funktioniert das? // Je größer eine Stadt, desto heißer wird sie. Wissenschaftler des Karlsruher Institut für Technologie erforschen deshalb, wie wir in Städten Luftströme begünstigen können und welche Auswirkungen das auf die Temperatur hat.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2022</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250801020000 +0000" stop="20250801023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250801023500 +0000" stop="20250801032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">01.08.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
