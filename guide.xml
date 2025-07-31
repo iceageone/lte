@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-07-31 00:57:14.666462 -->
+<!-- created on 2025-07-31 02:58:08.697899 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,40 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250731004000 +0000" stop="20250731012500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tödliche Eifersucht</sub-title>
-        <desc lang="de">Im November 2012 wird Ervin Holton erschossen im Hauseingang eines Freundes aufgefunden. Verrät die Überwachungskamera eines nahegelegenen Ladens etwas über seine Todesumstände?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-    </programme>
-
-    <programme start="20250731012500 +0000" stop="20250731022000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
-        <desc lang="de">Die Beamten der Wiener Wasserpolizei Mario und Michi stellen eine randalierende Person am Prater zur Rede. Ihre Kollegen Leo und Günther fahnden derweil nach einer vermissten Person, die in der Donau um ihr Leben zu kämpfen scheint. Hubschrauberpilot Helmut unterstützt die Suchaktion aus der Luft. Für die Klasse 2209 des Bildungszentrums Wien steht die Abschlussprüfung an. Ein psychischer Härtetest, bei dem die Polizeischüler neben Wissen vor allem Mut beweisen müssen.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E3</episode-num>
-    </programme>
-
-    <programme start="20250731022000 +0000" stop="20250731022500 +0000" channel="PULS24">
-        <title lang="de">Wirtschaft 24</title>
-        <sub-title lang="de">31.07.2025 04:20.</sub-title>
-        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
-    </programme>
 
     <programme start="20250731022500 +0000" stop="20250731030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -593,46 +559,39 @@
         <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
     </programme>
 
-    <programme start="20250730235000 +0000" stop="20250731013500 +0000" channel="ServusTV">
-        <title lang="de">Fatale Begierde</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Die beiden Polizisten Pete Davis und Roy Cole bearbeiten den Raubüberfall bei dem Paar Michael und Karen Carr. Im Zuge der Ermittlungen verliebt sich Pete Davis in Karen. Er meint, aus seinem polizeilichen Auftrag Besitzansprüche gegenüber Karen ableiten zu können. In seinem Liebeswahn versucht er alles, um Karens Ehemann auszustechen und schreckt auch vor einem Mord an seinem Kollegen Roy Cole nicht zurück. Für Michael Carr beginnt ein Kampf um Leben und Tod.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Kurt Russell</actor>
-            <actor> Ray Liotta</actor>
-            <actor> Madeleine Stowe</actor>
-            <actor> Roger E. Mosley</actor>
-            <actor> Ken Lerner</actor>
-            <actor> Deborah Offner</actor>
-            <actor> Кен Лернер</actor>
-            <actor> Дино Анелло</actor>
-            <actor> Джонни Рэй МакГи</actor>
-            <actor> Энди Романо; [B]Regie[/B]: Jonathan Kaplan; [B]Drehbuch[/B]: George Putnam</actor>
-            <actor> John Katchmer</actor>
-            <actor> Lewis Colick</actor>
-        </credits>
-        <date>1992</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/15199917342639596746"/>
-        <country>Vereinigte Staaten, Japan</country>
+    <programme start="20250802014500 +0000" stop="20250802023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Schockierte Motorrad-Polizisten</sub-title>
+        <desc lang="de">Manchmal ist eine Schocktherapie die wirksamste: Um die angehenden Motorrad-Polizisten auf die Gefahren von Verkehrskontrollen, insbesondere auf Autobahnen, hinzuweisen, werden ihnen teils schreckliche Videoaufnahmen von tödlichen Unfällen bei Verkehrsanhaltungen gezeigt. Das Bildmaterial verfehlt seine Wirkung nicht. Ihre Kollegen kontrollieren währenddessen routinemäßig Autofahrer, wobei auch der Alkomattest zum Einsatz kommt.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250731013500 +0000" stop="20250731022000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Farben, Trends und starke Gefühle - Das TM Wissen Sommer-Spezial</sub-title>
-        <desc lang="de">Diesmal wird es ziemlich bunt bei Terra Mater Wissen: Grün ist die Hoffnung, durch eine rosarote Brille betrachtet ist die Welt gleich viel schöner. Und wenn die Wände in Pastell- oder Naturtönen gestrichen sind, sorgt das für ein harmonisches Umfeld. Haben Farben tatsächlich eine Wirkung auf unser Gemüt? Psychologen in Zürich haben versucht, das zu messen.  Die Ergebnisse sind überraschend. // Wie wirkt Kunst auf uns? Ist sie reine Geschmackssache oder lässt sich objektiv messen, was Kunst ist und wie sie auf uns wirkt? Reporter Reinhard Nowak hat sich einem Wissenschaftler als Proband zur Verfügung gestellt // Kein Stein, kein Strauch, und auch kein Baum im Weg. Ackerflächen sind heutzutage für Großmaschinen optimiert, und jeder Quadratmeter Anbaufläche zählt. Doch wenn es immer wärmer wird und das Klima weiter Kapriolen schlägt, sind Bäume nicht mehr das Problem, sondern die Lösung. Agrarexperten zeigen, wie das funktionieren kann // Auf dem Friedhof können Angehörige Abschied nehmen, Trauer verarbeiten und den Toten gedenken. Doch so ruhig wie es scheint, ist es oft gar nicht. Es kann dort ziemlich lebhaft zugehen. Nämlich dann, wenn aus dem Friedhof ein Biotop geworden ist. In Wien gibt es zahllose Beispiele dafür // "Terra Mater Wissen" erklärt Phänomene des Alltags und beleuchtet neuste Trends aus Forschung und Wissenschaft. Mit Astro-Physiker Gernot Grömer präsentiert das Team von "Terra Mater Wissen" jede Woche spannende Ideen und Erfindungen, die unsere Welt besser machen können.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20250802023500 +0000" stop="20250802025000 +0000" channel="PULS24">
+        <title lang="de">Adiweiss.TV</title>
+        <sub-title lang="de">02.08.2025 04:35.</sub-title>
+        <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Mode</category>
+        <icon src="https://images.mdn.ors.at/4148673534905547489"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250731022000 +0000" stop="20250731023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250802025000 +0000" stop="20250802030500 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">02.08.2025 04:50.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250731023500 +0000" stop="20250731032500 +0000" channel="ServusTV">
@@ -1542,6 +1501,39 @@
         <category lang="de">Kabarett</category>
         <icon src="https://images.mdn.ors.at/8731858871276682960"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250802011000 +0000" stop="20250802015500 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Am Brenner - Zwischen Transit und Tradition</sub-title>
+        <desc lang="de">Während sich durch das Wipptal der Verkehr in Richtung Brenner wälzt, findet man abseits der Autokolonnen und des Lärms, eine komplett andere Welt vor. Kleine Ortschaften, weite Wiesen, besondere Menschen und eine fast heilige Ruhe. Ganz anders, wie man es vom bloßen Vorbeifahren meinen möchte.&lt;br /&gt;&lt;br /&gt;Schon nach der ersten Kehre ins Venntal, fern vom Transit, übernimmt das Rauschen des Vennbachs die Untermalung. Und Rosi und Benny Kerschbaumers Ziegen, die gemeinsam mit der Bauernfamilie auf den Vennhöfen und den Almen im vielleicht verstecktesten Tal Nordtirols leben. Fünf Brüder aus Matrei haben ihr Leben ganz dem Eisen verschrieben. Von Hufeisen, über Stiegengeländer bis zu geschmiedeten Bildern – die Brüder Amort decken das ganze Spektrum der Eisenkunst ab. An der alten Brennerstraße steht seit 1902 der Alpengasthof Kasern. Wirtin Gabriela Ellers Urgroßvater war’s, der den Gasthof dorthin gestellt hat. Gebaut aus den Erträgen des Goldrauschs in Alaska. Egal ob die Lüftlmalereien, die Michael Mitterberger in Mühlbachl kunstvoll an Hauswänden malt, Almkäse oder die Matreier Schützenkompanie und ihr Herz-Jesu-Feuer, das seit dem 18. Jahrhundert in Tirol an den Berghängen Jahr für Jahr die Nacht zum Tag macht – der Brenner ist weit mehr, als nur eine Verkehrsader. Er ist eine Lebensader.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250802015500 +0000" stop="20250802022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250802022000 +0000" stop="20250802030500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Die Facetten von Wasser - Kein Tag ohne H2O</sub-title>
+        <desc lang="de">Warum ist ein im Altausseer See ein Wald? // Wie kommen Kabel ins Meer? // Wie wäre eine Welt ohne Wasser? // Wie wird die Zebramuschel zum Sensor für Wasserqualität? // Wie viel Wasser soll man trinken? // Wie gelingt der perfekte Espresso? // Wer hat den Cappuccino erfunden?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E9</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
