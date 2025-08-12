@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-12 00:52:51.647094 -->
+<!-- created on 2025-08-12 02:29:47.461240 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250811231500 +0000" stop="20250812005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Zur falschen Zeit am falschen Ort</sub-title>
-        <desc lang="de">Im August 2015 wird der 36-jährige Carl Starke in der Nähe seines Hauses in St. Augustine, Florida, erschossen. Nachbarn haben Schüsse gehört, doch es gibt keine Zeugen. Geben die Bänder der Überwachungskameras Aufschluss?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S5 E6</episode-num>
-    </programme>
-
-    <programme start="20250812005500 +0000" stop="20250812014500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Per Anhalter in den Tod</sub-title>
-        <desc lang="de">Im November 2014 wird die Leiche der 69-jährigen Clare Richardson in einem öffentlichen Park in Clarkston, Washington, gefunden. Da es keine Zeugen für die Tat gibt, beginnen die Beamten mit der Sichtung des Materials aus Überwachungskameras.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S5 E5</episode-num>
-    </programme>
 
     <programme start="20250812014500 +0000" stop="20250812023500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
@@ -627,6 +587,26 @@
         <icon src="https://images.mdn.ors.at/3579923293566923470"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E6</episode-num>
+    </programme>
+
+    <programme start="20250814013000 +0000" stop="20250814022000 +0000" channel="PULS24">
+        <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
+        <desc lang="de">Die Beamten erreicht ein Notruf, wonach ein unbekannter Mann einen Gast in einem Café mit einem Messer bedroht und schwer verletzt haben soll. Ernst Albrecht ist derweil auf dem Weg zu einer groß angelegten Demonstration gegen den Bau einer Moschee in Florisdorf. Gemeinsam mit seinen Kollegen soll er hier für Recht und Ordnung sorgen und radikale Ausschreitungen verhindern.&lt;br /&gt;&lt;br /&gt;Die Wiener Einsatzgruppe Alarmabteilung, kurz WEGA, wird dann gerufen, wenn's brenzlig wird. Einsätze mit Konflikt- und Gewaltpotenzial, wie Demonstrationen und Großveranstaltungen, gehören zu ihrem Alltagsgeschäft. Entsprechend streng wird auch beim Auswahlverfahren ausgesiebt. Andreas Mannsberger begleitet die Spezialeinheit über ein halbes Jahr lang bei diversen Einsätzen und berichtet über den risikoreichen und harten Alltag der Polizisten.</desc>
+        <date>2010</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/13291041197036520334"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250814022000 +0000" stop="20250814024500 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">14.08.2025 04:20.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250812004000 +0000" stop="20250812023000 +0000" channel="ServusTV">
@@ -1512,6 +1492,15 @@
         <category lang="de">Mystery</category>
         <icon src="https://images.mdn.ors.at/2048638035536158217"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250814014000 +0000" stop="20250814024000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
