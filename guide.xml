@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-14 00:54:10.301193 -->
+<!-- created on 2025-08-14 02:42:37.287649 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,25 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250814004000 +0000" stop="20250814013000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
-        <desc lang="de">Für die Wasserpolizisten Leo und Günther steht ein spannender Nachtdienst an: Ein Wiener meldet einen Einbruchdiebstahl in seiner Wohnung. Vor Ort finden die Beamten ein verwüstetes Zuhause vor - der Täter muss über die Terrassentüre eingestiegen sein. Außerdem kümmern sich Leo und Günther um einen Fall von häuslicher Gewalt. Die Hubschraubereinheit der Polizei fahndet unterdessen nach einem abgestürzten Segelflieger. Ob der Pilot überlebt hat, ist noch unklar.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E6</episode-num>
-    </programme>
-
-    <programme start="20250814013000 +0000" stop="20250814022000 +0000" channel="PULS24">
-        <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
-        <desc lang="de">Die Beamten erreicht ein Notruf, wonach ein unbekannter Mann einen Gast in einem Café mit einem Messer bedroht und schwer verletzt haben soll. Ernst Albrecht ist derweil auf dem Weg zu einer groß angelegten Demonstration gegen den Bau einer Moschee in Florisdorf. Gemeinsam mit seinen Kollegen soll er hier für Recht und Ordnung sorgen und radikale Ausschreitungen verhindern.&lt;br /&gt;&lt;br /&gt;Die Wiener Einsatzgruppe Alarmabteilung, kurz WEGA, wird dann gerufen, wenn's brenzlig wird. Einsätze mit Konflikt- und Gewaltpotenzial, wie Demonstrationen und Großveranstaltungen, gehören zu ihrem Alltagsgeschäft. Entsprechend streng wird auch beim Auswahlverfahren ausgesiebt. Andreas Mannsberger begleitet die Spezialeinheit über ein halbes Jahr lang bei diversen Einsätzen und berichtet über den risikoreichen und harten Alltag der Polizisten.</desc>
-        <date>2010</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/13291041197036520334"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250814022000 +0000" stop="20250814025000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -629,32 +610,24 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250814000000 +0000" stop="20250814015000 +0000" channel="ServusTV">
-        <title lang="de">Der Klient</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der elfjährige Mark Sway ist mit seinem Bruder zur falschen Zeit am falschen Platz. Durch Zufall erfährt er von einem tödlichen Geheimnis und gerät so zwischen die Fronten von FBI und Mafia. Seine einzige Hoffnung ist eine mutige junge Anwältin, die ihre Karriere und - ohne es zu ahnen - ihr Leben für ihren gejagten Klienten riskiert .</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Susan Sarandon</actor>
-            <actor> J.T. Walsh</actor>
-            <actor> Tommy Lee Jones</actor>
-            <actor> Brad Renfro</actor>
-            <actor> Mary-Louise Parker</actor>
-            <actor> Anthony Edwards; [B]Regie[/B]: Joel Schumacher; [B]Drehbuch[/B]: John Grisham</actor>
-            <actor>  Akiva Goldsman</actor>
-            <actor>  Robert Getchell</actor>
-        </credits>
-        <date>1994</date>
-        <category lang="de">Mystery</category>
-        <icon src="https://images.mdn.ors.at/2048638035536158217"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20250816012500 +0000" stop="20250816021500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
+        <desc lang="de">Wasserpolizist Erich lernt seine neue Kollegin Mariella ein. Ab sofort muss sie sich im rund hundert Kilometer großen Donaurevier zurechtfinden. Michi und Mario kontrollieren derweil eine Dame, die sie für eine illegale Prostituierte halten. Die beiden Beamten Leo und Günther fahnden nach einer vermissten Person im Bereich der Donau. Außerdem treten zwei Absolventen der Polizeischule ihren Dienst im 8. Bezirk an.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20250814015000 +0000" stop="20250814024000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+    <programme start="20250816021500 +0000" stop="20250816031000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Neben einigen kuriosen Einsätzen, führt die Wiener Polizei dieses Mal ein Roadrunner-Planquadrat durch. Lebensgefährlichen Wettfahrten im Stadtgebiet soll so ein Ende geboten werden. Die Beamten ertappen zwei Fahrzeuge, die sich mit Spitzengeschwindigkeiten von über 130 km/h duellieren. Den beiden Lenkern wird sofort der Führerschein abgenommen. Doch damit ist die Anhaltung für die jungen Männer noch nicht vorbei.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
         <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
     <programme start="20250814024000 +0000" stop="20250814032500 +0000" channel="ServusTV">
@@ -1499,6 +1472,28 @@
         <category lang="de">Theater</category>
         <icon src="https://images.mdn.ors.at/4492818251828121380"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250816005500 +0000" stop="20250816013500 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Hin über d'Alm - Zwischen Traunsee und Almtal mit Christina Ömmer</sub-title>
+        <desc lang="de">Bauern, Wirte, Förster, Kräutersammler, Schnitzer, Musikanten und Pilger - so bunt geht es zu auf der Alm in der Region Traunsee-Almtal in Oberösterreich. Christina Ömmer trifft auf Menschen, die auf vielfältige Weise das Almgebiet nutzen und erleben. Die Arbeit mit dem Vieh verlangt viel Erfahrung, ebenso wie die Pflege des Waldes. Jene, die hier oben arbeiten, geben Einblicke in ihr Leben und erzählen, was ihre Alm so besonders macht. Der Almsommer verlangt Jahr für Jahr vieles ab - erfüllt aber auch durch kostbare Momente zwischen Mensch und Natur.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250816013500 +0000" stop="20250816030500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
