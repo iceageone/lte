@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-15 00:54:20.873755 -->
+<!-- created on 2025-08-15 02:44:14.522389 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250815004000 +0000" stop="20250815013000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Diebesgut bei Buskontrollen</sub-title>
-        <desc lang="de">Bei einer Verkehrskontrolle stoßen die Beamten der Motorrad-Polizei nicht nur auf einen schwer in Mitleidenschaft gezogenen Bus mit Pilgern aus Polen, sondern auch auf einen Kleinlaster, dessen Ladung den Kontrolleuren sehr verdächtig vorkommt. Und auch die Taxifahrer der österreichischen Hauptstadt bereiten den Polizisten teilweise Sorgen. Einige nehmen die Auflagen in punkto Sicherheit nicht ganz ernst ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E7</episode-num>
-    </programme>
-
-    <programme start="20250815013000 +0000" stop="20250815022000 +0000" channel="PULS24">
-        <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
-        <desc lang="de">Die Beamten sind auf dem Weg  zu einem riskanten Einsatz in einem serbischen Lokal, um einen gesuchten Gewalttäter dingfest zu machen. Weil der Mann als äußerst gefährlich gilt, ist dabei höchste Vorsicht geboten. Außerdem macht sich die Spezialeinheit auf den Weg zu einem nahegelegenen Hochhaus, denn aus dem dritten Stock fliegen schwere Gegenstände auf die Straße. Als sich die Beamten Zutritt zu der entsprechenden Wohnung verschaffen, bietet sich ihnen ein grausamer Anblick.&lt;br /&gt;&lt;br /&gt;Die Wiener Einsatzgruppe Alarmabteilung, kurz WEGA, wird dann gerufen, wenn's brenzlig wird. Einsätze mit Konflikt- und Gewaltpotenzial, wie Demonstrationen und Großveranstaltungen, gehören zu ihrem Alltagsgeschäft. Entsprechend streng wird auch beim Auswahlverfahren ausgesiebt. Andreas Mannsberger begleitet die Spezialeinheit über ein halbes Jahr lang bei diversen Einsätzen und berichtet über den risikoreichen und harten Alltag der Polizisten.</desc>
-        <date>2010</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/13291041197036520334"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250815022000 +0000" stop="20250815025000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -186,7 +166,7 @@
         <episode-num system="onscreen">S4 E4</episode-num>
     </programme>
 
-    <programme start="20250815132000 +0000" stop="20250815141500 +0000" channel="PULS24">
+    <programme start="20250815132000 +0000" stop="20250815142000 +0000" channel="PULS24">
         <title lang="de">Pratergeschichten</title>
         <desc lang="de">Folge 5 bietet einen bunten Einblick in den Wiener Wurstelprater zu Saisonbeginn. Von Wrestling-Events bis hin zu Familiengeschichten wird die Vielfalt des Vergnügungsparks gezeigt. Das ATV-Team begleitet Praterkinder wie Linda und Christian, deren Vater Christian Sittler als Betreiber täglich vor Ort ist. Auch Paul Kolarik, der das "Luftburg" renoviert hat, gibt Einblicke in seine Arbeit.&lt;br /&gt;&lt;br /&gt;ATV zeigt zum vierten Mal in Folge das bunte, spannungsgeladene und zuweilen auch skurrile Leben des Wiener Praters. Wie sieht der Alltag der traditionsreichen Schaustellerfamilien, Rekommandeure, Bedienungen und Anlagentechniker aus? Und welche Highlights erwarten die zahlreichen Besucher? Eine Reise in den ältesten Vergnügungspark der Welt ...</desc>
         <date>2022</date>
@@ -196,7 +176,7 @@
         <episode-num system="onscreen">S5 E1</episode-num>
     </programme>
 
-    <programme start="20250815141500 +0000" stop="20250815151500 +0000" channel="PULS24">
+    <programme start="20250815142000 +0000" stop="20250815151500 +0000" channel="PULS24">
         <title lang="de">Pratergeschichten</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;ATV zeigt zum vierten Mal in Folge das bunte, spannungsgeladene und zuweilen auch skurrile Leben des Wiener Praters. Wie sieht der Alltag der traditionsreichen Schaustellerfamilien, Rekommandeure, Bedienungen und Anlagentechniker aus? Und welche Highlights erwarten die zahlreichen Besucher? Eine Reise in den ältesten Vergnügungspark der Welt ...</desc>
         <date>2013</date>
@@ -249,7 +229,7 @@
         <episode-num system="onscreen">S2 E2</episode-num>
     </programme>
 
-    <programme start="20250815200000 +0000" stop="20250815210000 +0000" channel="PULS24">
+    <programme start="20250815200000 +0000" stop="20250815210500 +0000" channel="PULS24">
         <title lang="de">Very Good For Hollywood</title>
         <desc lang="de">Immobilienverkäuferin Elizabeth verfolgt weiterhin ihren Traum zurück nach Österreich zu kommen. Die Steirerin sehnt sich nach nichts mehr als nach einem eigenen Heim in Graz. Der Verkauf einer fast außerirdischen Immobilie in der Wüste von Palm Springs soll nun das notwendige Kapital dafür bringen.&lt;br /&gt;&lt;br /&gt;Die Traumfabrik Los Angeles: Wo Glücksritter aus aller Welt nach Ruhm und Reichtum suchen, gibt es heimische Auswander:innen, die in Amerika durchgestartet sind. "Very Good For Hollywood" zeigt hautnah und authentisch, wie die Austro-Exporte in L.A. heute leben.</desc>
         <date>2024</date>
@@ -259,7 +239,7 @@
         <episode-num system="onscreen">S2 E2</episode-num>
     </programme>
 
-    <programme start="20250815210000 +0000" stop="20250815220000 +0000" channel="PULS24">
+    <programme start="20250815210500 +0000" stop="20250815220000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
         <sub-title lang="de">Der sanfte Riese</sub-title>
         <desc lang="de">Im August 2015 wird der Pfleger Torrance Cheeves in seinem Zuhause in Texas erstochen. Es gibt weder Verdächtige noch ausschlaggebende Hinweise, sodass die Polizisten mit der Sichtung von Aufnahmen aus Überwachungskameras in der Gegend beginnen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
@@ -279,7 +259,7 @@
         <episode-num system="onscreen">S5 E11</episode-num>
     </programme>
 
-    <programme start="20250815220000 +0000" stop="20250815225500 +0000" channel="PULS24">
+    <programme start="20250815220000 +0000" stop="20250815230000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
         <sub-title lang="de">Mord im Morgengrauen</sub-title>
         <desc lang="de">Wer entsorgte in einer kalten Februarnacht im Jahr 2015 den leblosen Körper der 26-jährigen Celina Petersen in einer von Seattles dunklen Gassen? Die Polizei sucht in Aufnahmen von Überwachungskameras nach einer Antwort.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
@@ -299,7 +279,7 @@
         <episode-num system="onscreen">S5 E12</episode-num>
     </programme>
 
-    <programme start="20250815225500 +0000" stop="20250815234500 +0000" channel="PULS24">
+    <programme start="20250815230000 +0000" stop="20250815234500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
         <sub-title lang="de">Probefahrt in den Tod</sub-title>
         <desc lang="de">Der mexikanisch-stämmige Autohausbesitzer Hufracio Arteaga lebt den amerikanischen Traum, bis er eines Tages in seinem Laden ermordet wird. Nach stundenlanger Sichtung von Material aus Überwachungskameras fällt den Polizisten ein mysteriöser Mann auf, der im Schatten lauert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
@@ -319,7 +299,7 @@
         <episode-num system="onscreen">S5 E9</episode-num>
     </programme>
 
-    <programme start="20250815234500 +0000" stop="20250816003000 +0000" channel="PULS24">
+    <programme start="20250815234500 +0000" stop="20250816003500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
         <sub-title lang="de">Date oder Zufallsbegegnung?</sub-title>
         <desc lang="de">Im September 2009 wird die Leiche der 27-jährigen Jessica Kalaher in ihrem Auto in Cedar Park, Texas, entdeckt. Die junge Frau wurde erwürgt, es fehlen die Autoschlüssel und ihr Geldbeutel. Die Beamten beginnen mit der Sichtung des Materials aus Überwachungskameras.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
@@ -338,7 +318,7 @@
         <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
     </programme>
 
-    <programme start="20250816003000 +0000" stop="20250816012500 +0000" channel="PULS24">
+    <programme start="20250816003500 +0000" stop="20250816012500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
         <desc lang="de">Die beiden Wasserpolizisten Mario und Leo werden aus einer Routinekontrolle herausgerissen und zu einem Familienstreit gerufen. Ein Mann soll seine Ehefrau mit einem Messer angegriffen haben. Hubschrauberpilot Martin macht in der Nacht auf seinem Kontrollflug am Flughafen Wien Schwechat zwei verdächtige Personen in der Sicherheitszone ausfindig. Für die Polizeischüler der Klasse 2209 des Bildungszentrums Wien wird es spannend: Die Abschlussprüfungen stehen an.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
         <date>2012</date>
@@ -552,23 +532,24 @@
         <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20250815003500 +0000" stop="20250815012000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Farben, Trends und starke Gefühle - Das TM Wissen Sommer-Spezial</sub-title>
-        <desc lang="de">Diesmal wird es ziemlich bunt bei Terra Mater Wissen: Grün ist die Hoffnung, durch eine rosarote Brille betrachtet ist die Welt gleich viel schöner. Und wenn die Wände in Pastell- oder Naturtönen gestrichen sind, sorgt das für ein harmonisches Umfeld. Haben Farben tatsächlich eine Wirkung auf unser Gemüt? Psychologen in Zürich haben versucht, das zu messen.  Die Ergebnisse sind überraschend. // Wie wirkt Kunst auf uns? Ist sie reine Geschmackssache oder lässt sich objektiv messen, was Kunst ist und wie sie auf uns wirkt? Reporter Reinhard Nowak hat sich einem Wissenschaftler als Proband zur Verfügung gestellt // Kein Stein, kein Strauch, und auch kein Baum im Weg. Ackerflächen sind heutzutage für Großmaschinen optimiert, und jeder Quadratmeter Anbaufläche zählt. Doch wenn es immer wärmer wird und das Klima weiter Kapriolen schlägt, sind Bäume nicht mehr das Problem, sondern die Lösung. Agrarexperten zeigen, wie das funktionieren kann // Auf dem Friedhof können Angehörige Abschied nehmen, Trauer verarbeiten und den Toten gedenken. Doch so ruhig wie es scheint, ist es oft gar nicht. Es kann dort ziemlich lebhaft zugehen. Nämlich dann, wenn aus dem Friedhof ein Biotop geworden ist. In Wien gibt es zahllose Beispiele dafür // "Terra Mater Wissen" erklärt Phänomene des Alltags und beleuchtet neuste Trends aus Forschung und Wissenschaft. Mit Astro-Physiker Gernot Grömer präsentiert das Team von "Terra Mater Wissen" jede Woche spannende Ideen und Erfindungen, die unsere Welt besser machen können.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20250817014000 +0000" stop="20250817023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
+        <desc lang="de">In Burgenland leitet die Polizei alle Fahrzeuge von der Autobahn, um verstärkte Kontrollen durchzuführen. Die Schwerpunkte der Kontrolle sind die Suche nach Diebesgut, Menschenhandel und Verkehrssünder. Als erstes sticht dem Gruppeninspektor jedoch eine Kennzeichenmanipulation ins Auge. Nach Rückfrage bei den Kollegen in Deutschland bestätigt sich der Verdacht der Polizisten: der Lenker des Lkws wird gesucht.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250815012000 +0000" stop="20250815023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250817023500 +0000" stop="20250817030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">17.08.2025 04:35.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250815023500 +0000" stop="20250815032500 +0000" channel="ServusTV">
@@ -893,7 +874,7 @@
     <programme start="20250815191000 +0000" stop="20250815201000 +0000" channel="ServusTV">
         <title lang="de">Ab in den Süden - Vom Tennengebirge bis zum Weißensee</title>
         <sub-title lang="de">Vom Tennengebirge bis zum Weißensee</sub-title>
-        <desc lang="de">Wenn im Sommer Tausende sonnenhungrige Sommerfrischler auf den Weg in den Süden drängeln, herrschen abseits der Reiserouten nahezu paradiesische Zustände. „Es ist eine gewisse Seelenruhe, die da einkehrt, wenn ich auf die Forstraße abbieg“. Für Seelenheil jedenfalls sorgen auf der Söldenhütte Benedikt Vilanek und sein Kumpel Anton Bauer. Radikal regional ist ihr kulinarisches Motto und Weltoffenheit und Lebensfreude gibt es gratis dazu. Wer will da schon weiterreisen?  Vorbei geht es an den Getreidefeldern von Emil Platzer. Hier wächst Urgetreide, der Pongauer Troad, bei dem nicht nur der Anbau, sondern vor allem die Ernte einige Herausforderungen birgt. Im Lungau angekommen, der südlichen Bastion des Salzburger Landes, liegt gut versteckt zwischen hohen Gipfeln das Riedingtal. Die echte Sensation liegt auf 1.500 Metern unterm Mosermandl, wo Evelyn Matejka die erste fleischlose Alpenvereinshütte betreibt. Ein alpiner Hotspot für exquisite Pflanzenküche. Von den mächtigen Flanken des Tennengebirges bis zu den kristallklaren Seen und sanften Hügeln in Kärnten wird nicht nur die Landschaft lieblicher. In Gmünd, bei Trabesing, werden Zuckergoscherl aus ganz Österreich glücklich gemacht. Familie Preis weiß um das geheime Rezept der berühmten Zuckerreinkerln. &lt;br /&gt;Weniger süß, dafür frech und findig sind die haarigen Bewohner der weithin sichtbaren Burg Landskron, die nach einem Ausbruch ganz Kärnten auf Trab gehalten haben. Warum also in die Ferne schweifen, wenn das Gute ja so wirklich nah liegt?&lt;br /&gt;&lt;br /&gt;Auf dem Weg Richtung Süden, vom Salzburger Land nach Kärnten. Wo viele nur vorbeirauschen, auf der Suche nach Sonne, Strand und Meer, liegen die eigentlichen Schätze am Wegesrand. Von luftigen Höhen, fleischlosen Schmankerln und  entschleunigenden Bootsfahrten auf kristallklaren Wellen – der Weg ist das Ziel!</desc>
+        <desc lang="de">Wenn im Sommer Tausende sonnenhungrige Sommerfrischler auf den Weg in den Süden drängeln, herrschen abseits der Reiserouten nahezu paradiesische Zustände. „Es ist eine gewisse Seelenruhe, die da einkehrt, wenn ich auf die Forstraße abbieg“. Für Seelenheil jedenfalls sorgen auf der Söldenhütte Benedikt Vilanek und sein Kumpel Anton Bauer. Radikal regional ist ihr kulinarisches Motto und Weltoffenheit und Lebensfreude gibt es gratis dazu. Wer will da schon weiterreisen?  Vorbei geht es an den Getreidefeldern von Emil Platzer. Hier wächst Urgetreide, der Pongauer Troad, bei dem nicht nur der Anbau, sondern vor allem die Ernte so manche Herausforderung birgt. Im Lungau angekommen, der südlichen Bastion des Salzburger Landes, liegt gut versteckt zwischen hohen Gipfeln das Riedingtal. Die echte Sensation liegt auf 1.500 Metern unterm Mosermandl, wo Evelyn Matejka die erste fleischlose Alpenvereinshütte betreibt. Ein alpiner Hotspot für exquisite Pflanzenküche. Von den mächtigen Flanken des Tennengebirges bis zu den kristallklaren Seen und sanften Hügeln in Kärnten wird nicht nur die Landschaft lieblicher. In Gmünd, bei Trabesing, werden Zuckergoscherl aus ganz Österreich glücklich gemacht. Familie Preis weiß um das geheime Rezept der berühmten Zuckerreinkerln. &lt;br /&gt;Weniger süß, dafür frech und findig sind die haarigen Bewohner der weithin sichtbaren Burg Landskron, die nach einem Ausbruch ganz Kärnten auf Trab gehalten haben. Warum also in die Ferne schweifen, wenn das Gute ja so wirklich nah liegt?&lt;br /&gt;&lt;br /&gt;Auf dem Weg Richtung Süden, vom Salzburger Land nach Kärnten. Wo viele nur vorbeirauschen, auf der Suche nach Sonne, Strand und Meer, liegen die eigentlichen Schätze am Wegesrand. Von luftigen Höhen, fleischlosen Schmankerln und  entschleunigenden Bootsfahrten auf kristallklaren Wellen – der Weg ist das Ziel!</desc>
         <credits>
             <actor>[B]Editor[/B]: Lisa Meiberger</actor>
             <actor> Tobias Diehl-Dürnberger; [B]Kamera[/B]:  Johanna Hörl</actor>
@@ -931,7 +912,7 @@
     <programme start="20250815224000 +0000" stop="20250815233000 +0000" channel="ServusTV">
         <title lang="de">Ab in den Süden - Vom Tennengebirge bis zum Weißensee</title>
         <sub-title lang="de">Vom Tennengebirge bis zum Weißensee</sub-title>
-        <desc lang="de">Wenn im Sommer Tausende sonnenhungrige Sommerfrischler auf den Weg in den Süden drängeln, herrschen abseits der Reiserouten nahezu paradiesische Zustände. „Es ist eine gewisse Seelenruhe, die da einkehrt, wenn ich auf die Forstraße abbieg“. Für Seelenheil jedenfalls sorgen auf der Söldenhütte Benedikt Vilanek und sein Kumpel Anton Bauer. Radikal regional ist ihr kulinarisches Motto und Weltoffenheit und Lebensfreude gibt es gratis dazu. Wer will da schon weiterreisen?  Vorbei geht es an den Getreidefeldern von Emil Platzer. Hier wächst Urgetreide, der Pongauer Troad, bei dem nicht nur der Anbau, sondern vor allem die Ernte einige Herausforderungen birgt. Im Lungau angekommen, der südlichen Bastion des Salzburger Landes, liegt gut versteckt zwischen hohen Gipfeln das Riedingtal. Die echte Sensation liegt auf 1.500 Metern unterm Mosermandl, wo Evelyn Matejka die erste fleischlose Alpenvereinshütte betreibt. Ein alpiner Hotspot für exquisite Pflanzenküche. Von den mächtigen Flanken des Tennengebirges bis zu den kristallklaren Seen und sanften Hügeln in Kärnten wird nicht nur die Landschaft lieblicher. In Gmünd, bei Trabesing, werden Zuckergoscherl aus ganz Österreich glücklich gemacht. Familie Preis weiß um das geheime Rezept der berühmten Zuckerreinkerln. &lt;br /&gt;Weniger süß, dafür frech und findig sind die haarigen Bewohner der weithin sichtbaren Burg Landskron, die nach einem Ausbruch ganz Kärnten auf Trab gehalten haben. Warum also in die Ferne schweifen, wenn das Gute ja so wirklich nah liegt?&lt;br /&gt;&lt;br /&gt;Auf dem Weg Richtung Süden, vom Salzburger Land nach Kärnten. Wo viele nur vorbeirauschen, auf der Suche nach Sonne, Strand und Meer, liegen die eigentlichen Schätze am Wegesrand. Von luftigen Höhen, fleischlosen Schmankerln und  entschleunigenden Bootsfahrten auf kristallklaren Wellen – der Weg ist das Ziel!</desc>
+        <desc lang="de">Wenn im Sommer Tausende sonnenhungrige Sommerfrischler auf den Weg in den Süden drängeln, herrschen abseits der Reiserouten nahezu paradiesische Zustände. „Es ist eine gewisse Seelenruhe, die da einkehrt, wenn ich auf die Forstraße abbieg“. Für Seelenheil jedenfalls sorgen auf der Söldenhütte Benedikt Vilanek und sein Kumpel Anton Bauer. Radikal regional ist ihr kulinarisches Motto und Weltoffenheit und Lebensfreude gibt es gratis dazu. Wer will da schon weiterreisen?  Vorbei geht es an den Getreidefeldern von Emil Platzer. Hier wächst Urgetreide, der Pongauer Troad, bei dem nicht nur der Anbau, sondern vor allem die Ernte so manche Herausforderung birgt. Im Lungau angekommen, der südlichen Bastion des Salzburger Landes, liegt gut versteckt zwischen hohen Gipfeln das Riedingtal. Die echte Sensation liegt auf 1.500 Metern unterm Mosermandl, wo Evelyn Matejka die erste fleischlose Alpenvereinshütte betreibt. Ein alpiner Hotspot für exquisite Pflanzenküche. Von den mächtigen Flanken des Tennengebirges bis zu den kristallklaren Seen und sanften Hügeln in Kärnten wird nicht nur die Landschaft lieblicher. In Gmünd, bei Trabesing, werden Zuckergoscherl aus ganz Österreich glücklich gemacht. Familie Preis weiß um das geheime Rezept der berühmten Zuckerreinkerln. &lt;br /&gt;Weniger süß, dafür frech und findig sind die haarigen Bewohner der weithin sichtbaren Burg Landskron, die nach einem Ausbruch ganz Kärnten auf Trab gehalten haben. Warum also in die Ferne schweifen, wenn das Gute ja so wirklich nah liegt?&lt;br /&gt;&lt;br /&gt;Auf dem Weg Richtung Süden, vom Salzburger Land nach Kärnten. Wo viele nur vorbeirauschen, auf der Suche nach Sonne, Strand und Meer, liegen die eigentlichen Schätze am Wegesrand. Von luftigen Höhen, fleischlosen Schmankerln und  entschleunigenden Bootsfahrten auf kristallklaren Wellen – der Weg ist das Ziel!</desc>
         <credits>
             <actor>[B]Editor[/B]: Lisa Meiberger</actor>
             <actor> Tobias Diehl-Dürnberger; [B]Kamera[/B]:  Johanna Hörl</actor>
@@ -1348,6 +1329,24 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/5504483531301807188"/>
         <country>Vereinigte Staaten, Kanada, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250817011500 +0000" stop="20250817024500 +0000" channel="ServusTV">
+        <title lang="de">Tom Clancy's Gnadenlos</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ein Navy-SEAL-Elitekämpfer deckt eine internationale Verschwörung auf, während er versucht, den Mord an seiner schwangeren Frau zu rächen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Michael B. Jordan</actor>
+            <actor> Jodie Turner-Smith</actor>
+            <actor> Jamie Bell</actor>
+            <actor> Guy Pearce</actor>
+            <actor> Lauren London; [B]Regie[/B]: Stefano Sollima; [B]Drehbuch[/B]: Taylor Sheridan</actor>
+            <actor> Will Staples</actor>
+            <actor> Tom Clancy</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/5376668537987766630"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
