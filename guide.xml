@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-18 00:57:36.486154 -->
+<!-- created on 2025-08-18 02:56:09.241520 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,25 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250818005000 +0000" stop="20250818014500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">Rund 400 Kilometer fahren die Beamten täglich bei ihren Kontrolltätigkeiten - ihre Fahrzeuge sind mit geeichten Tachometern ausgestattet, die vorbeifahrende Fahrzeuge auf 500 Meter kontrollieren und aufzeichnen. Zwei Polizisten sind gerade im Burgenland unterwegs, als ihnen ein besonders dreister Raser auffällt. Neben der Aufgabe, den eiligen Fahrer aufzuhalten, müssen sie auch darauf achten, die Verkehrssicherheit der anderen Lenker nicht zu gefährden.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250818014500 +0000" stop="20250818023500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
-        <desc lang="de">Während einer nächtlichen Streife bemerkt das Team der Verkehrspolizei einen Lenker, der statt der erlaubten 80 km/h mit einer Geschwindigkeit von 140 km/h unterwegs ist. Bei der Anhaltung stellt sich heraus, dass der Autofahrer zudem eine ungültige Vignette auf seinem Fahrzeug angebracht hat. Dafür wird ein ordentliches Bußgeld verhängt, doch der Raser empfindet die Strafe als zu hoch. Eine Diskussion bleibt daher nicht aus ...&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
-        <date>2013</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E3</episode-num>
-    </programme>
 
     <programme start="20250818023500 +0000" stop="20250818030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -588,67 +569,24 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250818005000 +0000" stop="20250818014000 +0000" channel="ServusTV">
-        <title lang="de">Die Zukunftsschmiede</title>
-        <sub-title lang="de">Leben im All</sub-title>
-        <desc lang="de">So könnte unser Leben außerhalb der Erde eines Tages aussehen: Der Mond ist ein Umschlagplatz für Rohstoffe und ein Weltraumhafen für Reisen ins All. Wer aus der Ferne auf den Blauen Planeten blicken will, bucht einfach einen Raumflug. Die ersten Siedler des Mars leben in einer von Robotern gebauten Station, die Luft, Wasser und Nahrungsmittel erzeugen kann. Eine neue Generation kommt auf anderen Planeten zur Welt und entwickelt die menschliche Spezies weiter. Doch welche Innovationen gibt es bereits heute? Der junge Wissenschaftler Justin Shaifer begibt sich auf eine Spurensuche: Was sind die innovativen, hochtechnologischen Wegweiser, die den Weg in eine Zukunft der Weltraumfahrt weisen? Wie könnte eines Tages die Zukunft des Menschen jenseits der Erde aussehen?&lt;br /&gt;&lt;br /&gt;Diese sechsteilige Serie, die in Nordamerika, Europa und Australien gedreht und in 4K gemastert wurde, konzentriert sich auf die spannendsten Disziplinen der heutigen Populärwissenschaft.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Matt McMullen</actor>
-            <actor> Hod Lipson</actor>
-            <actor> Samantha Brady</actor>
-            <actor> Kathryn D. Sullivan</actor>
-            <actor> Laura Meredith</actor>
-            <actor> Jason Derenick</actor>
-            <actor> Robert Armiger</actor>
-            <actor> Clara Frost</actor>
-            <actor> Raj Rajkumar</actor>
-            <actor> Hao Li</actor>
-            <actor> Jane Romani</actor>
-            <actor> Vijay Kumar</actor>
-            <actor> John Donoghue</actor>
-            <actor> Amal Graafstra</actor>
-            <actor> Rajesh Rao</actor>
-            <actor> Thad Starner</actor>
-            <actor> Justin Abernethy</actor>
-            <actor> Zach Haas</actor>
-            <actor> Arto Nurmikko</actor>
-            <actor> Shivani Bigler</actor>
-            <actor> Dean Bergman</actor>
-            <actor> Ted Southern</actor>
-            <actor> Marc Levesque</actor>
-            <actor> Rebeccah Pailes-friedman</actor>
-            <actor> Joaquin Ruiz</actor>
-            <actor> John Adams</actor>
-            <actor> John Curry</actor>
-            <actor> Michael Morris; [B]GastgeberIn[/B]: Julia Ravey</actor>
-            <actor> Angel Giuffria</actor>
-            <actor> Kondwani Phiri</actor>
-            <actor> Justin J. Shaifer</actor>
-            <actor> Maren Hunsberger</actor>
-            <actor> Justin Shaifer; [B]Produzent[/B]: Christopher Webb Young</actor>
-            <actor> Jacquelyn Marker</actor>
-            <actor> Angie Allen</actor>
-            <actor> Angie Renee Allen</actor>
-            <actor> Emily McDonald</actor>
-            <actor> Kk Ng</actor>
-            <actor> Katie Dunn</actor>
-            <actor> David Cook; [B]Regie[/B]: Emma Watts; [B]Kamera[/B]: Scott Sorensen</actor>
-            <actor> Samuel Russell; [B]Editor[/B]: Satoko Sugiyama</actor>
-            <actor> Anthony Carvalho; [B]Drehbuch[/B]: Kyle McCabe</actor>
-        </credits>
+    <programme start="20250820013500 +0000" stop="20250820023000 +0000" channel="PULS24">
+        <title lang="de">Polizisten &amp; Tuner</title>
+        <desc lang="de">Die Beamten ziehen zwei junge Männer aus dem Verkehr, die durch gefährliche Fahrmanöver aufgefallen sind. Als sie die beiden Autos genauer unter die Lupe nehmen, kommt es zu einem ungeahnten Zwischenfall. Außerdem begleitet ATV die junge Tunerin Sofie beim Aussuchen neuer Teile für ihren BMW. Und ein Essenszusteller gerät in Erklärungsnot, als er sich einer polizeilichen Kontrolle unterziehen muss.&lt;br /&gt;&lt;br /&gt;ATV gewährt Einblick in die tägliche Arbeit der Verkehrspolizei und beleuchtet zudem spannende Geschichten aus der Tuning-Szene.</desc>
         <date>2020</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/15370833450591546262"/>
-        <country>Vereinigte Staaten</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/7275452536262481671"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250818014000 +0000" stop="20250818023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+    <programme start="20250820023000 +0000" stop="20250820030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">20.08.2025 04:30.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250818023500 +0000" stop="20250818032500 +0000" channel="ServusTV">
@@ -1557,6 +1495,26 @@
         <icon src="https://images.mdn.ors.at/11172081331464097353"/>
         <country>Vereinigte Staaten</country>
         <episode-num system="onscreen">S12 E22</episode-num>
+    </programme>
+
+    <programme start="20250820013000 +0000" stop="20250820023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250820023500 +0000" stop="20250820032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">20.08.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
