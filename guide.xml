@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-21 00:48:41.073394 -->
+<!-- created on 2025-08-21 02:20:59.728775 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250821004500 +0000" stop="20250821014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">In Burgenland leitet die Polizei alle Fahrzeuge von der Autobahn, um verstärkte Kontrollen durchzuführen. Die Schwerpunkte der Kontrolle sind die Suche nach Diebesgut, Menschenhandel und Verkehrssünder. Als erstes sticht dem Gruppeninspektor jedoch eine Kennzeichenmanipulation ins Auge. Nach Rückfrage bei den Kollegen in Deutschland bestätigt sich der Verdacht der Polizisten: der Lenker des Lkws wird gesucht.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250821014000 +0000" stop="20250821023000 +0000" channel="PULS24">
         <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
@@ -606,23 +597,22 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250821000000 +0000" stop="20250821015500 +0000" channel="ServusTV">
-        <title lang="de">Auch die Engel essen Bohnen</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Chicago in den 20er Jahren: Charlie, genannt "Der Dicke", verdient sein Geld als Catcher, sein Freund Sonny schlägt sich mit kleinen Gaunereien durchs Leben.  Mafiaboss Don Angelo wird auf sie aufmerksam und bietet ihnen an, als Geldeintreiber für ihn zu arbeiten. Der erhoffte Erfolg bleibt aus, sie bekommen bald Mitleid mit den Opfern. Dann interessiert sich die Polizei für sie, und schließlich zetteln sie auch noch einen  Unterweltskrieg an.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Giuliano Gemma</actor>
-            <actor> Bud Spencer</actor>
-            <actor> Robert Middleton</actor>
-            <actor> Bill Vanders</actor>
-            <actor> Riccardo Pizzuti</actor>
-            <actor> Lara Sender</actor>
-            <actor> Steffen Zacharias; [B]Regie[/B]: Enzo Barboni; [B]Drehbuch[/B]:  Tulio Demicheli</actor>
-            <actor>  Marie Claire Solleville</actor>
-        </credits>
-        <date>1973</date>
-        <category lang="de">Komödie</category>
-        <icon src="https://images.mdn.ors.at/5453065223744394308"/>
-        <country>Spanien, Italien, Frankreich</country>
+    <programme start="20250823012500 +0000" stop="20250823021500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
+        <desc lang="de">In Wien startet Busfahrer Franz seine tägliche Arbeit. Sein Arbeitsplatz ist die Autobahn und oft verbringt er dort mehr Zeit als bei seiner Familie. Heute hat er eine besonders heilige Fracht: eine Wallfahrergemeinschaft. Kurz vor der Auffahrt auf die Autobahn entscheidet die fromme Gemeinschaft im Sinn der Nächstenliebe noch Autostopper mitzunehmen. Dann geht es ans Beten - auch die zugestiegenen Gäste werden sofort ins Gebet genommen.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250823021500 +0000" stop="20250823031000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
+        <desc lang="de">In Burgenland leitet die Polizei alle Fahrzeuge von der Autobahn, um verstärkte Kontrollen durchzuführen. Die Schwerpunkte der Kontrolle sind die Suche nach Diebesgut, Menschenhandel und Verkehrssünder. Als erstes sticht dem Gruppeninspektor jedoch eine Kennzeichenmanipulation ins Auge. Nach Rückfrage bei den Kollegen in Deutschland bestätigt sich der Verdacht der Polizisten: der Lenker des Lkws wird gesucht.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250821015500 +0000" stop="20250821023500 +0000" channel="ServusTV">
@@ -1532,6 +1522,39 @@
         <category lang="de">Kabarett</category>
         <icon src="https://images.mdn.ors.at/8731858871276682960"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250823011000 +0000" stop="20250823015500 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Das Kärntner Rosental - Bienen, Büchsen &amp; Pohaca</sub-title>
+        <desc lang="de">Wilde Wiesen, klare Bäche, steile Felswänden – auf 40 Kilometern reihen sie sich im Rosental aneinander. Dazwischen: ein junger Steinmetz, der uraltem Kalkgestein der Karawanken ein neues Gesicht verleiht, eine Wirtin, die einst rar gewordene Brillenschafe züchtet oder die Carnica Biene, die hier tausendfach beheimatet, die gesamte Region im Kärntner Süden zum Bienenland macht.&lt;br /&gt;&lt;br /&gt;Die Büchsenmacherkunst, ein von der UNESCO geschütztes immaterielles Kulturerbe, wird in Ferlach heute noch hoch gehalten. Ebenso das kulinarische Erbe, das sich auch durch die slowenischstämmige Bevölkerung im Tal einen ganz besonderen Charakter bewahrt hat. Das Rosental - von der Drau und den Karawanken gleichermaßen geprägt - ist ein großes Paradies im Kleinen.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250823015500 +0000" stop="20250823022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250823022000 +0000" stop="20250823031000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Mediterran isst gesund - Warum wird im Süden gesünder gegessen?</sub-title>
+        <desc lang="de">P.M. Wissen" erklärt Phänomene des Alltags, schaut in Labore und Werkstätten und zeigt, wo und wie gerade Zukunft entsteht. Gemeinsam mit Astro-Physiker Gernot Grömer begibt sich das Team von "P.M. Wissen" jede Woche auf eine Reise zu Ideen, die vor kurzem noch Science-Fiction waren.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E183</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
