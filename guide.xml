@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-22 00:50:43.965186 -->
+<!-- created on 2025-08-22 02:22:33.183661 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250822004500 +0000" stop="20250822013500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">Rund 400 Kilometer fahren die Beamten täglich bei ihren Kontrolltätigkeiten - ihre Fahrzeuge sind mit geeichten Tachometern ausgestattet, die vorbeifahrende Fahrzeuge auf 500 Meter kontrollieren und aufzeichnen. Zwei Polizisten sind gerade im Burgenland unterwegs, als ihnen ein besonders dreister Raser auffällt. Neben der Aufgabe, den eiligen Fahrer aufzuhalten, müssen sie auch darauf achten, die Verkehrssicherheit der anderen Lenker nicht zu gefährden.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250822013500 +0000" stop="20250822023000 +0000" channel="PULS24">
         <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
@@ -569,24 +560,24 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250822004500 +0000" stop="20250822022000 +0000" channel="ServusTV">
-        <title lang="de">Colombiana</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Als Kind muss Cataleya mit ansehen, wie ihre Eltern im Auftrag des kolumbianischen Drogenbosses Don Luis ermordet werden. Fest entschlossen, den Mord zu rächen, lässt sie sich von ihrem Onkel Emilio zur Profi-Killerin ausbilden.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Zoe Saldana</actor>
-            <actor> Michael Vartan</actor>
-            <actor> Callum Blue</actor>
-            <actor> Jordi Molla</actor>
-            <actor> Lennie James</actor>
-            <actor> Amandla Stenberg</actor>
-            <actor> Cliff Curtis</actor>
-            <actor> Beto Benites; [B]Regie[/B]: Olivier Megaton; [B]Drehbuch[/B]: Luc Besson</actor>
-            <actor>  Robert Mark Kamen</actor>
-        </credits>
-        <date>2011</date>
-        <category lang="de">Action</category>
-        <icon src="https://images.mdn.ors.at/7876142051170855986"/>
-        <country>Frankreich, Vereinigte Staaten, Kanada, Mexiko, Vereinigtes Königreich</country>
+    <programme start="20250824005500 +0000" stop="20250824014500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Während einer Streife halten die Verkehrspolizisten ein Fahrzeug mit stark getönten Scheiben an. Eine Anzeige ist fällig, denn in Österreich dürfen nur typengenehmigte Scheibenfolien angebracht werden. Während der Kontrolle bemerken die Beamten zudem, dass ein Baby ungesichert im Wagen sitzt; die Mutter hatte es gestillt und deshalb auf den Schoß genommen. Die Polizisten machen den Eltern deutlich, wie rücksichtlos ihr Verhalten ist.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
+    </programme>
+
+    <programme start="20250824014500 +0000" stop="20250824023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
+        <desc lang="de">Wechselhaftes Wetter führt zu unterschiedlichen Straßenbedingungen und einem hohen Unfallrisiko. Die Mehrheit der Autofahrer passt ihr Fahrverhalten jedoch nicht den Fahrverhältnissen an. Auch hier schreitet die Polizei ein und verfolgt mit dem Zivilstreifenwagen einen Porsche mit erhöhtem Tempo. Nach dieser Amtshandlung gehen den Polizisten Lenker ins Netz die ohne Freisprecheinrichtung telefonieren. Auch ein Schnellfahrer aus Skandinavien wird angehalten.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
     <programme start="20250822022000 +0000" stop="20250822023500 +0000" channel="ServusTV">
@@ -1497,6 +1488,15 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/14727773073934457810"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250824014000 +0000" stop="20250824022500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
