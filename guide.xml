@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-23 00:47:30.728949 -->
+<!-- created on 2025-08-23 02:16:34.034525 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250823003500 +0000" stop="20250823012500 +0000" channel="PULS24">
-        <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
-        <desc lang="de">Die Beamten werden zu einem Überfall auf einen Supermarkt gerufen. Da sich der Täter offenbar noch im Laden befindet, müssen die Einsatzkräfte jeden einzelnen Gang sorgfältig durchsuchen. Außerdem kommt es bei einem sogenannten "High Risk"-Spiel zu enormen Ausschreitungen - und Oberst Ernst Albrecht schwelgt in Erinnerungen an bereits vergangene Fälle.&lt;br /&gt;&lt;br /&gt;Die Wiener Einsatzgruppe Alarmabteilung, kurz WEGA, wird dann gerufen, wenn's brenzlig wird. Einsätze mit Konflikt- und Gewaltpotenzial, wie Demonstrationen und Großveranstaltungen, gehören zu ihrem Alltagsgeschäft. Entsprechend streng wird auch beim Auswahlverfahren ausgesiebt. Andreas Mannsberger begleitet die Spezialeinheit über ein halbes Jahr lang bei diversen Einsätzen und berichtet über den risikoreichen und harten Alltag der Polizisten.</desc>
-        <date>2010</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/13291041197036520334"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250823012500 +0000" stop="20250823021500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">In Wien startet Busfahrer Franz seine tägliche Arbeit. Sein Arbeitsplatz ist die Autobahn und oft verbringt er dort mehr Zeit als bei seiner Familie. Heute hat er eine besonders heilige Fracht: eine Wallfahrergemeinschaft. Kurz vor der Auffahrt auf die Autobahn entscheidet die fromme Gemeinschaft im Sinn der Nächstenliebe noch Autostopper mitzunehmen. Dann geht es ans Beten - auch die zugestiegenen Gäste werden sofort ins Gebet genommen.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250823021500 +0000" stop="20250823031000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Leben auf der Autobahn</title>
@@ -515,27 +497,31 @@
         <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
-    <programme start="20250823003000 +0000" stop="20250823011500 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Kabarett-Legenden</title>
-        <sub-title lang="de">Alfred Dorfer</sub-title>
-        <desc lang="de">Mitte der 1980er-Jahre schnupperte Alfred Dorfer mit der von ihm mitgegründeten Kabarett-Gruppe „Schlabarett“ erstmals Bühnenluft. Die 1993 veröffentlichten Filme „Muttertag – die härtere Komödie“ und „Indien“ (gemeinsam mit Josef Hader) entwickelten sich zu Klassikern des österreichischen Films. Im selben Jahr startete Dorfer seine Solo-Karriere, in steter Begleitung seiner Band.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Mit „MA2412“ und der wöchentlichen Satire-Late-Night-Show „Dorfers Donnerstalk“ wurde er zur Kultfigur. Heute zählt Alfred Dorfer zu den wichtigsten Satirikern des deutschen Sprachraums. Rudi Dolezal portraitiert den Kabarettisten, der 2017 den Deutschen Kabarettpreis erhielt und mit seinem aktuellen Programm „und...“ sein Publikum auf ganz eigene Weise zum Nachdenken anregt. Mit Roland Düringer, Andrea Händler, Günther Paal u.v.m.&lt;br /&gt;&lt;br /&gt;Alltagsanalysen, Gesellschaftskritik, Politiksatire- Österreichs feinste Kabarettisten sind für alles zu haben: Hier werden sie porträtiert.</desc>
-        <date>2017</date>
-        <category lang="de">Kabarett</category>
-        <icon src="https://images.mdn.ors.at/8731858871276682960"/>
+    <programme start="20250825011500 +0000" stop="20250825020000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Durch den plötzlichen Wintereinbruch herrscht Chaos auf Wiens Straßen. Die Beamten der Verkehrspolizei sind im Dauereinsatz, viele Lenker sind mit den Fahrverhältnissen überfordert. Auf Gruppeninspektor Martin und Revierinspektor Robert wartet ein besonders dringender Einsatz: Mitten in einem Tunnel ist ein Pkw plötzlich stehen geblieben und lässt sich nicht mehr fortbewegen. Der Grund: Dem Lenker ist der Sprit ausgegangen.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250823011500 +0000" stop="20250823020500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Das Kärntner Rosental - Bienen, Büchsen &amp; Pohaca</sub-title>
-        <desc lang="de">Wilde Wiesen, klare Bäche, steile Felswänden – auf 40 Kilometern reihen sie sich im Rosental aneinander. Dazwischen: ein junger Steinmetz, der uraltem Kalkgestein der Karawanken ein neues Gesicht verleiht, eine Wirtin, die einst rar gewordene Brillenschafe züchtet oder die Carnica Biene, die hier tausendfach beheimatet, die gesamte Region im Kärntner Süden zum Bienenland macht.&lt;br /&gt;&lt;br /&gt;Die Büchsenmacherkunst, ein von der UNESCO geschütztes immaterielles Kulturerbe, wird in Ferlach heute noch hoch gehalten. Ebenso das kulinarische Erbe, das sich auch durch die slowenischstämmige Bevölkerung im Tal einen ganz besonderen Charakter bewahrt hat. Das Rosental - von der Drau und den Karawanken gleichermaßen geprägt - ist ein großes Paradies im Kleinen.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+    <programme start="20250825020000 +0000" stop="20250825022500 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Die Farbe rot</sub-title>
+        <desc lang="de">Notruf aus dem Badezimmer einer Frau, während der Einbrecher im Schlafzimmer ist: Nach seiner Flucht bleibt seine Signatur - auf dem Bett liegen Dessous, Nagellack und ein roter Lippenstift.&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
         </credits>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
-        <country>Österreich</country>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S3 E33</episode-num>
     </programme>
 
     <programme start="20250823020500 +0000" stop="20250823022000 +0000" channel="ServusTV">
@@ -1435,6 +1421,19 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/4038421350906998493"/>
         <country>Deutschland, Österreich</country>
+    </programme>
+
+    <programme start="20250825005500 +0000" stop="20250825023500 +0000" channel="ServusTV">
+        <title lang="de">Ride back to Freedom</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Auf seiner geliebten Vespa hat sich der österreichische Regisseur Hermann Weiskopf im ersten Corona-Sommer gleich nach dem ersten COVID-19-Lockdown auf einen Roadtrip durch Italien begeben, um herauszufinden, wieviel Freiheit den Menschen dort, aber auch ihm selbst bedeutet.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Hermann Weiskopf; [B]Drehbuch[/B]: Peter Mair</actor>
+            <actor> Kirsten Ossoinig; [B]Kamera[/B]: Bernhard Freinademetz; [B]Editor[/B]: Enrico Carrozzino; [B]Produzent[/B]: Loris Danielli</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/17044744648064623473"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
