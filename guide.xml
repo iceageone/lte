@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-24 00:56:09.483406 -->
+<!-- created on 2025-08-24 02:45:11.405719 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250824005000 +0000" stop="20250824014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
-        <desc lang="de">Während einer Streife halten die Verkehrspolizisten ein Fahrzeug mit stark getönten Scheiben an. Eine Anzeige ist fällig, denn in Österreich dürfen nur typengenehmigte Scheibenfolien angebracht werden. Während der Kontrolle bemerken die Beamten zudem, dass ein Baby ungesichert im Wagen sitzt; die Mutter hatte es gestillt und deshalb auf den Schoß genommen. Die Polizisten machen den Eltern deutlich, wie rücksichtlos ihr Verhalten ist.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
-        <date>2013</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E6</episode-num>
-    </programme>
-
-    <programme start="20250824014000 +0000" stop="20250824023500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">Wechselhaftes Wetter führt zu unterschiedlichen Straßenbedingungen und einem hohen Unfallrisiko. Die Mehrheit der Autofahrer passt ihr Fahrverhalten jedoch nicht den Fahrverhältnissen an. Auch hier schreitet die Polizei ein und verfolgt mit dem Zivilstreifenwagen einen Porsche mit erhöhtem Tempo. Nach dieser Amtshandlung gehen den Polizisten Lenker ins Netz die ohne Freisprecheinrichtung telefonieren. Auch ein Schnellfahrer aus Skandinavien wird angehalten.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E4</episode-num>
-    </programme>
 
     <programme start="20250824023500 +0000" stop="20250824030000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -552,33 +532,50 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250823235000 +0000" stop="20250824014000 +0000" channel="ServusTV">
-        <title lang="de">Sieben</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Detective Sommerset und sein junger Kollege Mills sind einem Killer auf der Spur, dessen Morde einem klaren Muster folgen: sie sind an die sieben Todsünden des Christentums angelehnt. Obwohl der Mörder den beiden Ermittlern Hinweise gibt, gelingt es ihnen nicht, ihm das Handwerk zu legen _ bis auch die beiden letzten Opfer der Mordserie ihr Ende finden.</desc>
+    <programme start="20250826014500 +0000" stop="20250826021000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Wo ist Charlie?</sub-title>
+        <desc lang="de">Bei einer Aufbahrung ist der Sarg leer und der Tote verschwunden. Wurde die Leiche versehentlich eingeäschert oder sollte ein Verbrechen vertuscht werden? Doch dann postet der angeblich Verstorbene plötzlich neue Urlaubsfotos aus dem Ausland. Die Kommissare Daniela Stamm und Philipp Stehler folgen der Spur und kommen so auf ein viel größeres Geheimnis ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Morgan Freeman</actor>
-            <actor> Brad Pitt</actor>
-            <actor> Kevin Spacey</actor>
-            <actor> Andrew Kevin Walker</actor>
-            <actor> Daniel Zacapa</actor>
-            <actor> Gwyneth Paltrow</actor>
-            <actor> John Cassini</actor>
-            <actor> Bob Mack</actor>
-            <actor> Peter Crombie; [B]Regie[/B]: David Fincher</actor>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
         </credits>
-        <date>1995</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/14727773073934457810"/>
-        <country>Vereinigte Staaten</country>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S3 E34</episode-num>
     </programme>
 
-    <programme start="20250824014000 +0000" stop="20250824022500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+    <programme start="20250826021000 +0000" stop="20250826023000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Der Geruch des Mörders</sub-title>
+        <desc lang="de">Die Tote aus der Morgen-Show: Eine deutsch-afrikanische Moderatorin wird auf der Straße erschossen. Die Kommissare stoßen auf ein Netz aus Neid, sexueller Belästigung und rassistischen Zuschauerkommentaren.&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Robert Ritter</actor>
+            <actor> Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
         <country>Deutschland</country>
+        <episode-num system="onscreen">S2 E94</episode-num>
+    </programme>
+
+    <programme start="20250826023000 +0000" stop="20250826030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">26.08.2025 04:30.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250824022500 +0000" stop="20250824031000 +0000" channel="ServusTV">
@@ -963,7 +960,6 @@
             <actor> Robert Armiger</actor>
             <actor> Clara Frost</actor>
             <actor> Raj Rajkumar</actor>
-            <actor> Maria Gloria Dominguez-Bello</actor>
             <actor> Hao Li</actor>
             <actor> Jane Romani</actor>
             <actor> Dean Bergman</actor>
@@ -987,7 +983,8 @@
             <actor> Dylan Gilert</actor>
             <actor> Rob Knight</actor>
             <actor> Jack Gilbert</actor>
-            <actor> Carolyn Edelstein; [B]GastgeberIn[/B]: Angel Giuffria</actor>
+            <actor> Carolyn Edelstein</actor>
+            <actor> Maria Gloria Dominguez-Bello; [B]GastgeberIn[/B]: Angel Giuffria</actor>
             <actor> Kondwani Phiri</actor>
             <actor> Justin J. Shaifer</actor>
             <actor> Maren Hunsberger</actor>
@@ -1493,6 +1490,26 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/16444499227857139552"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250826022000 +0000" stop="20250826023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250826023500 +0000" stop="20250826032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">26.08.2025 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
