@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-25 00:52:43.940921 -->
+<!-- created on 2025-08-25 02:27:19.295359 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250825003000 +0000" stop="20250825012000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">Die Trafficmanager der ASFINAG versehen ihren Nachtdienst auf der meistbefahrenen Autobahn Österreichs: der Tangente. Schon bald nach Dienstantritt ereignet sich ein Unfall, an dem auch ein Kind beteiligt ist. Eine psychische Belastung für die Männer und ein Einsatz, der besonderes Fingerspitzengefühl erfordert.  Der Lkw-Fahrer, der mit dem PKW kollidiert ist, steht sichtlich unter Schock.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E6</episode-num>
-    </programme>
-
-    <programme start="20250825012000 +0000" stop="20250825021000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
-        <desc lang="de">Durch den plötzlichen Wintereinbruch herrscht Chaos auf Wiens Straßen. Die Beamten der Verkehrspolizei sind im Dauereinsatz, viele Lenker sind mit den Fahrverhältnissen überfordert. Auf Gruppeninspektor Martin und Revierinspektor Robert wartet ein besonders dringender Einsatz: Mitten in einem Tunnel ist ein Pkw plötzlich stehen geblieben und lässt sich nicht mehr fortbewegen. Der Grund: Dem Lenker ist der Sprit ausgegangen.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
-        <date>2013</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E5</episode-num>
-    </programme>
 
     <programme start="20250825021000 +0000" stop="20250825023000 +0000" channel="PULS24">
         <title lang="de">K11 - Die neuen Fälle</title>
@@ -574,23 +554,31 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20250824232500 +0000" stop="20250825005500 +0000" channel="ServusTV">
-        <title lang="de">Lautlose Morde</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Investmentbanker Andreas Mersfeld steht kurz vor einem weiteren, erfolgreichen Deal. Doch dann erreicht ihn die Nachricht, dass seine depressive Frau Julia sich das Leben genommen hat.</desc>
+    <programme start="20250827013000 +0000" stop="20250827022500 +0000" channel="PULS24">
+        <title lang="de">Polizisten &amp; Tuner</title>
+        <desc lang="de">Die Beamten ziehen zwei junge Männer aus dem Verkehr, die durch gefährliche Fahrmanöver aufgefallen sind. Als sie die beiden Autos genauer unter die Lupe nehmen, kommt es zu einem ungeahnten Zwischenfall. Außerdem begleitet ATV die junge Tunerin Sofie beim Aussuchen neuer Teile für ihren BMW. Und ein Essenszusteller gerät in Erklärungsnot, als er sich einer polizeilichen Kontrolle unterziehen muss.&lt;br /&gt;&lt;br /&gt;ATV gewährt Einblick in die tägliche Arbeit der Verkehrspolizei und beleuchtet zudem spannende Geschichten aus der Tuning-Szene.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/7275452536262481671"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250827022500 +0000" stop="20250827024500 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">#Findet Susi</sub-title>
+        <desc lang="de">Eine erfolgreiche Podcasterin verschwindet spurlos. Die Kommissare Michael Naseband und Robert Ritter finden heraus, dass die Vermisste zur Verurteilung eines Serienkillers beigetragen hat. Als plötzlich Videos auftauchen, in denen die verschwundene Frau weinend ihren eigenen Tod ankündigt, beginnt ein Rennen gegen die Zeit ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Fritz Karl</actor>
-            <actor> Jessica Schwarz</actor>
-            <actor> Tatjana Alexander</actor>
-            <actor> Martin Brambach</actor>
-            <actor> Silvina Buchbauer</actor>
-            <actor> Detlev Eckstein</actor>
-            <actor> Rainer Egger</actor>
-            <actor> Andreas Heinzel; [B]Regie[/B]: Jörg Grünler</actor>
+            <actor>[B]DarstellerInnen[/B]: Robert Ritter</actor>
+            <actor> Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
         </credits>
-        <date>2010</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/4038421350906998493"/>
-        <country>Deutschland, Österreich</country>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S3 E36</episode-num>
     </programme>
 
     <programme start="20250825005500 +0000" stop="20250825023500 +0000" channel="ServusTV">
@@ -1524,6 +1512,15 @@
         <icon src="https://images.mdn.ors.at/11172081331464097353"/>
         <country>Vereinigte Staaten</country>
         <episode-num system="onscreen">S12 E27</episode-num>
+    </programme>
+
+    <programme start="20250827013000 +0000" stop="20250827023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
