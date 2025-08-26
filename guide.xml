@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-26 00:50:43.788897 -->
+<!-- created on 2025-08-26 02:23:31.894127 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,63 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250826000000 +0000" stop="20250826005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das rätselhafte Verschwinden</sub-title>
-        <desc lang="de">Die 24-jährige Studentin Annie Le wird kurz vor ihrer Hochzeit tot in einem Gebäude ihrer Universität aufgefunden. Wer steckt hinter der grausamen Tat und geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E4</episode-num>
-    </programme>
-
-    <programme start="20250826005500 +0000" stop="20250826014000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im Club</sub-title>
-        <desc lang="de">Der 25-jährige Josh Richards wird im Dezember 2013 in einem Nachtclub erschossen. Der Tatort gleicht einer Hinrichtung. Es gibt weder Zeugen noch ein Motiv für die Tat. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Mörder?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E3</episode-num>
-    </programme>
-
-    <programme start="20250826014000 +0000" stop="20250826020000 +0000" channel="PULS24">
-        <title lang="de">K11 - Die neuen Fälle</title>
-        <sub-title lang="de">Wo ist Charlie?</sub-title>
-        <desc lang="de">Bei einer Aufbahrung ist der Sarg leer und der Tote verschwunden. Wurde die Leiche versehentlich eingeäschert oder sollte ein Verbrechen vertuscht werden? Doch dann postet der angeblich Verstorbene plötzlich neue Urlaubsfotos aus dem Ausland. Die Kommissare Daniela Stamm und Philipp Stehler folgen der Spur und kommen so auf ein viel größeres Geheimnis ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
-            <actor> Michael Naseband</actor>
-            <actor> Philipp Stehler</actor>
-            <actor> Daniela Stamm</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S3 E34</episode-num>
-    </programme>
 
     <programme start="20250826020000 +0000" stop="20250826022500 +0000" channel="PULS24">
         <title lang="de">K11 - Die neuen Fälle</title>
@@ -597,23 +540,50 @@
         <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20250826002500 +0000" stop="20250826022000 +0000" channel="ServusTV">
-        <title lang="de">Stirb langsam - Jetzt erst recht</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;John McClane bekommt es diesmal mit einem mysteriösen Hightech-Terroristen namens Simon zu tun, der in ganz Manhattan tödliche Bomben versteckt hat. Hilfe erhält John von dem schwarzen Ladenbesitzer Zeus, der eher durch Zufall zum Partner des normalerweise als Einzelkämpfer arbeitenden Polizisten wird. Quer durch New York hetzt Simon das ungleiche Gespann durch telefonisch übermittelte Rätselhinweise von einer Bombe zur nächsten...</desc>
+    <programme start="20250828013500 +0000" stop="20250828020000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Das Grab der Braut</sub-title>
+        <desc lang="de">Vom Pferd tottrampeln lassen, das war der Mordplan bei einem perfiden Anschlag auf dem idyllischen Reiterhof. Kurz vor der opulenten Hochzeit der Gestütstochter wird die Wedding-Planerin blutend im Stall gefunden. Die Kommissarinnen Daniela Stamm und Lilli Richter haben nun die äußerst schwierige Aufgabe herauszufinden, wer das Pferd zu dieser Bluttat getrieben hat ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Bruce Willis</actor>
-            <actor> Jeremy Irons</actor>
-            <actor> Samuel L. Jackson</actor>
-            <actor> Graham Greene</actor>
-            <actor> Colleen Camp</actor>
-            <actor> Anthony Peck</actor>
-            <actor> Larry Bryggman; [B]Regie[/B]: John McTiernan; [B]Drehbuch[/B]:  Jonathan Hensleigh</actor>
-            <actor> Roderick Thorp</actor>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
+            <actor> Lilli Richter</actor>
         </credits>
-        <date>1995</date>
-        <category lang="de">Action</category>
-        <icon src="https://images.mdn.ors.at/16444499227857139552"/>
-        <country>Vereinigte Staaten</country>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S2 E88</episode-num>
+    </programme>
+
+    <programme start="20250828020000 +0000" stop="20250828022000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Die Farbe rot</sub-title>
+        <desc lang="de">Notruf aus dem Badezimmer einer Frau, während der Einbrecher im Schlafzimmer ist: Nach seiner Flucht bleibt seine Signatur - auf dem Bett liegen Dessous, Nagellack und ein roter Lippenstift.&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S3 E33</episode-num>
+    </programme>
+
+    <programme start="20250828022000 +0000" stop="20250828024500 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">28.08.2025 04:20.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250826022000 +0000" stop="20250826023500 +0000" channel="ServusTV">
@@ -1517,6 +1487,25 @@
         <category lang="de">Komödie</category>
         <icon src="https://images.mdn.ors.at/17963882333201282755"/>
         <country>Italien, Vereinigte Staaten, Brasilien</country>
+    </programme>
+
+    <programme start="20250828012000 +0000" stop="20250828020500 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Welche Hausmittel helfen? // Kann jeder fliegen? // Schöner wohnen mit Solarfassade?</sub-title>
+        <desc lang="de">Themen: Was verrät steinzeitlicher Müll? // Warum wurde Tutanchamun eilig bestattet? // Welche Frau machte den Benz zum Erfolgsauto? // Alles über Photovoltaik // Können Solarfassaden Gebäude verschönern? // Kann jeder ein Flugzeug fliegen? // Wie wirksam sind Hausmittel? // Warum schrumpfen in der Kalahari-Wüste die Erdmännchen? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250828020500 +0000" stop="20250828023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
