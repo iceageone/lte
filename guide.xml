@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-30 00:45:04.526465 -->
+<!-- created on 2025-08-30 02:10:22.726472 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250830002500 +0000" stop="20250830012000 +0000" channel="PULS24">
-        <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
-        <desc lang="de">Ernst Albrecht und seine Spezialeinheit werden zu einem Einsatz in Ottakring gerufen. Serbische Fußballfans blockieren hier nach einem Spiel eine wichtige Hauptstraße und die Situation droht zu eskalieren. Außerdem muss das Team eine Schlägerei in einer Nachtbar schlichten.&lt;br /&gt;&lt;br /&gt;Die Wiener Einsatzgruppe Alarmabteilung, kurz WEGA, wird dann gerufen, wenn's brenzlig wird. Einsätze mit Konflikt- und Gewaltpotenzial, wie Demonstrationen und Großveranstaltungen, gehören zu ihrem Alltagsgeschäft. Entsprechend streng wird auch beim Auswahlverfahren ausgesiebt. Andreas Mannsberger begleitet die Spezialeinheit über ein halbes Jahr lang bei diversen Einsätzen und berichtet über den risikoreichen und harten Alltag der Polizisten.</desc>
-        <date>2010</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/13291041197036520334"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250830012000 +0000" stop="20250830021000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
@@ -526,14 +517,40 @@
         <episode-num system="onscreen">S1 E9</episode-num>
     </programme>
 
-    <programme start="20250830003500 +0000" stop="20250830012000 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Kabarett-Legenden</title>
-        <sub-title lang="de">Lukas Resetarits</sub-title>
-        <desc lang="de">Mit 25 Solo-Programmen, unzähligen Film- und TV-Auftritten sowie Musikproduktionen gehört Lukas Resetarits zu den umtriebigsten und wichtigsten Vertretern der österreichischen Kunst- und Kabarettszene. Der 1947 geborene Burgenländer kann auf ein bewegtes Leben zurückblicken: Matura und Psychologie-/Philosophiestudium in Wien, danach Rocksänger und Bauhilfsarbeiter, ab 1974 Texter und Gag-Schreiber bei der Politrock-Band „Schmetterlinge“. Schon bald darauf trat Resetarits der Kabarettgruppe „Keif“ (u.a. mit Erwin Steinhauer und Wolfgang Teuschl) bei. 1977 brachte er sein Solo „Rechts Mitte Links“ heraus, mit dem er das Kabarett in Österreich erneuerte. 1980 übernahm er die Rolle des übellaunigen Majors Adolf Kottan in der Krimiserie „Kottan ermittelt“, wodurch er zur Kult-Figur wurde. &lt;br /&gt;&lt;br /&gt;Regisseur Rudi Dolezal lässt Lukas Resetarits' Karriere in der Sendereihe „Österreichische Kabarett-Legenden“ Revue passieren. Zu Wort kommen dabei u.a. seine Brüder Peter und Willi Resetarits, die Kabarettisten Werner Schneyder, Roland Düringer und Andreas Vitásek sowie Langzeit-Partner Erwin Steinhauer.&lt;br /&gt;&lt;br /&gt;Alltagsanalysen, Gesellschaftskritik, Politiksatire- Österreichs feinste Kabarettisten sind für alles zu haben: Hier werden sie porträtiert.</desc>
-        <date>2016</date>
-        <category lang="de">Kabarett</category>
-        <icon src="https://images.mdn.ors.at/8731858871276682960"/>
-        <country>Österreich</country>
+    <programme start="20250901013500 +0000" stop="20250901020000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">#Findet Susi</sub-title>
+        <desc lang="de">Eine erfolgreiche Podcasterin verschwindet spurlos. Die Kommissare Michael Naseband und Robert Ritter finden heraus, dass die Vermisste zur Verurteilung eines Serienkillers beigetragen hat. Als plötzlich Videos auftauchen, in denen die verschwundene Frau weinend ihren eigenen Tod ankündigt, beginnt ein Rennen gegen die Zeit ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Robert Ritter</actor>
+            <actor> Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S3 E36</episode-num>
+    </programme>
+
+    <programme start="20250901020000 +0000" stop="20250901022000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Das Grab der Braut</sub-title>
+        <desc lang="de">Vom Pferd tottrampeln lassen, das war der Mordplan bei einem perfiden Anschlag auf dem idyllischen Reiterhof. Kurz vor der opulenten Hochzeit der Gestütstochter wird die Wedding-Planerin blutend im Stall gefunden. Die Kommissarinnen Daniela Stamm und Lilli Richter haben nun die äußerst schwierige Aufgabe herauszufinden, wer das Pferd zu dieser Bluttat getrieben hat ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
+            <actor> Lilli Richter</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S2 E88</episode-num>
     </programme>
 
     <programme start="20250830012000 +0000" stop="20250830023000 +0000" channel="ServusTV">
@@ -1407,6 +1424,64 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/16811406179363602455"/>
         <country>Deutschland, Österreich</country>
+    </programme>
+
+    <programme start="20250901013500 +0000" stop="20250901021500 +0000" channel="ServusTV">
+        <title lang="de">Die Zukunftsschmiede</title>
+        <sub-title lang="de">Gentechnik</sub-title>
+        <desc lang="de">Die Zukunft der Gentechnik: Mittels Techniken der Genom-Editierung  werden in wenigen Wochen Impfstoffe gegen tödliche Infektionskrankheiten entwickelt, und das ohne Nebenwirkungen. Gene von Pflanzen oder Tieren werden kombiniert, um neue, hybride Organismen zu schaffen, die widerstandsfähig gegen Klimaveränderungen sind. Sogar ausgestorbene Spezies können wiederbelebt werden. Erbkrankheiten werden früh erkannt und die Mutationen rasch repariert, um Kindern ein glückliches und gesundes Leben zu ermöglichen.&lt;br /&gt;Den jungen Wissenschaftler Kondwani Phiri fasziniert, wie das Erbgut unser biologisches Schicksal und unsere Gesundheit prägt. Der Schlüssel für die Behandlung von Krankheiten wie Krebs liegt für ihn in der Gentechnik. Könnten wir unser Genom soweit verbessern, dass wir Mutter Natur übertreffen? Und somit unsere eigene Evolution bestimmen? Aber: Sollten wir das wirklich tun? Diesen Fragen geht der Wissenschaftler in der Dokumentation nach.&lt;br /&gt;&lt;br /&gt;Diese sechsteilige Serie, die in Nordamerika, Europa und Australien gedreht und in 4K gemastert wurde, konzentriert sich auf die spannendsten Disziplinen der heutigen Populärwissenschaft.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Matt McMullen</actor>
+            <actor> Hod Lipson</actor>
+            <actor> Samantha Brady</actor>
+            <actor> Kathryn D. Sullivan</actor>
+            <actor> Laura Meredith</actor>
+            <actor> Jason Derenick</actor>
+            <actor> Robert Armiger</actor>
+            <actor> Clara Frost</actor>
+            <actor> Raj Rajkumar</actor>
+            <actor> Hao Li</actor>
+            <actor> Jane Romani</actor>
+            <actor> Dean Bergman</actor>
+            <actor> John Adams</actor>
+            <actor> Shivani Bigler</actor>
+            <actor> Vijay Kumar</actor>
+            <actor> John Donoghue</actor>
+            <actor> Amal Graafstra</actor>
+            <actor> Rajesh Rao</actor>
+            <actor> Thad Starner</actor>
+            <actor> Ted Southern</actor>
+            <actor> Marc Levesque</actor>
+            <actor> Justin Abernethy</actor>
+            <actor> Zach Haas</actor>
+            <actor> Arto Nurmikko</actor>
+            <actor> Rebeccah Pailes-friedman</actor>
+            <actor> Simon Frost</actor>
+            <actor> David Liu</actor>
+            <actor> Mary Beth Dallas</actor>
+            <actor> Annabel Frost</actor>
+            <actor> Nina Frost</actor>
+            <actor> Bret Mcnabb</actor>
+            <actor> Rodolphe Barrangou</actor>
+            <actor> George Church; [B]GastgeberIn[/B]: Julia Ravey</actor>
+            <actor> Angel Giuffria</actor>
+            <actor> Justin J. Shaifer</actor>
+            <actor> Maren Hunsberger</actor>
+            <actor> Kondwani Phiri; [B]Produzent[/B]: Christopher Webb Young</actor>
+            <actor> Angie Allen</actor>
+            <actor> Jon Goodman</actor>
+            <actor> Angie Renee Allen</actor>
+            <actor> Kk Ng</actor>
+            <actor> David Cook; [B]Regie[/B]: Jacquelyn Marker</actor>
+            <actor> Emma Watts; [B]Kamera[/B]: Scott Sorensen</actor>
+            <actor> Samuel Russell; [B]Editor[/B]: Satoko Sugiyama</actor>
+            <actor> Anthony Carvalho; [B]Drehbuch[/B]: Kyle McCabe</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/4064734677218545289"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
