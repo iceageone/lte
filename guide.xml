@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-02 00:49:25.835738 -->
+<!-- created on 2025-09-02 02:19:36.897577 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,50 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250902003500 +0000" stop="20250902013000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">In Rudersdorf befindet sich die technische Prüfanstalt der Landesverkehrsabteilung Burgenland. Hier werden Fahrzeuge, die auf der Autobahn auffällig wurden, bis ins kleinste Detail überprüft. Oberstes Prinzip ist die Verkehrssicherheit, da wird auch für Reisebusse keine Ausnahme gemacht. Der Reiseleiter und seine Gäste haben dafür wenig Verständnis.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E8</episode-num>
-    </programme>
-
-    <programme start="20250902013000 +0000" stop="20250902015000 +0000" channel="PULS24">
-        <title lang="de">K11 - Die neuen Fälle</title>
-        <sub-title lang="de">Verliebt, verführt, verkauft</sub-title>
-        <desc lang="de">In einem Wohnwagen auf dem Straßenstrich wird eine schwerverletzte Frau gefunden. Was wollte die Familienmutter dort? Führte sie ein Doppelleben?&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
-            <actor> Michael Naseband</actor>
-            <actor> Philipp Stehler</actor>
-            <actor> Daniela Stamm</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S2 E104</episode-num>
-    </programme>
-
-    <programme start="20250902015000 +0000" stop="20250902021500 +0000" channel="PULS24">
-        <title lang="de">K11 - Die neuen Fälle</title>
-        <sub-title lang="de">Flug in den Tod</sub-title>
-        <desc lang="de">In der idyllischen Berglandschaft des Chiemgaus hängt ein Gleitschirmflieger tot an einem Verkehrsschild. Hat eine seiner zahlreichen Affären den Frauenschwarm vom Himmel geschossen? Die Kommissare Michael Naseband und Robert Ritter beginnen eine  waghalsige Verfolgungsjagd, hoch über den Wolken der Bergwelt ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
-            <actor> Michael Naseband</actor>
-            <actor> Philipp Stehler</actor>
-            <actor> Daniela Stamm</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S3 E24</episode-num>
-    </programme>
 
     <programme start="20250902021500 +0000" stop="20250902024000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
@@ -615,27 +571,49 @@
         <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20250901232000 +0000" stop="20250902005000 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Sport und Talk aus dem Hangar-7 am 01.09.25&lt;br /&gt;&lt;br /&gt;Gäste: Andreas Herzog (103 Länderspiele, 28 Spiele für den FC Bayern), Alexander Zickler (214 Spiele für den FC Bayern), Christian Falk (Fußball-Chef der BILD-Gruppe)&lt;br /&gt;&lt;br /&gt;Mia warn mir – warum sich der FC Bayern auf dem Transfermarkt schwerer tut.&lt;br /&gt;Am 1. September schließt das Transferfenster – und damit auch eine schwierige Zeit für den FC Bayern München. Denn im Gegensatz zu früher, tut sich der aktuelle deutsche Meister schwerer damit, seine Wunschspieler an die Säbener Straße zu locken – Stichworte Wirtz und Woltemade. Erste Anzeichen einer Götterdämmerung? Darüber sprechen wir im Hangar-7.&lt;br /&gt;&lt;br /&gt;HYROX – mehr als nur ein Fitnesstrend!&lt;br /&gt;Fit, fitter, HYROX – hinter diesen fünf Buchstaben verbirgt sich ein Trainings-/Wettkampfkonzept, das es mit der Aerobic-Welle der 80iger Jahre aufnehmen kann. Auf acht unterschiedlichen Stationen – unterbrochen jeweils von einem 1km Lauf – kämpfen Athletinnen und Athleten gegen die Uhr – oder auch direkt gegeneinander. Der Vorteil: Durch den standardisierten Aufbau ist sogar ein weltweiter Vergleich möglich. Eine Idee, die erstmals vor sieben Jahren öffentlich ausgetragen wurde – und die seitdem die Fitnessstudios des Planeten erobert.&lt;br /&gt;Bei Sport und Talk aus dem Hangar-7 sprechen der Erfinder des Konzeptes, Christian Toetzke, genauso wie Sportinfluencer und Aktive über den Siegeszug von HYROX. Zusätzlich wird sich Moderator Christian Baier auf einen Parcours begeben – im Wettkampf gegen Österreichs Ausdauerikone Michael Strasser.&lt;br /&gt;Gäste: Sascha Huber (Fitness Creator), Michael Strasser (Extremsportler), Imke Salander (Fitness Creatorin, HYROX Weltmeisterin), Christian Tötzke (CEO und Founder HYROX), Christian Hörl (CEO MyGym und Fitness-Branchensprecher)&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
-        <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+    <programme start="20250904013000 +0000" stop="20250904015000 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Flug in den Tod</sub-title>
+        <desc lang="de">In der idyllischen Berglandschaft des Chiemgaus hängt ein Gleitschirmflieger tot an einem Verkehrsschild. Hat eine seiner zahlreichen Affären den Frauenschwarm vom Himmel geschossen? Die Kommissare Michael Naseband und Robert Ritter beginnen eine  waghalsige Verfolgungsjagd, hoch über den Wolken der Bergwelt ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S3 E24</episode-num>
     </programme>
 
-    <programme start="20250902005000 +0000" stop="20250902014000 +0000" channel="ServusTV">
-        <title lang="de">Spektakuläre Erde</title>
-        <sub-title lang="de">Blitze</sub-title>
-        <desc lang="de">Ein unerschrockenes Team begibt sich auf lebensgefährliche Mission. Sie wollen einem Gewitter so nahe wie möglich kommen. Dabei ist ein einziger Blitz schon heißer als die Oberfläche der Sonne.&lt;br /&gt;&lt;br /&gt;Bahnbrechende Erkenntnisse und bahnbrechende Filmtechniken machen es möglich, einigen der schönsten Naturphänomene der Welt spannend nahe zu kommen.</desc>
+    <programme start="20250904015000 +0000" stop="20250904021500 +0000" channel="PULS24">
+        <title lang="de">K11 - Die neuen Fälle</title>
+        <sub-title lang="de">Alarm auf der Alm</sub-title>
+        <desc lang="de">Ein Serienvergewaltiger flieht aus der JVA und versteckt sich in den Bergen der Voralpen. In dem unwegsamen Gelände versuchen die Kommissare Michael Naseband und Robert Ritter den Flüchtigen mit Hilfe einer Drohne aufzuspüren. Doch die Zeit drängt, denn der skrupellose Triebtäter hat nur eines im Sinn: Rache! Und dafür geht er  auch über Leichen ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Kwame Augustine; [B]Regie[/B]: Ben Wilson</actor>
+            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
+            <actor> Michael Naseband</actor>
+            <actor> Philipp Stehler</actor>
+            <actor> Daniela Stamm</actor>
         </credits>
-        <date>2022</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/6508464836846120854"/>
-        <country>Vereinigtes Königreich</country>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S2 E86</episode-num>
+    </programme>
+
+    <programme start="20250904021500 +0000" stop="20250904024000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <sub-title lang="de">04.09.2025 04:15.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250902014000 +0000" stop="20250902023500 +0000" channel="ServusTV">
@@ -1469,6 +1447,26 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/13367153728969846358"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250904012000 +0000" stop="20250904020500 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Heizung für Bienen // KI gegen Ertrinken // Physik des Golfballs</sub-title>
+        <desc lang="de">Themen diesmal: Wie retten wir die Störe? // Wie wäre die Welt ohne Sand? // Wie können Bäume die Landwirtschaft retten? // Warum hat der Golfball Dellen? // Was verdanken unsere PCs dem „Manchester Baby“? // Wie schützt Künstliche Intelligenz Kinder vor Ertrinken? // Wie passen sich Korallen dem Klimawandel an? // Wie kann Wärme Bienen schützen? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E182</episode-num>
+    </programme>
+
+    <programme start="20250904020500 +0000" stop="20250904023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
