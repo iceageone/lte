@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-03 00:45:12.762308 -->
+<!-- created on 2025-09-03 02:09:47.159526 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,33 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250903003500 +0000" stop="20250903012500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">Wolfgang und Gerhard verfolgen im zivilen Streifenwagen auf der A4 Richtung Nikelsdorf drei Schnellfahrer, die ein illegales Rennen fahren. Gar nicht so leicht, sie gefahrenlos aus dem Verkehr zu ziehen. Ganz andere Herausforderungen erwarten sie beim nächsten Einsatz: der slovakische Fahrer gibt an nichts zu verstehen, erst als es um die Höhe der Strafe geht, zeigt er sich kommunikationsfreudig.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E9</episode-num>
-    </programme>
-
-    <programme start="20250903012500 +0000" stop="20250903015000 +0000" channel="PULS24">
-        <title lang="de">K11 - Die neuen Fälle</title>
-        <sub-title lang="de">Alarm auf der Alm</sub-title>
-        <desc lang="de">Ein Serienvergewaltiger flieht aus der JVA und versteckt sich in den Bergen der Voralpen. In dem unwegsamen Gelände versuchen die Kommissare Michael Naseband und Robert Ritter den Flüchtigen mit Hilfe einer Drohne aufzuspüren. Doch die Zeit drängt, denn der skrupellose Triebtäter hat nur eines im Sinn: Rache! Und dafür geht er  auch über Leichen ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
-            <actor> Michael Naseband</actor>
-            <actor> Philipp Stehler</actor>
-            <actor> Daniela Stamm</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S2 E86</episode-num>
-    </programme>
 
     <programme start="20250903015000 +0000" stop="20250903021000 +0000" channel="PULS24">
         <title lang="de">K11 - Die neuen Fälle</title>
@@ -625,23 +598,21 @@
         <episode-num system="onscreen">S6 E10</episode-num>
     </programme>
 
-    <programme start="20250902235500 +0000" stop="20250903004500 +0000" channel="ServusTV">
-        <title lang="de">Hubert ohne Staller</title>
-        <sub-title lang="de">Eine Leiche zuviel</sub-title>
-        <desc lang="de">Huberts und Girwidz’ Frühstückspause bei Barbara Hansen endet eher unappetitlich: Königspudel Amarillo kaut vor der Bäckerei genüsslich an einem menschlichen Oberschenkelknochen. Laut Dr. Fuchs stammt dieser von einem Mann. Mit Hilfe der tierischen Spürnase, die sich allerdings als wenig kooperativ entpuppt, versuchen die Polizisten den dazugehörigen Rest zu orten. Nach einigen Umwegen glauben sie sich am Ziel: ein Grab auf dem Wolfratshauser Friedhof! Merkwürdig nur, dass in besagtem Grab laut Obduktionsbericht gar kein Mann liegt. Dazu kommt, dass die Pathologin der Leiche auch noch attestiert, vor 15 Jahren keines natürlichen Todes gestorben zu sein. Hubert und Girwidz dämmert es, dass sie bei der Verbrechensaufklärung noch ganz am Anfang stehen.&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
-            <actor> Hannes Ringlstetter</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Katharina Müller-Elmau</actor>
-            <actor> Mitsou Jung</actor>
-            <actor> Susu Padotzke</actor>
-        </credits>
+    <programme start="20250905010000 +0000" stop="20250905015000 +0000" channel="PULS24">
+        <title lang="de">Polizisten &amp; Tuner</title>
+        <desc lang="de">Die Wiener Beamten ziehen einen Mann aus dem Verkehr, der sich offenbar betrunken hinters Steuer gesetzt hat. Dabei ist ihm nicht einmal aufgefallen, dass er sein Auto stark beschädigt hat. Außerdem gibt ATV weitere Einblicke in die Ausbildung der angehenden Motorradpolizisten.&lt;br /&gt;&lt;br /&gt;ATV gewährt Einblick in die tägliche Arbeit der Verkehrspolizei und beleuchtet zudem spannende Geschichten aus der Tuning-Szene.</desc>
         <date>2020</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
-        <country>Deutschland</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/7275452536262481671"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250905015000 +0000" stop="20250905022000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Weekend</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/10657219629432381085"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250903004500 +0000" stop="20250903031500 +0000" channel="ServusTV">
@@ -1481,6 +1452,15 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/13808123866084608564"/>
         <country>Frankreich, Deutschland</country>
+    </programme>
+
+    <programme start="20250905012000 +0000" stop="20250905023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
