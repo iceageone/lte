@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-04 00:45:44.781228 -->
+<!-- created on 2025-09-04 02:10:02.752892 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,33 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250904003500 +0000" stop="20250904013000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
-        <desc lang="de">Wie gefährlich die Arbeit auf der Autobahn ist, wird den diensthabenden Polizisten einmal mehr klar als sie zu einem Unfall gerufen werden: ein PKW ist mit 130 km/h ungebremst in ein am Pannenstreifen stehendes Fahrzeug der ASFING gekracht. Sowohl der Lenker als auch der Mitarbeiter der Asfiang wurden schwer verletzt abtransportiert. Der Stau reicht bereits mehrere Kilometer zurück.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E7</episode-num>
-    </programme>
-
-    <programme start="20250904013000 +0000" stop="20250904015000 +0000" channel="PULS24">
-        <title lang="de">K11 - Die neuen Fälle</title>
-        <sub-title lang="de">Flug in den Tod</sub-title>
-        <desc lang="de">In der idyllischen Berglandschaft des Chiemgaus hängt ein Gleitschirmflieger tot an einem Verkehrsschild. Hat eine seiner zahlreichen Affären den Frauenschwarm vom Himmel geschossen? Die Kommissare Michael Naseband und Robert Ritter beginnen eine  waghalsige Verfolgungsjagd, hoch über den Wolken der Bergwelt ...&lt;br /&gt;&lt;br /&gt;Die Tatmotive bei Gewaltverbrechen sind oftmals vielschichtig und die Täter gewieft. Trotzdem nehmen die Ermittler tagtäglich den Kampf gegen das Verbrechen auf.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Alexandra Rietz</actor>
-            <actor> Michael Naseband</actor>
-            <actor> Philipp Stehler</actor>
-            <actor> Daniela Stamm</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7479859009294855740"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S3 E24</episode-num>
-    </programme>
 
     <programme start="20250904015000 +0000" stop="20250904021500 +0000" channel="PULS24">
         <title lang="de">K11 - Die neuen Fälle</title>
@@ -665,20 +638,14 @@
         <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20250903235000 +0000" stop="20250904012000 +0000" channel="ServusTV">
-        <title lang="de">Taktik</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Die Schwerverbrecher Alois, Hansi und Abdullah nehmen im Grazer Hochsicherheitsgefängnis drei Frauen als Geiseln. Selbstgebastelte Bomben auf dem Rücken ihrer Opfer machen klar, dass die Häftlinge zu allem bereit sind. Doch die nervenaufreibenden Verhandlungen zwischen Bandenchef Alois und der Polizei bleiben ergebnislos. Die Frauen müssen um ihr Leben fürchten. Spannender österreichischer Psychothriller mit Harald Krassnitzer, Marion Mitterhammer und Simon Hatzl.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Harald Krassnitzer</actor>
-            <actor> Simon Hatzl</actor>
-            <actor> Michou Friesz</actor>
-            <actor> Bojana Golenac</actor>
-            <actor> Marion Mitterhammer; [B]Regie[/B]: Hans-Günther Bücking</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/13367153728969846358"/>
+    <programme start="20250906012500 +0000" stop="20250906021500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Leben auf der Autobahn</title>
+        <desc lang="de">In Rudersdorf befindet sich die technische Prüfanstalt der Landesverkehrsabteilung Burgenland. Hier werden Fahrzeuge, die auf der Autobahn auffällig wurden, bis ins kleinste Detail überprüft. Oberstes Prinzip ist die Verkehrssicherheit, da wird auch für Reisebusse keine Ausnahme gemacht. Der Reiseleiter und seine Gäste haben dafür wenig Verständnis.&lt;br /&gt;&lt;br /&gt;Im Rahmen der erfolgreichen Reportage-Reihe "24h" berichtet ATV in dieser Staffel vom Leben auf der Autobahn. Die Autobahnpolizei ist täglich Temposündern, Geisterfahrern und rücksichtslosen Lkw-Fahrern auf der Spur. Aber auch wenn Unfälle passieren, müssen die Kollegen sofort zur Stelle sein. Gemeinsam mit anderen Einsatzkräften werden entsprechende Maßnahmen eingeleitet, um den Verkehr schnellstmöglich wieder gefahrenfrei zu ermöglichen.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9429752885026182277"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E8</episode-num>
     </programme>
 
     <programme start="20250904012000 +0000" stop="20250904021000 +0000" channel="ServusTV">
@@ -1506,6 +1473,25 @@
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250906005000 +0000" stop="20250906013500 +0000" channel="ServusTV">
+        <title lang="de">Österreichische Kabarett-Legenden</title>
+        <sub-title lang="de">Erwin Steinhauer</sub-title>
+        <desc lang="de">Scharfzüngiger Gesellschaftskritiker und Wegbereiter des österreichischen Kabaretts: Erwin Steinhauer im Portrait.&lt;br /&gt;&lt;br /&gt;Alltagsanalysen, Gesellschaftskritik, Politiksatire- Österreichs feinste Kabarettisten sind für alles zu haben: Hier werden sie porträtiert.</desc>
+        <date>2017</date>
+        <category lang="de">Kabarett</category>
+        <icon src="https://images.mdn.ors.at/8731858871276682960"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250906013500 +0000" stop="20250906022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
