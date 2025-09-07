@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-07 00:52:31.540229 -->
+<!-- created on 2025-09-07 02:19:26.235472 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250907005000 +0000" stop="20250907014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Das Unfallkommando</title>
-        <desc lang="de">Die Beamten werden zu einem schweren Verkehrsunfall gerufen. Ein Motorradfahrer ist dabei auf tragische Weise ums Leben gekommen. Nun müssen die Einsatzkräfte den Unfallhergang rekonstruieren und die Angehörigen des Opfers informieren. Außerdem führen die Wiener Streifenpolizisten einen Alkoholtest bei einigen Jugendlichen durch.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250907014000 +0000" stop="20250907023500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Leben auf der Autobahn</title>
@@ -586,14 +577,22 @@
         <episode-num system="onscreen">S6 E10</episode-num>
     </programme>
 
-    <programme start="20250907004000 +0000" stop="20250907013500 +0000" channel="ServusTV">
-        <title lang="de">Formel 3</title>
-        <sub-title lang="de">Monza, Italien - Sprint Rennen</sub-title>
-        <desc lang="de">Die Formel 3 bei ServusTV in voller Länge. Alle Rennen, alle Highlights der Stars von morgen mit deutschem Kommentar.&lt;br /&gt;&lt;br /&gt;Übertragung der Formel-3-Rennen.</desc>
-        <date>2025</date>
-        <category lang="de">Motorsport</category>
-        <icon src="https://images.mdn.ors.at/8315777467211305861"/>
-        <country>Italien, Frankreich</country>
+    <programme start="20250909005500 +0000" stop="20250909014500 +0000" channel="PULS24">
+        <title lang="de">Polizisten &amp; Tuner</title>
+        <desc lang="de">Diesmal führt die Wiener Verkehrspolizei wieder Großkontrollen durch, um gegen Roadrunner und andere Verkehrssünder vorzugehen. Außerdem halten die Polizisten Alexander und Andreas einen getunten deutschen VW-Golf an und überprüfen die Verkehrssicherheit und Umweltverträglichkeit des Fahrzeugs.&lt;br /&gt;&lt;br /&gt;ATV gewährt Einblick in die tägliche Arbeit der Verkehrspolizei und beleuchtet zudem spannende Geschichten aus der Tuning-Szene.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/7275452536262481671"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250909014500 +0000" stop="20250909023500 +0000" channel="PULS24">
+        <title lang="de">Polizisten &amp; Tuner</title>
+        <desc lang="de">Die Wiener Beamten ziehen einen Mann aus dem Verkehr, der sich offenbar betrunken hinters Steuer gesetzt hat. Dabei ist ihm nicht einmal aufgefallen, dass er sein Auto stark beschädigt hat. Außerdem gibt ATV weitere Einblicke in die Ausbildung der angehenden Motorradpolizisten.&lt;br /&gt;&lt;br /&gt;ATV gewährt Einblick in die tägliche Arbeit der Verkehrspolizei und beleuchtet zudem spannende Geschichten aus der Tuning-Szene.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/7275452536262481671"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20250907013500 +0000" stop="20250907022500 +0000" channel="ServusTV">
@@ -1403,6 +1402,29 @@
         <icon src="https://images.mdn.ors.at/17315989408059486257"/>
         <country>Vereinigte Staaten, Singapur</country>
         <episode-num system="onscreen">S1 E1</episode-num>
+    </programme>
+
+    <programme start="20250909011500 +0000" stop="20250909015500 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Aliens und das Weiße Haus</sub-title>
+        <desc lang="de">Das Weiße Haus hat stets bestritten, Kenntnisse über außerirdische Raumschiffe zu haben, die die Erde besuchen. Aber Aussagen über präsidiale Begegnungen mit UFOs und andere seltsame Phänomene sind bis zurück zu George Washington zu finden. Es besteht die Möglichkeit, dass Außerirdische die amerikanischen Präsidenten überwacht und sogar beeinflusst haben.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/11172081331464097353"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20250909015500 +0000" stop="20250909023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
