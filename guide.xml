@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-10 00:46:26.637148 -->
+<!-- created on 2025-09-10 02:10:22.266466 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250910004500 +0000" stop="20250910013500 +0000" channel="PULS24">
-        <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
-        <desc lang="de">Die Beamten sind auf dem Weg  zu einem riskanten Einsatz in einem serbischen Lokal, um einen gesuchten Gewalttäter dingfest zu machen. Weil der Mann als äußerst gefährlich gilt, ist dabei höchste Vorsicht geboten. Außerdem macht sich die Spezialeinheit auf den Weg zu einem nahegelegenen Hochhaus, denn aus dem dritten Stock fliegen schwere Gegenstände auf die Straße. Als sich die Beamten Zutritt zu der entsprechenden Wohnung verschaffen, bietet sich ihnen ein grausamer Anblick.&lt;br /&gt;&lt;br /&gt;Die Wiener Einsatzgruppe Alarmabteilung, kurz WEGA, wird dann gerufen, wenn's brenzlig wird. Einsätze mit Konflikt- und Gewaltpotenzial, wie Demonstrationen und Großveranstaltungen, gehören zu ihrem Alltagsgeschäft. Entsprechend streng wird auch beim Auswahlverfahren ausgesiebt. Andreas Mannsberger begleitet die Spezialeinheit über ein halbes Jahr lang bei diversen Einsätzen und berichtet über den risikoreichen und harten Alltag der Polizisten.</desc>
-        <date>2010</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/13291041197036520334"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250910013500 +0000" stop="20250910022500 +0000" channel="PULS24">
         <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
@@ -627,21 +618,26 @@
         <episode-num system="onscreen">S6 E15</episode-num>
     </programme>
 
-    <programme start="20250909235500 +0000" stop="20250910012500 +0000" channel="ServusTV">
-        <title lang="de">Sacramento</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der alternde Gesetzeshüter Steve Judd wird damit beauftragt einen Goldtransport zu bewachen. Sein ehemaliger Weggefährte Gil Westrum und sein Kumpane Heck geleiten den Wagen ebenfalls. Was Steve nicht weiß: Seine Begleiter wollen das Gold stehlen und warten nur auf den richtigen Moment. Doch dem Plan kommt die Rettung der jungen Elsa dazwischen die den Verlauf der Geschichte auf den Kopf stellt.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Joel McCrea</actor>
-            <actor> Randolph Scott</actor>
-            <actor> Mariette Hartley</actor>
-            <actor> Ron Starr</actor>
-            <actor> Edgar Buchanan; [B]Regie[/B]: Sam Peckinpah; [B]Drehbuch[/B]: N.B. Stone Jr</actor>
-            <actor> William Roberts</actor>
-        </credits>
-        <date>1962</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/4785647645020023779"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20250912010500 +0000" stop="20250912015500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Das Unfallkommando</title>
+        <sub-title lang="de">Glimpflicher Fahrradunfall</sub-title>
+        <desc lang="de">Eine Radfahrerin hat einen Verkehrsunfall mit einem Einsatzwagen der Polizei verursacht und wird dabei zum Glück nur leicht verletzt. Als die Beamten die Frau befragen wollen, bricht diese jedoch plötzlich in Tränen aus. Außerdem wird das Unfallkommando zu einem Einsatz in den 22. Wiener Gemeindebezirk gerufen. Hier haben sich dramatischen Szenen abgespielt, sodass die Rettungskräfte sogar einen Hubschrauber zur Unterstützung anfordern müssen.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E3</episode-num>
+    </programme>
+
+    <programme start="20250912015500 +0000" stop="20250912024500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Das Unfallkommando</title>
+        <sub-title lang="de">Betrunkener Autofahrer</sub-title>
+        <desc lang="de">Die beiden Verkehrspolizisten Robert und Martin werden zu einem schweren Motorradunfall gerufen. Ein Porsche-Fahrer hat einen Biker von hinten gerammt, verletzt worden ist dabei zum Glück keiner. Genauere Ermittlungen ergeben, dass der Fahrer des PKWs stark alkoholisiert ist. Augenzeugen schildern den Beamten den Unfallhergang. Andernorts nehmen die Polizisten die Fahndung nach dem Verursacher eines Auffahrunfalls auf, der offensichtlich Fahrerflucht begangen hat.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
     <programme start="20250910012500 +0000" stop="20250910023500 +0000" channel="ServusTV">
@@ -1469,6 +1465,15 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/13808123866084608564"/>
         <country>Frankreich, Deutschland</country>
+    </programme>
+
+    <programme start="20250912012000 +0000" stop="20250912023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
