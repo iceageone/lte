@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-13 00:43:31.883539 -->
+<!-- created on 2025-09-13 02:04:00.393349 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250913004000 +0000" stop="20250913013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im Supermarkt</sub-title>
-        <desc lang="de">2013 wird der Ladenbesitzer Imran Ashgar in seinem Geschäft in Columbus, Ohio, erschossen. Mit Die Schießerei wurde mit der Kamera aufgezeichnet, und der Mörder ist auf der Flucht, Die Ermittler wollen ihn fassen, bevor er erneut tötet.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E13</episode-num>
-    </programme>
 
     <programme start="20250913013000 +0000" stop="20250913022000 +0000" channel="PULS24">
         <title lang="de">WEGA - Die Spezialeinheit der Polizei</title>
@@ -593,27 +573,25 @@
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
-    <programme start="20250913000000 +0000" stop="20250913005000 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">So schmeckt Wien</sub-title>
-        <desc lang="de">Seit Jahrhunderten ist Wien ein Mekka für Feinschmecker und Genießer. Und damit als einzige Metropole der Welt Namensgeber eines eigenständigen Speisenstils: Der Wiener Küche.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2016</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+    <programme start="20250915005500 +0000" stop="20250915014500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Während einer nächtlichen Streife bemerkt das Team der Verkehrspolizei einen Lenker, der statt der erlaubten 80 km/h mit einer Geschwindigkeit von 140 km/h unterwegs ist. Bei der Anhaltung stellt sich heraus, dass der Autofahrer zudem eine ungültige Vignette auf seinem Fahrzeug angebracht hat. Dafür wird ein ordentliches Bußgeld verhängt, doch der Raser empfindet die Strafe als zu hoch. Eine Diskussion bleibt daher nicht aus ...&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20250913005000 +0000" stop="20250913014000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Spurensuche im Honigglas - Wo sammeln Bienen ihren Nektar?</sub-title>
-        <desc lang="de">Im Tiroler Lüsental träumt Imker Richard Saxer von einer seltenen Delikatesse: Honig aus Alpenrosenblüten. Die geschützte Pflanze wächst auf rund 1500 Metern Höhe und blüht nur wenige Wochen im Jahr. Doch fliegen seine Bienen tatsächlich zu den Alpenrosen in unmittelbarer Nähe ihres Bienenstocks oder suchen sie ganz andere Blüten auf? Dieser Frage geht Molekularbiologin Dr. Corinna Wallinger an der Universität Innsbruck nach. Ein neues DNA-Analyseverfahren verrät, was sich wirklich im Honig verbirgt. Denn die darin enthaltenen Pollen geben Einblicke in das Sammelverhalten der Bienen und in die Vielfalt der alpinen Pflanzenwelt. Was lässt sich aus einem Glas Honig über Herkunft und Echtheit ablesen und wie sehr stimmen Sortenbezeichnungen mit der Realität überein?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2025</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20250915014500 +0000" stop="20250915023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Das Unfallkommando</title>
+        <sub-title lang="de">Mopedfahrt mit Konsequenzen</sub-title>
+        <desc lang="de">Die Beamten Martin und Robert sind in Wien zwei Mopedfahrern auf den Fersen. Die beiden Verkehrsteilnehmer sorgen mit ihren Fahrzeugen nicht nur für ungewohnten Lärm, sondern fahren auch auffällig. Einer der Biker muss sich einem Alkoholtest unterziehen. Am Wiener Gürtel fährt eine Radlerin über Rot und wird von einem PKW erfasst. Der Autofahrer steht unter Schock und ruft das Unfallkommando. Beim Wiener Tuningtreffen machen die Beamten Stichproben illegaler Fahrzeugumbauten.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
     <programme start="20250913014000 +0000" stop="20250913022000 +0000" channel="ServusTV">
@@ -1539,6 +1517,32 @@
         <category lang="de">Rally</category>
         <icon src="https://images.mdn.ors.at/15231857690309743180"/>
         <country>Chile</country>
+    </programme>
+
+    <programme start="20250915011500 +0000" stop="20250915013000 +0000" channel="ServusTV">
+        <title lang="de">World Rally Championship</title>
+        <sub-title lang="de">Rally Chile Bio Bío: Nachbericht</sub-title>
+        <desc lang="de">Nervenkitzel und Schwierigkeit sind garantiert, da die Strecke technische, kurvenreiche und gewundene Waldwege in der Region Biobío umfasst. Erschwerend kommt das Wetter hinzu, denn im Frühling der südlichen Hemisphäre besteht eine hohe Wahrscheinlichkeit von Regenschauern.&lt;br /&gt;&lt;br /&gt;Übertragung des Programms - FIA World Rally Championship.</desc>
+        <date>2025</date>
+        <category lang="de">Rally</category>
+        <icon src="https://images.mdn.ors.at/15231857690309743180"/>
+        <country>Chile</country>
+    </programme>
+
+    <programme start="20250915013000 +0000" stop="20250915021500 +0000" channel="ServusTV">
+        <title lang="de">Ab in die Zukunft</title>
+        <sub-title lang="de">Kommunikation von morgen</sub-title>
+        <desc lang="de">Überall Internet, simultane Übersetzung durch den Computer und sogar Telepathie? Wie wir im Jahr 2050 miteinander kommunizieren werden.&lt;br /&gt;&lt;br /&gt;„Ab in die Zukunft“ versucht einen Ausblick zu geben, wie das Leben auf der Erde im Jahr 2050 aussehen könnte. Die Dokumentarreihe stellt kreative Menschen vor, die mit ihren Ideen und Visionen neue Lösungen für die Zukunft schaffen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sigourney Weaver; [B]Kamera[/B]: Pierre-François Didek</actor>
+            <actor> Frédéric Balland</actor>
+            <actor>  Yoan Cart</actor>
+            <actor>  Pauline Curtet; [B]Produzent[/B]: Alex Fighter; [B]Drehbuch[/B]:  Hélène Le Meur; [B]Regie[/B]: Eve Minault; [B]Editor[/B]: Olivier Thion</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2059710014801030084"/>
+        <country>Frankreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
