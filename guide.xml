@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-19 00:48:43.978987 -->
+<!-- created on 2025-09-19 02:15:44.982849 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,36 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250919000500 +0000" stop="20250919005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das Böse auf dem Schulweg</sub-title>
-        <desc lang="de">Die 14-jährige Alianna DeFreeze verschwindet an einem eisigen Wintertag auf ihrem Weg zur Schule. Ihre Eltern sind ratlos, doch die Überwachungskameras geben Hinweise über den Verbleib des Mädchens. Werden die Ermittler es finden, bevor es zu spät ist?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E17</episode-num>
-    </programme>
-
-    <programme start="20250919005000 +0000" stop="20250919014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
-        <desc lang="de">Im Zuge einer sommerlichen Schwerpunktaktion überprüft das Team der Verkehrspolizei Mopeds auf unerlaubte technische Umbauten und ihre Höchstgeschwindigkeit. Besonders schnelle bzw. laute Mopeds werden deshalb einer mobilen Prüfstelle vorgeführt. Auch eine "rosa Kampfsau" muss zur Wartung. Der auf 1200 PS aufgerüstete Audi soll bei einem Viertelmeile-Berg-Beschleunigungsrennen an den Start.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
-        <date>2013</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1</episode-num>
-    </programme>
 
     <programme start="20250919014000 +0000" stop="20250919023000 +0000" channel="PULS24">
         <title lang="de">Die Tuner - Zwischen Gaspedal und Kriminal</title>
@@ -620,18 +590,25 @@
         <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20250919003500 +0000" stop="20250919012000 +0000" channel="ServusTV">
-        <title lang="de">Giganten</title>
-        <sub-title lang="de">Elefanten</sub-title>
-        <desc lang="de">Schlau, stark - und das größte Landsäugetier der Welt: Der afrikanische Elefant. Diesmal ist der Zoologe Dan O'Neill einem wahren Rekordbrecher auf der Spur.&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
-        <credits>
-            <actor>[B]Produzent[/B]: Ruth Harries</actor>
-            <actor> James Mair; [B]Regie[/B]: Robert Myler; [B]Kamera[/B]: Peter Hayns</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
-        <country>Vereinigtes Königreich</country>
+    <programme start="20250921010000 +0000" stop="20250921015000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Einsatz des Unfallkommandos</sub-title>
+        <desc lang="de">Das Unfallkommando ist immer dann gefordert, wenn es gilt, einen Unfallort zu sichern und den Hergang des Vorfalls zu rekonstruieren. Bei gleich zwei Einsätzen im Wiener Stadtgebiet ist das Geschick der Polizisten gefragt. Derweil müssen die angehenden Motorrad-Polizisten bei einem schwierigen Parcours vor ihren Prüfern bestehen.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
+    </programme>
+
+    <programme start="20250921015000 +0000" stop="20250921024500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Durch den plötzlichen Wintereinbruch herrscht Chaos auf Wiens Straßen. Die Beamten der Verkehrspolizei sind im Dauereinsatz, viele Lenker sind mit den Fahrverhältnissen überfordert. Auf Gruppeninspektor Martin und Revierinspektor Robert wartet ein besonders dringender Einsatz: Mitten in einem Tunnel ist ein Pkw plötzlich stehen geblieben und lässt sich nicht mehr fortbewegen. Der Grund: Dem Lenker ist der Sprit ausgegangen.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
     <programme start="20250919012000 +0000" stop="20250919023500 +0000" channel="ServusTV">
