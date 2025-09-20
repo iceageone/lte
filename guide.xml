@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-20 00:44:57.570198 -->
+<!-- created on 2025-09-20 02:08:24.587159 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250920000000 +0000" stop="20250920004500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das Böse auf dem Schulweg</sub-title>
-        <desc lang="de">Die 14-jährige Alianna DeFreeze verschwindet an einem eisigen Wintertag auf ihrem Weg zur Schule. Ihre Eltern sind ratlos, doch die Überwachungskameras geben Hinweise über den Verbleib des Mädchens. Werden die Ermittler es finden, bevor es zu spät ist?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E17</episode-num>
-    </programme>
-
-    <programme start="20250920004500 +0000" stop="20250920013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Aus dem Hinterhalt</sub-title>
-        <desc lang="de">Der 18-jährige Kyle Farishian arbeitet an Halloween die Spätschicht in einem Supermarkt, als er von einem maskierten Angreifer brutal überfallen wird. Die Überwachungsaufnahmen helfen den Ermittlern, den Täter aufzuspüren.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E18</episode-num>
-    </programme>
 
     <programme start="20250920013000 +0000" stop="20250920022500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Das Unfallkommando</title>
@@ -613,27 +573,34 @@
         <episode-num system="onscreen">S6 E18</episode-num>
     </programme>
 
-    <programme start="20250920003000 +0000" stop="20250920011500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Mit Conny Bürgler in Graz</sub-title>
-        <desc lang="de">Conny Bürgler taucht ein in die facettenreiche Hauptstadt der Steiermark, die auf Schritt und Tritt zu verführen weiß.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+    <programme start="20250922005000 +0000" stop="20250922013500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Das Böse auf dem Schulweg</sub-title>
+        <desc lang="de">Die 14-jährige Alianna DeFreeze verschwindet an einem eisigen Wintertag auf ihrem Weg zur Schule. Ihre Eltern sind ratlos, doch die Überwachungskameras geben Hinweise über den Verbleib des Mädchens. Werden die Ermittler es finden, bevor es zu spät ist?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2017</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
-        <country>Österreich</country>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E17</episode-num>
     </programme>
 
-    <programme start="20250920011500 +0000" stop="20250920020500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Die Kunst der Klinge - Wie echte Damaszener-Messer entstehen und mehr</sub-title>
-        <desc lang="de">In dieser Ausgabe von TM Wissen beantwortet Dr. Gernot Grömer folgende Fragen: Was ist das Geheimnis von Damaszenerstahl? // Wie entsteht ein Haus per Betondrucker? // Wie schützen Roboter den Bienenstock? // Warum haben wir einen "Stein im Brett"? // Wie retten wir den Habichtskauz? // Wie beflügeln Eulen Ingenieure? // Wie trickst und täuscht die Natur?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2025</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20250922013500 +0000" stop="20250922022500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Während einer Streife halten die Verkehrspolizisten ein Fahrzeug mit stark getönten Scheiben an. Eine Anzeige ist fällig, denn in Österreich dürfen nur typengenehmigte Scheibenfolien angebracht werden. Während der Kontrolle bemerken die Beamten zudem, dass ein Baby ungesichert im Wagen sitzt; die Mutter hatte es gestillt und deshalb auf den Schoß genommen. Die Polizisten machen den Eltern deutlich, wie rücksichtlos ihr Verhalten ist.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
     <programme start="20250920020500 +0000" stop="20250920022000 +0000" channel="ServusTV">
@@ -1545,6 +1512,21 @@
         <icon src="https://images.mdn.ors.at/10922517224870149189"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250922014000 +0000" stop="20250922022500 +0000" channel="ServusTV">
+        <title lang="de">Ab in die Zukunft</title>
+        <sub-title lang="de">Kochen von morgen</sub-title>
+        <desc lang="de">Bereit für eine erstaunliche Reise ins Jahr 2050? ServusTV zeigt, wie Ernährung in Zukunft aussehen wird.&lt;br /&gt;&lt;br /&gt;„Ab in die Zukunft“ versucht einen Ausblick zu geben, wie das Leben auf der Erde im Jahr 2050 aussehen könnte. Die Dokumentarreihe stellt kreative Menschen vor, die mit ihren Ideen und Visionen neue Lösungen für die Zukunft schaffen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sigourney Weaver; [B]Kamera[/B]: Frédéric Balland</actor>
+            <actor>  Yoan Cart</actor>
+            <actor>  Jamie Kennerley; [B]Produzent[/B]: Alex Fighter; [B]Drehbuch[/B]:  Hélène Le Meur; [B]Regie[/B]: Nathalie Labarthe; [B]Editor[/B]: Jean-Baptiste Blanc</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2059710014801030084"/>
+        <country>Frankreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
