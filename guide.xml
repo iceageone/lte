@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-23 00:46:32.327707 -->
+<!-- created on 2025-09-23 02:11:32.398696 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,35 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250923000500 +0000" stop="20250923005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Aus dem Hinterhalt</sub-title>
-        <desc lang="de">Der 18-jährige Kyle Farishian arbeitet an Halloween die Spätschicht in einem Supermarkt, als er von einem maskierten Angreifer brutal überfallen wird. Die Überwachungsaufnahmen helfen den Ermittlern, den Täter aufzuspüren.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E18</episode-num>
-    </programme>
-
-    <programme start="20250923005000 +0000" stop="20250923014500 +0000" channel="PULS24">
-        <title lang="de">Die Tuner - Zwischen Gaspedal und Kriminal</title>
-        <desc lang="de">Die "Speed Maniacs" sind auf Nachtfahrt nach Niederösterreich. Dass sie mit ihren lauten Motoren so manchen Einwohner aus dem Bett reißen, stört die Mitglieder der Autogruppe kaum. Auch die Auto-Tuner am Wiener Kahlenberg lassen sich von gesetzlichen Vorgaben nur wenig beeindrucken. Auf dem illegalen Autotreffen wird gedriftet, was das Zeug hält. Geregelter geht es auf der "Night of Wheels" in Ried zu. Hier zeigen sich Stars der Tuning-Szene wie "JP". Gefahren wird weniger.&lt;br /&gt;&lt;br /&gt;Sie lieben es, ihre Fahrzeuge in Boliden zu verwandeln - etwa durch tiefergelegte Fahrwerke oder frisierte Motoren. Auch in Österreich finden sich viele passionierte Auto-Tuner. Einige von ihnen bewegen sich mit den Anpassungen am Fahrzeug im Bereich des Legalen. Andere wiederum nehmen es mit den gesetzlichen Vorgaben nicht so ernst und wagen illegale Autorennen und verbotene Modifikationen am PKW.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/9313149030653415049"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250923014500 +0000" stop="20250923023000 +0000" channel="PULS24">
         <title lang="de">Die Tuner - Zwischen Gaspedal und Kriminal</title>
@@ -648,32 +619,25 @@
         <episode-num system="onscreen">S6 E20</episode-num>
     </programme>
 
-    <programme start="20250923003500 +0000" stop="20250923012000 +0000" channel="ServusTV">
-        <title lang="de">Evolve</title>
-        <sub-title lang="de">Heilen - Wie die Natur die Medizin revolutioniert</sub-title>
-        <desc lang="de">Der britische Biologe Patrick Aryee erforscht die regenerativen Geheimnisse der Evolution und zeigt bahnbrechende medizinische Forschung, die schon bald die Zukunft der Gesundheitsversorgung revolutionieren könnte!&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Patrick Aryee</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/2937860843089589682"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich, Singapur</country>
-        <episode-num system="onscreen">S1 E3</episode-num>
+    <programme start="20250925005000 +0000" stop="20250925014000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Einsatz des Unfallkommandos</sub-title>
+        <desc lang="de">Das Unfallkommando ist immer dann gefordert, wenn es gilt, einen Unfallort zu sichern und den Hergang des Vorfalls zu rekonstruieren. Bei gleich zwei Einsätzen im Wiener Stadtgebiet ist das Geschick der Polizisten gefragt. Derweil müssen die angehenden Motorrad-Polizisten bei einem schwierigen Parcours vor ihren Prüfern bestehen.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
-    <programme start="20250923012000 +0000" stop="20250923020000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Die harmonische Tonfrequenz</sub-title>
-        <desc lang="de">Archäologen fällt bei ihrer Arbeit auf antiken Schauplätzen weltweit auf, dass die Menschen damals viel Wert auf eine harmonische Tonfrequenz legten. Diese hat einen beachtlichen Einfluss auf das menschliche Gehirn. Klang, Ton und Musik spielen auch in den meisten Religionen eine wesentliche Rolle. Ist die richtige Frequenz womöglich der Schlüssel zur Kommunikation mit Außerirdischen?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/11172081331464097353"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20250925014000 +0000" stop="20250925023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Während einer Streife halten die Verkehrspolizisten ein Fahrzeug mit stark getönten Scheiben an. Eine Anzeige ist fällig, denn in Österreich dürfen nur typengenehmigte Scheibenfolien angebracht werden. Während der Kontrolle bemerken die Beamten zudem, dass ein Baby ungesichert im Wagen sitzt; die Mutter hatte es gestillt und deshalb auf den Schoß genommen. Die Polizisten machen den Eltern deutlich, wie rücksichtlos ihr Verhalten ist.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
     <programme start="20250923020000 +0000" stop="20250923023500 +0000" channel="ServusTV">
@@ -1542,6 +1506,15 @@
         <icon src="https://images.mdn.ors.at/12196364882271256332"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E23</episode-num>
+    </programme>
+
+    <programme start="20250925011000 +0000" stop="20250925023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
