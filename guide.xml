@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-24 00:47:25.306972 -->
+<!-- created on 2025-09-24 02:13:02.025196 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250924000500 +0000" stop="20250924005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tod im Brunnen</sub-title>
-        <desc lang="de">Eine ältere Dame wird in ihrem Zuhause brutal ermordet. Am Tatort selbst gibt es kaum Hinweise auf den Täter, doch Überwachungskameras aus einem benachbarten Laden skizzieren ein Bild von den letzten Tagen des Opfers und helfen den Ermittlern bei der Lösung des Falls.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E19</episode-num>
-    </programme>
-
-    <programme start="20250924005000 +0000" stop="20250924014500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Blutiger Verkehrsunfall</sub-title>
-        <desc lang="de">Bei einem Autounfall in Wien wird eine Frau angefahren und schwer verletzt ins Krankenhaus transportiert. Währenddessen liefert der Autofahrer eine schlüssige Erklärung für den Unfallhergang. Die verantwortlichen Polizisten bleiben dennoch skeptisch. Der in der Ausbildung befindliche Polizist Richard hat derweil seinen ersten Einsatz mit einem dienstälteren Kollegen. Schon bald müssen sie sich mit einem renitenten Motorradtuner auseinandersetzen ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E4</episode-num>
-    </programme>
 
     <programme start="20250924014500 +0000" stop="20250924023000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
@@ -641,37 +610,24 @@
         <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20250923234500 +0000" stop="20250924011000 +0000" channel="ServusTV">
-        <title lang="de">Der Schatz der Gehenkten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Nach dem Bürgerkrieg gehörten sie zur selben Bande und überfielen Banken. Doch dann gingen Jake Wade (Robert Taylor) und sein Kompagnon Clint Hollister (Richard Widmark) getrennte Wege. Jake arbeitet inzwischen als US-Marshal für die Stadt Cold Stream, während Clint weiterhin als Verbrecher sein Unwesen treibt. Als Jake erfährt, dass Clint im Gefängnis steckt, befreit er ihn. Es ist eine Art Gegenleistung, denn vor Jahren machte Clint dasselbe für Jake. Allerdings hat Clint mit seinem Ex-Partner noch eine Rechnung offen. Nach einem Banküberfall war Jake mit der Beute geflohen. Diesen Verrat hat ihm Clint nie vergeben. In Cold Stream kennt niemand die kriminelle Vergangenheit Jacks, nicht einmal seine Verlobte Peggy. Doch dann taucht Clint mit seiner Bande auf. Jake wird gezwungen, die Banditen zum Versteck des Geldes zu führen. Peggy wird als Geisel ebenfalls mitgenommen. Der Weg führt durch die Wüste bis zu einer Geisterstadt mitten in Indianergebiet. Und dort befinden sich die Comanchen gerade auf Kriegsfuß.&lt;br /&gt;&lt;br /&gt;„Der Schatz der Gehenkten“, inszeniert von Genre-Spezialist John Sturges („Stadt in Angst“, „Die glorreichen Sieben“), konzentriert sich mehr auf stimmige Charakterporträts der beiden Protagonisten als auf eine actionreiche Handlung, und wird deshalb von Kritikern dem psychologischen Western zugeordnet. Bravourös in den Hauptrollen die zwei Superstars Robert Taylor (als US-Marshal mit dunkler Vergangenheit Jake Wade) und Richard Widmark (der auf Rache sinnende Bandenchef Clint Hollister). Richard Surtees, einer der wichtigsten Kameraleute der klassischen Phase Hollywoods und zweifacher Oscargewinner („The Bad and the Beautiful”, „Ben Hur“), lieferte die grandiosen Landschaftaufnahmen im Death Valley in Kalifornien.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Robert Taylor</actor>
-            <actor> Richard Widmark</actor>
-            <actor> Patricia Owens</actor>
-            <actor> Robert Middleton</actor>
-            <actor> Henry Silva</actor>
-            <actor> DeForest Kelley</actor>
-            <actor> Burt Douglas</actor>
-            <actor> Eddie Firestone</actor>
-            <actor> Richard H Cutting</actor>
-            <actor> Richard Wildmark; [B]Regie[/B]: John Sturges; [B]Drehbuch[/B]: William Bowers</actor>
-            <actor> Marvin H. Albert; [B]Kamera[/B]: Robert Surtees; [B]Produzent[/B]: William B. Hawks</actor>
-            <actor> William B. Hawks</actor>
-        </credits>
-        <date>1958</date>
-        <category lang="de">Drama</category>
-        <icon src="https://images.mdn.ors.at/15592196891094136473"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20250926010000 +0000" stop="20250926015000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Durch den plötzlichen Wintereinbruch herrscht Chaos auf Wiens Straßen. Die Beamten der Verkehrspolizei sind im Dauereinsatz, viele Lenker sind mit den Fahrverhältnissen überfordert. Auf Gruppeninspektor Martin und Revierinspektor Robert wartet ein besonders dringender Einsatz: Mitten in einem Tunnel ist ein Pkw plötzlich stehen geblieben und lässt sich nicht mehr fortbewegen. Der Grund: Dem Lenker ist der Sprit ausgegangen.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250924011000 +0000" stop="20250924020000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Milch mit Horn - Gibt die Kuh mit Horn bessere Milch?</sub-title>
-        <desc lang="de">Diesmal bei TM Wissen: Ist Milch von Kühen mit Hörner gesünder? // Warum können wir in Österreich Polarlichter sehen? // Was hat Blüten waschen mit Insektenmonitoring zu tun? // Ist Urkorn gesünder als Weizen? // Wie funktioniert eine Uhr aus dem Mittelalter? // Warum gibt es Schmetterlinge? // Wer sind die Schöpfer der Welt aus wissenschaftlicher SIcht?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20250926015000 +0000" stop="20250926024500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
+        <desc lang="de">Während einer Streife halten die Verkehrspolizisten ein Fahrzeug mit stark getönten Scheiben an. Eine Anzeige ist fällig, denn in Österreich dürfen nur typengenehmigte Scheibenfolien angebracht werden. Während der Kontrolle bemerken die Beamten zudem, dass ein Baby ungesichert im Wagen sitzt; die Mutter hatte es gestillt und deshalb auf den Schoß genommen. Die Polizisten machen den Eltern deutlich, wie rücksichtlos ihr Verhalten ist.&lt;br /&gt;&lt;br /&gt;In der bereits 7. Staffel begleitet ATV die Verkehrspolizei im Kampf gegen Raser und Roadrunner und wirft einen Blick in die Szene der Tuning- und PS-Fans. Die Teams sind täglich unterwegs, um für Sicherheit auf Wiens Straßen zu sorgen und Lenker mit gefährlichem Fahrverhalten aus dem Verkehr zu ziehen. Handytelefonierer, fehlende Kennzeichen, ungültige Vignetten und sogar nicht vorhandene Lenkberechtigungen gehören dabei zum täglichen Geschäft.</desc>
+        <date>2013</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/9733157273585265780"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
     <programme start="20250924020000 +0000" stop="20250924023500 +0000" channel="ServusTV">
@@ -1479,6 +1435,29 @@
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/10092140308075608800"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250926011500 +0000" stop="20250926020000 +0000" channel="ServusTV">
+        <title lang="de">Giganten</title>
+        <sub-title lang="de">Löwen</sub-title>
+        <desc lang="de">Ein Jäger, der in Rudeln lebt. Die größte Raubkatze der Welt: Der afrikanische Löwe!&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
+        <credits>
+            <actor>[B]Produzent[/B]: Ruth Harries</actor>
+            <actor> James Mair; [B]Editor[/B]: Mike Kelly; [B]Regie[/B]: Robert Myler; [B]Kamera[/B]: Peter Hayns</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">Tiere</category>
+        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
+        <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20250926020000 +0000" stop="20250926023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -10299,7 +10278,7 @@
         <desc lang="de">Aus der Allianz Arena München, Deutschland.</desc>
         <date>2025</date>
         <category lang="de">Fußball</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/aZ/aZ/GNLZZGG002BPQ2F_2025-09-22T19_42_59.jpg"/>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/aZ/aZ/GNLZZGG002BW05N_2025-09-24T00_43_42.jpg"/>
     </programme>
 
     <programme start="20250926211502 +0000" stop="20250926221345 +0000" channel="Sky Showcase">
