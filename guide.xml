@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-25 00:47:18.743754 -->
+<!-- created on 2025-09-25 02:14:32.325859 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250925000500 +0000" stop="20250925005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Gewissenlos</sub-title>
-        <desc lang="de">Die 15-jährige Sierra LaMar geht wie jeden Tag zur Schule, und verschwindet spurlos. Ist sie nur eine weitere Ausreißerin oder ist ihr etwas zugestoßen? Überwachungsaufnahmen helfen, die Wahrheit ans Licht zu bringen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E20</episode-num>
-    </programme>
-
-    <programme start="20250925005000 +0000" stop="20250925014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Einsatz des Unfallkommandos</sub-title>
-        <desc lang="de">Das Unfallkommando ist immer dann gefordert, wenn es gilt, einen Unfallort zu sichern und den Hergang des Vorfalls zu rekonstruieren. Bei gleich zwei Einsätzen im Wiener Stadtgebiet ist das Geschick der Polizisten gefragt. Derweil müssen die angehenden Motorrad-Polizisten bei einem schwierigen Parcours vor ihren Prüfern bestehen.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E2</episode-num>
-    </programme>
 
     <programme start="20250925014000 +0000" stop="20250925023000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Raser &amp; Polizisten</title>
@@ -623,15 +592,44 @@
         <episode-num system="onscreen">S7 E1</episode-num>
     </programme>
 
-    <programme start="20250925003000 +0000" stop="20250925011500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Ein Ozean im Häusermeer - Backstage im Haus des Meeres</sub-title>
-        <desc lang="de">Mitten in Wien steht ein faszinierendes Paradoxon: Ein Kriegsrelikt, das heute Leben in Hülle und Fülle beherbergt. Im sechsten Bezirk hat sich ein ehemaliger Flakturm in eine maritime Oase verwandelt - das Haus des Meeres. Aber wie bringt man eigentlich einen Ozean in ein Hochhaus? TM Wissen taucht gemeinsam mit Tierarzt Jeff Schreiner in die Geheimnisse dieses vertikalen Unterwasserreichs ein. // Landwirte wie Michael Wimmer und Stefan Allinger testen in Niederösterreich mit der FH Wiener Neustadt autonom arbeitende Roboter zum Säen und Unkrautjäten. Das von Dr. Gansberger geleitete Projekt soll Personalkosten senken und Pestizideinsatz minimieren, besonders bei arbeitsintensiven Kulturen wie Kräutern. Erste Tests sind vielversprechend. Können Roboter die Landwirtschaft voranbringen? // TM Wissen untersucht die Faszination von Social-Media-Videos. Neuropsychologe Dr. Lamm erklärt Phänomene wie "Cute Aggression" bei Tierbabys, "Cringe" bei peinlichen Situationen und die beruhigende Wirkung von "Oddly Satisfying Videos". Influencerin Alisa Oberauer zeigt uns, wie diese emotionalen Reaktionen für erfolgreiche Social-Media-Inhalte genutzt werden. // Außerdem gehen wir den Fragen nach: Wie erobern Kaninchen unsere Städte? / Kann Elektrostimulation gegen Schlaflosigkeit helfen? / Und: Wie wildert man Störe aus? TM Wissen – immer mittwochs ab 20:15 Uhr bei ServusTV. Weitere Infos und die Sendungen zum Nachschauen gibt es auf ServusTV On www.servustv.com.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E23</episode-num>
+    <programme start="20250927005000 +0000" stop="20250927014000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Überfall aus dem Hinterhalt</sub-title>
+        <desc lang="de">Der 22-jährige Richard Bailey steht nur wenige Wochen vor seinem College-Abschluss und plant, als Polizist in die Fußstapfen seines Vaters zu treten, als er in den Straßen von Albany, New York, niedergeschlagen wird. Was die Ermittler auf Überwachungsvideos entdecken, wird sie in eine Katz- und Mausjagd quer durch die Stadt führen und auf Schritt und Tritt schockierende Wahrheiten ans Licht bringen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S7 E3</episode-num>
+    </programme>
+
+    <programme start="20250927014000 +0000" stop="20250927022500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Die unbekannte Tote</sub-title>
+        <desc lang="de">In Pierce County, Washington, wird die Leiche einer Frau gefunden, die im Schutz der Dunkelheit in einer Sackgasse brutal ermordet und angezündet wurde. Ihr gnadenloser Mörder ist spurlos geflohen. Ohne Identifizierung des Opfers und ohne Augenzeugen steht die Polizei vor einem harten Kampf, um den Täter zu jagen. Bilder von Überwachungskamera führen die Ermittler zu einer schockierenden Entdeckung im Haus der Frau.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S7 E4</episode-num>
     </programme>
 
     <programme start="20250925011500 +0000" stop="20250925023500 +0000" channel="ServusTV">
@@ -1470,6 +1468,48 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/11209616897171521044"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20250927011000 +0000" stop="20250927013500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen Kompakt</title>
+        <sub-title lang="de">Sensor statt Sommelier? - Kann K.I. schlechten Wein erkennen?</sub-title>
+        <desc lang="de">Röstaromen, Himbeernoten, oder doch ein Hauch von Schokolade? Die Aromen im Wein ent-stehen durch ein Zusammenspiel vieler Faktoren – unter anderem spielen Rebsorte, Standort, Klima und Boden eine Rolle. Doch was macht die Qualität von Wein aus? Und kann Künstliche Intelligenz dabei in Zukunft eine entscheidende Rolle bei der Beurteilung spielen? Fehler im Produktionsprozess – bei der Gärung zum Beispiel – können einen Wein schlimmstenfalls unge-nießbar machen. Eine neue Entwicklung vom Weincampus Neustadt in Rheinland-Pfalz soll sol-che Fehler „erschnüffeln“ können: wie eine „digitale Nase“ erfassen fünfzehn Sensoren den Gas-raum über einem Wein.&lt;br /&gt;&lt;br /&gt;"Terra Mater Wissen Kompakt" - das ist Wissen auf den Punkt gebracht.</desc>
+        <credits>
+            <actor>[B]Editor[/B]:  Michael Kobek</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/7292121723148483419"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20250927013500 +0000" stop="20250927014000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20250927014000 +0000" stop="20250927015000 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Motul Grand Prix von Japan - MotoGP: Qualifying - Vorbericht</sub-title>
+        <desc lang="de">Der Countdown zum Qualifying der MotoGP und in Full HD bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Japan</country>
+    </programme>
+
+    <programme start="20250927015000 +0000" stop="20250927023500 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Motul Grand Prix von Japan - MotoGP: Qualifying</sub-title>
+        <desc lang="de">Das Qualifying der MotoGP live und in Full HD bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Japan</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
