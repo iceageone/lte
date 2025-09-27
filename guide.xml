@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-27 00:44:55.890603 -->
+<!-- created on 2025-09-27 02:08:08.302870 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250927000500 +0000" stop="20250927005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das falsche Alibi</sub-title>
-        <desc lang="de">In Sarasota, Florida verschwindet die 11-jährige Carlie Brucia, als sie von der Pyjamaparty eines Freundes nach Hause geht. Die Ermittler verfolgenCarlies Spur zu einer Autowaschanlage, wo sie Aufnahmen ihrer Entführung entdecken.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E1</episode-num>
-    </programme>
-
-    <programme start="20250927005500 +0000" stop="20250927014000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Überfall aus dem Hinterhalt</sub-title>
-        <desc lang="de">Der 22-jährige Richard Bailey steht nur wenige Wochen vor seinem College-Abschluss und plant, als Polizist in die Fußstapfen seines Vaters zu treten, als er in den Straßen von Albany, New York, niedergeschlagen wird. Was die Ermittler auf Überwachungsvideos entdecken, wird sie in eine Katz- und Mausjagd quer durch die Stadt führen und auf Schritt und Tritt schockierende Wahrheiten ans Licht bringen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E3</episode-num>
-    </programme>
 
     <programme start="20250927014000 +0000" stop="20250927022500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -655,49 +615,13 @@
         <episode-num system="onscreen">S7 E4</episode-num>
     </programme>
 
-    <programme start="20250927002500 +0000" stop="20250927011500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">So schmeckt Salzburg</sub-title>
-        <desc lang="de">Haubenkoch Jeremias Riezler ist auf kulinarischer Reise durch das Salzburger Land und wirft einen Blick über seinen Tellerand, in die Kochtöpfe der Menschen vor Ort.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2016</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+    <programme start="20250929013000 +0000" stop="20250929022000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
+        <desc lang="de">Die Zahl der Drogendelikte ist in Graz stark angestiegen. Um die Problematik in den Griff zu bekommen, werden die Lokale rund um den Griesplatz mehrmals pro Woche kontrolliert ... Die Vermieterin eines Wohnhauses verständigt die Polizei, weil sich ein junger Mann Zugang zur gemeinsamen Wohnung von sich und seiner Freundin verschaffen will. Und ein Mann erstattet bei Bezirksinspektor Patrick und Inspektorin Sonja eine Anzeige über eine illegale Schnapsbrennerei in seinem Wohnhaus.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
         <country>Österreich</country>
-    </programme>
-
-    <programme start="20250927011500 +0000" stop="20250927013500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen Kompakt</title>
-        <sub-title lang="de">Sensor statt Sommelier? - Kann K.I. schlechten Wein erkennen?</sub-title>
-        <desc lang="de">Röstaromen, Himbeernoten, oder doch ein Hauch von Schokolade? Die Aromen im Wein ent-stehen durch ein Zusammenspiel vieler Faktoren – unter anderem spielen Rebsorte, Standort, Klima und Boden eine Rolle. Doch was macht die Qualität von Wein aus? Und kann Künstliche Intelligenz dabei in Zukunft eine entscheidende Rolle bei der Beurteilung spielen? Fehler im Produktionsprozess – bei der Gärung zum Beispiel – können einen Wein schlimmstenfalls unge-nießbar machen. Eine neue Entwicklung vom Weincampus Neustadt in Rheinland-Pfalz soll sol-che Fehler „erschnüffeln“ können: wie eine „digitale Nase“ erfassen fünfzehn Sensoren den Gas-raum über einem Wein.&lt;br /&gt;&lt;br /&gt;"Terra Mater Wissen Kompakt" - das ist Wissen auf den Punkt gebracht.</desc>
-        <credits>
-            <actor>[B]Editor[/B]:  Michael Kobek</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/7292121723148483419"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20250927013500 +0000" stop="20250927014000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20250927014000 +0000" stop="20250927015000 +0000" channel="ServusTV">
-        <title lang="de">MotoGP</title>
-        <sub-title lang="de">Motul Grand Prix von Japan - MotoGP: Qualifying - Vorbericht</sub-title>
-        <desc lang="de">3 Rennklassen mit 22 Entscheidungen in 18 verschiedenen Ländern – das ist die Motorrad-Weltmeisterschaft 2025. Die längste Saison bisher, neue Strecken im Kalender, Weltmeister in neuen Farben und Rookie-Talente die sich beweisen wollen. All das und vieles mehr erwartet Sie diese Saison live, bei ServusTV. 76 Piloten stellen sich einer Herausforderung: Nachfolger der amtierenden Weltmeister Jorge Martín, Ai Ogura und David Alonso zu werden. Als Vorgeschmack gibt es heute bereits die Qualifyings und den Sprint der Königsklasse. Wer setzt beim Motul Grand Prix von Japan ein weiteres Ausrufezeichen? Die Motorrad-Weltmeisterschaft LIVE und in Full HD bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
-        <date>2025</date>
-        <category lang="de">Motorrad</category>
-        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
-        <country>Japan</country>
     </programme>
 
     <programme start="20250927015000 +0000" stop="20250927023500 +0000" channel="ServusTV">
@@ -1633,6 +1557,30 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2 E3</episode-num>
+    </programme>
+
+    <programme start="20250929005500 +0000" stop="20250929015500 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">29.09.2025 02:55.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20250929015500 +0000" stop="20250929023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
