@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-29 00:49:45.397939 -->
+<!-- created on 2025-09-29 02:17:23.405643 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250929001000 +0000" stop="20250929005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Treffen um Mitternacht</sub-title>
-        <desc lang="de">In Calgary, Alberta, verbringt der 24-jährige Ryan Lane einen Nachmittag mit seiner vierjährigen Tochter. Aber später am Abend, als Ryan einen mysteriösen Anruf erhält, hätte niemand ahnen können, dass es sein letzter sein würde. Kurz darauf verschwindet Ryan. Die Ermittler der Polizei von Calgary versuchen herauszufinden, wo Ryan ist und wer zuletzt mit ihm gesprochen hat. Die Detectives bringen Geheimnisse, Lügen und Täuschungen ans Licht.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E6</episode-num>
-    </programme>
-
-    <programme start="20250929005500 +0000" stop="20250929014000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die unbekannte Tote</sub-title>
-        <desc lang="de">In Pierce County, Washington, wird die Leiche einer Frau gefunden, die im Schutz der Dunkelheit in einer Sackgasse brutal ermordet und angezündet wurde. Ihr gnadenloser Mörder ist spurlos geflohen. Ohne Identifizierung des Opfers und ohne Augenzeugen steht die Polizei vor einem harten Kampf, um den Täter zu jagen. Bilder von Überwachungskamera führen die Ermittler zu einer schockierenden Entdeckung im Haus der Frau.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E4</episode-num>
-    </programme>
 
     <programme start="20250929014000 +0000" stop="20250929023500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
@@ -643,38 +603,25 @@
         <episode-num system="onscreen">S7 E2</episode-num>
     </programme>
 
-    <programme start="20250928234000 +0000" stop="20250929005500 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Hotel-Legenden</title>
-        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 3</sub-title>
-        <desc lang="de">Hinter den Kulissen der österreichischen Hotellerie-Szene. Diesmal: schräge Vögel im Kleinsasserhof im Kärntner Drautal, sowie herrschaftliches Residieren im Schloss Kapfenstein in der Steiermark. Legendäre Aussichten vom Berghotel Tulbingerkogel, reine Lebensfreude im Posthotel im Zillertal und sportlich im Hotel Alte Post in Großarl.&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
-        <credits>
-            <actor>[B]Kamera[/B]: Namche Okon</actor>
-            <actor>  Michael Kittel</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor> Christian Gappmaier</actor>
-            <actor> Tobias Diehl-Dürnberger; [B]Regie[/B]: Alexander Saran</actor>
-            <actor> Christoph Strobl; [B]Editor[/B]: Lisa Meiberger</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
+    <programme start="20251001005000 +0000" stop="20251001014500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Schockierte Motorrad-Polizisten</sub-title>
+        <desc lang="de">Manchmal ist eine Schocktherapie die wirksamste: Um die angehenden Motorrad-Polizisten auf die Gefahren von Verkehrskontrollen, insbesondere auf Autobahnen, hinzuweisen, werden ihnen teils schreckliche Videoaufnahmen von tödlichen Unfällen bei Verkehrsanhaltungen gezeigt. Das Bildmaterial verfehlt seine Wirkung nicht. Ihre Kollegen kontrollieren währenddessen routinemäßig Autofahrer, wobei auch der Alkomattest zum Einsatz kommt.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S2 E3</episode-num>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20250929005500 +0000" stop="20250929020000 +0000" channel="ServusTV">
-        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
-        <sub-title lang="de">29.09.2025 02:55.</sub-title>
-        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
-            <actor> Christoph Kotanko</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Politik</category>
-        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+    <programme start="20251001014500 +0000" stop="20251001023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
+        <sub-title lang="de">15.03.2025</sub-title>
+        <desc lang="de">Die Beamten der Grazer Polizeiinspektion Karlauerstraße erreicht die Meldung von einem vermissten Mann. Da es seit längerer Zeit kein Lebenszeichen von ihm gibt, befürchten die Polizisten, dass der Mann in seiner Wohnung verstorben sein könnte. Außerdem gehen auf der Polizeidienststelle Beschwerden über eine Frau ein, die bei einer Bushaltestelle Passanten belästigt. Die Dame ist für die Polizisten keine Unbekannte, stattet sie ihnen doch regelmäßig Besuche auf der Inspektion ab.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20250929020000 +0000" stop="20250929023500 +0000" channel="ServusTV">
@@ -1529,6 +1476,15 @@
         <icon src="https://images.mdn.ors.at/7248204328812284824"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E160</episode-num>
+    </programme>
+
+    <programme start="20251001013000 +0000" stop="20251001023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
