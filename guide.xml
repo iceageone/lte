@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-09-30 00:48:27.810946 -->
+<!-- created on 2025-09-30 02:12:05.867035 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,35 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20250930001500 +0000" stop="20250930010000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die unbekannte Tote</sub-title>
-        <desc lang="de">In Pierce County, Washington, wird die Leiche einer Frau gefunden, die im Schutz der Dunkelheit in einer Sackgasse brutal ermordet und angezündet wurde. Ihr gnadenloser Mörder ist spurlos geflohen. Ohne Identifizierung des Opfers und ohne Augenzeugen steht die Polizei vor einem harten Kampf, um den Täter zu jagen. Bilder von Überwachungskamera führen die Ermittler zu einer schockierenden Entdeckung im Haus der Frau.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E4</episode-num>
-    </programme>
-
-    <programme start="20250930010000 +0000" stop="20250930015000 +0000" channel="PULS24">
-        <title lang="de">Die Tuner - Zwischen Gaspedal und Kriminal</title>
-        <desc lang="de">Die "Speed Maniacs" sind auf Nachtfahrt nach Niederösterreich. Dass sie mit ihren lauten Motoren so manchen Einwohner aus dem Bett reißen, stört die Mitglieder der Autogruppe kaum. Auch die Auto-Tuner am Wiener Kahlenberg lassen sich von gesetzlichen Vorgaben nur wenig beeindrucken. Auf dem illegalen Autotreffen wird gedriftet, was das Zeug hält. Geregelter geht es auf der "Night of Wheels" in Ried zu. Hier zeigen sich Stars der Tuning-Szene wie "JP". Gefahren wird weniger.&lt;br /&gt;&lt;br /&gt;Sie lieben es, ihre Fahrzeuge in Boliden zu verwandeln - etwa durch tiefergelegte Fahrwerke oder frisierte Motoren. Auch in Österreich finden sich viele passionierte Auto-Tuner. Einige von ihnen bewegen sich mit den Anpassungen am Fahrzeug im Bereich des Legalen. Andere wiederum nehmen es mit den gesetzlichen Vorgaben nicht so ernst und wagen illegale Autorennen und verbotene Modifikationen am PKW.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/9313149030653415049"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20250930015000 +0000" stop="20250930024500 +0000" channel="PULS24">
         <title lang="de">Die Tuner - Zwischen Gaspedal und Kriminal</title>
@@ -644,33 +615,25 @@
         <episode-num system="onscreen">S7 E3</episode-num>
     </programme>
 
-    <programme start="20250930003500 +0000" stop="20250930012000 +0000" channel="ServusTV">
-        <title lang="de">Evolve</title>
-        <sub-title lang="de">Verteidigen - Was Tiere unbesiegbar macht</sub-title>
-        <desc lang="de">Von unsichtbaren Kraken bis hin zu beinahe unzerstörbaren Kakerlaken! Der britische Biologe Patrick Aryee trifft Wissenschaftler, die von der Flora und Fauna lernen, um neuartige Technologien zu entwickeln, die uns in Zukunft besser schützen könnten. Seit langem ist Patrick Aryee bereits fasziniert von der Bionik. Dabei nehmen Wissenschaftler Anregungen aus der Biologie und setzen diese in Form von neuartiger Technologie und Technik um. In dieser Episode deckt Patrick Aryee auf, wie die Verteidigungslösungen der Natur Wissenschaftler zu neuen Schutztechnologien für die Menschheit inspirieren.&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Patrick Aryee</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/2937860843089589682"/>
-        <country>Vereinigte Staaten, Singapur, Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S1 E4</episode-num>
+    <programme start="20251002005000 +0000" stop="20251002014000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
+        <sub-title lang="de">15.03.2025</sub-title>
+        <desc lang="de">Die Beamten der Grazer Polizeiinspektion Karlauerstraße erreicht die Meldung von einem vermissten Mann. Da es seit längerer Zeit kein Lebenszeichen von ihm gibt, befürchten die Polizisten, dass der Mann in seiner Wohnung verstorben sein könnte. Außerdem gehen auf der Polizeidienststelle Beschwerden über eine Frau ein, die bei einer Bushaltestelle Passanten belästigt. Die Dame ist für die Polizisten keine Unbekannte, stattet sie ihnen doch regelmäßig Besuche auf der Inspektion ab.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
+        <country>Österreich</country>
     </programme>
 
-    <programme start="20250930012000 +0000" stop="20250930020000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Die sieben Erden</sub-title>
-        <desc lang="de">In dem fast 2000 Jahre alten Text "Der Sohar", einer der bedeutendsten Schriften der Kabbala, gibt es eine Passage über verborgene Reiche unter der Erdoberfläche, die von menschlichen und nicht menschlichen Intelligenzen bevölkert ist. Sind wir etwa doch nicht allein im Universum? Womöglich nicht einmal auf unserem eigenen Planeten?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/11172081331464097353"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S14 E19</episode-num>
+    <programme start="20251002014000 +0000" stop="20251002023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Blutiger Verkehrsunfall</sub-title>
+        <desc lang="de">Bei einem Autounfall in Wien wird eine Frau angefahren und schwer verletzt ins Krankenhaus transportiert. Währenddessen liefert der Autofahrer eine schlüssige Erklärung für den Unfallhergang. Die verantwortlichen Polizisten bleiben dennoch skeptisch. Der in der Ausbildung befindliche Polizist Richard hat derweil seinen ersten Einsatz mit einem dienstälteren Kollegen. Schon bald müssen sie sich mit einem renitenten Motorradtuner auseinandersetzen ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
     <programme start="20250930020000 +0000" stop="20250930023500 +0000" channel="ServusTV">
