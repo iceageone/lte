@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-01 00:54:32.918031 -->
+<!-- created on 2025-10-01 02:26:24.657605 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,17 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251001005000 +0000" stop="20251001014500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Schockierte Motorrad-Polizisten</sub-title>
-        <desc lang="de">Manchmal ist eine Schocktherapie die wirksamste: Um die angehenden Motorrad-Polizisten auf die Gefahren von Verkehrskontrollen, insbesondere auf Autobahnen, hinzuweisen, werden ihnen teils schreckliche Videoaufnahmen von tödlichen Unfällen bei Verkehrsanhaltungen gezeigt. Das Bildmaterial verfehlt seine Wirkung nicht. Ihre Kollegen kontrollieren währenddessen routinemäßig Autofahrer, wobei auch der Alkomattest zum Einsatz kommt.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E5</episode-num>
-    </programme>
 
     <programme start="20251001014500 +0000" stop="20251001023500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
@@ -648,15 +637,15 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
-    <programme start="20251001004500 +0000" stop="20251001013500 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">u.a. Für immer jung? - Wie Forscher den Alterungsprozess stoppen wollen</sub-title>
-        <desc lang="de">Themen der Sendung: Können wir ewig jung bleiben?// Kommen Pakete bald per Roboter? // Wie können Zoos seltene Arten retten? // Wie verbessern wir das Lithium-Recycling? // Wieso verdanken wir Fröschen die Batterie? // Wie lenken wir einen Asteroiden ab? // Wie flirten Flamingos? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
-        <date>2022</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+    <programme start="20251003014500 +0000" stop="20251003023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Blutiger Verkehrsunfall</sub-title>
+        <desc lang="de">Bei einem Autounfall in Wien wird eine Frau angefahren und schwer verletzt ins Krankenhaus transportiert. Währenddessen liefert der Autofahrer eine schlüssige Erklärung für den Unfallhergang. Die verantwortlichen Polizisten bleiben dennoch skeptisch. Der in der Ausbildung befindliche Polizist Richard hat derweil seinen ersten Einsatz mit einem dienstälteren Kollegen. Schon bald müssen sie sich mit einem renitenten Motorradtuner auseinandersetzen ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S1 E160</episode-num>
+        <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
     <programme start="20251001013500 +0000" stop="20251001023500 +0000" channel="ServusTV">
@@ -1496,6 +1485,30 @@
         <icon src="https://images.mdn.ors.at/10092140308075608800"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251003011000 +0000" stop="20251003015500 +0000" channel="ServusTV">
+        <title lang="de">Giganten</title>
+        <sub-title lang="de">Krokodile</sub-title>
+        <desc lang="de">Krokodile sind extrem zähe und effiziente Raubtiere. Sie haben die Dinosaurier überlebt. Doch warum ist der die riesige Gattung des Sarcosuchus imperator ausgestorben? Was sind die Gründe für die Größe und das Überleben seiner Verwandten in der Gegenwart?&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
+        <credits>
+            <actor>[B]Produzent[/B]: Robert Myler</actor>
+            <actor> Ruth Harries</actor>
+            <actor> James Mair; [B]Regie[/B]: Della Golding; [B]Kamera[/B]: Peter Hayns; [B]Editor[/B]: Laurence Nickels; [B]DarstellerInnen[/B]: Dan O'Neill</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">Tiere</category>
+        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
+        <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20251003015500 +0000" stop="20251003023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
