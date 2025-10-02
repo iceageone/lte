@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-02 00:46:03.467548 -->
+<!-- created on 2025-10-02 02:11:11.988257 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,36 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251002000500 +0000" stop="20251002005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Überfall aus dem Hinterhalt</sub-title>
-        <desc lang="de">Der 22-jährige Richard Bailey steht nur wenige Wochen vor seinem College-Abschluss und plant, als Polizist in die Fußstapfen seines Vaters zu treten, als er in den Straßen von Albany, New York, niedergeschlagen wird. Was die Ermittler auf Überwachungsvideos entdecken, wird sie in eine Katz- und Mausjagd quer durch die Stadt führen und auf Schritt und Tritt schockierende Wahrheiten ans Licht bringen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E3</episode-num>
-    </programme>
-
-    <programme start="20251002005000 +0000" stop="20251002014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
-        <sub-title lang="de">15.03.2025</sub-title>
-        <desc lang="de">Die Beamten der Grazer Polizeiinspektion Karlauerstraße erreicht die Meldung von einem vermissten Mann. Da es seit längerer Zeit kein Lebenszeichen von ihm gibt, befürchten die Polizisten, dass der Mann in seiner Wohnung verstorben sein könnte. Außerdem gehen auf der Polizeidienststelle Beschwerden über eine Frau ein, die bei einer Bushaltestelle Passanten belästigt. Die Dame ist für die Polizisten keine Unbekannte, stattet sie ihnen doch regelmäßig Besuche auf der Inspektion ab.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
-        <date>2014</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20251002014000 +0000" stop="20251002023000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Die Motorradpolizei</title>
@@ -622,6 +592,35 @@
         <date>2019</date>
         <category lang="de">Reportage</category>
         <icon src="https://images.mdn.ors.at/8148638759862037556"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251004005500 +0000" stop="20251004014000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Am helllichten Tag</sub-title>
+        <desc lang="de">Amanda Douglas und ihre Mitbewohnerin Jennifer Sudar Sanders werden am helllichten Tag erschossen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S7 E7</episode-num>
+    </programme>
+
+    <programme start="20251004014000 +0000" stop="20251004023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
+        <desc lang="de">Die Zahl der Drogendelikte ist in Graz stark angestiegen. Um die Problematik in den Griff zu bekommen, werden die Lokale rund um den Griesplatz mehrmals pro Woche kontrolliert ... Die Vermieterin eines Wohnhauses verständigt die Polizei, weil sich ein junger Mann Zugang zur gemeinsamen Wohnung von sich und seiner Freundin verschaffen will. Und ein Mann erstattet bei Bezirksinspektor Patrick und Inspektorin Sonja eine Anzeige über eine illegale Schnapsbrennerei in seinem Wohnhaus.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
         <country>Österreich</country>
     </programme>
 
@@ -1495,6 +1494,19 @@
         <date>2025</date>
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251004013500 +0000" stop="20251004022000 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Das Almtal - Von Kettensägen und Kesselhoaßen</sub-title>
+        <desc lang="de">Mit seiner beeindruckenden, größtenteils unberührten Landschaft ist das Almtal ein kleiner, unentdeckter Schatz. Am äußersten Rand des Salzkammerguts gelegen, erstreckt es sich von Vorchdorf im Norden bis zum zauberhaften Almsee im Süden, wo das Tote Gebirge mit seinen Zweitausendern schroff in die Höhe ragt. Die Einheimischen selbst reden vom gelobten Land, in dem sie leben dürfen. Wasser und Wald prägen die Gegend. So gibt es im Almtal Menschen, die sich in ihrer Freizeit das Schmieden zum Hobby der anderen Art gemacht haben oder Holzschnitzer, die mit ihren Kettensägen große Kunst machen. Schlossherren, der etwas ungewöhnlicheren Art und Metzgermeister, die vielleicht die besten Würste der Welt herstellen.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
         <country>Österreich</country>
     </programme>
 
