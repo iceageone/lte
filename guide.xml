@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-03 00:46:12.118489 -->
+<!-- created on 2025-10-03 02:11:02.349825 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251003000500 +0000" stop="20251003005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Treffen um Mitternacht</sub-title>
-        <desc lang="de">In Calgary, Alberta, verbringt der 24-jährige Ryan Lane einen Nachmittag mit seiner vierjährigen Tochter. Aber später am Abend, als Ryan einen mysteriösen Anruf erhält, hätte niemand ahnen können, dass es sein letzter sein würde. Kurz darauf verschwindet Ryan. Die Ermittler der Polizei von Calgary versuchen herauszufinden, wo Ryan ist und wer zuletzt mit ihm gesprochen hat. Die Detectives bringen Geheimnisse, Lügen und Täuschungen ans Licht.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E6</episode-num>
-    </programme>
-
-    <programme start="20251003005000 +0000" stop="20251003014500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Die Motorradpolizei</title>
-        <sub-title lang="de">Schockierte Motorrad-Polizisten</sub-title>
-        <desc lang="de">Manchmal ist eine Schocktherapie die wirksamste: Um die angehenden Motorrad-Polizisten auf die Gefahren von Verkehrskontrollen, insbesondere auf Autobahnen, hinzuweisen, werden ihnen teils schreckliche Videoaufnahmen von tödlichen Unfällen bei Verkehrsanhaltungen gezeigt. Das Bildmaterial verfehlt seine Wirkung nicht. Ihre Kollegen kontrollieren währenddessen routinemäßig Autofahrer, wobei auch der Alkomattest zum Einsatz kommt.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
-        <date>2017</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E5</episode-num>
-    </programme>
 
     <programme start="20251003014500 +0000" stop="20251003023500 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Die Motorradpolizei</title>
@@ -608,34 +577,24 @@
         <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
-    <programme start="20251002235500 +0000" stop="20251003010500 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">03.10.2025 01:55.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Michael Fleischhacker</actor>
-            <actor>  Helmut Brandstätter</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+    <programme start="20251005005000 +0000" stop="20251005014000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Motorradpolizei</title>
+        <sub-title lang="de">Diebesgut bei Buskontrollen</sub-title>
+        <desc lang="de">Bei einer Verkehrskontrolle stoßen die Beamten der Motorrad-Polizei nicht nur auf einen schwer in Mitleidenschaft gezogenen Bus mit Pilgern aus Polen, sondern auch auf einen Kleinlaster, dessen Ladung den Kontrolleuren sehr verdächtig vorkommt. Und auch die Taxifahrer der österreichischen Hauptstadt bereiten den Polizisten teilweise Sorgen. Einige nehmen die Auflagen in punkto Sicherheit nicht ganz ernst ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
+        <date>2017</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/16426488862776435012"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20251003010500 +0000" stop="20251003015500 +0000" channel="ServusTV">
-        <title lang="de">Giganten</title>
-        <sub-title lang="de">Krokodile</sub-title>
-        <desc lang="de">Krokodile sind extrem zähe und effiziente Raubtiere. Sie haben die Dinosaurier überlebt. Doch warum ist der die riesige Gattung des Sarcosuchus imperator ausgestorben? Was sind die Gründe für die Größe und das Überleben seiner Verwandten in der Gegenwart?&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
-        <credits>
-            <actor>[B]Produzent[/B]: Robert Myler</actor>
-            <actor> Ruth Harries</actor>
-            <actor> James Mair; [B]Regie[/B]: Della Golding; [B]Kamera[/B]: Peter Hayns; [B]Editor[/B]: Laurence Nickels; [B]DarstellerInnen[/B]: Dan O'Neill</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
-        <country>Vereinigtes Königreich</country>
+    <programme start="20251005014000 +0000" stop="20251005023500 +0000" channel="PULS24">
+        <title lang="de">Die Tuner - Zwischen Gaspedal und Kriminal</title>
+        <desc lang="de">Die "Speed Maniacs" sind auf Nachtfahrt nach Niederösterreich. Dass sie mit ihren lauten Motoren so manchen Einwohner aus dem Bett reißen, stört die Mitglieder der Autogruppe kaum. Auch die Auto-Tuner am Wiener Kahlenberg lassen sich von gesetzlichen Vorgaben nur wenig beeindrucken. Auf dem illegalen Autotreffen wird gedriftet, was das Zeug hält. Geregelter geht es auf der "Night of Wheels" in Ried zu. Hier zeigen sich Stars der Tuning-Szene wie "JP". Gefahren wird weniger.&lt;br /&gt;&lt;br /&gt;Sie lieben es, ihre Fahrzeuge in Boliden zu verwandeln - etwa durch tiefergelegte Fahrwerke oder frisierte Motoren. Auch in Österreich finden sich viele passionierte Auto-Tuner. Einige von ihnen bewegen sich mit den Anpassungen am Fahrzeug im Bereich des Legalen. Andere wiederum nehmen es mit den gesetzlichen Vorgaben nicht so ernst und wagen illegale Autorennen und verbotene Modifikationen am PKW.</desc>
+        <date>2022</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/9313149030653415049"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20251003015500 +0000" stop="20251003023500 +0000" channel="ServusTV">
@@ -1558,6 +1517,15 @@
         <category lang="de">Umwelt</category>
         <icon src="https://images.mdn.ors.at/9461398258581345675"/>
         <country>Frankreich</country>
+    </programme>
+
+    <programme start="20251005012000 +0000" stop="20251005022500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
