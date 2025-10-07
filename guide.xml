@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-07 00:47:14.821636 -->
+<!-- created on 2025-10-07 02:12:18.451936 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251007000000 +0000" stop="20251007005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Am helllichten Tag</sub-title>
-        <desc lang="de">Amanda Douglas und ihre Mitbewohnerin Jennifer Sudar Sanders werden am helllichten Tag erschossen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S7 E7</episode-num>
-    </programme>
-
-    <programme start="20251007005000 +0000" stop="20251007013500 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Das Unfallkommando</title>
-        <sub-title lang="de">Unfall mit Fahrerflucht</sub-title>
-        <desc lang="de">Das Unfallkommando der Wiener Verkehrspolizei wird zu einem Unfall mit Fahrerflucht gerufen. Das Kuriose daran ist, dass das beschädigte Auto am Unfallort gelassen wurde. Warum der Fahrzeuglenker des weißen Klein-Busses geflüchtet ist, stellt die Verkehrspolizisten vor ein Rätsel. Der Verletze befindet sich allerdings im Krankenhaus und kann nicht befragt werden. Über das Kennzeichen gelingt es den Polizisten den Zulassungsbesitzer ausfindig zu machen ...&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E1</episode-num>
-    </programme>
 
     <programme start="20251007013500 +0000" stop="20251007023000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Das Unfallkommando</title>
@@ -658,27 +627,14 @@
         <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20251006233000 +0000" stop="20251007005500 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Aktuelle Themen, spannende Gäste, eine spektakuläre Location: Sport und Talk aus dem Hangar-7.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
-        <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
+    <programme start="20251009013500 +0000" stop="20251009022500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
+        <sub-title lang="de">15.03.2025</sub-title>
+        <desc lang="de">Die Beamten der Grazer Polizeiinspektion Karlauerstraße erreicht die Meldung von einem vermissten Mann. Da es seit längerer Zeit kein Lebenszeichen von ihm gibt, befürchten die Polizisten, dass der Mann in seiner Wohnung verstorben sein könnte. Außerdem gehen auf der Polizeidienststelle Beschwerden über eine Frau ein, die bei einer Bushaltestelle Passanten belästigt. Die Dame ist für die Polizisten keine Unbekannte, stattet sie ihnen doch regelmäßig Besuche auf der Inspektion ab.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
         <country>Österreich</country>
-    </programme>
-
-    <programme start="20251007005500 +0000" stop="20251007014500 +0000" channel="ServusTV">
-        <title lang="de">Evolve</title>
-        <sub-title lang="de">Fortbewegen - Wie die Natur vorankommt</sub-title>
-        <desc lang="de">Patrick Aryee, seines Zeichens britischer Biologe, findet heraus, auf welch revolutionäre Weise sich verschiedene Lebewesen in der Natur fortbewegen. Kann der Mensch davon für seine eigenen Reisen lernen? Können wir die Geheimnisse sauberer, schneller und weiter Reisen in der Natur finden? Können diese ausgefeilten Methoden nicht nur für Menschen, sondern auch für Roboter genutzt werden, um Orte zu erreichen, die für den Menschen unerreichbar sind: Etwa für die Inspektion von Atomkraftwerken oder bei der Erkundung weit entfernter Planeten? Welche Fortschritte gibt es in der Bionik, der Wissenschaft von Biologie und Technik, die nicht nur revolutionär sind, sondern auch Grund zur Hoffnung geben? Kann der Mensch mit Mitteln der Bionik lernen, im Einklang mit der Natur zu leben?&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Patrick Aryee</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/17315989408059486257"/>
-        <country>Vereinigte Staaten, Singapur, Vereinigtes Königreich</country>
     </programme>
 
     <programme start="20251007014500 +0000" stop="20251007023500 +0000" channel="ServusTV">
@@ -1465,6 +1421,24 @@
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/2597974328941004785"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251009005000 +0000" stop="20251009030500 +0000" channel="ServusTV">
+        <title lang="de">GoodFellas - Drei Jahrzehnte in der Mafia</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Als Knabe schon beginnt Henry Hill damit, Aufträge für die lokale Mafia auszuführen. Drei Jahrzehnte später ist er am grössten Bargeldraub der US-Geschichte beteiligt. Auf den gloriosen Aufstieg folgt der jähe Fall. Mafiaepos von Martin Scorsese.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Robert De Niro</actor>
+            <actor> Ray Liotta</actor>
+            <actor> Joe Pesci</actor>
+            <actor> Lorraine Bracco</actor>
+            <actor> Paul Sorvino</actor>
+            <actor> Frank Sivero</actor>
+            <actor> Tony Darrow; [B]Regie[/B]: Martin Scorsese; [B]Drehbuch[/B]:  Nicholas Pileggi</actor>
+        </credits>
+        <date>1990</date>
+        <category lang="de">Krimi</category>
+        <icon src="https://images.mdn.ors.at/8193845668753251270"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
