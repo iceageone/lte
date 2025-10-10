@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-10 00:47:12.352341 -->
+<!-- created on 2025-10-10 02:13:58.407583 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251010000500 +0000" stop="20251010005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Bei Umzug Mord</sub-title>
-        <desc lang="de">In Baltimore wird der 24-jährige Dion Smith tot mit einer Schrotflinte aufgefunden. Die Videoüberwachung hilft, einen verdächtigen Besucher zu identifizieren.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S12 E3</episode-num>
-    </programme>
-
-    <programme start="20251010005000 +0000" stop="20251010014000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Das Unfallkommando</title>
-        <sub-title lang="de">Unfall mit Fahrerflucht</sub-title>
-        <desc lang="de">Das Unfallkommando der Wiener Verkehrspolizei wird zu einem Unfall mit Fahrerflucht gerufen. Das Kuriose daran ist, dass das beschädigte Auto am Unfallort gelassen wurde. Warum der Fahrzeuglenker des weißen Klein-Busses geflüchtet ist, stellt die Verkehrspolizisten vor ein Rätsel. Der Verletze befindet sich allerdings im Krankenhaus und kann nicht befragt werden. Über das Kennzeichen gelingt es den Polizisten den Zulassungsbesitzer ausfindig zu machen ...&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E1</episode-num>
-    </programme>
 
     <programme start="20251010014000 +0000" stop="20251010023000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Das Unfallkommando</title>
@@ -628,18 +597,22 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20251010003500 +0000" stop="20251010012000 +0000" channel="ServusTV">
-        <title lang="de">Giganten</title>
-        <sub-title lang="de">Anakondas</sub-title>
-        <desc lang="de">Die größte aller Schlangen: Die rätselhafte Anakonda! Der Zoologe Dan O'Neill will die größten Anakondas der Welt ausfindig machen und vermessen, um so zu ihrem Schutz beizutragen.&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Robert Myler; [B]Produzent[/B]: Ruth Harries</actor>
-            <actor> James Mair; [B]Editor[/B]: Mike Kelly; [B]Kamera[/B]: Peter Hayns; [B]DarstellerInnen[/B]: Dan O'Neill</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
-        <country>Vereinigtes Königreich</country>
+    <programme start="20251012005000 +0000" stop="20251012014500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
+        <desc lang="de">Alle drei Monate kontrolliert die Wiener Wasserpolizei unangemeldet alle Frachtschiffe, die regelmäßig die Donau befahren. Für die beiden Beamten Mario und Michi steht die Prüfung eines ukrainischen Kreuzers an. Wasserpolizist Günther ist derweil mit einem Bombenfund am Wiener Hafen beschäftigt. Für Hubschrauber-Pilot Martin am Flughafen Wien Schwechat wird es spannend. Sein Auftrag: Illegale Grenzgänger orten.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251012014500 +0000" stop="20251012023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
+        <desc lang="de">Die Beamten der Wiener Wasserpolizei Mario und Michi stellen eine randalierende Person am Prater zur Rede. Ihre Kollegen Leo und Günther fahnden derweil nach einer vermissten Person, die in der Donau um ihr Leben zu kämpfen scheint. Hubschrauberpilot Helmut unterstützt die Suchaktion aus der Luft. Für die Klasse 2209 des Bildungszentrums Wien steht die Abschlussprüfung an. Ein psychischer Härtetest, bei dem die Polizeischüler neben Wissen vor allem Mut beweisen müssen.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20251010012000 +0000" stop="20251010023500 +0000" channel="ServusTV">
@@ -1524,6 +1497,26 @@
         <category lang="de">Abenteuer</category>
         <icon src="https://images.mdn.ors.at/4236959026798670263"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich, Ungarn, Jordanien</country>
+    </programme>
+
+    <programme start="20251012010000 +0000" stop="20251012023500 +0000" channel="ServusTV">
+        <title lang="de">The American</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Auftragsmörder und Waffenschmied Jack gerät plötzlich selbst ins Visier eines Killerkommandos. Sein Auftraggeber rät ihm, sich in einem Bergdorf in den italienischen Abruzzen zu verbergen. Dort lernt Jack die Prostituierte Clara kennen und verliebt sich in sie. Als er den Auftrag erhält, für seine Killer-Kollegin Mathilde ein Gewehr anzufertigen, schöpft er Verdacht. Schon bald muss Jack erneut um sein Leben kämpfen. Thriller von Anton Corbijn, mit Hollywood-Star George Clooney.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: George Clooney</actor>
+            <actor> Paolo Bonacelli</actor>
+            <actor> Violante Placido</actor>
+            <actor> Irina Björklund</actor>
+            <actor> Lars Hjelm</actor>
+            <actor> Johan Leysen</actor>
+            <actor> Giorgio Gobbi</actor>
+            <actor> Björn Granath; [B]Regie[/B]: Anton Corbijn; [B]Drehbuch[/B]:  Rowan Joffe</actor>
+            <actor> Martin Booth; [B]Kamera[/B]: Martin Ruhe; [B]Musik[/B]: Herbert Arthur Gronemeyer</actor>
+        </credits>
+        <date>2010</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/7683267219544066798"/>
+        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
