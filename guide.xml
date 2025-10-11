@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-11 00:44:37.350939 -->
+<!-- created on 2025-10-11 02:08:21.153332 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251011000000 +0000" stop="20251011004500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein tödliches Date</sub-title>
-        <desc lang="de">Als die 16-jährige Diamond Bradley am 24. Januar 2018 in Spring Valley, Illinois, spurlos verschwindet, steht ihre Familie vor einem Rätsel. Die Ermittler hoffen, dass Überwachungsaufnahmen sie zu dem vermissten Mädchen führen, bevor es zu spät ist. Die Spur, die Diamond hinterlässt, ist allerdings erschreckender als erwartet ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E1</episode-num>
-    </programme>
-
-    <programme start="20251011004500 +0000" stop="20251011013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Blinde Gefolgschaft</sub-title>
-        <desc lang="de">Bei einem Überfall auf einen Supermarkt stirbt ein Verkäufer. Drei maskierte Täter flüchten mit dem Geld aus der Kasse und hinterlassen eine Spur von Münzen, die zu einer Wohnsiedlung führt. Kurz darauf wird ein Wagen mit Kleidungsstücken beschlagnahmt, die die Täter auf den Bildern der Überwachungskamera des Geschäfts trugen. Schließlich kommen die Ermittler mehreren jungen Männern auf die Spur ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S13 E5</episode-num>
-    </programme>
 
     <programme start="20251011013000 +0000" stop="20251011022000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Das Unfallkommando</title>
@@ -627,27 +587,24 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20251010235500 +0000" stop="20251011004500 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Martin Frank</sub-title>
-        <desc lang="de">Martin Frank war schon immer Monika-Gruber-Fan. Als junges Kabarett-Talent schaffte er es bald ins Vorprogramm der Gruaberin. Seitdem verbindet beide Bühnen-Künstler eine Freundschaft. Monika Gruber und Martin Frank teilen den bayrischen Dialekt und den bodenständigen Humor. Amüsant und tiefgründig sprechen sie über ihr Aufwachsen auf dem Land, wilde Bühnenerlebnisse und die ganz persönliche Lieblings-Oma.&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+    <programme start="20251013005000 +0000" stop="20251013014000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Polizeieinsatz Graz</title>
+        <desc lang="de">Die Zahl der Drogendelikte ist in Graz stark angestiegen. Um die Problematik in den Griff zu bekommen, werden die Lokale rund um den Griesplatz mehrmals pro Woche kontrolliert ... Die Vermieterin eines Wohnhauses verständigt die Polizei, weil sich ein junger Mann Zugang zur gemeinsamen Wohnung von sich und seiner Freundin verschaffen will. Und ein Mann erstattet bei Bezirksinspektor Patrick und Inspektorin Sonja eine Anzeige über eine illegale Schnapsbrennerei in seinem Wohnhaus.&lt;br /&gt;&lt;br /&gt;In der bereits neunten Staffel des Erfolgsformats "24 Stunden" begleitet ATV die Beamten der Inspektion Karlauerstraße bei ihrem täglichen Dienst sowie ihren spannenden, herausfordernden und manchmal auch kuriosen Einsätzen in Graz.</desc>
+        <date>2014</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/2468346049347255643"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20251011004500 +0000" stop="20251011013000 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Unsere Landjugend</sub-title>
-        <desc lang="de">Die Landjugend ist mit rund 90.000 Mitgliedern die größte und zulaufstärkste Jugendorganisation Österreichs, Heimatleuchten zeigt, dass sie als Fortbildungsinstitution und Heiratsmarkt aus dem Landleben nicht wegzudenken ist.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+    <programme start="20251013014000 +0000" stop="20251013023500 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Das Unfallkommando</title>
+        <sub-title lang="de">Glimpflicher Fahrradunfall</sub-title>
+        <desc lang="de">Eine Radfahrerin hat einen Verkehrsunfall mit einem Einsatzwagen der Polizei verursacht und wird dabei zum Glück nur leicht verletzt. Als die Beamten die Frau befragen wollen, bricht diese jedoch plötzlich in Tränen aus. Außerdem wird das Unfallkommando zu einem Einsatz in den 22. Wiener Gemeindebezirk gerufen. Hier haben sich dramatischen Szenen abgespielt, sodass die Rettungskräfte sogar einen Hubschrauber zur Unterstützung anfordern müssen.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
     <programme start="20251011013000 +0000" stop="20251011022000 +0000" channel="ServusTV">
@@ -1619,6 +1576,28 @@
         <category lang="de">Wissenschaft</category>
         <icon src="https://images.mdn.ors.at/2059710014801030084"/>
         <country>Frankreich</country>
+    </programme>
+
+    <programme start="20251013010500 +0000" stop="20251013013000 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen Kompakt</title>
+        <sub-title lang="de">Gesund im Alter - Was machen Menschen im Lesachtal richtig?</sub-title>
+        <desc lang="de">Diesmal bei TM Wissen Kompakt: Wie wird man in Österreich gesund alt? // Wie kann Plasma unsere Landwirtschaft verbessern?  // Wo ist der höchste Marathon? // Wie unterstützen Satelliten die Pinguinforschung? // Wie erlegt der Schützenfisch seine Beute?&lt;br /&gt;&lt;br /&gt;"Terra Mater Wissen Kompakt" - das ist Wissen auf den Punkt gebracht.</desc>
+        <credits>
+            <actor>[B]Editor[/B]:  Michael Kobek</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/7292121723148483419"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251013013000 +0000" stop="20251013023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
