@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-16 00:49:25.724708 -->
+<!-- created on 2025-10-16 02:16:34.901448 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,15 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251016004500 +0000" stop="20251016013500 +0000" channel="PULS24">
-        <title lang="de">Donau Polizei</title>
-        <desc lang="de">Das Team der Wiener Wasserpolizei um Chefinspektor Erich K. sichtet auf der Donau einen Hund, der in der Strömung ums Überleben kämpft. Jetzt heißt es schnell handeln, denn jede Minute zählt. Außerdem nehmen die Beamten das skurrile Donau-Lokal "African Queen" genauer unter die Lupe. Anwohner hatten Beschwerde eingereicht, dass die Betreiber Vorschriften missachten. Die Polizisten prüfen, ob das Lokal alle gewerbe- und wasserrechtlichen Vorschriften einhält.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
-        <date>2020</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/11941074360851769440"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20251016013500 +0000" stop="20251016022500 +0000" channel="PULS24">
         <title lang="de">Donau Polizei</title>
@@ -644,23 +635,23 @@
         <episode-num system="onscreen">S8 E3</episode-num>
     </programme>
 
-    <programme start="20251016000500 +0000" stop="20251016015000 +0000" channel="ServusTV">
-        <title lang="de">Baby Driver</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Fluchtwagenfahrer Baby hat ein besonderes Talent: Wenn er die Kopfhörer einstöpselt und seine Playlist anschmeißt, ist er absolut unschlagbar hinter dem Steuer. Für Gangsterboss Doc übernimmt er deshalb die Logistik...</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Ansel Elgort</actor>
-            <actor> Jon Bernthal</actor>
-            <actor> Jon Hamm</actor>
-            <actor> Eiza Gonzalez</actor>
-            <actor> Micah Howard</actor>
-            <actor> Kevin Spacey</actor>
-            <actor> Lily James</actor>
-            <actor> Morgan Brown; [B]Regie[/B]: Edgar Wright</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">Action</category>
-        <icon src="https://images.mdn.ors.at/10796923624265690701"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    <programme start="20251018012500 +0000" stop="20251018021500 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Ein alarmierender Anruf erreicht die Beamten der Wasserpolizei: Eine Person soll sich im Wasser befinden und dort gegen die Fluten kämpfen. Der Anrufer habe nur einen Rucksack und Kleidung am Ufer gefunden. Jetzt zählt jede Minute. Für die elf neuen Wasserpolizisten steht derweil die erste Nachtfahrt auf dem Polizeiboot an. Die Sicht ist schlecht und die Übung eine Herausforderung. Außerdem nehmen die Donaupolizisten ein ausländisches Frachtschiff genauer unter die Lupe.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/14903263465508784962"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E3</episode-num>
+    </programme>
+
+    <programme start="20251018021500 +0000" stop="20251018030500 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Die Wasserpolizei kontrolliert ein Donau-Kreuzfahrtschiff, welches regelmäßig eine Route zwischen Linz und dem Schwarzen Meer abfährt. Die Rettungsschwimmer des Wiener Landesverbandes sind zurzeit besonders oft im Einsatz. Weil viele Urlauber ihre Ferien aktuell im Land verbringen, häufen sich die Badeunfälle an Österreichs Gewässern. Kapitän Franz betreibt an der Donau ein privates Schiffsmuseum. Zu sehen gibt es dort echte "Perlen" wie das Schiff "Ana" aus dem Jahr 1864.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/1751251211572"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20251016015000 +0000" stop="20251016023500 +0000" channel="ServusTV">
@@ -669,7 +660,7 @@
         <date>2013</date>
         <category lang="de">Natur</category>
         <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland</country>
+        <country>Deutschland, Österreich</country>
     </programme>
 
     <programme start="20251016023500 +0000" stop="20251016032500 +0000" channel="ServusTV">
@@ -1524,6 +1515,35 @@
         <category lang="de">Wissensmagazin</category>
         <icon src="https://images.mdn.ors.at/12196364882271256332"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251018013000 +0000" stop="20251018014000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251018014000 +0000" stop="20251018015000 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Liqui Moly Grand Prix von Australien - Qualifying: Vorbericht</sub-title>
+        <desc lang="de">Start frei für die MotoGP-Saison 2025, die schnellste Motorradrennserie der Welt! ServusTV überträgt auch in diesem Jahr alle Rennen der Königsklasse sowie der Moto2 und Moto3 LIVE. Freuen Sie sich auf die geballte Motorsportkompetenz unseres ServusTV-Expertenteams bestehend aus Österreichs Motorrad-Legende Gustl Auinger, Ex-MotoGP-Pilot Alex Hofmann sowie die deutschen Weltmeister Stefan Bradl und Sandro Cortese. Selbstverständlich sind unsere Moderatorinnen Alina Marzi und Eve Scheer, sowie die Kommentatoren Christian Brugger und Philipp Krummholz in dieser Saison ebenfalls am Start. Packender Motorsport, spannende Hintergrundberichte, ausführliche Interviews und detaillierte Analysen zu allen drei Rennklassen – das ist die MotoGP bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Australien</country>
+    </programme>
+
+    <programme start="20251018015000 +0000" stop="20251018024500 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Liqui Moly Grand Prix von Australien - Moto3: Qualifying</sub-title>
+        <desc lang="de">Start frei für die MotoGP-Saison 2025, die schnellste Motorradrennserie der Welt! ServusTV überträgt auch in diesem Jahr alle Rennen der Königsklasse sowie der Moto2 und Moto3 LIVE. Freuen Sie sich auf die geballte Motorsportkompetenz unseres ServusTV-Expertenteams bestehend aus Österreichs Motorrad-Legende Gustl Auinger, Ex-MotoGP-Pilot Alex Hofmann sowie die deutschen Weltmeister Stefan Bradl und Sandro Cortese. Selbstverständlich sind unsere Moderatorinnen Alina Marzi und Eve Scheer, sowie die Kommentatoren Christian Brugger und Philipp Krummholz in dieser Saison ebenfalls am Start. Packender Motorsport, spannende Hintergrundberichte, ausführliche Interviews und detaillierte Analysen zu allen drei Rennklassen – das ist die MotoGP bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Australien</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
