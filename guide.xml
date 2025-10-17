@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-17 00:48:28.814750 -->
+<!-- created on 2025-10-17 02:15:18.444917 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,35 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251017000500 +0000" stop="20251017005000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Spur der Mörder</sub-title>
-        <desc lang="de">Als ein Polizist in Tennessee auf einer Autobahn ermordet aufgefunden wird, suchen die Ermittler mit Hilfe seiner Dashcam nach Antworten. Es braucht noch mehr Überwachungsvideos, um die Spur des Mörders aufzunehmen und den Fall zu lösen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E3</episode-num>
-    </programme>
-
-    <programme start="20251017005000 +0000" stop="20251017014000 +0000" channel="PULS24">
-        <title lang="de">Die Lebensmittelpolizei</title>
-        <desc lang="de">Die Lebensmittelpolizisten führen eine Kontrolle in der Küche Österreichs drittgrößtem Gefängnisses durch. Auch einen Supermarkt am Grazer Griesplatz nehmen die Inspektoren unter die Lupe. Die Zustände in der dortigen hauseigenen Fleischerei sind so verheerend, dass die Gefahr einer Teilschließung des Betriebes besteht. Auch einer anonymen Beschwerde gehen die Inspektoren nach. Ein Gast eines Grazer Fastfood Lokals hat angeblich Käfer in seinem Hamburger entdeckt.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
-        <date>2020</date>
-        <category lang="de">Essen</category>
-        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20251017014000 +0000" stop="20251017023500 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -630,34 +601,13 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20251017000000 +0000" stop="20251017011000 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">17.10.2025 02:00.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+    <programme start="20251019013500 +0000" stop="20251019023000 +0000" channel="PULS24">
+        <title lang="de">24 Stunden - Die Polizei im Einsatz</title>
+        <desc lang="de">Für die Wasserpolizisten Leo und Günther steht ein spannender Nachtdienst an: Ein Wiener meldet einen Einbruchdiebstahl in seiner Wohnung. Vor Ort finden die Beamten ein verwüstetes Zuhause vor - der Täter muss über die Terrassentüre eingestiegen sein. Außerdem kümmern sich Leo und Günther um einen Fall von häuslicher Gewalt. Die Hubschraubereinheit der Polizei fahndet unterdessen nach einem abgestürzten Segelflieger. Ob der Pilot überlebt hat, ist noch unklar.&lt;br /&gt;&lt;br /&gt;Über zwanzigtausend Polizeibeamte kämpfen in Österreich täglich gegen Kriminalität. Staffel 1 der ATV-Serie "24 Stunden - Die Polizei im Einsatz" zeigt ihre Arbeit, bei der es neben der entsprechenden Menschenkenntnis vor allem auf das nötige Fingerspitzengefühl ankommt. Die Einsatzbereiche der Polizisten sind vielfältig und reichen von der Verfolgung von Drogengeschäften bis hin zu lebensrettenden Maßnahmen und Fahndungen nach illegalen Grenzgängern.</desc>
+        <date>2012</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/3579923293566923470"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
-    </programme>
-
-    <programme start="20251017011000 +0000" stop="20251017015500 +0000" channel="ServusTV">
-        <title lang="de">Giganten</title>
-        <sub-title lang="de">Haie</sub-title>
-        <desc lang="de">Sie gehören zu den furchterregendsten Jägern der Welt: Haie - und die größte ihrer Art ist der Weiße Hai.&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
-        <credits>
-            <actor>[B]Regie[/B]: Robert Myler</actor>
-            <actor> Della Golding; [B]Produzent[/B]: Ruth Harries</actor>
-            <actor> James Mair; [B]Kamera[/B]: Peter Hayns; [B]Editor[/B]: Laurence Nickels</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
-        <country>Vereinigtes Königreich</country>
     </programme>
 
     <programme start="20251017015500 +0000" stop="20251017023500 +0000" channel="ServusTV">
@@ -1602,6 +1552,36 @@
     <programme start="20251019000000 +0000" stop="20251019010000 +0000" channel="ServusTV">
         <title lang="de">MotoGP</title>
         <sub-title lang="de">Liqui Moly Grand Prix von Australien - Moto3: Rennen</sub-title>
+        <desc lang="de">Start frei für die MotoGP-Saison 2025, die schnellste Motorradrennserie der Welt! ServusTV überträgt auch in diesem Jahr alle Rennen der Königsklasse sowie der Moto2 und Moto3 LIVE. Freuen Sie sich auf die geballte Motorsportkompetenz unseres ServusTV-Expertenteams bestehend aus Österreichs Motorrad-Legende Gustl Auinger, Ex-MotoGP-Pilot Alex Hofmann sowie die deutschen Weltmeister Stefan Bradl und Sandro Cortese. Selbstverständlich sind unsere Moderatorinnen Alina Marzi und Eve Scheer, sowie die Kommentatoren Christian Brugger und Philipp Krummholz in dieser Saison ebenfalls am Start. Packender Motorsport, spannende Hintergrundberichte, ausführliche Interviews und detaillierte Analysen zu allen drei Rennklassen – das ist die MotoGP bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Australien</country>
+    </programme>
+
+    <programme start="20251019010000 +0000" stop="20251019011500 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Liqui Moly Grand Prix von Australien - Moto2: Vorbericht</sub-title>
+        <desc lang="de">Start frei für die MotoGP-Saison 2025, die schnellste Motorradrennserie der Welt! ServusTV überträgt auch in diesem Jahr alle Rennen der Königsklasse sowie der Moto2 und Moto3 LIVE. Freuen Sie sich auf die geballte Motorsportkompetenz unseres ServusTV-Expertenteams bestehend aus Österreichs Motorrad-Legende Gustl Auinger, Ex-MotoGP-Pilot Alex Hofmann sowie die deutschen Weltmeister Stefan Bradl und Sandro Cortese. Selbstverständlich sind unsere Moderatorinnen Alina Marzi und Eve Scheer, sowie die Kommentatoren Christian Brugger und Philipp Krummholz in dieser Saison ebenfalls am Start. Packender Motorsport, spannende Hintergrundberichte, ausführliche Interviews und detaillierte Analysen zu allen drei Rennklassen – das ist die MotoGP bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Australien</country>
+    </programme>
+
+    <programme start="20251019011500 +0000" stop="20251019021500 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Liqui Moly Grand Prix von Australien - Moto2: Rennen</sub-title>
+        <desc lang="de">Start frei für die MotoGP-Saison 2025, die schnellste Motorradrennserie der Welt! ServusTV überträgt auch in diesem Jahr alle Rennen der Königsklasse sowie der Moto2 und Moto3 LIVE. Freuen Sie sich auf die geballte Motorsportkompetenz unseres ServusTV-Expertenteams bestehend aus Österreichs Motorrad-Legende Gustl Auinger, Ex-MotoGP-Pilot Alex Hofmann sowie die deutschen Weltmeister Stefan Bradl und Sandro Cortese. Selbstverständlich sind unsere Moderatorinnen Alina Marzi und Eve Scheer, sowie die Kommentatoren Christian Brugger und Philipp Krummholz in dieser Saison ebenfalls am Start. Packender Motorsport, spannende Hintergrundberichte, ausführliche Interviews und detaillierte Analysen zu allen drei Rennklassen – das ist die MotoGP bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
+        <date>2025</date>
+        <category lang="de">Motorrad</category>
+        <icon src="https://images.mdn.ors.at/17344583086437276588"/>
+        <country>Australien</country>
+    </programme>
+
+    <programme start="20251019021500 +0000" stop="20251019030000 +0000" channel="ServusTV">
+        <title lang="de">MotoGP</title>
+        <sub-title lang="de">Liqui Moly Grand Prix von Australien - MotoGP: Vorbericht</sub-title>
         <desc lang="de">Start frei für die MotoGP-Saison 2025, die schnellste Motorradrennserie der Welt! ServusTV überträgt auch in diesem Jahr alle Rennen der Königsklasse sowie der Moto2 und Moto3 LIVE. Freuen Sie sich auf die geballte Motorsportkompetenz unseres ServusTV-Expertenteams bestehend aus Österreichs Motorrad-Legende Gustl Auinger, Ex-MotoGP-Pilot Alex Hofmann sowie die deutschen Weltmeister Stefan Bradl und Sandro Cortese. Selbstverständlich sind unsere Moderatorinnen Alina Marzi und Eve Scheer, sowie die Kommentatoren Christian Brugger und Philipp Krummholz in dieser Saison ebenfalls am Start. Packender Motorsport, spannende Hintergrundberichte, ausführliche Interviews und detaillierte Analysen zu allen drei Rennklassen – das ist die MotoGP bei ServusTV.&lt;br /&gt;&lt;br /&gt;Die Motorrad-Geschwindigkeit Weltmeisterschaften vereinen die weltweit höchsten Motorrad-Rundstreckenrennen, die sogenannten Grands Prix.</desc>
         <date>2025</date>
         <category lang="de">Motorrad</category>
