@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-21 00:50:40.343166 -->
+<!-- created on 2025-10-21 02:19:48.452615 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,35 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251021001000 +0000" stop="20251021005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein tödlicher Irrtum</sub-title>
-        <desc lang="de">Als Samantha Josephson spurlos verschwindet, leiten Freunde und Familie die Fahndung ein - ohne Erfolg. Wurde die Studentin der University of South Carolina Opfer eines Verbrechens? Die Polizei prüft die Aufnahmen von Überwachungskameras, wenig später wird die Leiche der jungen Frau gefunden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E9</episode-num>
-    </programme>
-
-    <programme start="20251021005500 +0000" stop="20251021014500 +0000" channel="PULS24">
-        <title lang="de">Donau Polizei</title>
-        <desc lang="de">Das Team der Wiener Wasserpolizei um Chefinspektor Erich K. sichtet auf der Donau einen Hund, der in der Strömung ums Überleben kämpft. Jetzt heißt es schnell handeln, denn jede Minute zählt. Außerdem nehmen die Beamten das skurrile Donau-Lokal "African Queen" genauer unter die Lupe. Anwohner hatten Beschwerde eingereicht, dass die Betreiber Vorschriften missachten. Die Polizisten prüfen, ob das Lokal alle gewerbe- und wasserrechtlichen Vorschriften einhält.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
-        <date>2020</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/11941074360851769440"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20251021014500 +0000" stop="20251021023500 +0000" channel="PULS24">
         <title lang="de">Donau Polizei</title>
@@ -643,34 +614,13 @@
         <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20251021003000 +0000" stop="20251021012000 +0000" channel="ServusTV">
-        <title lang="de">Amerikas Westküste - 3000 Kilometer Abenteuer am Pazifik</title>
-        <sub-title lang="de">Von der kanadischen Grenze nach Seattle</sub-title>
-        <desc lang="de">Der Pacific Coast Highway ist für viele die schönste Küstenstraße der Welt. Von der Grenze zu Kanada zieht er sich 3000 Kilometer nach Süden. Es ist noch immer gelobtes Land, Traumziel für Millionen Reisende, Aussteiger und Glückssucher.Der Fotograf und Extremradler Dirk Rohrbach startet mit seinem Gravelbike am Peace Arch Park, an der Grenze zu Kanada. Von dort folgt er der Küste nach Süden. Er trifft eine Künstlerin, die im Hafenstädtchen Bellingham riesige Wandgemälde erstellt. Über eine lange Brücke erreicht Dirk dann Fidalgo Island und Anacortes. In dem kleinen Inselstädtchen liegt Amerikas beliebtester Plattenladen. The Business ist ein Paradies für Vinylnerds. Besitzer Nick Rennis gibt Dirk Einblick in die wilden Sounds und das historische Hafenviertel von Anacortes. Im Regen geht es weiter in die tollste Stadt der Welt. Das ist Seattle für viele. Dirk besucht den berühmten Pike Place Market mit seinen fliegenden Fischen, erklimmt die Space Needle und erfährt in der Barista Academy, wie man richtig guten Cappuccino zubereitet und warum Seattle in den 1970ern zur Welthauptstadt des Kaffees wurde.&lt;br /&gt;&lt;br /&gt;</desc>
-        <credits>
-            <actor>[B]Kamera[/B]:  Philip Flämig</actor>
-            <actor> Markus Weinberg; [B]Editor[/B]: Tim Greiner</actor>
-            <actor> Janina Heinz; [B]Regie[/B]: Dirk Rohrbach</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/15867158428521220140"/>
-        <country>Vereinigte Staaten</country>
-    </programme>
-
-    <programme start="20251021012000 +0000" stop="20251021020000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Außergewöhnliche Artefakte</sub-title>
-        <desc lang="de">Bisher wurden einige der ältesten und faszinierendsten Relikte der Welt aus nächster Nähe untersucht. Giorgio Tsoukalos, ein prominenter Vertreter der Prä-Astronautik-Theorie, wirft nun einen Blick zurück auf einige der geheimnisvollsten dieser Artefakte.&lt;br /&gt;In Transsilvanien untersuchen Giorgio Tsoukalos und Erich von Däniken, ein Pionier der Prä-Astronautik-Theorie, ein seltsames Objekt aus einer Aluminiumlegierung, das angeblich 40.000 Jahre alt sein soll. Der Autor David Childress analysiert in Afrika entdeckte blaue Steine, die mit keinem bekannten Gestein auf der Erde vergleichbar sind. Auf der abgelegenen Insel Hiva Oa in Französisch-Polynesien untersuchen Giorgio Tsoukalos und Childress antike Tiki-Statuen, die Berichten zufolge Ähnlichkeiten mit sogenannten „grauen“ Außerirdischen aufweisen. Könnten diese mysteriösen Artefakte Hinweise auf außerirdische Kontakte liefern, wie es die Anhänger der Prä-Astronautik-Theorie vermuten?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/2778985649450931384"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S14 E15</episode-num>
+    <programme start="20251023013500 +0000" stop="20251023022500 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Die Wasserpolizei kontrolliert ein Donau-Kreuzfahrtschiff, welches regelmäßig eine Route zwischen Linz und dem Schwarzen Meer abfährt. Die Rettungsschwimmer des Wiener Landesverbandes sind zurzeit besonders oft im Einsatz. Weil viele Urlauber ihre Ferien aktuell im Land verbringen, häufen sich die Badeunfälle an Österreichs Gewässern. Kapitän Franz betreibt an der Donau ein privates Schiffsmuseum. Zu sehen gibt es dort echte "Perlen" wie das Schiff "Ana" aus dem Jahr 1864.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/1751251211572"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20251021020000 +0000" stop="20251021023500 +0000" channel="ServusTV">
@@ -1504,6 +1454,15 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/13680357883376341828"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251023020000 +0000" stop="20251023023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
