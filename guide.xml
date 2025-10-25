@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-25 00:47:52.694473 -->
+<!-- created on 2025-10-25 02:14:54.746092 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251025001000 +0000" stop="20251025005500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Von Wut getrieben</sub-title>
-        <desc lang="de">Am Morgen des 18. Mai 2019 wird die Polizei in Cedar Rapids, Iowa, zum Tatort einer Schießerei gerufen: Ein Bewaffneter hat das Feuer auf vier Teenager in einem Auto eröffnet. Zwei von ihnen überleben schwer verletzt, der Schütze kann entkommen. Liefert das Überwachungsvideo den Ermittlern die nötigen Hinweise, um die Spur des Mörders aufzunehmen?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E10</episode-num>
-    </programme>
-
-    <programme start="20251025005500 +0000" stop="20251025014000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein tödlicher Irrtum</sub-title>
-        <desc lang="de">Als Samantha Josephson spurlos verschwindet, leiten Freunde und Familie die Fahndung ein - ohne Erfolg. Wurde die Studentin der University of South Carolina Opfer eines Verbrechens? Die Polizei prüft die Aufnahmen von Überwachungskameras, wenig später wird die Leiche der jungen Frau gefunden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E9</episode-num>
-    </programme>
 
     <programme start="20251025014000 +0000" stop="20251025023000 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -650,42 +610,22 @@
         <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20251025000000 +0000" stop="20251025005000 +0000" channel="ServusTV">
-        <title lang="de">Ab Hof</title>
-        <sub-title lang="de">Zeit</sub-title>
-        <desc lang="de">Im nordöstlichen Weinviertel bei Stronsdorf vermarktet Helga Bernold Fleisch vom Wagyu-Rind. Ursprünglich aus der Region Kobe in Japan gilt dieses Fleisch heute weltweit als besondere Delikatesse. Im oberösterreichischen Teil des Salzkammergutes werden in der Senferei Annamax aus den Körnern der Senfpflanze handwerklich Senfe hergestellt. Gründer und „Moutardier“ ist der geborene Steirer Rainer Baumgartner. Und in Niederneukirchen, südlich von Linz, liefert der Bio-Obst- und Gemüsehof Wild-Obermayr mit sieben Hektar Obst- und sieben Hektar Gemüsebau seine Produkte jede Woche unter anderem an die Spitzengastronomie, an Sterneköche wie etwa Lukas Nagl vom Bootshaus am Traunsee.&lt;br /&gt;&lt;br /&gt;Ein Trend der letzten Jahre ist die Selbstvermarktung. Warum nicht direkt vom Bauern ums Eck kaufen? Die Suche nach den besten Nahrungsmitteln aus der unmittelbaren Umgebung ist durch die Zeiten der Corona-Lockdowns noch verstärkt worden.</desc>
-        <credits>
-            <actor>[B]Kamera[/B]: Namche Okon</actor>
-            <actor> Felix Raitz von Frentz</actor>
-            <actor>  Michael Gügerl</actor>
-            <actor>  Christoph Hangel</actor>
-            <actor>  Peter Köhler</actor>
-            <actor>  Ferdinand Steininger</actor>
-            <actor> Sebastian Groß; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Beatrix Ziegler</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/10102790760583344558"/>
+    <programme start="20251027010000 +0000" stop="20251027015500 +0000" channel="PULS24">
+        <title lang="de">Die Lebensmittelpolizei</title>
+        <desc lang="de">Die Lebensmittelpolizei prüft ein beliebtes Lokal in Graz Wetzelsdorf und stößt dort auf erhebliche Hygienemängel. In der Küche liegt ein verschimmeltes Schneidebrett und im Innenhof eine Kiste mit gefrorenem Fleisch, deren Inhalt bei den sommerlichen Temperaturen nach und nach auftaut. Außerdem nehmen die Lebensmittelpolizisten Proben am Kaiser Josef Markt. Auch einen Eissalon kontrollieren die Inspektoren - Keime können sich dort besonders leicht ausbreiten.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
+        <date>2020</date>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20251025005000 +0000" stop="20251025014000 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Bestatterin Iris Menzinger</sub-title>
-        <desc lang="de">Als Bestatterin und Trauerrednerin ist Iris Menzinger tagtäglich mit dem Tod konfrontiert. Immer wieder hört sie von den bescheidenen Wünschen schwerstkranker oder sterbender Menschen. Über das Rote-Kreuz-Projekt „Herzenswunschmobil“ kann sie helfen, diese letzten Wünsche zu erfüllen. In Monika Grubers Vodcast teilt Iris Menzinger ihre Gedanken über das Leben und den Tod. Ein offenes, empathisches Gespräch mit feinem Gespür für die leisen Zwischentöne.&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+    <programme start="20251027015500 +0000" stop="20251027024500 +0000" channel="PULS24">
+        <title lang="de">Die Lebensmittelpolizei</title>
+        <desc lang="de">Fettrückstände an den Kochwerkzeugen, verschimmelte Dichtungen, Baumängel in der Küche - bei der Kontrolle eines Gasthauses im Grazer Bezirk St. Peter können die Lebensmittelpolizisten nur den Kopf schütteln. Die beiden Inspektoren Stefan und Christian sind derweil auf "Beisl-Tour" und prüfen einige örtliche Szenelokale. Auch hier stoßen sie auf teils bedenkliche Hygieneprobleme ...&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
+        <date>2020</date>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
         <country>Österreich</country>
-    </programme>
-
-    <programme start="20251025014000 +0000" stop="20251025015000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland, Österreich</country>
     </programme>
 
     <programme start="20251025015000 +0000" stop="20251025024000 +0000" channel="ServusTV">
@@ -1494,6 +1434,39 @@
             <actor> Luciano Acuna Jr</actor>
             <actor> Hans Marrero</actor>
             <actor> Laura Birn; [B]Regie[/B]: Scott Frank; [B]Drehbuch[/B]: Lawrence Block</actor>
+        </credits>
+        <date>2014</date>
+        <category lang="de">Mystery</category>
+        <icon src="https://images.mdn.ors.at/9038984028262992880"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251027005500 +0000" stop="20251027015000 +0000" channel="ServusTV">
+        <title lang="de">Ab in die Zukunft</title>
+        <sub-title lang="de">Ozeane von morgen</sub-title>
+        <desc lang="de">Bereit für eine Reise ins Jahr 2050? Die Welt verändert sich. Technologie und Wissenschaft beeinflussen das Leben – mit oft verwirrender Schnelligkeit.&lt;br /&gt;&lt;br /&gt;„Ab in die Zukunft“ versucht einen Ausblick zu geben, wie das Leben auf der Erde im Jahr 2050 aussehen könnte. Die Dokumentarreihe stellt kreative Menschen vor, die mit ihren Ideen und Visionen neue Lösungen für die Zukunft schaffen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sigourney Weaver; [B]Regie[/B]: Pierre-François Didek; [B]Kamera[/B]: Frédéric Balland; [B]Editor[/B]: William Roy; [B]Produzent[/B]: Alex Fighter; [B]Drehbuch[/B]:  Hélène Le Meur</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2059710014801030084"/>
+        <country>Frankreich</country>
+    </programme>
+
+    <programme start="20251027015000 +0000" stop="20251027033500 +0000" channel="ServusTV">
+        <title lang="de">Ruhet in Frieden - A Walk Among the Tombstones</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Drogendealer Kenny Kristo beauftragt Ex-Cop Matt Scudder, die Entführer und Mörder seiner Frau ausfindig zu machen. Bald wird Scudder klar, dass er es mit  Serientätern zu tun hat.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Boyd Holbrook</actor>
+            <actor> Maurice Compte</actor>
+            <actor> Patrick McDade</actor>
+            <actor> Luciano Acuna Jr</actor>
+            <actor> Hans Marrero</actor>
+            <actor> Laura Birn</actor>
+            <actor> Liam Neeson</actor>
+            <actor> Dan Stevens</actor>
+            <actor> David Harbour; [B]Regie[/B]: Scott Frank; [B]Drehbuch[/B]: Lawrence Block</actor>
         </credits>
         <date>2014</date>
         <category lang="de">Mystery</category>
