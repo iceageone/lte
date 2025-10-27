@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-27 00:54:51.492027 -->
+<!-- created on 2025-10-27 02:42:53.567781 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251027001000 +0000" stop="20251027010000 +0000" channel="PULS24">
-        <title lang="de">24 Stunden - Das Unfallkommando</title>
-        <sub-title lang="de">Merkwürdiger Autounfall</sub-title>
-        <desc lang="de">Die beiden Verkehrspolizisten Robert und Martin stoppen einen PKW, der vorne nur noch auf den Felgen fährt. Der Fahrer ist offensichtlich alkoholisiert und kann sich an keinen Unfall erinnern, obwohl sein Auto stark beschädigt ist. Die Polizisten nehmen die Suche nach dem Unfallort auf. An einer Kreuzung kollidieren drei Fahrzeuge: ein Fall für das Unfallkommando. Außerdem stellen die Beamten einen alkoholisierten Raser, der das Tempolimit im Ortsgebiet weit überschreitet.&lt;br /&gt;&lt;br /&gt;Die vermutlichen Hauptunfallursachen für tödliche Unfälle auf Österreichs Straßen sind unangepasste Fahrgeschwindigkeit, Vorrangverletzung sowie Unachtsamkeit und Ablenkung. Die Polizisten des Unfallkommandos müssen nicht nur den Unfallhergang rekonstruieren, sondern auch die Hinterbliebenen informieren. Eine Aufgabe, die den Polizisten alles abverlangt.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/3510345648288559838"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E7</episode-num>
-    </programme>
-
-    <programme start="20251027010000 +0000" stop="20251027015500 +0000" channel="PULS24">
-        <title lang="de">Die Lebensmittelpolizei</title>
-        <desc lang="de">Die Lebensmittelpolizei prüft ein beliebtes Lokal in Graz Wetzelsdorf und stößt dort auf erhebliche Hygienemängel. In der Küche liegt ein verschimmeltes Schneidebrett und im Innenhof eine Kiste mit gefrorenem Fleisch, deren Inhalt bei den sommerlichen Temperaturen nach und nach auftaut. Außerdem nehmen die Lebensmittelpolizisten Proben am Kaiser Josef Markt. Auch einen Eissalon kontrollieren die Inspektoren - Keime können sich dort besonders leicht ausbreiten.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
-        <date>2020</date>
-        <category lang="de">Essen</category>
-        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20251027015500 +0000" stop="20251027024500 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -620,37 +600,42 @@
         <episode-num system="onscreen">S13 E6</episode-num>
     </programme>
 
-    <programme start="20251026225500 +0000" stop="20251027005500 +0000" channel="ServusTV">
-        <title lang="de">Ruhet in Frieden - A Walk Among the Tombstones</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Drogendealer Kenny Kristo beauftragt Ex-Cop Matt Scudder, die Entführer und Mörder seiner Frau ausfindig zu machen. Bald wird Scudder klar, dass er es mit  Serientätern zu tun hat.</desc>
+    <programme start="20251029010500 +0000" stop="20251029015000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Von Wut getrieben</sub-title>
+        <desc lang="de">Am Morgen des 18. Mai 2019 wird die Polizei in Cedar Rapids, Iowa, zum Tatort einer Schießerei gerufen: Ein Bewaffneter hat das Feuer auf vier Teenager in einem Auto eröffnet. Zwei von ihnen überleben schwer verletzt, der Schütze kann entkommen. Liefert das Überwachungsvideo den Ermittlern die nötigen Hinweise, um die Spur des Mörders aufzunehmen?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Liam Neeson</actor>
-            <actor> Dan Stevens</actor>
-            <actor> David Harbour</actor>
-            <actor> Boyd Holbrook</actor>
-            <actor> Maurice Compte</actor>
-            <actor> Patrick McDade</actor>
-            <actor> Luciano Acuna Jr</actor>
-            <actor> Hans Marrero</actor>
-            <actor> Laura Birn; [B]Regie[/B]: Scott Frank; [B]Drehbuch[/B]: Lawrence Block</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2014</date>
-        <category lang="de">Mystery</category>
-        <icon src="https://images.mdn.ors.at/9038984028262992880"/>
-        <country>Vereinigte Staaten</country>
+        <date>2022</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S8 E10</episode-num>
     </programme>
 
-    <programme start="20251027005500 +0000" stop="20251027015000 +0000" channel="ServusTV">
-        <title lang="de">Ab in die Zukunft</title>
-        <sub-title lang="de">Ozeane von morgen</sub-title>
-        <desc lang="de">Bereit für eine Reise ins Jahr 2050? Die Welt verändert sich. Technologie und Wissenschaft beeinflussen das Leben – mit oft verwirrender Schnelligkeit.&lt;br /&gt;&lt;br /&gt;„Ab in die Zukunft“ versucht einen Ausblick zu geben, wie das Leben auf der Erde im Jahr 2050 aussehen könnte. Die Dokumentarreihe stellt kreative Menschen vor, die mit ihren Ideen und Visionen neue Lösungen für die Zukunft schaffen.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sigourney Weaver; [B]Regie[/B]: Pierre-François Didek; [B]Kamera[/B]: Frédéric Balland; [B]Editor[/B]: William Roy; [B]Produzent[/B]: Alex Fighter; [B]Drehbuch[/B]:  Hélène Le Meur</actor>
-        </credits>
-        <date>2017</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/2059710014801030084"/>
-        <country>Frankreich</country>
+    <programme start="20251029015000 +0000" stop="20251029024000 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Die Beamten der Wasserpolizei werden während einer Ruderübung auf der alten Donau von einem Notfall überrascht. Außerdem fahnden die Polizisten nach einer 15-Jährigen, die seit Tagen verschwunden ist und ertrunken sein könnte. Ein Spürhund soll ihnen dabei helfen, den gesamten Donaukanal abzusuchen. Auch einer Anzeige gehen die Beamten nach. Eine Dame fürchtet, dass die Seerosen vor ihrem Haus an der Alten Donau durch Unterwassermäharbeiten zerstört werden könnten.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/1750647453788"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251029024000 +0000" stop="20251029033000 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Das Team der Wiener Wasserpolizei um Chefinspektor Erich K. sichtet auf der Donau einen Hund, der in der Strömung ums Überleben kämpft. Jetzt heißt es schnell handeln, denn jede Minute zählt. Außerdem nehmen die Beamten das skurrile Donau-Lokal "African Queen" genauer unter die Lupe. Anwohner hatten Beschwerde eingereicht, dass die Betreiber Vorschriften missachten. Die Polizisten prüfen, ob das Lokal alle gewerbe- und wasserrechtlichen Vorschriften einhält.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/11941074360851769440"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20251027015000 +0000" stop="20251027033500 +0000" channel="ServusTV">
@@ -1494,6 +1479,31 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/11179945114315720152"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251029005500 +0000" stop="20251029022000 +0000" channel="ServusTV">
+        <title lang="de">Zwei hau'n auf den Putz</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Italo-Westernkomödie mit dem unschlagbaren Duo Bud Spencer und Terence Hill: Cat und sein bärenstarker Kumpel Hutch nehmen sich eine Bande vor, die sich gewaltsam Schürfrechte für Gold verschafft.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Terence Hill</actor>
+            <actor> Woody Strode</actor>
+            <actor> George Eastman</actor>
+            <actor> Glauco Onorato</actor>
+            <actor> Nazzareno Zamperla; [B]Regie[/B]: Giuseppe Colizzi</actor>
+        </credits>
+        <date>1969</date>
+        <category lang="de">Western</category>
+        <icon src="https://images.mdn.ors.at/12761432002743455036"/>
+        <country>Italien, Frankreich</country>
+    </programme>
+
+    <programme start="20251029022000 +0000" stop="20251029033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
