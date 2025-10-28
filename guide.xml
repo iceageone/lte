@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-28 00:48:27.615786 -->
+<!-- created on 2025-10-28 02:18:52.919372 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,35 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251028001500 +0000" stop="20251028011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Von Wut getrieben</sub-title>
-        <desc lang="de">Am Morgen des 18. Mai 2019 wird die Polizei in Cedar Rapids, Iowa, zum Tatort einer Schießerei gerufen: Ein Bewaffneter hat das Feuer auf vier Teenager in einem Auto eröffnet. Zwei von ihnen überleben schwer verletzt, der Schütze kann entkommen. Liefert das Überwachungsvideo den Ermittlern die nötigen Hinweise, um die Spur des Mörders aufzunehmen?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E10</episode-num>
-    </programme>
-
-    <programme start="20251028011000 +0000" stop="20251028020000 +0000" channel="PULS24">
-        <title lang="de">Die Lebensmittelpolizei</title>
-        <desc lang="de">Die Lebensmittelpolizei prüft ein beliebtes Lokal in Graz Wetzelsdorf und stößt dort auf erhebliche Hygienemängel. In der Küche liegt ein verschimmeltes Schneidebrett und im Innenhof eine Kiste mit gefrorenem Fleisch, deren Inhalt bei den sommerlichen Temperaturen nach und nach auftaut. Außerdem nehmen die Lebensmittelpolizisten Proben am Kaiser Josef Markt. Auch einen Eissalon kontrollieren die Inspektoren - Keime können sich dort besonders leicht ausbreiten.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
-        <date>2020</date>
-        <category lang="de">Essen</category>
-        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20251028020000 +0000" stop="20251028024500 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -649,23 +620,32 @@
         <episode-num system="onscreen">S10 E3</episode-num>
     </programme>
 
-    <programme start="20251028001000 +0000" stop="20251028014000 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Aktuelle Themen, spannende Gäste, eine spektakuläre Location: Sport und Talk aus dem Hangar-7.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
-        <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+    <programme start="20251030005500 +0000" stop="20251030014000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Der Mörder im Pick-up</sub-title>
+        <desc lang="de">Der 65-jährige Billy Connole wird auf der Straße erschossen. Der Täter fährt einen roten Pick-up. Die Polizei vermutet einen Serientäter, der zufällig Opfer auswählt. Ein Überwachungsvideo und ein Zeuge liefern erste Hinweise.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S12 E6</episode-num>
     </programme>
 
-    <programme start="20251028014000 +0000" stop="20251028015000 +0000" channel="ServusTV">
-        <title lang="de">Winter Heroes</title>
-        <sub-title lang="de">Marcel Hirscher</sub-title>
-        <desc lang="de">Die neue Doku-Serie „Winter Heroes“ startet am 27. Oktober 2025 auf Red Bull TV und bringt die emotionalsten Geschichten des Wintersports auf den Bildschirm. Von Eileen Gu bis Marcel Hirscher, von Anna Gasser bis Ryōyū Kobayashi: 16 Weltstars und Talente zeigen, was hinter Medaillen, Ruhm und Erfolgen steckt. In Sportarten wie Snowboard, Skispringen, Eisschnelllauf, Ski alpin und Skibergsteigen gewährt die Serie tiefe Einblicke in die Welt der einzelnen Athleten: Zwischen Trainings-Alltag, familiären Momenten, Rückschlägen und Triumphen.&lt;br /&gt;&lt;br /&gt;</desc>
-        <date>2025</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/9555357080670185891"/>
+    <programme start="20251030014000 +0000" stop="20251030023000 +0000" channel="PULS24">
+        <title lang="de">Die Lebensmittelpolizei</title>
+        <desc lang="de">Fettrückstände an den Kochwerkzeugen, verschimmelte Dichtungen, Baumängel in der Küche - bei der Kontrolle eines Gasthauses im Grazer Bezirk St. Peter können die Lebensmittelpolizisten nur den Kopf schütteln. Die beiden Inspektoren Stefan und Christian sind derweil auf "Beisl-Tour" und prüfen einige örtliche Szenelokale. Auch hier stoßen sie auf teils bedenkliche Hygieneprobleme ...&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
+        <date>2020</date>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
         <country>Österreich</country>
     </programme>
 
@@ -1529,6 +1509,25 @@
         <icon src="https://images.mdn.ors.at/14733441741331366145"/>
         <country>Vereinigtes Königreich</country>
         <episode-num system="onscreen">S1 E2</episode-num>
+    </programme>
+
+    <programme start="20251030013500 +0000" stop="20251030031500 +0000" channel="ServusTV">
+        <title lang="de">Bank Job</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Autoverkäufer Terry hat immer die Finger von krummen Dingern gelassen, bis die bildschöne Martine unvermittelt bei ihm auftaucht. Die Freundin aus Jugendtagen unterbreitet ihm ein verlockendes Angebot: den Einbruch in die Lloyds Bank in der Londoner Baker Street. Dort sollen sich Geld und Juwelen im Wert von mehreren Millionen Pfund befinden. Terry ahnt nicht, dass er neben dem Diebesgut auf eine Reihe schmutziger Geheimnisse stoßen wird.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Jason Statham</actor>
+            <actor> Saffron Burrows</actor>
+            <actor> Stephen Campbell Moore</actor>
+            <actor> Daniel Mays</actor>
+            <actor> James Faulkner</actor>
+            <actor> Michael Jibson</actor>
+            <actor> Alki David; [B]Regie[/B]: Roger Donaldson; [B]Drehbuch[/B]: Dick Clement</actor>
+            <actor>  Ian La Frenais</actor>
+        </credits>
+        <date>2008</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/5316139843399016935"/>
+        <country>Australien, Vereinigtes Königreich, Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
