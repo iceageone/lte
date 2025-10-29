@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-29 00:52:30.934162 -->
+<!-- created on 2025-10-29 02:26:43.878640 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251029001000 +0000" stop="20251029010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Eine tödliche Falle</sub-title>
-        <desc lang="de">Der dreifache Vater Corey Hughes plant einen Neuanfang. Nach der Trennung von seiner Freundin verkauft er all seine Möbel und Elektrogeräte. Eines Morgens kommt ein Freund vorbei, um Coreys Fernseher zu kaufen - und entdeckt ihn tot in der Küche. Corey hatte die Einnahmen seiner Verkäufe online gepostet. Wurde ihm das zum Verhängnis?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S13 E6</episode-num>
-    </programme>
-
-    <programme start="20251029010500 +0000" stop="20251029015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Von Wut getrieben</sub-title>
-        <desc lang="de">Am Morgen des 18. Mai 2019 wird die Polizei in Cedar Rapids, Iowa, zum Tatort einer Schießerei gerufen: Ein Bewaffneter hat das Feuer auf vier Teenager in einem Auto eröffnet. Zwei von ihnen überleben schwer verletzt, der Schütze kann entkommen. Liefert das Überwachungsvideo den Ermittlern die nötigen Hinweise, um die Spur des Mörders aufzunehmen?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S8 E10</episode-num>
-    </programme>
 
     <programme start="20251029015000 +0000" stop="20251029024000 +0000" channel="PULS24">
         <title lang="de">Donau Polizei</title>
@@ -353,13 +313,13 @@
         <sub-title lang="de">In der Falle</sub-title>
         <desc lang="de">Eine 30-jährige, zweifache Mutter verschwindet spurlos. Ihr Freund, den sie wegen häuslicher Gewalt schon mehrmals verlassen hat, ist wütend, weil sie ihn mit den Kindern hat sitzen lassen. Die Ermittler finden im Haus Drogen, Waffen und ein ausgeklügeltes Überwachungssystem - doch alle Innenkameras fehlen. Nach und nach kommen grausame Details ans Licht ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Morgan Bragg</actor>
-            <actor> Bryan Edwards</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
             <actor> James J. Wilson</actor>
             <actor> Tamara Rambaran</actor>
             <actor> Matthew Sauve</actor>
             <actor> Drew Riedstra</actor>
             <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
         <date>2023</date>
         <category lang="de">True Crime</category>
@@ -665,39 +625,33 @@
         <episode-num system="onscreen">S12 E6</episode-num>
     </programme>
 
-    <programme start="20251029001000 +0000" stop="20251029005500 +0000" channel="ServusTV">
-        <title lang="de">Hubert ohne Staller</title>
-        <sub-title lang="de">Spiel Satz Sarg</sub-title>
-        <desc lang="de">Christina Bayer hat sich für eine Trainingsstunde mit ihrem Tennislehrer verabredet. Der jedoch liegt bei ihrer Ankunft tot auf dem Platz - erschlagen mit seinem eigenen Tennisschläger! Vereinsvorstand Bernhard Seibel weiß, dass der Ermordete nichts hat anbrennen lassen, und vermutet die Rache eines gehörnten Ehemannes. Doch dann findet Yazid im Straßengraben einen verunglückten Rollerfahrer. Er ist Platzwart im Tennisverein und gibt an, ein Unbekannter habe ihn von der Straße gedrängt. Besteht da etwa ein Zusammenhang mit dem Mord am Tennislehrer?&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
+    <programme start="20251031010000 +0000" stop="20251031014500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">In der Falle</sub-title>
+        <desc lang="de">Eine 30-jährige, zweifache Mutter verschwindet spurlos. Ihr Freund, den sie wegen häuslicher Gewalt schon mehrmals verlassen hat, ist wütend, weil sie ihn mit den Kindern hat sitzen lassen. Die Ermittler finden im Haus Drogen, Waffen und ein ausgeklügeltes Überwachungssystem - doch alle Innenkameras fehlen. Nach und nach kommen grausame Details ans Licht ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
-            <actor> Hannes Ringlstetter</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Katharina Müller-Elmau</actor>
-            <actor> Mitsou Jung</actor>
-            <actor> Susu Padotzke</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2021</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
-        <country>Deutschland</country>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E3</episode-num>
     </programme>
 
-    <programme start="20251029005500 +0000" stop="20251029022000 +0000" channel="ServusTV">
-        <title lang="de">Zwei hau'n auf den Putz</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Italo-Westernkomödie mit dem unschlagbaren Duo Bud Spencer und Terence Hill: Cat und sein bärenstarker Kumpel Hutch nehmen sich eine Bande vor, die sich gewaltsam Schürfrechte für Gold verschafft.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Terence Hill</actor>
-            <actor> Woody Strode</actor>
-            <actor> George Eastman</actor>
-            <actor> Glauco Onorato</actor>
-            <actor> Nazzareno Zamperla; [B]Regie[/B]: Giuseppe Colizzi</actor>
-        </credits>
-        <date>1969</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/12761432002743455036"/>
-        <country>Italien, Frankreich</country>
+    <programme start="20251031014500 +0000" stop="20251031023500 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Die Wasserpolizei kontrolliert ein Donau-Kreuzfahrtschiff, welches regelmäßig eine Route zwischen Linz und dem Schwarzen Meer abfährt. Die Rettungsschwimmer des Wiener Landesverbandes sind zurzeit besonders oft im Einsatz. Weil viele Urlauber ihre Ferien aktuell im Land verbringen, häufen sich die Badeunfälle an Österreichs Gewässern. Kapitän Franz betreibt an der Donau ein privates Schiffsmuseum. Zu sehen gibt es dort echte "Perlen" wie das Schiff "Ana" aus dem Jahr 1864.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/1751251211572"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20251029022000 +0000" stop="20251029033500 +0000" channel="ServusTV">
@@ -1531,6 +1485,32 @@
         <icon src="https://images.mdn.ors.at/10092140308075608800"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251031013000 +0000" stop="20251031021500 +0000" channel="ServusTV">
+        <title lang="de">Rückkehr der Urzeit-Giganten</title>
+        <sub-title lang="de">Das Mammut</sub-title>
+        <desc lang="de">Vor gut 4000 Jahren zogen die Mammuts noch über die Steppenlandschaften der Nordhalbkugel der Erde.&lt;br /&gt;&lt;br /&gt;Bis zu 4,5 Meter groß und bis zu 15 Tonnen schwer konnten sie werden. Vor gut 4000 Jahren zogen die Mammuts noch über die Steppenlandschaften der Nordhalbkugel der Erde. Doch dann verschwanden sie. Bis heute sind die Ursachen dafür nicht geklärt. In der heutigen Episode soll untersucht werden, was ihre Auslöschung verursacht haben könnte. Denn neue und bislang einzigartige Funde sollen das Geheimnis lüften.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: Jamie Lochhead</actor>
+            <actor>  Freya Williams</actor>
+            <actor> Selina Tso; [B]Produzent[/B]: James Franklin; [B]Editor[/B]: Antonio Morra</actor>
+            <actor> Raul Sacristan</actor>
+            <actor> Matt Ashton; [B]Kamera[/B]: Julian Schwantz</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/12621709661284765537"/>
+        <country>Vereinigtes Königreich, Kanada</country>
+    </programme>
+
+    <programme start="20251031021500 +0000" stop="20251031033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
