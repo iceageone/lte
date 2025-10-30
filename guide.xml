@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-10-30 00:52:24.222472 -->
+<!-- created on 2025-10-30 02:24:24.117717 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251030000500 +0000" stop="20251030010000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">In der Falle</sub-title>
-        <desc lang="de">Eine 30-jährige, zweifache Mutter verschwindet spurlos. Ihr Freund, den sie wegen häuslicher Gewalt schon mehrmals verlassen hat, ist wütend, weil sie ihn mit den Kindern hat sitzen lassen. Die Ermittler finden im Haus Drogen, Waffen und ein ausgeklügeltes Überwachungssystem - doch alle Innenkameras fehlen. Nach und nach kommen grausame Details ans Licht ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E3</episode-num>
-    </programme>
-
-    <programme start="20251030010000 +0000" stop="20251030014000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Mörder im Pick-up</sub-title>
-        <desc lang="de">Der 65-jährige Billy Connole wird auf der Straße erschossen. Der Täter fährt einen roten Pick-up. Die Polizei vermutet einen Serientäter, der zufällig Opfer auswählt. Ein Überwachungsvideo und ein Zeuge liefern erste Hinweise.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S12 E6</episode-num>
-    </programme>
 
     <programme start="20251030014000 +0000" stop="20251030023500 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -640,23 +600,44 @@
         <episode-num system="onscreen">S4 E1</episode-num>
     </programme>
 
-    <programme start="20251030004500 +0000" stop="20251030013500 +0000" channel="ServusTV">
-        <title lang="de">Hotels zum Staunen - Ein Blick hinter die Kulissen</title>
-        <sub-title lang="de">Mashpi Lodge, Ecuador</sub-title>
-        <desc lang="de">In der zweiten Episode reisen Giles und Monica in die entlegene Mashpi Lodge nach Ecuador, die für die Hotelgäste nur per Seilbahn zu erreichen ist und majestätisch über dem Tropenwald thront. Seltene Tier- und Pflanzenarten sorgen dort für eine einzigartige Atmosphäre. Doch die Lage des exklusiven Öko-Hotels stellt seine Betreiber vor viele praktische und logistische Herausforderungen, wie Giles und Monica bald erkennen.&lt;br /&gt;&lt;br /&gt;Giles Coren und Monica Galetti krempeln die Ärmel hoch, um mit den Mitarbeitern einiger der außergewöhnlichsten Hotels auf der ganzen Welt zusammenzuarbeiten.</desc>
+    <programme start="20251101011000 +0000" stop="20251101015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Eine tödliche Falle</sub-title>
+        <desc lang="de">Der dreifache Vater Corey Hughes plant einen Neuanfang. Nach der Trennung von seiner Freundin verkauft er all seine Möbel und Elektrogeräte. Eines Morgens kommt ein Freund vorbei, um Coreys Fernseher zu kaufen - und entdeckt ihn tot in der Küche. Corey hatte die Einnahmen seiner Verkäufe online gepostet. Wurde ihm das zum Verhängnis?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Monica Galetti</actor>
-            <actor> Giles Coren</actor>
-            <actor> Robert Rinder; [B]Regie[/B]:  Gaetan Mourgue</actor>
-            <actor> Max Shapira</actor>
-            <actor> Aidan Woodward; [B]Produzent[/B]:  Dunk Barnes</actor>
-            <actor>  Rebecca Templar</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2017</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/14733441741331366145"/>
-        <country>Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S1 E2</episode-num>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S13 E6</episode-num>
+    </programme>
+
+    <programme start="20251101015500 +0000" stop="20251101024000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Verrat unter Nachbarn</sub-title>
+        <desc lang="de">Der 71-jährige Jack Davis ist in seinem Viertel beliebt und kocht sonntags für seine Nachbar:innen. Nach seinem Tod wird Selbstmord vermutet, aber die Außenkamera zeigt, dass vier Personen in sein Haus eingedrungen sind.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S12 E5</episode-num>
     </programme>
 
     <programme start="20251030013500 +0000" stop="20251030031500 +0000" channel="ServusTV">
@@ -1507,6 +1488,25 @@
         <date>2025</date>
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251101012500 +0000" stop="20251101021000 +0000" channel="ServusTV">
+        <title lang="de">Rund ums Sterben - Friedhofsgeschichten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Tod gehört zum Leben dazu. Er ist gewiss. Es ist nur nicht klar, wann und wo gestorben wird. Dass gestorben wird ist fix. &lt;br /&gt;&lt;br /&gt;Fester Bestandteil des Todes sind auch die Menschen, die sich im Leben um den Tod und um das Danach kümmern. Wie begegnen sie dem Sterben und der Arbeit damit? Sehr oft mit einem sehr leichten, humorigen Umgang. Wir begeben uns auf eine ungewöhnliche und alles andere als todernste Reise durch Österreich und seine Sterbe- und Begräbniskultur.</desc>
+        <date>2019</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/16316475154862454910"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251101021000 +0000" stop="20251101025500 +0000" channel="ServusTV">
+        <title lang="de">TM Wissen Spezial</title>
+        <sub-title lang="de">Von Korn und Milch</sub-title>
+        <desc lang="de">Ist Weizen so schlecht wie sein Ruf? // Warum ist Sauerteig so gesund? // Ist Milch von behornten Kühen besser? // Wie funktioniert das Ökosystem Kuhweide? // Wie sicher sind Gebäude aus Holz? // Können Vulkane wieder ausbrechen? // Warum zerplatzen Seifenblasen?&lt;br /&gt;&lt;br /&gt;Faszinierende Geschichten und spannende Phänomene: Im wöchentlichen Magazin TM Wissen präsentiert Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer regelmäßig Faszinierendes, Überraschendes und Skurriles aus der Welt der Forschung.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/14847630671746813673"/>
         <country>Österreich</country>
     </programme>
 
