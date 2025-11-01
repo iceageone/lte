@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-01 00:53:55.604341 -->
+<!-- created on 2025-11-01 02:24:53.958424 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251101001500 +0000" stop="20251101011000 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Jack Unterweger - Sex, Drugs, Rock 'n' Kill</sub-title>
-        <desc lang="de">In Österreich kommt es Anfang der 90er Jahre im Rotlichtmilieu zu grausamen Verbrechen. Der Hauptverdächtiger ist Jack Unterweger, ein ehemaliger Vorzeigehäftling, der als literarisches Wunder gehandelt wird. Mit nur 24 Jahren wird er wegen Mordes erstmals zu lebenslanger Haft verurteilt. Im Gefängnis holt Unterweger den Hauptschulabschluss nach und beginnt zu schreiben. Dann aber wird er mit elf bestialischen Morden an Prostituierten in Zusammenhang gebracht.&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2023</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S4 E1</episode-num>
-    </programme>
-
-    <programme start="20251101011000 +0000" stop="20251101015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Eine tödliche Falle</sub-title>
-        <desc lang="de">Der dreifache Vater Corey Hughes plant einen Neuanfang. Nach der Trennung von seiner Freundin verkauft er all seine Möbel und Elektrogeräte. Eines Morgens kommt ein Freund vorbei, um Coreys Fernseher zu kaufen - und entdeckt ihn tot in der Küche. Corey hatte die Einnahmen seiner Verkäufe online gepostet. Wurde ihm das zum Verhängnis?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S13 E6</episode-num>
-    </programme>
 
     <programme start="20251101015500 +0000" stop="20251101024000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -768,23 +737,48 @@
         <episode-num system="onscreen">S12 E6</episode-num>
     </programme>
 
-    <programme start="20251101004000 +0000" stop="20251101012500 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Trachten-Ikone Gexi Tostmann</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. &lt;br /&gt;Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin im Pausenmodus geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+    <programme start="20251103011000 +0000" stop="20251103015500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">03.11.2025 02:10.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20251101012500 +0000" stop="20251101021500 +0000" channel="ServusTV">
-        <title lang="de">Rund ums Sterben - Friedhofsgeschichten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Tod gehört zum Leben dazu. Er ist gewiss. Es ist nur nicht klar, wann und wo gestorben wird. Dass gestorben wird ist fix. &lt;br /&gt;&lt;br /&gt;Fester Bestandteil des Todes sind auch die Menschen, die sich im Leben um den Tod und um das Danach kümmern. Wie begegnen sie dem Sterben und der Arbeit damit? Sehr oft mit einem sehr leichten, humorigen Umgang. Wir begeben uns auf eine ungewöhnliche und alles andere als todernste Reise durch Österreich und seine Sterbe- und Begräbniskultur.</desc>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/16316475154862454910"/>
-        <country>Österreich</country>
+    <programme start="20251103015500 +0000" stop="20251103024000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">03.11.2025 02:55.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251101021500 +0000" stop="20251101030000 +0000" channel="ServusTV">
@@ -1661,6 +1655,35 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">E6</episode-num>
+    </programme>
+
+    <programme start="20251103011000 +0000" stop="20251103021000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">03.11.2025 02:10.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251103021000 +0000" stop="20251103025500 +0000" channel="ServusTV">
+        <title lang="de">Ab in die Zukunft</title>
+        <sub-title lang="de">Städte von morgen</sub-title>
+        <desc lang="de">Bereit für eine Reise ins Jahr 2050? Die Welt verändert sich. Technologie und Wissenschaft beeinflussen das Leben – mit oft verwirrender Schnelligkeit.&lt;br /&gt;&lt;br /&gt;„Ab in die Zukunft“ versucht einen Ausblick zu geben, wie das Leben auf der Erde im Jahr 2050 aussehen könnte. Die Dokumentarreihe stellt kreative Menschen vor, die mit ihren Ideen und Visionen neue Lösungen für die Zukunft schaffen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sigourney Weaver; [B]Produzent[/B]: Alex Fighter; [B]Drehbuch[/B]:  Hélène Le Meur; [B]Regie[/B]: Marc Aderghal; [B]Kamera[/B]:  Mathieu Hagnery</actor>
+            <actor>  Santiago Serrano; [B]Editor[/B]: Alexandre Basso</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2059710014801030084"/>
+        <country>Frankreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
