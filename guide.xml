@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-02 00:54:33.670407 -->
+<!-- created on 2025-11-02 02:28:37.287285 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251102003500 +0000" stop="20251102012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord ohne Motiv</sub-title>
-        <desc lang="de">Am 19. Oktober 2018 wird die Leiche von Laura Pietscher neben einem Müllcontainer in Tampa, Florida, gefunden. Die 28 Jahre alte Frau wohnte im zwei Stunden entfernten Sebring. Warum ist sie nach Tampa gefahren? Und wo ist ihr silberner Pick-up? Die Polizei steht vor einem Rätsel ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S12 E8</episode-num>
-    </programme>
-
-    <programme start="20251102012000 +0000" stop="20251102020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">In der Falle</sub-title>
-        <desc lang="de">Eine 30-jährige, zweifache Mutter verschwindet spurlos. Ihr Freund, den sie wegen häuslicher Gewalt schon mehrmals verlassen hat, ist wütend, weil sie ihn mit den Kindern hat sitzen lassen. Die Ermittler finden im Haus Drogen, Waffen und ein ausgeklügeltes Überwachungssystem - doch alle Innenkameras fehlen. Nach und nach kommen grausame Details ans Licht ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E3</episode-num>
-    </programme>
 
     <programme start="20251102020500 +0000" stop="20251102025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -709,20 +669,68 @@
         <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
     </programme>
 
-    <programme start="20251102001500 +0000" stop="20251102014500 +0000" channel="ServusTV">
-        <title lang="de">Letzter Stollen - Der sechste Altaussee Krimi</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Aufruhr im Ausseer Land. Gerade jetzt, wo sich Postenkommandant, Friedrich Kahlß, in den Ruhestand verabschiedet, wird ein Tourist in den Tiefen des Salzbergwerks vermisst. Wo steckt er? Hat er sich im Stollen-Labyrinth verirrt, oder hat das Verschwinden gar etwas mit den sagenumwobenen Kunstschätzen im Bergwerk zu tun? Bald wird der Vermisste tot aufgefunden und der arme Gasperlmaier muss ermitteln - dabei wird ihm unter der Tage ganz flau im Magen.</desc>
+    <programme start="20251104005500 +0000" stop="20251104014000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Mord ohne Motiv</sub-title>
+        <desc lang="de">Am 19. Oktober 2018 wird die Leiche von Laura Pietscher neben einem Müllcontainer in Tampa, Florida, gefunden. Die 28 Jahre alte Frau wohnte im zwei Stunden entfernten Sebring. Warum ist sie nach Tampa gefahren? Und wo ist ihr silberner Pick-up? Die Polizei steht vor einem Rätsel ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Kamera[/B]: Hermann Dunzendorfer; [B]DarstellerInnen[/B]: Johannes Zeiler</actor>
-            <actor> Martina Gedeck</actor>
-            <actor> Gerhard Ernst; [B]Regie[/B]: Julian Roman Pölsler; [B]Editor[/B]:  Maresa Wendleder</actor>
-            <actor>  Frank Holderied</actor>
-            <actor>  Andrea Wagner; [B]Produzent[/B]: Julian Pölsler</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S12 E8</episode-num>
+    </programme>
+
+    <programme start="20251104014000 +0000" stop="20251104022000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">04.11.2025 02:40.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/14580713018460419316"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251104022000 +0000" stop="20251104030500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">04.11.2025 03:20.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251102014500 +0000" stop="20251102041500 +0000" channel="ServusTV">
@@ -1595,6 +1603,34 @@
         <category lang="de">Sportmagazin</category>
         <icon src="https://images.mdn.ors.at/1700841261"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251104013000 +0000" stop="20251104021500 +0000" channel="ServusTV">
+        <title lang="de">Amerikas Westküste - 3000 Kilometer Abenteuer am Pazifik</title>
+        <sub-title lang="de">Durch Oregon nach Nordkalifornien</sub-title>
+        <desc lang="de">Der Pacific Coast Highway: Urwälder, fruchtbares Farmland und pulsierende Metropolen in Washington, Oregon und Kalifornien. Brutale Steigungen und gnadenloser Gegenwind. Atemraubende Felsenküsten und einsame Traumstrände. Ein R(o)adtrip mit Sehnsuchtsgarantie, zum Nachreisen, mit dem Bike, Motorrad, Van oder Wohnmobil!&lt;br /&gt;Dirk Rohrbachs Route schmiegt sich wieder eng ans Wasser, führt über Landzungen, durch Kiefernhaine zu kleinen State Parks, die zum Wandern einladen. Die Strände sind sandig und weitläufig. Dazwischen kleine Städtchen mit Coffeeshops und Kunstgalerien. Und dann plötzlich Sand. Soweit das Auge reicht. Wie eine gelbe Wand gleich neben dem Asphalt des Highways. Bis zu 150 Meter erheben sich die Oregon Sand Dunes. Ein Paradies für Sandboarder. Das will der Fotograf und Extremradler Dirk Rohrbach ausprobieren und scheitert kläglich.&lt;br /&gt;In Coos Bay trifft Dirk den Häuptling der Coquille, hilft in Bandon Sandkünstlern beim Erstellen eines riesigen Labyrinths am Strand und erfährt, wie man mit Müll die Ozeane retten kann. Und als er ganz im Süden von Oregon vor der Küste paddelt, taucht plötzlich ein Wal auf.&lt;br /&gt;&lt;br /&gt;</desc>
+        <credits>
+            <actor>[B]Kamera[/B]:  Philip Flämig</actor>
+            <actor> Markus Weinberg; [B]Editor[/B]: Tim Greiner; [B]Regie[/B]: Dirk Rohrbach</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reisen</category>
+        <icon src="https://images.mdn.ors.at/7508381638734007989"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251104021500 +0000" stop="20251104025500 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Die Macht der Obelisken</sub-title>
+        <desc lang="de">Die gewaltigen Obelisken des alten Ägyptens wiegen Hunderte von Tonnen und wurden jeweils perfekt aus einem einzigen Granitfelsen gehauen. Während Mainstream-Wissenschaftler sie als Denkmäler für die Pharaonen identifizieren, vermuten Prä- Astronautiker, dass sie einem technologischen Zweck dienten - sie betrieben eine Technologie, die die Kommunikation mit den Göttern ermöglichte, die von den Sternen kamen.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/2778985649450931384"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
