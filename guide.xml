@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-05 00:52:44.739137 -->
+<!-- created on 2025-11-05 02:24:48.573092 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -32,49 +32,8 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
 
-    <programme start="20251105001500 +0000" stop="20251105011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Roadtrip in den Tod</sub-title>
-        <desc lang="de">Die 37-jährige Kalifornierin Merrilee will mit einem Ex-Freund in Utah einen Neustart wagen. Ihre 13-jährige Tochter und ihr Hund begleiten sie auf ihrer Reise. Plötzlich verschwindet die Mutter jedoch spurlos. Ihr Ex und sein Freund berichten, dass sie nach einem Streit mit Drogen und Alkohol im Auto davongebraust sei. Wurde die trockene Alkoholikerin rückfällig? Schließlich wird ihr Auto hunderte Kilometer entfernt in Idaho gefunden ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E2</episode-num>
-    </programme>
-
-    <programme start="20251105011000 +0000" stop="20251105015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Dunkle Vergangenheit</sub-title>
-        <desc lang="de">Am 14. Mai 2018 meldet Ann Johnson ihre Tochter Joleen Cummings als vermisst. Die 34 Jahre alte Friseurin und dreifache Mutter wurde zuletzt vor zwei Tagen gesehen. Die Polizei vernimmt ihren Noch-Ehemann und ihren derzeitigen Freund, der per Haftbefehl gesucht wird - beide scheiden jedoch als Verdächtige aus. Es stellt sich schließlich heraus, dass Joleen einen heftigen Streit mit einer Kollegin hatte ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E1</episode-num>
-    </programme>
-
     <programme start="20251105015500 +0000" stop="20251105024000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">05.11.2025 02:55.</sub-title>
         <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
             <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
@@ -96,7 +55,6 @@
 
     <programme start="20251105024000 +0000" stop="20251105032500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">05.11.2025 03:40.</sub-title>
         <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
             <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
@@ -670,41 +628,45 @@
         <episode-num system="onscreen">S10 E1</episode-num>
     </programme>
 
-    <programme start="20251105001000 +0000" stop="20251105010000 +0000" channel="ServusTV">
-        <title lang="de">Hubert ohne Staller</title>
-        <sub-title lang="de">Welpenschutz</sub-title>
-        <desc lang="de">Hubert übersieht auf der Fahrt mit Riedl im Streifenwagen einen Elektroroller, der mitten auf der Straße abgestellt ist. Während Hubert sich den Schaden näher ansieht, entdeckt Riedl die Leiche des Tierfotografen Axel Kämmer. Was zunächst nach Unfall mit Fahrerflucht aussieht, entpuppt sich schnell als Mord. Offenbar wurde Kämmer erschlagen und anschließend von einem Wagen überrollt. Ihre Ermittlungen führen Hubert und Riedl auf einen Bio-Bauernhof. Der vermittelt nicht nur Straßenhunde aus Rumänien an neue Besitzer. Bald ist klar, dass sich hier auch einige dunkle Geheimnisse verbergen.&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
+    <programme start="20251107011000 +0000" stop="20251107015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Mach nicht auf!</sub-title>
+        <desc lang="de">Als Rodney Thurber in seinem eigenen Zuhause erschossen wird, sichten die Ermittler Aufnahmen aus Überwachungskameras, um seinen Mörder zu finden. Die Spur führt zu einem vermummten Schützen in einem silbernen Wagen ohne Kennzeichen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Hannes Ringlstetter</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Katharina Müller-Elmau</actor>
-            <actor> Mitsou Jung</actor>
-            <actor> Susu Padotzke</actor>
-            <actor> Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
         <date>2023</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
-        <country>Deutschland</country>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S14 E3</episode-num>
     </programme>
 
-    <programme start="20251105010000 +0000" stop="20251105014500 +0000" channel="ServusTV">
-        <title lang="de">Hubert ohne Staller</title>
-        <sub-title lang="de">Anleitung zum Glücklichsein</sub-title>
-        <desc lang="de">Am Fluss finden Hubert und Girwidz eine Leiche, die in einen Teppich eingerollt ist. Das Opfer, Johannes Graf, war erst am Morgen von seiner Frau als vermisst gemeldet worden. Sie hatte ihn auf einer Bergwanderung vermutet. Erst kürzlich hatte er sein Leben nach einer Beratung durch Life Coach Seligstein einschneidend verändert. Graf war gar nicht in den Bergen, wie die Tracking-App seines Handys verrät. Als es den Polizisten gelingt, die App zu aktualisieren, stellen sie fest, dass sich das Handy offenbar noch durch Wolfratshausen bewegt.&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
+    <programme start="20251107015500 +0000" stop="20251107023500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">07.11.2025 02:55.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
-            <actor> Hannes Ringlstetter</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Katharina Müller-Elmau</actor>
-            <actor> Mitsou Jung</actor>
-            <actor> Susu Padotzke</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2021</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1521,6 +1483,40 @@
         <icon src="https://images.mdn.ors.at/12196364882271256332"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E22</episode-num>
+    </programme>
+
+    <programme start="20251107010000 +0000" stop="20251107021000 +0000" channel="ServusTV">
+        <title lang="de">Talk im Hangar-7</title>
+        <sub-title lang="de">07.11.2025 02:00.</sub-title>
+        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
+            <actor> Michael Fleischhacker</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251107021000 +0000" stop="20251107025500 +0000" channel="ServusTV">
+        <title lang="de">Rückkehr der Urzeit-Giganten</title>
+        <sub-title lang="de">Der furchterregende Säbelzahntiger</sub-title>
+        <desc lang="de">Ausgrabungen in den La Brea Tar Pits von L.A. könnten aufklären, wie der Säbelzahntiger jagte.&lt;br /&gt;&lt;br /&gt;Bis zu 4,5 Meter groß und bis zu 15 Tonnen schwer konnten sie werden. Vor gut 4000 Jahren zogen die Mammuts noch über die Steppenlandschaften der Nordhalbkugel der Erde. Doch dann verschwanden sie. Bis heute sind die Ursachen dafür nicht geklärt. In der heutigen Episode soll untersucht werden, was ihre Auslöschung verursacht haben könnte. Denn neue und bislang einzigartige Funde sollen das Geheimnis lüften.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: James Franklin</actor>
+            <actor> Jamie Lochhead</actor>
+            <actor> Selina Tso</actor>
+            <actor>  Freya Williams</actor>
+            <actor> Alice Ford</actor>
+            <actor> Isabel Tang; [B]Editor[/B]: Antonio Morra</actor>
+            <actor> Matt Ashton; [B]Kamera[/B]: Julian Schwantz</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/12621709661284765537"/>
+        <country>Vereinigtes Königreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
