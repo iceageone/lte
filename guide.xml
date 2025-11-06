@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-06 00:51:45.349914 -->
+<!-- created on 2025-11-06 02:24:53.585458 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251106001500 +0000" stop="20251106011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mach nicht auf!</sub-title>
-        <desc lang="de">Als Rodney Thurber in seinem eigenen Zuhause erschossen wird, sichten die Ermittler Aufnahmen aus Überwachungskameras, um seinen Mörder zu finden. Die Spur führt zu einem vermummten Schützen in einem silbernen Wagen ohne Kennzeichen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S14 E3</episode-num>
-    </programme>
-
-    <programme start="20251106011000 +0000" stop="20251106015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das letzte Signal</sub-title>
-        <desc lang="de">Eine junge Frau namens Cristina verschwindet scheinbar spurlos. Als ihr Handy an einem Standort in Arkansas geortet wird, sammeln die Ermittler Überwachungsmaterial aus der Gegend in der Hoffnung, dass es Antworten auf ihr Verschwinden liefert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E10</episode-num>
-    </programme>
 
     <programme start="20251106015500 +0000" stop="20251106023500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -650,6 +610,46 @@
         <icon src="https://images.mdn.ors.at/5652995906944117895"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S5 E5</episode-num>
+    </programme>
+
+    <programme start="20251108010500 +0000" stop="20251108015000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Mord ohne Motiv</sub-title>
+        <desc lang="de">Am 19. Oktober 2018 wird die Leiche von Laura Pietscher neben einem Müllcontainer in Tampa, Florida, gefunden. Die 28 Jahre alte Frau wohnte im zwei Stunden entfernten Sebring. Warum ist sie nach Tampa gefahren? Und wo ist ihr silberner Pick-up? Die Polizei steht vor einem Rätsel ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S12 E8</episode-num>
+    </programme>
+
+    <programme start="20251108015000 +0000" stop="20251108023000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Roadtrip in den Tod</sub-title>
+        <desc lang="de">Die 37-jährige Kalifornierin Merrilee will mit einem Ex-Freund in Utah einen Neustart wagen. Ihre 13-jährige Tochter und ihr Hund begleiten sie auf ihrer Reise. Plötzlich verschwindet die Mutter jedoch spurlos. Ihr Ex und sein Freund berichten, dass sie nach einem Streit mit Drogen und Alkohol im Auto davongebraust sei. Wurde die trockene Alkoholikerin rückfällig? Schließlich wird ihr Auto hunderte Kilometer entfernt in Idaho gefunden ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E2</episode-num>
     </programme>
 
     <programme start="20251106005000 +0000" stop="20251106030500 +0000" channel="ServusTV">
@@ -1522,6 +1522,39 @@
             <actor> Philipp Kampl; [B]Regie[/B]: Alexander Saran</actor>
         </credits>
         <date>2025</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/10102790760583344558"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251108012000 +0000" stop="20251108021000 +0000" channel="ServusTV">
+        <title lang="de">Die Gruaberin</title>
+        <sub-title lang="de">Mit Monika Gruber und Luis aus Südtirol</sub-title>
+        <desc lang="de">Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin im Pausenmodus geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251108021000 +0000" stop="20251108025500 +0000" channel="ServusTV">
+        <title lang="de">Ab Hof</title>
+        <sub-title lang="de">Lebensmittelhandwerk</sub-title>
+        <desc lang="de">Warum nicht direkt vom Bauern ums Eck kaufen? SERVUS TV hat sich in ganz Österreich auf den Weg gemacht, um zu erkunden, wo es welche besonderen Produkte gibt und was die Ab-Hof-Bauern zu ihrer Arbeit motiviert. Vorgestellt werden ein Gemüsebauer in Niederösterreich, Winzer und Nahrungsmittelerzeuger im Burgenland,  und Ziegenprofis in Niederösterreich.&lt;br /&gt;&lt;br /&gt;Ein Trend der letzten Jahre ist die Selbstvermarktung. Warum nicht direkt vom Bauern ums Eck kaufen? Die Suche nach den besten Nahrungsmitteln aus der unmittelbaren Umgebung ist durch die Zeiten der Corona-Lockdowns noch verstärkt worden.</desc>
+        <credits>
+            <actor>[B]Kamera[/B]: Namche Okon</actor>
+            <actor> Aline László</actor>
+            <actor>  Michael Gügerl</actor>
+            <actor>  Felix Reitz von Frentz; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]:  Antonia Adelsberger; [B]DarstellerInnen[/B]: Michael Andert</actor>
+            <actor> Erich Andert</actor>
+            <actor> Catherina Stabentheiner-Andert</actor>
+            <actor> Theresa Thut</actor>
+            <actor> Arno Klüglein</actor>
+            <actor> Robert Brodnjak</actor>
+            <actor> Claudia Detz</actor>
+            <actor> Saskia Detz</actor>
+        </credits>
+        <date>2021</date>
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/10102790760583344558"/>
         <country>Österreich</country>
