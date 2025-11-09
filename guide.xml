@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-09 00:54:25.328228 -->
+<!-- created on 2025-11-09 02:27:12.671980 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,47 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251109002500 +0000" stop="20251109011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das letzte Signal</sub-title>
-        <desc lang="de">Eine junge Frau namens Cristina verschwindet scheinbar spurlos. Als ihr Handy an einem Standort in Arkansas geortet wird, sammeln die Ermittler Überwachungsmaterial aus der Gegend in der Hoffnung, dass es Antworten auf ihr Verschwinden liefert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E10</episode-num>
-    </programme>
-
-    <programme start="20251109011000 +0000" stop="20251109015500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251109015500 +0000" stop="20251109024000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -729,6 +688,47 @@
         <icon src="https://images.mdn.ors.at/4971106503314978860"/>
         <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
         <episode-num system="onscreen">S14 E3</episode-num>
+    </programme>
+
+    <programme start="20251111012000 +0000" stop="20251111020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Das letzte Signal</sub-title>
+        <desc lang="de">Eine junge Frau namens Cristina verschwindet scheinbar spurlos. Als ihr Handy an einem Standort in Arkansas geortet wird, sammeln die Ermittler Überwachungsmaterial aus der Gegend in der Hoffnung, dass es Antworten auf ihr Verschwinden liefert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E10</episode-num>
+    </programme>
+
+    <programme start="20251111020500 +0000" stop="20251111025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251108235500 +0000" stop="20251109023000 +0000" channel="ServusTV">
@@ -1661,6 +1661,21 @@
         <category lang="de">Sonstiges</category>
         <icon src="https://images.mdn.ors.at/1700841261"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251111015500 +0000" stop="20251111024000 +0000" channel="ServusTV">
+        <title lang="de">Amerikas Westküste - 3000 Kilometer Abenteuer am Pazifik</title>
+        <sub-title lang="de">Durch Kaliforniens wilden Norden</sub-title>
+        <desc lang="de">Dirk Rohrbach ist eigentlich Arzt, arbeitet seit Jahren aber hauptberuflich als Fotograf und Autor. Dirk Rohrbachs Reise führt diesmal zur Lost Coast, Kaliforniens vergessener Küste. Wild, nahezu unberührt und kaum erschlossen. Gleich hinter den Küstenbergen wachsen die größten Bäume der Welt. Die Avenue of the Giants verläuft durch den Humboldt Redwoods State Park. Ein Drittel davon ist Redwood-Primärwald, noch nie abgeholzt. Nirgendwo auf der Welt gibt es so einen Wald mehr. Am Leggett Hill wartet der brutalste Anstieg auf der gesamten Route. Er beginnt an der Stelle, wo der legendäre Highway 1 zur Küste abzweigt. Danach geht es durch weites Farmland, Eukalyptusalleen, Redwoodhaine, über kristallklare Flüsse, die in den türkisfarbenen Ozean fließen.  &lt;br /&gt;Dirk paddelt mit einer Nachfahrin der Ureinwohner zu einer Insel, auf der nur noch Ruinen die Familiengeschichte erzählen. Und dann wartet das Golden Gate. Tor. Brücke. Symbol. Für goldene Zeiten im Westen. Monumentales Bauwerk und Verheißung für eine bessere Zukunft. Nur selten spannt sich die Golden Gate Bridge rot strahlend in den klaren kalifornischen Himmel. Dirk segelt mit einem österreichischen Kapitän unter der Brücke hindurch und trifft eine Drag Queen in ihrem Club nahe der Downtown.&lt;br /&gt;&lt;br /&gt;Der Fotograf und Extremradler Dirk Rohrbach sucht an Amerikas Westküste nach wilden Landschaften, inspirierenden Typen und überraschenden Geschichten. Unterwegs mit seinem Gravelbike trifft er auf Ureinwohner, Austernzüchter, Müllkünstler, Algensammler und Surfer. Dirk folgt dem Highway 101 mit dem Rad einmal um die Olympic Peninsula, eine fast 10.000 Quadratkilometer große Landzunge mit einem von zwei Nationalparks auf der Reise, dem Olympic National Park: Wilde Küste und verwunschene Regenwälder, einsame Buchten und sturmumtoste Felsklippen.</desc>
+        <credits>
+            <actor>[B]Kamera[/B]:  Philip Flämig</actor>
+            <actor> Markus Weinberg; [B]Editor[/B]: Tim Greiner</actor>
+            <actor> Janina Heinz; [B]Regie[/B]: Dirk Rohrbach</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reisen</category>
+        <icon src="https://images.mdn.ors.at/7508381638734007989"/>
+        <country>Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
