@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-10 00:54:17.270166 -->
+<!-- created on 2025-11-10 02:29:22.458840 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,47 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251110001500 +0000" stop="20251110010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Dunkle Vergangenheit</sub-title>
-        <desc lang="de">Am 14. Mai 2018 meldet Ann Johnson ihre Tochter Joleen Cummings als vermisst. Die 34 Jahre alte Friseurin und dreifache Mutter wurde zuletzt vor zwei Tagen gesehen. Die Polizei vernimmt ihren Noch-Ehemann und ihren derzeitigen Freund, der per Haftbefehl gesucht wird - beide scheiden jedoch als Verdächtige aus. Es stellt sich schließlich heraus, dass Joleen einen heftigen Streit mit einer Kollegin hatte ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E1</episode-num>
-    </programme>
-
-    <programme start="20251110010500 +0000" stop="20251110014500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251110014500 +0000" stop="20251110023000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -675,37 +634,45 @@
         <episode-num system="onscreen">S10 E2</episode-num>
     </programme>
 
-    <programme start="20251110000000 +0000" stop="20251110011500 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Hotel-Legenden</title>
-        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 7</sub-title>
-        <desc lang="de">Seit über 100 Jahren und in fünfter Generation betreibt die Familie Kompatscher das Hotel Heubad. Hier in Völs am Schlern in Südtirol wird seit 1903, wie der Name schon sagt, kommerziell in Heu gebadet. David Kompatscher führt heute gemeinsam mit seiner Frau Elisabeth die Geschäfte. Vater Hubert, der das Haus jahrzehntelang mit seiner Frau Maria geführt hat, steht seinem Sohn im Service zur Seite.&lt;br /&gt;Die Baumeister von der Kärntner Gerlitzen – so könnte man Erwin und Isabella Berger auch nennen. Sie betreiben das Hotel Feuerberg in der vierten Generation. Seit über 100 Jahren ist es im Familienbesitz. Als Erfolgsstory möchte Erwin Berger seine Zeit als Chef auf der Gerlitzen nicht betiteln. Zwischendurch sah es am Hotelhimmel nämlich überhaupt nicht rosig aus, und die Bergers standen mehrmals am Rande des Konkurses.&lt;br /&gt;Im Ort Innervillgraten steht ein Gourmethotel, das 1981 als einfaches Gasthaus eröffnet wurde: der Gannerhof der Familie Mühlmann. Chef Josef Mühlmann hat 2017 übernommen. Zu seinem Küchenteam gehörte vor Jahren auch seine heutige Gattin und Mutter der beiden Kinder, Carola Mühlmann. Auf den heutigen Erfolg hat am Anfang seiner Hotelierskarriere allerdings nicht alles hingedeutet.&lt;br /&gt;Das Grundgebäude des 4-Sterne-S-Hotels Chesa Valisa wurde bereits 1507 gebaut. Heute ist es ein architektonisches Kleinod. Zwei Generationen der Hoteliersfamilie Kessler pflegen heute die Tradition als Gastgeber.&lt;br /&gt;Als seine Mutter 1999 schon mit 60 Jahren verstarb, musste Hotelier Thomas Steiner mit zarten 20 Jahren das Haus übernehmen. Die Anfänge als Chef und Gästeunterhalter waren hart. Inzwischen hat Steiner seinen Platz im Zentrum des Hauses und der Gästekommunikation gefunden und zusammen mit seiner Frau Andrea ein legendäres Hotel der Kategorie 4-Sterne-S geformt.&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
+    <programme start="20251112011000 +0000" stop="20251112015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Der Tote am Ende der Straße</sub-title>
+        <desc lang="de">Im Oktober 2019 wird Johnny Soekhies tot in einer abgelegenen Sackgasse gefunden. Todesursache ist ein Kopfschuss, Zeugen gibt es keine. Die Ermittler entdecken jedoch Kameras in den beiden Zufahrtsstraßen zur Sackgasse und in Johnnys Nachbarschaft. Erste Hinweise liefern die Überwachungsbilder eines Geldautomaten, an dem Johnny in Begleitung eines Mannes Geld abhob.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Kamera[/B]: Florian Schilling</actor>
-            <actor> Aline László</actor>
-            <actor> Felix Raitz von Frentz</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor> Tobias Diehl-Dürnberger; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Lisa Meiberger</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E7</episode-num>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E14</episode-num>
     </programme>
 
-    <programme start="20251110011500 +0000" stop="20251110021500 +0000" channel="ServusTV">
-        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
-        <sub-title lang="de">10.11.2025 02:15.</sub-title>
-        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+    <programme start="20251112015500 +0000" stop="20251112023500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
-            <actor> Christoph Kotanko</actor>
+            <actor>[B]DarstellerInnen[/B]: Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+            <actor> Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Politik</category>
-        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251110021500 +0000" stop="20251110030000 +0000" channel="ServusTV">
@@ -1540,6 +1507,22 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/11179945114315720152"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251112005500 +0000" stop="20251112023500 +0000" channel="ServusTV">
+        <title lang="de">Pat Garrett jagt Billy the Kid</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Einst waren Pat Garrett (James Coburn) und Billy the Kid (Kris Kristofferson) Freunde. Doch jetzt steht Pat als Sheriff auf der Seite des Gesetzes, während Billy sein Unwesen als Outlaw treibt. Als Billy mit seiner Bande den Viehbaron Chisum bestiehlt, macht sich Pat Garrett auf, um den Revolverhelden endgültig zu stellen. - Sam Peckinpahs melancholischer Spätwestern, mit der großartigen Musik von Bob Dylan ("Knockin' on Heaven's Door").</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: James Coburn</actor>
+            <actor> Kris Kristofferson</actor>
+            <actor> Richard Jaeckel</actor>
+            <actor> Katy Jurado</actor>
+            <actor> Chill Wills; [B]Regie[/B]: Sam Peckinpah; [B]Drehbuch[/B]: Rudy Wurlitzer</actor>
+        </credits>
+        <date>1973</date>
+        <category lang="de">Western</category>
+        <icon src="https://images.mdn.ors.at/4837918685411858033"/>
+        <country>Vereinigte Staaten, Mexiko</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
