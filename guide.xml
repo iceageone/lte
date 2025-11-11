@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-11 00:52:39.767766 -->
+<!-- created on 2025-11-11 02:25:00.809036 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251111002500 +0000" stop="20251111012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mach nicht auf!</sub-title>
-        <desc lang="de">Als Rodney Thurber in seinem eigenen Zuhause erschossen wird, sichten die Ermittler Aufnahmen aus Überwachungskameras, um seinen Mörder zu finden. Die Spur führt zu einem vermummten Schützen in einem silbernen Wagen ohne Kennzeichen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S14 E3</episode-num>
-    </programme>
-
-    <programme start="20251111012000 +0000" stop="20251111020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das letzte Signal</sub-title>
-        <desc lang="de">Eine junge Frau namens Cristina verschwindet scheinbar spurlos. Als ihr Handy an einem Standort in Arkansas geortet wird, sammeln die Ermittler Überwachungsmaterial aus der Gegend in der Hoffnung, dass es Antworten auf ihr Verschwinden liefert.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E10</episode-num>
-    </programme>
 
     <programme start="20251111020500 +0000" stop="20251111025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -672,13 +632,45 @@
         <episode-num system="onscreen">S10 E16</episode-num>
     </programme>
 
-    <programme start="20251111002500 +0000" stop="20251111015500 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Sport und Talk aus dem Hangar-7 am 10. November 2025.&lt;br /&gt;&lt;br /&gt;Auf der Jagd – die „unmögliche“ Titelmission des Max Verstappen&lt;br /&gt;36 Punkte – so groß ist der Rückstand des viermaligen Weltmeisters Max Verstappen auf den derzeitigen WM-Führenden Lando Norris in seinem McLaren. Werden der Brite und sein Teamkollege Oscar Piastri den heranstürmenden Holländer auf dem Kurs in São Paulo aufhalten können – oder gelingt es Max, im viertletzten Saisonrennen den Abstand zur Spitze weiter zu verringern?&lt;br /&gt;Gäste: Thomas Preining (DTM-Meister 2023) &amp; Bianca Leppert (Motorsport-Journalistin)</desc>
+    <programme start="20251113010500 +0000" stop="20251113015000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Ein falscher Blick</sub-title>
+        <desc lang="de">In Plano, Texas, zeichnet eine Überwachungskamera den Mord an dem Designer Steven Gambles auf. Den Ermittlern fällt die gelbe Jacke des Schützen auf. Sie ist nur eine von vielen Spuren, die die Polizei zu einem unerwarteten Verdächtigen führt.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E2</episode-num>
+    </programme>
+
+    <programme start="20251113015000 +0000" stop="20251113023500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/2824543896586393968"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251111015500 +0000" stop="20251111024000 +0000" channel="ServusTV">
@@ -1526,6 +1518,26 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/8614290371008559221"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251113014000 +0000" stop="20251113031000 +0000" channel="ServusTV">
+        <title lang="de">Peppermint - Angel of Vengeance</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Nach einem brutalen Überfall, bei dem ihr Mann und ihre Tochter getötet werden, liegt Riley North im Koma. Wiedererwacht, muss sie feststellen, dass von Polizei und Justiz keinerlei Hilfe zu erwarten ist, stattdessen werden die Mörder sogar gedeckt. Voller Wut, Schmerz und Verzweiflung beschließt Riley, die Sache in die eigene Hand zu nehmen und geht in den Untergrund. Top ausgebildet startet sie nach fünf Jahren einen beispiellosen Rachefeldzug.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Jennifer Garner</actor>
+            <actor> John Gallagher jr.</actor>
+            <actor> John Ortiz</actor>
+            <actor> Juan Pablo Raba</actor>
+            <actor> Annie Ilonzeh</actor>
+            <actor> Annie Ngosi Ilonzeh</actor>
+            <actor> Jeff Hephner</actor>
+            <actor> Cailey Fleming</actor>
+            <actor> Eddie Shin; [B]Regie[/B]: Pierre Morel; [B]Drehbuch[/B]:  Chad St. John</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Krimi</category>
+        <icon src="https://images.mdn.ors.at/11075419866678807814"/>
+        <country>Vereinigte Staaten, Hongkong, China</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
