@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-13 00:52:12.326150 -->
+<!-- created on 2025-11-13 02:26:36.691679 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251113001000 +0000" stop="20251113010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Im Blutrausch</sub-title>
-        <desc lang="de">In den frühen Morgenstunden wird ein obdachloser Mann brutal zusammengeschlagen. Er stirbt im Krankenhaus. Dann stellt sich heraus, dass kurz zuvor auch ein Mercedes-Fahrer halbtot geprügelt wurde. Gibt es zwischen den Angriffen einen Zusammenhang?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E16</episode-num>
-    </programme>
-
-    <programme start="20251113010500 +0000" stop="20251113015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein falscher Blick</sub-title>
-        <desc lang="de">In Plano, Texas, zeichnet eine Überwachungskamera den Mord an dem Designer Steven Gambles auf. Den Ermittlern fällt die gelbe Jacke des Schützen auf. Sie ist nur eine von vielen Spuren, die die Polizei zu einem unerwarteten Verdächtigen führt.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E2</episode-num>
-    </programme>
 
     <programme start="20251113015000 +0000" stop="20251113023000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -645,21 +605,44 @@
         <episode-num system="onscreen">S5 E10</episode-num>
     </programme>
 
-    <programme start="20251113005000 +0000" stop="20251113014000 +0000" channel="ServusTV">
-        <title lang="de">Watzmann ermittelt</title>
-        <sub-title lang="de">Wo gehobelt wird…</sub-title>
-        <desc lang="de">Der Tod des hochgelobten Designers Anton Gerg ruft Beissl und Jerry auf den Plan. Gerg unterrichtete an der berühmten Schreiner- und Schnitzschule in Berchtesgaden, war dort aber nicht unumstritten. Ob ein Schüler hinter dem Mord steckt?&lt;br /&gt;&lt;br /&gt;Hauptkommissar Benedikt Beissl sorgt in dieser ARD-Serie schon seit Jahrzehnten in Berchtesgaden für Recht und Ordnung Er ist wie der Watzmann - das Wahrzeichen von Berchtesgaden. Groß, mächtig und unverrückbar. Doch dann kommt ein neuer Kollege: Jerry Paulsen. Der ist nicht nur all das, was Beissl nicht ist, nämlich charmant, redselig und offenherzig.</desc>
+    <programme start="20251115011000 +0000" stop="20251115015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Im Blutrausch</sub-title>
+        <desc lang="de">In den frühen Morgenstunden wird ein obdachloser Mann brutal zusammengeschlagen. Er stirbt im Krankenhaus. Dann stellt sich heraus, dass kurz zuvor auch ein Mercedes-Fahrer halbtot geprügelt wurde. Gibt es zwischen den Angriffen einen Zusammenhang?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Andreas Giebel</actor>
-            <actor> Ines Arabella Lutz</actor>
-            <actor> Kathrin von Steinburg</actor>
-            <actor> Barbara Weinzierl</actor>
-            <actor> Leonie Charlotte Brill; [B]Regie[/B]: Heidi Kranz</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2019</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/8614290371008559221"/>
-        <country>Deutschland</country>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E16</episode-num>
+    </programme>
+
+    <programme start="20251115015500 +0000" stop="20251115024000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Ein falscher Blick</sub-title>
+        <desc lang="de">In Plano, Texas, zeichnet eine Überwachungskamera den Mord an dem Designer Steven Gambles auf. Den Ermittlern fällt die gelbe Jacke des Schützen auf. Sie ist nur eine von vielen Spuren, die die Polizei zu einem unerwarteten Verdächtigen führt.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E2</episode-num>
     </programme>
 
     <programme start="20251113014000 +0000" stop="20251113031000 +0000" channel="ServusTV">
@@ -1003,7 +986,9 @@
         <sub-title lang="de">Trumps Amerika - Ein Jahr nach der Wahl</sub-title>
         <desc lang="de">Ein Jahr nach der Wiederwahl Donald Trumps zieht Amerika Bilanz – und steht dabei vor entscheidenden Fragen. Wie stark ist das Land wirklich? Und was ist geblieben vom Versprechen eines „Goldenen Zeitalters“?&lt;br /&gt;Trumps Politik hat Spuren hinterlassen: ein harter Kurs bei Migration, neue Zölle im Welthandel, scharfe Worte gegenüber Kritikern. Für die einen ein Zeichen von Stärke, für andere Ausdruck tiefer Spaltung. Die Gesellschaft wirkt zerrissen – zwischen Aufbruch und Ernüchterung, Patriotismus und Protest.&lt;br /&gt;Auch wirtschaftlich bleibt das Land gespalten: Steuererleichterungen für Konzerne, Kürzungen bei Sozialprogrammen, wachsender Unmut in der Mittelschicht. &lt;br /&gt;Blickwechsel Spezial reist quer durch die Vereinigten Staaten – von der Ostküste bis ins „Heartland“ – und trifft Menschen, die das neue Amerika hautnah miterleben. U.a. schildern Oscar-Preisträgerin Deborah Schaffer, Rekordschwimmer Markus Rogan und Spitzenkoch Edi Frauneder ihre Sicht auf ein Land zwischen Erfolg und Verunsicherung. Wie geht es Amerika – ein Jahr nach der Wahl?&lt;br /&gt;&lt;br /&gt;Alle wichtigen Nachrichten auf einen Blick.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser; [B]Kamera[/B]: Robert Aichinger</actor>
+            <actor>  Christoph Wallner; [B]Editor[/B]: Maximilian Wiegandt</actor>
+            <actor> Dennis Meyer</actor>
         </credits>
         <date>2025</date>
         <category lang="de">Magazin</category>
@@ -1491,6 +1476,28 @@
         <date>2025</date>
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251115011500 +0000" stop="20251115020000 +0000" channel="ServusTV">
+        <title lang="de">Hexenjagd - Mystisches Tirol</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Tirol. Land der Berge und Seen. Sehnsuchtsort für so manch gestressten Großstädter des 21. Jahrhunderts. Tirol aber ist mehr als nur Urlaubsidylle. Inmitten der wilden Bergwelt und seinen sanften Tälern haben sich sagenumwobene Burgruinen erhalten.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: Burkhard Feige</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3871366759989207346"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251115020000 +0000" stop="20251115024500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Reaktorunfall als Härtetest - Roboter sollen retten, wo Menschen sterben würden</sub-title>
+        <desc lang="de">Österreich setzt bei Katastrophenschutz auf Hightech. Etwa dort, wo radioaktive Strahlung den Einsatz von Menschen verhindert, sollen Maschinen übernehmen. Schauplatz ist das Atomkraftwerk Zwentendorf, ein weltweit einzigartiger Bau, der zwar fertiggestellt, aber nie in Betrieb genommen wurde. Dort simulieren internationale Teams einen Reaktorunfall und schicken ihre Roboter ins Kraftwerk. Mit dabei ist ein Team der Fachhochschule Oberösterreich um David Oberngruber und Raimund Edlinge. Sie haben zwei Prototypen entwickelt, einen Bergungsroboter für verletzte Personen und einen Laufroboter, der Strahlungsquellen ortet und Ventile schließt. Doch echte radioaktive Stoffe, meterdicke Betonwände und technische Rückschläge machen jede Aufgabe zum Härtetest. Doch wie zuverlässig sind die Systeme, wenn jede Sekunde zählt und Präzision über Leben und Tod entscheidet?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2025</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
         <country>Österreich</country>
     </programme>
 
