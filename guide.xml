@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-15 00:51:00.951241 -->
+<!-- created on 2025-11-15 02:19:52.618796 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,37 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251115001500 +0000" stop="20251115011000 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Der Obdachlosenmörder</sub-title>
-        <desc lang="de">17-Jähriger gesteht Morde an Obdachlosen: Eine Serie grausamer Angriffe auf obdachlose Menschen erschütterte 2023 die österreichische Hauptstadt. Drei Opfer wurden im Schlaf brutal attackiert, zwei davon tödlich verletzt. Überwachungsvideos zeigten einen jungen Mann, der seitdem von der Polizei gesucht wurde. Am 11. Dezember 2023 stellte sich der mutmaßliche Täter der Polizei. Was steckt hinter seinen Motiven?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S5 E10</episode-num>
-    </programme>
-
-    <programme start="20251115011000 +0000" stop="20251115015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Im Blutrausch</sub-title>
-        <desc lang="de">In den frühen Morgenstunden wird ein obdachloser Mann brutal zusammengeschlagen. Er stirbt im Krankenhaus. Dann stellt sich heraus, dass kurz zuvor auch ein Mercedes-Fahrer halbtot geprügelt wurde. Gibt es zwischen den Angriffen einen Zusammenhang?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E16</episode-num>
-    </programme>
 
     <programme start="20251115015500 +0000" stop="20251115024000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -723,26 +692,46 @@
         <episode-num system="onscreen">S10 E15</episode-num>
     </programme>
 
-    <programme start="20251115003000 +0000" stop="20251115011500 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Judith Williams</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin im Pausenmodus geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+    <programme start="20251117011500 +0000" stop="20251117020000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20251115011500 +0000" stop="20251115020500 +0000" channel="ServusTV">
-        <title lang="de">Hexenjagd - Mystisches Tirol</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Tirol. Land der Berge und Seen. Sehnsuchtsort für so manch gestressten Großstädter des 21. Jahrhunderts. Tirol aber ist mehr als nur Urlaubsidylle. Inmitten der wilden Bergwelt und seinen sanften Tälern haben sich sagenumwobene Burgruinen erhalten.</desc>
+    <programme start="20251117020000 +0000" stop="20251117024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]Regie[/B]: Burkhard Feige</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2018</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3871366759989207346"/>
-        <country>Österreich</country>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251115020500 +0000" stop="20251115025000 +0000" channel="ServusTV">
@@ -1630,6 +1619,21 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E8</episode-num>
+    </programme>
+
+    <programme start="20251117014000 +0000" stop="20251117024000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">17.11.2025 02:40.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
