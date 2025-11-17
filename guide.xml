@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-17 00:53:40.719727 -->
+<!-- created on 2025-11-17 02:25:44.067269 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,47 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251117002500 +0000" stop="20251117011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Rivale</sub-title>
-        <desc lang="de">Früh morgens rasen zwei Fahrzeuge in eine Tankstelle. Die Fahrer springen aus den Autos, dann fallen Schüsse. Der Täter flieht, der Verletzte stirbt kurz darauf. Die Überwachungskameras offenbaren, dass das Opfer und seine Freundin von dem Täter verfolgt wurden. Weitere Kameras zeigen, dass dieser Mord keineswegs im Affekt passierte. Es war eine geplante Hinrichtung.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E15</episode-num>
-    </programme>
-
-    <programme start="20251117011500 +0000" stop="20251117020000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251117020000 +0000" stop="20251117024000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -643,23 +602,46 @@
         <episode-num system="onscreen">S10 E18</episode-num>
     </programme>
 
-    <programme start="20251117002500 +0000" stop="20251117014000 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Hotel-Legenden</title>
-        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 8</sub-title>
-        <desc lang="de">„Ich bin nur ein einfacher Bauernbua.“ Doch tatsächlich hat Balthasar Hauser, der als verschuldeter Bauer und Kleinwirt anfing, einen unglaublichen Aufstieg hinter sich, den nur wenige kennen. Der legendäre Wirt und Hotelier hat den Stanglwirt in Going am Wilden Kaiser von einem einfachen Wirtshaus zu einem wahren Hotelimperium geführt. Auch wenn viele den Stanglwirt nur als "das Promihotel" kennen, ist er mehr – dank vieler Ideen und einer gehörigen Portion Schneid. Den hatten auch Eveline und Walter Eselböck vom Taubenkobel in Schützen am Gebirge. Als sie 1984 ein Beisl eröffneten, trafen sich hier bald Künstler wie Helmut Qualtinger oder Mario Adorf. Sie lobten das Gespür der Betreiber, doch von der Küche waren sie zunächst nicht begeistert. Doch das sollte sich bald ändern.&lt;br /&gt;Viele haben den Kopf geschüttelt, auch sein Vater: Florian Werner, Wirt des Hotels Arlberg Hospiz im Skiort St. Christoph, setzt nicht auf Alpen-Klischees. Er ersetzte „röhrende Hirsche“ &amp; Co. an den Wänden durch zeitgenössische Kunst. In einem High-End-Konzertsaal bietet er moderne Kunstinstallationen, Konzerte oder Lesungen. Der legendäre Weinkeller seines Vaters zählt zu den weltweit größten Sammlungen und gilt als Pilgerstätte für Weinliebhaber.&lt;br /&gt;Wein spielt auch im Schlosshotel Dürnstein eine wichtige Rolle. Das Haus thront auf einem regelrechten Logenplatz über der UNESCO-Weltkulturerbe-Landschaft Wachau, auf den Böschungsterrassen der Donau. Die Familie Thiery hat durch stetige Umbauten seit 80 Jahren aus dem einst desolaten Schloss den wohl exklusivsten (Nächtigungs-)Ort Niederösterreichs gemacht.&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
+    <programme start="20251119011000 +0000" stop="20251119015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Verräterische Beute</sub-title>
+        <desc lang="de">Eine 60-jährige Frau verschwindet spurlos. Sie hatte sich gerade von ihrem Freund getrennt und war bei einem Bekannten untergekommen. Der behauptet, dass sie am Tag ihres Verschwindens ausziehen wollte, aber nicht von der Arbeit heimgekehrt sei. Ihr Ex-Freund wiederum sagt aus, er habe die Vermisste an dem Tag bei ihrem Bekannten abgesetzt. Dann stellt sich heraus, dass sie einen Safe voller Bargeld bei sich hatte. Klar ist: Einer der beiden Männer lügt. Doch wer ist ihr Mörder?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Kamera[/B]: Florian Schilling</actor>
-            <actor> Aline László</actor>
-            <actor>  Michael Kittel</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor> Heimo Ritzinger</actor>
-            <actor> Tobias Diehl-Dürnberger; [B]Regie[/B]: Alexander Saran</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E17</episode-num>
+    </programme>
+
+    <programme start="20251119015500 +0000" stop="20251119024000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">19.11.2025 02:55.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E8</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251117014000 +0000" stop="20251117024000 +0000" channel="ServusTV">
@@ -1446,6 +1428,20 @@
         <date>1955</date>
         <category lang="de">Western</category>
         <icon src="https://images.mdn.ors.at/3795771398800851936"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251119020000 +0000" stop="20251119024000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Der Kornkreis-Code</sub-title>
+        <desc lang="de">Mehr als 10.000 Kornkreisformationen wurden in über 50 Ländern dokumentiert, und viele weisen Eigenschaften auf, die sich konventionellen Erklärungen entziehen. Sind sie außerirdischen Ursprungs? Und wenn ja, was ist ihr Zweck? Könnte es sein, dass wir erst dann wieder Kontakt zu unseren außerirdischen Vorfahren aufnehmen können, wenn wir endlich den Code der Kornkreise knacken?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/2778985649450931384"/>
         <country>Vereinigte Staaten</country>
     </programme>
 
