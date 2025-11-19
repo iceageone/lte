@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-19 00:52:07.469597 -->
+<!-- created on 2025-11-19 02:23:14.211259 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251119001000 +0000" stop="20251119010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der grüne Teppich</sub-title>
-        <desc lang="de">Die geliebte Mutter und Großmutter Cynthia Mudd wird vermisst. Auch in ihrem verlassenen Haus finden Bekannte keine Spur von ihr. Bis ihr zurückgelassener Hund die Polizei auf eine versteckte Kühltruhe im Garten aufmerksam macht. Darin entdecken die Beamten in einer grünen Teppichrolle den Leichnam der Frau, die mit ihrem jüngeren Liebhaber und dessen Freund zusammengewohnt hat.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E18</episode-num>
-    </programme>
-
-    <programme start="20251119010500 +0000" stop="20251119015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Verräterische Beute</sub-title>
-        <desc lang="de">Eine 60-jährige Frau verschwindet spurlos. Sie hatte sich gerade von ihrem Freund getrennt und war bei einem Bekannten untergekommen. Der behauptet, dass sie am Tag ihres Verschwindens ausziehen wollte, aber nicht von der Arbeit heimgekehrt sei. Ihr Ex-Freund wiederum sagt aus, er habe die Vermisste an dem Tag bei ihrem Bekannten abgesetzt. Dann stellt sich heraus, dass sie einen Safe voller Bargeld bei sich hatte. Klar ist: Einer der beiden Männer lügt. Doch wer ist ihr Mörder?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E17</episode-num>
-    </programme>
 
     <programme start="20251119015000 +0000" stop="20251119023500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -684,22 +644,46 @@
         <episode-num system="onscreen">S10 E19</episode-num>
     </programme>
 
-    <programme start="20251119002000 +0000" stop="20251119020000 +0000" channel="ServusTV">
-        <title lang="de">Der Mann aus Laramie</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Westernklassiker mit einem großartigen James Stewart: Army-Captain Will Lockhart reist nach New Mexico, um die Mörder seines Bruders zu suchen. Der wurde Opfer von skrupellosen Waffenschmugglern. Bald stößt Lockhart auf Dave Waggoman, den Sohn eines Rinderbarons. Es kommt zu einem mörderischen Kampf.</desc>
+    <programme start="20251121011000 +0000" stop="20251121015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Ein perfider Plan</sub-title>
+        <desc lang="de">Der 20-jährige Gabriel Perez wird gegen fünf Uhr morgens vor einem McDonald's erschossen. Die Überwachungskameras zeigen, wie ein SUV auf ihn zurast und der Fahrer auf den jungen Skateboarder feuert. Dann stellt sich heraus, dass das Opfer einen Flirt mit einer verheirateten Frau hatte. Sie hat ihm in der Nacht verzweifelte Hilferufe geschickt. Er wollte ihr helfen und wurde Opfer eines perfiden Plans ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: James Stewart</actor>
-            <actor> Arthur Kennedy</actor>
-            <actor> Cathy O'Donnell</actor>
-            <actor> Donald Crisp</actor>
-            <actor> Alex Nicol; [B]Regie[/B]: Anthony Mann; [B]Drehbuch[/B]: Philip Yordan</actor>
-            <actor>  Frank Burt</actor>
-            <actor> Thomas T. Flynn</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>1955</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/3795771398800851936"/>
-        <country>Vereinigte Staaten</country>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E20</episode-num>
+    </programme>
+
+    <programme start="20251121015500 +0000" stop="20251121023500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">21.11.2025 02:55.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251119020000 +0000" stop="20251119024000 +0000" channel="ServusTV">
@@ -1541,6 +1525,25 @@
         <category lang="de">Formel 1</category>
         <icon src="https://images.mdn.ors.at/6175881132359638424"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251121014500 +0000" stop="20251121023000 +0000" channel="ServusTV">
+        <title lang="de">Rückkehr der Urzeit-Giganten</title>
+        <sub-title lang="de">Der legendäre Mega-Hai</sub-title>
+        <desc lang="de">Der Megalodon war ein gigantischer Hai. Ausgewachsene Tiere erreichten eine Länge von 16 bis 20 Metern. In dieser Ausgabe wird eine Ausgrabungsstätte besucht, die vielleicht mehr Informationen zu diesem Giganten der Meere liefern kann.&lt;br /&gt;&lt;br /&gt;Bis zu 4,5 Meter groß und bis zu 15 Tonnen schwer konnten sie werden. Vor gut 4000 Jahren zogen die Mammuts noch über die Steppenlandschaften der Nordhalbkugel der Erde. Doch dann verschwanden sie. Bis heute sind die Ursachen dafür nicht geklärt. In der heutigen Episode soll untersucht werden, was ihre Auslöschung verursacht haben könnte. Denn neue und bislang einzigartige Funde sollen das Geheimnis lüften.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: Selina Tso</actor>
+            <actor>  Freya Williams</actor>
+            <actor> Jamie Lochhead</actor>
+            <actor> Alice Ford</actor>
+            <actor> Isabel Tang; [B]Produzent[/B]: James Franklin; [B]Editor[/B]: Paul Berry</actor>
+            <actor> Raul Sacristan; [B]Kamera[/B]: Julian Schwantz</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/12621709661284765537"/>
+        <country>Vereinigtes Königreich, Kanada, Australien</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
