@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-20 00:50:59.777454 -->
+<!-- created on 2025-11-20 02:21:41.565464 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251120001500 +0000" stop="20251120011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein perfider Plan</sub-title>
-        <desc lang="de">Der 20-jährige Gabriel Perez wird gegen fünf Uhr morgens vor einem McDonald's erschossen. Die Überwachungskameras zeigen, wie ein SUV auf ihn zurast und der Fahrer auf den jungen Skateboarder feuert. Dann stellt sich heraus, dass das Opfer einen Flirt mit einer verheirateten Frau hatte. Sie hat ihm in der Nacht verzweifelte Hilferufe geschickt. Er wollte ihr helfen und wurde Opfer eines perfiden Plans ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E20</episode-num>
-    </programme>
-
-    <programme start="20251120011500 +0000" stop="20251120015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Todesliste</sub-title>
-        <desc lang="de">Der ehemalige Strafverfolger und vierfache Familienvater Clint Greenwood wird im April 2017 auf einem Parkplatz erschossen. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E1</episode-num>
-    </programme>
 
     <programme start="20251120015500 +0000" stop="20251120024000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -638,21 +598,44 @@
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
-    <programme start="20251120003500 +0000" stop="20251120012500 +0000" channel="ServusTV">
-        <title lang="de">Watzmann ermittelt</title>
-        <sub-title lang="de">Abgestürzt</sub-title>
-        <desc lang="de">Der Profi-Paraglider Mark Bischoff ist beim Gleitschirmfliegen tödlich verunglückt. Unfall oder Mord? Bischoffs Freundin Nadja Seidl wird ins Revier einbestellt und von Jerry (Peter Marton) vernommen.&lt;br /&gt;&lt;br /&gt;Hauptkommissar Benedikt Beissl sorgt in dieser ARD-Serie schon seit Jahrzehnten in Berchtesgaden für Recht und Ordnung Er ist wie der Watzmann - das Wahrzeichen von Berchtesgaden. Groß, mächtig und unverrückbar. Doch dann kommt ein neuer Kollege: Jerry Paulsen. Der ist nicht nur all das, was Beissl nicht ist, nämlich charmant, redselig und offenherzig.</desc>
+    <programme start="20251122011000 +0000" stop="20251122015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Der grüne Teppich</sub-title>
+        <desc lang="de">Die geliebte Mutter und Großmutter Cynthia Mudd wird vermisst. Auch in ihrem verlassenen Haus finden Bekannte keine Spur von ihr. Bis ihr zurückgelassener Hund die Polizei auf eine versteckte Kühltruhe im Garten aufmerksam macht. Darin entdecken die Beamten in einer grünen Teppichrolle den Leichnam der Frau, die mit ihrem jüngeren Liebhaber und dessen Freund zusammengewohnt hat.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Andreas Giebel</actor>
-            <actor> Ines Arabella Lutz</actor>
-            <actor> Kathrin von Steinburg</actor>
-            <actor> Barbara Weinzierl</actor>
-            <actor> Leonie Charlotte Brill; [B]Regie[/B]: Heidi Kranz</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2019</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/8614290371008559221"/>
-        <country>Deutschland</country>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E18</episode-num>
+    </programme>
+
+    <programme start="20251122015500 +0000" stop="20251122024000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Eine tödlich nette Familie</sub-title>
+        <desc lang="de">Der 56-jährige Familienvater Andy McGuffee ist überall beliebt: Er führt eine glückliche Ehe und gilt als zuverlässig. Eines Nachts erscheint er nicht zu seiner Schicht. Am nächsten Morgen findet sein Sohn ihn tot in seinem Bett. Es wurde mehrfach auf ihn eingestochen.Schnell steht fest: Das war kein Einbruch. Die Mörder wurden hereingebeten, das Opfer hat sogar für sie gekocht?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S10 E19</episode-num>
     </programme>
 
     <programme start="20251120012500 +0000" stop="20251120033000 +0000" channel="ServusTV">
@@ -1509,6 +1492,16 @@
         <category lang="de">Formel 1</category>
         <icon src="https://images.mdn.ors.at/6175881132359638424"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251122014500 +0000" stop="20251122023000 +0000" channel="ServusTV">
+        <title lang="de">Die Gruaberin</title>
+        <sub-title lang="de">Mit Monika Gruber und Fritz Karl</sub-title>
+        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
