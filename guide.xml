@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-21 00:51:35.329460 -->
+<!-- created on 2025-11-21 02:22:22.098727 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251121001500 +0000" stop="20251121011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Eine tödlich nette Familie</sub-title>
-        <desc lang="de">Der 56-jährige Familienvater Andy McGuffee ist überall beliebt: Er führt eine glückliche Ehe und gilt als zuverlässig. Eines Nachts erscheint er nicht zu seiner Schicht. Am nächsten Morgen findet sein Sohn ihn tot in seinem Bett. Es wurde mehrfach auf ihn eingestochen.Schnell steht fest: Das war kein Einbruch. Die Mörder wurden hereingebeten, das Opfer hat sogar für sie gekocht?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-            <actor> Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E19</episode-num>
-    </programme>
-
-    <programme start="20251121011000 +0000" stop="20251121015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein perfider Plan</sub-title>
-        <desc lang="de">Der 20-jährige Gabriel Perez wird gegen fünf Uhr morgens vor einem McDonald's erschossen. Die Überwachungskameras zeigen, wie ein SUV auf ihn zurast und der Fahrer auf den jungen Skateboarder feuert. Dann stellt sich heraus, dass das Opfer einen Flirt mit einer verheirateten Frau hatte. Sie hat ihm in der Nacht verzweifelte Hilferufe geschickt. Er wollte ihr helfen und wurde Opfer eines perfiden Plans ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E20</episode-num>
-    </programme>
 
     <programme start="20251121015500 +0000" stop="20251121023500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -647,14 +607,34 @@
         <episode-num system="onscreen">S6 E2</episode-num>
     </programme>
 
-    <programme start="20251121001500 +0000" stop="20251121014500 +0000" channel="ServusTV">
-        <title lang="de">Formel 1</title>
-        <sub-title lang="de">Heineken Grand Prix von Las Vegas - 1. Freies Training</sub-title>
-        <desc lang="de">Neue Teamkonstellationen, spektakuläre Fahrerwechsel und vielversprechende Nachwuchstalente versprechen eine der spannendsten Formel-1-Saisons der letzten Jahre. Max Verstappen geht als Titelverteidiger in das Jahr 2025, doch mit Lewis Hamiltons Wechsel zu Ferrari und der beeindruckenden Entwicklung von McLaren könnte sich das Kräfteverhältnis in der Königsklasse drastisch verschieben. Auch Mercedes mit George Russell sowie Aston Martin mit Fernando Alonso haben über den Winter intensiv gearbeitet und könnten eine Schlüsselrolle im Titelkampf spielen. Die Konkurrenz ist so stark wie lange nicht mehr – und mit möglichen Überraschungen von Alpine oder Williams könnte das Feld noch enger zusammenrücken.&lt;br /&gt;Bei sämtlichen Live-Übertragungen liefern Moderatoren Andrea Schlager und Patrick Laub und der Experte Christian Klien exklusive Stimmungsberichte, aktuelle News und spannende Interviews direkt aus den Boxengassen. Die Rennen werden von Andreas Gröbl und Daniel Goggi kommentiert, unterstützt von den Experten Mathias Lauda, Philipp Eng und Philipp Brändle. Zusätzlich gibt es ausführliche Vorschauen, detaillierte Nachbetrachtungen, tiefgehende Analysen und fesselnde Hintergrundgeschichten rund um die Formel 1. Die Saison 2025 verspricht Motorsport auf höchstem Niveau – mit packenden Duellen, taktischen Meisterleistungen und möglicherweise einem neuen Weltmeister am Ende des Jahres.&lt;br /&gt;&lt;br /&gt;Übertragung der spannendsten Rennen der Formel 1.</desc>
-        <date>2025</date>
-        <category lang="de">Formel 1</category>
-        <icon src="https://images.mdn.ors.at/6175881132359638424"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20251123011000 +0000" stop="20251123015500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Die Todesliste</sub-title>
+        <desc lang="de">Der ehemalige Strafverfolger und vierfache Familienvater Clint Greenwood wird im April 2017 auf einem Parkplatz erschossen. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E1</episode-num>
+    </programme>
+
+    <programme start="20251123015500 +0000" stop="20251123024500 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Das Team der Wiener Wasserpolizei um Chefinspektor Erich K. sichtet auf der Donau einen Hund, der in der Strömung ums Überleben kämpft. Jetzt heißt es schnell handeln, denn jede Minute zählt. Außerdem nehmen die Beamten das skurrile Donau-Lokal "African Queen" genauer unter die Lupe. Anwohner hatten Beschwerde eingereicht, dass die Betreiber Vorschriften missachten. Die Polizisten prüfen, ob das Lokal alle gewerbe- und wasserrechtlichen Vorschriften einhält.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/11941074360851769440"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
     <programme start="20251121014500 +0000" stop="20251121023000 +0000" channel="ServusTV">
@@ -1568,6 +1548,15 @@
         <category lang="de">Romantische Komödie</category>
         <icon src="https://images.mdn.ors.at/1741231250281"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251123015500 +0000" stop="20251123023000 +0000" channel="ServusTV">
+        <title lang="de">Marc Marquez: Mehr als ein Comeback</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Was für ein Triumph: Nach 2.184 Tagen, 108 Stürzen, sechs Operationen und 30 verpassten Grands Prix hat Marc Marquez jüngst seinen siebten MotoGP-Titel eingefahren. Anhand von exklusiven Interviews mit Marquez selbst, seinem engsten Umfeld sowie noch nie zuvor gezeigtem Filmmaterial wirft die 30-minütige Dokumentation einen emotionalen Blick auf den steinigen und schmerzhaften Weg des Spaniers zurück auf den MotoGP-Olymp.</desc>
+        <date>2025</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/7244491435480798062"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
