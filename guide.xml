@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-22 00:49:26.531405 -->
+<!-- created on 2025-11-22 02:17:12.701837 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,36 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251121232500 +0000" stop="20251122011000 +0000" channel="PULS24">
-        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
-        <desc lang="de">Ein Ehepaar lockt über Anzeigen Frauen in ihr Haus, nur um sie zu quälen. In dem Horrorhaus Höxter kommt es bis zum Äußersten. Ein Mann ist durch seine Gewalttaten aufgefallen, doch seine Freundin wollte ihn bessern. Nachdem sie sich von ihm trennt, nimmt er grausame Rache. Außerdem soll Franz S. eine Studentin misshandelt und brutal ermordet haben. Er gesteht die Tat und kommt ins Gefängnis. Später widerruft er seine Aussage. Wird ihm die Polizei glauben?&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
-        <date>2024</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S1 E1</episode-num>
-    </programme>
-
-    <programme start="20251122011000 +0000" stop="20251122015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der grüne Teppich</sub-title>
-        <desc lang="de">Die geliebte Mutter und Großmutter Cynthia Mudd wird vermisst. Auch in ihrem verlassenen Haus finden Bekannte keine Spur von ihr. Bis ihr zurückgelassener Hund die Polizei auf eine versteckte Kühltruhe im Garten aufmerksam macht. Darin entdecken die Beamten in einer grünen Teppichrolle den Leichnam der Frau, die mit ihrem jüngeren Liebhaber und dessen Freund zusammengewohnt hat.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E18</episode-num>
-    </programme>
 
     <programme start="20251122015500 +0000" stop="20251122024000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -698,14 +668,24 @@
         <episode-num system="onscreen">S10 E20</episode-num>
     </programme>
 
-    <programme start="20251122001500 +0000" stop="20251122014500 +0000" channel="ServusTV">
-        <title lang="de">Formel 1</title>
-        <sub-title lang="de">Heineken Grand Prix von Las Vegas - 3. Freies Training</sub-title>
-        <desc lang="de">Neue Teamkonstellationen, spektakuläre Fahrerwechsel und vielversprechende Nachwuchstalente versprechen eine der spannendsten Formel-1-Saisons der letzten Jahre. Max Verstappen geht als Titelverteidiger in das Jahr 2025, doch mit Lewis Hamiltons Wechsel zu Ferrari und der beeindruckenden Entwicklung von McLaren könnte sich das Kräfteverhältnis in der Königsklasse drastisch verschieben. Auch Mercedes mit George Russell sowie Aston Martin mit Fernando Alonso haben über den Winter intensiv gearbeitet und könnten eine Schlüsselrolle im Titelkampf spielen. Die Konkurrenz ist so stark wie lange nicht mehr – und mit möglichen Überraschungen von Alpine oder Williams könnte das Feld noch enger zusammenrücken.&lt;br /&gt;Bei sämtlichen Live-Übertragungen liefern Moderatoren Andrea Schlager und Patrick Laub und der Experte Christian Klien exklusive Stimmungsberichte, aktuelle News und spannende Interviews direkt aus den Boxengassen. Die Rennen werden von Andreas Gröbl und Daniel Goggi kommentiert, unterstützt von den Experten Mathias Lauda, Philipp Eng und Philipp Brändle. Zusätzlich gibt es ausführliche Vorschauen, detaillierte Nachbetrachtungen, tiefgehende Analysen und fesselnde Hintergrundgeschichten rund um die Formel 1. Die Saison 2025 verspricht Motorsport auf höchstem Niveau – mit packenden Duellen, taktischen Meisterleistungen und möglicherweise einem neuen Weltmeister am Ende des Jahres.&lt;br /&gt;&lt;br /&gt;Übertragung der spannendsten Rennen der Formel 1.</desc>
-        <date>2025</date>
-        <category lang="de">Formel 1</category>
-        <icon src="https://images.mdn.ors.at/6175881132359638424"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20251124010500 +0000" stop="20251124015500 +0000" channel="PULS24">
+        <title lang="de">Die Lebensmittelpolizei</title>
+        <desc lang="de">Die Lebensmittelpolizisten führen eine Kontrolle in der Küche Österreichs drittgrößtem Gefängnisses durch. Auch einen Supermarkt am Grazer Griesplatz nehmen die Inspektoren unter die Lupe. Die Zustände in der dortigen hauseigenen Fleischerei sind so verheerend, dass die Gefahr einer Teilschließung des Betriebes besteht. Auch einer anonymen Beschwerde gehen die Inspektoren nach. Ein Gast eines Grazer Fastfood Lokals hat angeblich Käfer in seinem Hamburger entdeckt.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
+        <date>2020</date>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
+    </programme>
+
+    <programme start="20251124015500 +0000" stop="20251124025000 +0000" channel="PULS24">
+        <title lang="de">Die Lebensmittelpolizei</title>
+        <desc lang="de">Die Lebensmittelinspektoren nehmen zwei Bäckereien genauer unter die Lupe. Einer der beiden Betriebe bereitet ihnen Sorgen: Schädlinge und Schimmel haben sich hier ausgebreitet und die Warenlagerung ist mehr als mangelhaft. Auch ist unklar, wer der Besitzer der Bäckerei ist. Eine Schließung des Betriebes können die Inspektoren nicht mehr ausschließen. Außerdem stattet die Lebensmittelpolizei dem Chef eines neuen Grazer Szenelokals einen ersten Besuch ab.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
+        <date>2020</date>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/5374802259302820221"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S3 E3</episode-num>
     </programme>
 
     <programme start="20251122014500 +0000" stop="20251122023000 +0000" channel="ServusTV">
@@ -1613,6 +1593,21 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E9</episode-num>
+    </programme>
+
+    <programme start="20251124012000 +0000" stop="20251124022000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">24.11.2025 02:20.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
