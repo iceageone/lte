@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-24 00:55:41.570381 -->
+<!-- created on 2025-11-24 02:47:53.160768 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,36 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251124001500 +0000" stop="20251124010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein perfider Plan</sub-title>
-        <desc lang="de">Der 20-jährige Gabriel Perez wird gegen fünf Uhr morgens vor einem McDonald's erschossen. Die Überwachungskameras zeigen, wie ein SUV auf ihn zurast und der Fahrer auf den jungen Skateboarder feuert. Dann stellt sich heraus, dass das Opfer einen Flirt mit einer verheirateten Frau hatte. Sie hat ihm in der Nacht verzweifelte Hilferufe geschickt. Er wollte ihr helfen und wurde Opfer eines perfiden Plans ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S10 E20</episode-num>
-    </programme>
-
-    <programme start="20251124010500 +0000" stop="20251124015500 +0000" channel="PULS24">
-        <title lang="de">Die Lebensmittelpolizei</title>
-        <desc lang="de">Die Lebensmittelpolizisten führen eine Kontrolle in der Küche Österreichs drittgrößtem Gefängnisses durch. Auch einen Supermarkt am Grazer Griesplatz nehmen die Inspektoren unter die Lupe. Die Zustände in der dortigen hauseigenen Fleischerei sind so verheerend, dass die Gefahr einer Teilschließung des Betriebes besteht. Auch einer anonymen Beschwerde gehen die Inspektoren nach. Ein Gast eines Grazer Fastfood Lokals hat angeblich Käfer in seinem Hamburger entdeckt.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
-        <date>2020</date>
-        <category lang="de">Essen</category>
-        <icon src="https://images.mdn.ors.at/16460689403775443767"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S1 E2</episode-num>
-    </programme>
 
     <programme start="20251124015500 +0000" stop="20251124025000 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -604,24 +574,34 @@
         <episode-num system="onscreen">S6 E3</episode-num>
     </programme>
 
-    <programme start="20251124004000 +0000" stop="20251124015500 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Hotel-Legenden</title>
-        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 9</sub-title>
-        <desc lang="de">Mitten in Ebbs – gelegen im Unterinntal zu Füßen des Zahmen Kaisers – steht der Unterwirt, ein Gourmethotel mit Grundmauern aus dem 14. Jahrhundert. Heute hat das Haus der Familie Steindl zwei Hauben und wird von zwei Schwestern geführt. Die Chefin ist Sabrina Steindl, die jüngste von vier Töchtern von Anni und Edmund Steindl. Zu Füßen des Dachstein-Gletschermassivs im Ort Gosau im Salzkammergut steht das Landhaus Koller, 1850 als herrschaftliche Villa für die Wiener Industriellenfamilie Faber erbaut – heute ein Hotel mit „exklusiven“ 20 Zimmern. Chef Gottfried Koller hat keine Dienerschaft mehr im Haus, er ist sie gewissermaßen selbst. Seine Frau Manuela, Sohn Max und er stehen an der Rezeption, in der Küche und im Service. Seit 1856 betreibt die Familie Skorianz das Gipfelhaus Magdalensberg nördlich von Klagenfurt. Aus dem einfachen Gipfelgasthaus ist im Laufe der Jahrzehnte ein modernes Hotel mit Wellnessbereich geworden. Seit dem frühen Tod von Familienoberhaupt Alexius Skorianz 1997 ist das Haus außerordentlich weiblich dominiert: Sage und schreibe vier Generationen sind heute noch im Hotel vertreten – von Alexius’ Schwiegermutter über seine Frau Marlene, seine älteste Tochter Heike bis zu deren drei Töchtern. Einzig die dazugehörige Landwirtschaft betreibt Sohn Alexius Skorianz. Im Bezirk Spittal an der Drau liegt auf 930 Metern Seehöhe der Weißensee. Direkt am See steht das Genießerhotel „Die Forelle“, das 1974 von der Familie Müller neben ihrem alten Bauernhof gebaut wurde. Die Küche von Chef Hannes Müller ist mit satten vier Hauben ausgezeichnet.&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
+    <programme start="20251126011500 +0000" stop="20251126020000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Das rätselhafte Verschwinden</sub-title>
+        <desc lang="de">Die 24-jährige Studentin Annie Le wird kurz vor ihrer Hochzeit tot in einem Gebäude ihrer Universität aufgefunden. Wer steckt hinter der grausamen Tat und geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Kamera[/B]: Florian Schilling</actor>
-            <actor> Namche Okon</actor>
-            <actor> Carmen Treichl</actor>
-            <actor> Felix Raitz von Frentz</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor>  Michael Gügerl</actor>
-            <actor> Tobias Diehl-Dürnberger; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Lisa Meiberger</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E4</episode-num>
+    </programme>
+
+    <programme start="20251126020000 +0000" stop="20251126025000 +0000" channel="PULS24">
+        <title lang="de">Donau Polizei</title>
+        <desc lang="de">Die Beamten der Wasserpolizei werden während einer Ruderübung auf der alten Donau von einem Notfall überrascht. Außerdem fahnden die Polizisten nach einer 15-Jährigen, die seit Tagen verschwunden ist und ertrunken sein könnte. Ein Spürhund soll ihnen dabei helfen, den gesamten Donaukanal abzusuchen. Auch einer Anzeige gehen die Beamten nach. Eine Dame fürchtet, dass die Seerosen vor ihrem Haus an der Alten Donau durch Unterwassermäharbeiten zerstört werden könnten.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
+        <date>2020</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/1750647453788"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">E9</episode-num>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
     <programme start="20251124015500 +0000" stop="20251124025500 +0000" channel="ServusTV">
@@ -1490,6 +1470,45 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/11179945114315720152"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251126010000 +0000" stop="20251126015000 +0000" channel="ServusTV">
+        <title lang="de">Hubert ohne Staller</title>
+        <sub-title lang="de">Bitte recht freundlich</sub-title>
+        <desc lang="de">Ein Betreiber einer privaten Bitcoin-Börse wird erhängt auf seiner Terrasse aufgefunden. Da gerade ein massiver Kurseinbruch die Schlagzeilen bestimmt, besteht zunächst kein Zweifel an einem Suizid. Erst der Fund eines USB-Sticks aus dem Rachen des Toten und das Ergebnis der Obduktion weisen auf ein Verbrechen hin. Hubert und Girwidz verdächtigen den Filialleiter einer Bank, der seine Kunden an die Bitcoin-Börse des Toten vermittelte. Frau Kaiser hat ein privates Interesse an der Unschuld des Bankers. Auch sie hat ihm ihr Erspartes anvertraut, um in Bitcoin zu investieren. Ohne der Hilfe des Filialleiters muss sie nun mit einem Totalverlust ihres Investments rechnen.&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
+            <actor> Christian Tramitz</actor>
+            <actor> Hannes Ringlstetter</actor>
+            <actor> Paul Sedlmeir</actor>
+            <actor> Katharina Müller-Elmau</actor>
+            <actor> Mitsou Jung</actor>
+            <actor> Susu Padotzke</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Krimi</category>
+        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251126015000 +0000" stop="20251126023000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Wie lebendig ist Totholz? - Was die Forstwirtschaft von Urwäldern lernt</sub-title>
+        <desc lang="de">Diesmal bei P.M. Wissen: Wie viel Leben steckt in toten Bäumen? // Warum brauchen wir Soja aus Österreich? // Warum wird Genfood nicht mehr gekennzeichnet? // Wie hilft eine Muschel bei der Untersuchung der Wasserqualität? // Wie ist Geld entstanden? // Wie wurde Edwin Hubble berühmt? // Wie weit wandern Zebras?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E189</episode-num>
+    </programme>
+
+    <programme start="20251126023000 +0000" stop="20251126033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
