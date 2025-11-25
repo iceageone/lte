@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-25 00:51:14.219153 -->
+<!-- created on 2025-11-25 02:25:20.724427 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251125001000 +0000" stop="20251125010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das rätselhafte Verschwinden</sub-title>
-        <desc lang="de">Die 24-jährige Studentin Annie Le wird kurz vor ihrer Hochzeit tot in einem Gebäude ihrer Universität aufgefunden. Wer steckt hinter der grausamen Tat und geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E4</episode-num>
-    </programme>
-
-    <programme start="20251125010500 +0000" stop="20251125014500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Todesliste</sub-title>
-        <desc lang="de">Der ehemalige Strafverfolger und vierfache Familienvater Clint Greenwood wird im April 2017 auf einem Parkplatz erschossen. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E1</episode-num>
-    </programme>
 
     <programme start="20251125014500 +0000" stop="20251125023000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -637,14 +597,45 @@
         <episode-num system="onscreen">S6 E5</episode-num>
     </programme>
 
-    <programme start="20251125003500 +0000" stop="20251125020500 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Aktuelle Themen, spannende Gäste, eine spektakuläre Location: Sport und Talk aus dem Hangar-7.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
+    <programme start="20251127011000 +0000" stop="20251127020000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Für eine Handvoll Münzen</sub-title>
+        <desc lang="de">Die dreifache Mutter Shirley Shell wird im Juni 2017 in ihrem Zuhause kaltblütig erstochen. Zeugen berichten von einem auffälligen Auto, das in der Nähe des Tatortes gesehen wurde. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E2</episode-num>
+    </programme>
+
+    <programme start="20251127020000 +0000" stop="20251127024000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251125020500 +0000" stop="20251125023500 +0000" channel="ServusTV">
@@ -1552,6 +1543,16 @@
         <category lang="de">Mystery</category>
         <icon src="https://images.mdn.ors.at/15096390198270743370"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20251127022000 +0000" stop="20251127030500 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">u.a. Schlank mit alten Kartoffeln? - Ernährungstrend "Resistente Stärke" auf dem Prüfstand</sub-title>
+        <desc lang="de">Wer abnehmen will, kann versuchen, den Effekt von Stärke in Lebensmitteln zu reduzieren. Einem Ernährungstrend zufolge soll das sogar ohne Verzicht funktionieren: Mit Kartoffeln oder Nudeln vom Vortag. Denn die enthalten die sogenannte "Resistente Stärke", die schlank halten und gesund sein soll. Ernährungsexpertin Iris Pohl findet heraus, was dahinter steckt. // Ein Wald aus Bäumen, den man nicht mit Wanderschuhen durchquert, sondern mit Taucherbrille und Flossen - so etwas gibt es tatsächlich: Im Salzkammergut auf dem Grund des Altausseer Sees. Forscher wollen herausfinden, wie dieser Unterwasserwald entstanden ist. // Professionelle Mess-Methoden und digitales Dauer-Monitoring können Patienten besser schützen. Das gilt auch für das Messen der Körpertemperatur. Ein neuartiges, intelligentes Pflaster könnte bald das gute, alte Fieberthermometer ablösen. // Wer genau hinschaut, entdeckt auf Zahnpastatuben kleine, aufgedruckte Quadrate. Liefern deren Farben etwa Hinweise auf die chemische Zusammensetzung der Zahnpasta  – oder sind es Zeichen einer fremden Macht? Wir lösen das Rätsel auf. // P.M. Wissen" erklärt Phänomene des Alltags, schaut in Labore und Werkstätten und zeigt, wo und wie die Zukunft entsteht. Gemeinsam mit Astro-Physiker Gernot Grömer begibt sich das Team von "P.M. Wissen" jede Woche auf eine Reise zu Ideen, die vor kurzem noch Science-Fiction waren.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
