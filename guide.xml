@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-26 00:52:08.472769 -->
+<!-- created on 2025-11-26 02:26:13.937603 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -32,52 +32,12 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
 
-    <programme start="20251126002500 +0000" stop="20251126012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im Club</sub-title>
-        <desc lang="de">Der 25-jährige Josh Richards wird im Dezember 2013 in einem Nachtclub erschossen. Der Tatort gleicht einer Hinrichtung. Es gibt weder Zeugen noch ein Motiv für die Tat. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Mörder?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E3</episode-num>
-    </programme>
-
-    <programme start="20251126012000 +0000" stop="20251126020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das rätselhafte Verschwinden</sub-title>
-        <desc lang="de">Die 24-jährige Studentin Annie Le wird kurz vor ihrer Hochzeit tot in einem Gebäude ihrer Universität aufgefunden. Wer steckt hinter der grausamen Tat und geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E4</episode-num>
-    </programme>
-
     <programme start="20251126020500 +0000" stop="20251126025500 +0000" channel="PULS24">
         <title lang="de">Donau Polizei</title>
         <desc lang="de">Die Beamten der Wasserpolizei werden während einer Ruderübung auf der alten Donau von einem Notfall überrascht. Außerdem fahnden die Polizisten nach einer 15-Jährigen, die seit Tagen verschwunden ist und ertrunken sein könnte. Ein Spürhund soll ihnen dabei helfen, den gesamten Donaukanal abzusuchen. Auch einer Anzeige gehen die Beamten nach. Eine Dame fürchtet, dass die Seerosen vor ihrem Haus an der Alten Donau durch Unterwassermäharbeiten zerstört werden könnten.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
         <date>2020</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/1750647453788"/>
+        <icon src="https://images.mdn.ors.at/6031887492980683378"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
@@ -87,7 +47,7 @@
         <desc lang="de">Das Team der Wiener Wasserpolizei um Chefinspektor Erich K. sichtet auf der Donau einen Hund, der in der Strömung ums Überleben kämpft. Jetzt heißt es schnell handeln, denn jede Minute zählt. Außerdem nehmen die Beamten das skurrile Donau-Lokal "African Queen" genauer unter die Lupe. Anwohner hatten Beschwerde eingereicht, dass die Betreiber Vorschriften missachten. Die Polizisten prüfen, ob das Lokal alle gewerbe- und wasserrechtlichen Vorschriften einhält.&lt;br /&gt;&lt;br /&gt;Das Einsatzgebiet der Wiener Wasserpolizei reicht von Altenwörth an der Donau über Wien bis nach Mannswörth. Auch die Neue Donau, der 17 km lange Donaukanal, die Alte Donau sowie die restlichen Gewässer rund um Wien kontrollieren die Beamten regelmäßig.</desc>
         <date>2020</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/11941074360851769440"/>
+        <icon src="https://images.mdn.ors.at/6031887492980683378"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
@@ -675,42 +635,34 @@
         <episode-num system="onscreen">S6 E4</episode-num>
     </programme>
 
-    <programme start="20251126001500 +0000" stop="20251126010000 +0000" channel="ServusTV">
-        <title lang="de">Hubert ohne Staller</title>
-        <sub-title lang="de">Pizza Morte</sub-title>
-        <desc lang="de">Während einer morgendlichen Streifenfahrt finden Hubert und Girwidz die Leiche einer jungen Frau auf einer Bank am Ufer des Starnberger Sees. Deren Autoschlüssel führt sie zu einem Firmenwagen ganz in der Nähe. Handelt es sich bei der Toten also um die Inhaberin eines Start-ups, das sich auf die Entwicklung von Pizzaautomaten spezialisiert hat? Als sie die Firma aufsuchen, stellen sie fest: Die Chefin ist quicklebendig. Das Opfer ist ihre Schwester und war schwanger. Hat der noch unbekannte Kindsvater etwas mit dem Tod der Frau zu tun?&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
+    <programme start="20251128012000 +0000" stop="20251128020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Lügen</sub-title>
+        <desc lang="de">Der schlimmste Albtraum einer Familie beginnt, als die 23-jährige Christina Morris verschwindet, während sie mit Freunden in Plano, Texas, unterwegs ist. Die Polizei versucht verzweifelt, sie lebend zu finden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
-            <actor> Hannes Ringlstetter</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Katharina Müller-Elmau</actor>
-            <actor> Mitsou Jung</actor>
-            <actor> Susu Padotzke</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2021</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
-        <country>Deutschland</country>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E6</episode-num>
     </programme>
 
-    <programme start="20251126010000 +0000" stop="20251126015000 +0000" channel="ServusTV">
-        <title lang="de">Hubert ohne Staller</title>
-        <sub-title lang="de">Bitte recht freundlich</sub-title>
-        <desc lang="de">Ein Betreiber einer privaten Bitcoin-Börse wird erhängt auf seiner Terrasse aufgefunden. Da gerade ein massiver Kurseinbruch die Schlagzeilen bestimmt, besteht zunächst kein Zweifel an einem Suizid. Erst der Fund eines USB-Sticks aus dem Rachen des Toten und das Ergebnis der Obduktion weisen auf ein Verbrechen hin. Hubert und Girwidz verdächtigen den Filialleiter einer Bank, der seine Kunden an die Bitcoin-Börse des Toten vermittelte. Frau Kaiser hat ein privates Interesse an der Unschuld des Bankers. Auch sie hat ihm ihr Erspartes anvertraut, um in Bitcoin zu investieren. Ohne der Hilfe des Filialleiters muss sie nun mit einem Totalverlust ihres Investments rechnen.&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
-            <actor> Hannes Ringlstetter</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Katharina Müller-Elmau</actor>
-            <actor> Mitsou Jung</actor>
-            <actor> Susu Padotzke</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
-        <country>Deutschland</country>
+    <programme start="20251128020500 +0000" stop="20251128025500 +0000" channel="PULS24">
+        <title lang="de">Die Lebensmittelpolizei</title>
+        <desc lang="de">Die Lebensmittelpolizisten führen eine Kontrolle in der Küche Österreichs drittgrößtem Gefängnisses durch. Auch einen Supermarkt am Grazer Griesplatz nehmen die Inspektoren unter die Lupe. Die Zustände in der dortigen hauseigenen Fleischerei sind so verheerend, dass die Gefahr einer Teilschließung des Betriebes besteht. Auch einer anonymen Beschwerde gehen die Inspektoren nach. Ein Gast eines Grazer Fastfood Lokals hat angeblich Käfer in seinem Hamburger entdeckt.&lt;br /&gt;&lt;br /&gt;Schimmel im Lagerraum und mangelnde Kühlung in der Speisekammer: Die Hygiene in so manchem österreichischen Gasthaus kann teils erschreckende Zustände annehmen. Die ATV-Serie "Lebensmittelpolizei" gibt Einblicke in die Arbeit der Inspektoren Walpurga Rath, Christian Siedl und Stefan Trippolt. Alle drei haben ein geschultes Auge und kennen die Tricks der Gastronomen und Lebensmittelverkäufer.</desc>
+        <date>2020</date>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/16460689403775443767"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
     <programme start="20251126015000 +0000" stop="20251126023000 +0000" channel="ServusTV">
@@ -1539,6 +1491,41 @@
         <icon src="https://images.mdn.ors.at/13261847682484024997"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251128010500 +0000" stop="20251128021500 +0000" channel="ServusTV">
+        <title lang="de">Talk im Hangar-7</title>
+        <sub-title lang="de">28.11.2025 02:05.</sub-title>
+        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
+            <actor> Michael Fleischhacker</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251128021500 +0000" stop="20251128030000 +0000" channel="ServusTV">
+        <title lang="de">Rückkehr der Urzeit-Giganten</title>
+        <sub-title lang="de">Der Tasmanische Tiger</sub-title>
+        <desc lang="de">Der Tasmanische Tiger sorgte noch vor 100 Jahren für Angst und Schrecken auf dem australischen Kontinent. Dann starb er aus. Aber warum? Eine Ausgrabungsstätte könnte helfen, die Antwort zu finden.&lt;br /&gt;&lt;br /&gt;Bis zu 4,5 Meter groß und bis zu 15 Tonnen schwer konnten sie werden. Vor gut 4000 Jahren zogen die Mammuts noch über die Steppenlandschaften der Nordhalbkugel der Erde. Doch dann verschwanden sie. Bis heute sind die Ursachen dafür nicht geklärt. In der heutigen Episode soll untersucht werden, was ihre Auslöschung verursacht haben könnte. Denn neue und bislang einzigartige Funde sollen das Geheimnis lüften.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: Selina Tso</actor>
+            <actor> Alice Ford</actor>
+            <actor> Jamie Lochhead</actor>
+            <actor>  Freya Williams; [B]Produzent[/B]: James Franklin; [B]Editor[/B]: Antonio Morra</actor>
+            <actor> Rob Franz; [B]Kamera[/B]: Julian Schwantz</actor>
+            <actor> Stuart Heppell</actor>
+            <actor> Rodney Campbell; [B]Drehbuch[/B]: Isabel Tang</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/12621709661284765537"/>
+        <country>Vereinigtes Königreich</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
