@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-28 00:50:21.235198 -->
+<!-- created on 2025-11-28 02:22:19.339689 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251128002000 +0000" stop="20251128011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das rätselhafte Verschwinden</sub-title>
-        <desc lang="de">Die 24-jährige Studentin Annie Le wird kurz vor ihrer Hochzeit tot in einem Gebäude ihrer Universität aufgefunden. Wer steckt hinter der grausamen Tat und geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E4</episode-num>
-    </programme>
-
-    <programme start="20251128011500 +0000" stop="20251128020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Lügen</sub-title>
-        <desc lang="de">Der schlimmste Albtraum einer Familie beginnt, als die 23-jährige Christina Morris verschwindet, während sie mit Freunden in Plano, Texas, unterwegs ist. Die Polizei versucht verzweifelt, sie lebend zu finden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E6</episode-num>
-    </programme>
 
     <programme start="20251128020500 +0000" stop="20251128025500 +0000" channel="PULS24">
         <title lang="de">Die Lebensmittelpolizei</title>
@@ -591,33 +551,45 @@
         <episode-num system="onscreen">S6 E4</episode-num>
     </programme>
 
-    <programme start="20251128001000 +0000" stop="20251128010500 +0000" channel="ServusTV">
-        <title lang="de">BLICKWECHSEL. Das Nachrichtenmagazin</title>
-        <sub-title lang="de">28.11.2025 01:10.</sub-title>
-        <desc lang="de">„BLICKWECHSEL. Das Nachrichtenmagazin“ ist jeden Donnerstag um 21.15 Uhr bei ServusTV zu sehen. Die Idee zum Format schließt nahtlos an jener der Servus Nachrichten an. „BLICKWECHSEL“ unterscheidet sich jedoch durch seine hintergründigen und ausführlichen Beiträge von der Kompaktheit einer Nachrichtensendung. „BLICKWECHSEL“ bietet einen tieferen Blick hinter die Kulissen des Zeitgeschehens – und nimmt dabei immer auch überraschende, womöglich unbekannte Positionen ein.&lt;br /&gt;„BLICKWECHSEL“ berichtet über politische, wirtschaftliche und gesellschaftliche Themen, die die Menschen in Österreich bewegen. Mit freiem Geist und dem Ziel, mit jedem Beitrag einen BLICKWECHSEL vorzunehmen. Mit Themen und Aspekten, die woanders zu kurz, oder gar nicht vorkommen. Man blickt hinter die bekannten Schlagzeilen und vielfach gleichen Erzählungen. Mit Mut, aber sachlich und mit journalistischer Sorgfalt, unabhängig davon, ob die Positionen vermeintlich unerhört oder unkonventionell sein mögen.&lt;br /&gt;Durch die 30-minütige Sendung führt Katrin Prähauser live aus dem Studio in Salzburg. Gemeinsam mit einem Studiogast sollen das Thema der Woche erläutert und drängende Fragen beantwortet werden.&lt;br /&gt;&lt;br /&gt;Alle wichtigen Nachrichten auf einen Blick.</desc>
+    <programme start="20251130011500 +0000" stop="20251130020000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Ausflug ins Teufelsdreieck</sub-title>
+        <desc lang="de">Der 66-jährige Larry Weaver verbringt nach langer Reise eine Nacht im Motel, um anschließend nach Hause zu seiner Frau zu fahren. Dort kommt er nie an und die Ermittler befürchten das Schlimmste. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf seinen Verbleib?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/13261847682484024997"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E5</episode-num>
     </programme>
 
-    <programme start="20251128010500 +0000" stop="20251128021500 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">28.11.2025 02:05.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+    <programme start="20251130020000 +0000" stop="20251130024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251128021500 +0000" stop="20251128030000 +0000" channel="ServusTV">
@@ -1450,6 +1422,27 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/8116834700359073914"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251130013500 +0000" stop="20251130031000 +0000" channel="ServusTV">
+        <title lang="de">Die Logan Verschwörung</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ex-CIA-Agent Logan arbeitet in Belgien für eine Sicherheitsfirma. Als seine Kollegen getötet werden, wird ihm klar, dass er seine Vergangenheit nicht hinter sich gelassen hat.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Aaron Eckhart</actor>
+            <actor> Nick Alachiotis</actor>
+            <actor> Liana Liberato</actor>
+            <actor> Olga Kurylenko</actor>
+            <actor> Garrick Hagon</actor>
+            <actor> David Bark-Jones</actor>
+            <actor> Eric Godon</actor>
+            <actor> Yassine Fadel</actor>
+            <actor> Neil Napier</actor>
+            <actor> Alexander Fehling; [B]Regie[/B]: Philipp Stölzl; [B]Drehbuch[/B]: Arash Amel</actor>
+        </credits>
+        <date>2012</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/7395954386772669770"/>
+        <country>Vereinigte Staaten, Kanada, Belgien, Vereinigtes Königreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
