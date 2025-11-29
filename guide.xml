@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-11-29 00:50:31.354336 -->
+<!-- created on 2025-11-29 02:21:52.287282 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,36 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251128231500 +0000" stop="20251129010000 +0000" channel="PULS24">
-        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
-        <desc lang="de">Nachdem ein Mann seine Frau betrogen hat, reicht sie die Scheidung ein. Als sie einen neuen Freund hat, startet der Zahnarzt schwerbewaffnet einen Rachefeldzug. Ein Mörder flieht bei einem Freigang und tötet bei seiner Flucht vier Menschen. Ein Landwirt verschwindet nach einem Kneipenabend. Seine Angehörige gestehen seinen Mord, doch dann kommt die ganze Wahrheit ans Licht.&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
-        <date>2024</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S1 E2</episode-num>
-    </programme>
-
-    <programme start="20251129010000 +0000" stop="20251129015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Für eine Handvoll Münzen</sub-title>
-        <desc lang="de">Die dreifache Mutter Shirley Shell wird im Juni 2017 in ihrem Zuhause kaltblütig erstochen. Zeugen berichten von einem auffälligen Auto, das in der Nähe des Tatortes gesehen wurde. Geben die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E2</episode-num>
-    </programme>
 
     <programme start="20251129015000 +0000" stop="20251129023500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -705,23 +675,46 @@
         <episode-num system="onscreen">S6 E5</episode-num>
     </programme>
 
-    <programme start="20251129001000 +0000" stop="20251129005500 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Andreas Rebers</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin im Pausenmodus geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+    <programme start="20251201010500 +0000" stop="20251201015000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20251129005500 +0000" stop="20251129014500 +0000" channel="ServusTV">
-        <title lang="de">Die Falkenflüsterer - Jagd auf schnellen Schwingen</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Abrichten, Pflege, Jagd: Ein Blick hinter die Kulissen der Falknerei und eines faszinierenden Zusammenspiels von Mensch und Tier.</desc>
-        <date>2017</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/17588922459582818413"/>
-        <country>Österreich</country>
+    <programme start="20251201015000 +0000" stop="20251201023000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251129014500 +0000" stop="20251129023000 +0000" channel="ServusTV">
@@ -1587,6 +1580,21 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2 E10</episode-num>
+    </programme>
+
+    <programme start="20251201013500 +0000" stop="20251201023500 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">01.12.2025 02:35.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -15632,16 +15640,33 @@
 
     <programme start="20251129044017 +0000" stop="20251129050953 +0000" channel="Sky Replay">
         <title lang="de">Crashing</title>
-        <desc lang="de">Pete bekommt die Chance seines Lebens und soll den Eröffnungs-Gig bei Star-Comedian John Mulaney übernehmen. Doch der Auftritt bringt Pete in eine höchst unangenehme Situation. 27 Min.
-        USA 2018. Von Gillian Robespierre, mit Pete Holmes.
-        Ab 12 Jahre</desc>
-        <icon src="http://ngiss.t-online.de/cm1s/media/900d5e74f5f9d4f248aa8409c2fd32a8d2754c79.png"/>
+        <sub-title lang="de">Mulaney</sub-title>
+        <desc lang="de">Pete bekommt die Chance seines Lebens und soll den Eröffnungs-Gig bei Star-Comedian John Mulaney übernehmen. Doch der Auftritt bringt Pete in eine höchst unangenehme Situation.</desc>
+        <credits>
+            <director>Gillian Robespierre</director>
+            <actor>Pete Holmes</actor>
+            <actor>Lauren Lapkus</actor>
+            <actor>George Basil</actor>
+            <actor>Jamie Lee</actor>
+            <actor>Zach Cherry</actor>
+            <actor>Dov Davidoff</actor>
+            <actor>Jermaine Fowler</actor>
+            <actor>Aparna Nancherla</actor>
+            <actor>Madeline Wise</actor>
+            <producer>Judd Apatow</producer>
+            <producer>Pete Holmes</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Sitcom</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16326647_e_h8_aa_2019-03-11T07_20_54.jpg"/>
+        <country>US</country>
+        <episode-num system="onscreen">S3 E8</episode-num>
         <rating>
             <value>12</value>
         </rating>
     </programme>
 
-    <programme start="20251129050953 +0000" stop="20251129060900 +0000" channel="Sky Replay">
+    <programme start="20251129050953 +0000" stop="20251129060858 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Miss Lady Hawk persönlich</sub-title>
         <desc lang="de">Eine Ermittlerin versucht, einen lokalen Mordfall zu lösen, der eine Kleinstadt in Pennsylvania auseinanderzureißen droht. Neben den komplizierten Ermittlungen muss sie außerdem darum kämpfen, die Kontrolle über ihr Privatleben zu behalten.</desc>
@@ -15681,7 +15706,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129060900 +0000" stop="20251129070757 +0000" channel="Sky Replay">
+    <programme start="20251129060858 +0000" stop="20251129070750 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Väter</sub-title>
         <desc lang="de">Mare besucht eine grausige Mordszene, bevor sie den wütenden Vater des Opfers informiert. Mare befragt außerdem Verdächtige in dem Fall und heißt den Detective Colin Zabel, der zur Unterstützung hinzugezogen wurde, eisig willkommen.</desc>
@@ -15722,7 +15747,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129070757 +0000" stop="20251129080821 +0000" channel="Sky Replay">
+    <programme start="20251129070750 +0000" stop="20251129080809 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Verstrickungen</sub-title>
         <desc lang="de">Während Mare und Colin neue physische Beweise analysieren, führen Telefonaufzeichnungen zu einem unwahrscheinlichen Verdächtigen. Nachdem Mare Helen wegen eines möglichen Sorgerechtsstreites angegriffen hat, erhält sie von Richard Ratschläge.</desc>
@@ -15763,7 +15788,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129080821 +0000" stop="20251129090557 +0000" channel="Sky Replay">
+    <programme start="20251129080809 +0000" stop="20251129090541 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Armer Sisyphus</sub-title>
         <desc lang="de">Als Mare gezwungen ist, den Fall in den Hintergrund zu rücken, befragt Colin einen örtlichen Priester über die vagen Umstände, die ihn in die Pfarrei gebracht haben. Ein anonymer Anruf gibt Dawn Hoffnung, dass Katie noch am Leben sein könnte.</desc>
@@ -15804,7 +15829,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129090557 +0000" stop="20251129100614 +0000" channel="Sky Replay">
+    <programme start="20251129090541 +0000" stop="20251129100552 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Illusionen</sub-title>
         <desc lang="de">In ihrer Therapie erzählt Mare von der Geschichte ihrer Familie. Lori versucht, dem Ausbruch ihres Sohnes in der Schule auf den Grund zu gehen. Mare trifft sich mit einer Quelle, um eine mögliche Verbindung zu den Fällen zu finden.</desc>
@@ -15845,7 +15870,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129100614 +0000" stop="20251129110627 +0000" channel="Sky Replay">
+    <programme start="20251129100552 +0000" stop="20251129110600 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Bekenntnisse</sub-title>
         <desc lang="de">Mare kehrt zur Arbeit zurück und kümmert sich wieder um das ermordete Mädchen. Während der Ermittlungen wird das Fahrrad des Opfers im Fluss gefunden und die Polizistin muss sich den Dämonen ihrer eigenen Vergangenheit stellen.</desc>
@@ -15885,7 +15910,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129110627 +0000" stop="20251129121344 +0000" channel="Sky Replay">
+    <programme start="20251129110600 +0000" stop="20251129121312 +0000" channel="Sky Replay">
         <title lang="de">Mare of Easttown</title>
         <sub-title lang="de">Sakrament</sub-title>
         <desc lang="de">Mare kann in letzter Sekunde verhindern, dass John Billy erschießt. John gesteht daraufhin, Erin getötet zu haben. Doch dann tauchen neue Hinweise auf, die den ganzen Fall noch einmal in einem anderen Licht erscheinen lassen.</desc>
@@ -15925,7 +15950,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129121344 +0000" stop="20251129131444 +0000" channel="Sky Replay">
+    <programme start="20251129121312 +0000" stop="20251129131407 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Die lange strahlende Dunkelheit</sub-title>
         <desc lang="de">Im Jahr 1995 hatten die beiden Detectives Rust Cohle und Martin Hart den grausigen Ritualmord an einer Prostituierten in Louisiana untersucht. 17 Jahre später sollen die beiden grundverschiedenen Männer den Fall erneut aufrollen. Die Suche nach dem Killer führt sie zugleich in die dunkelsten Winkel ihrer eigenen Vergangenheit.</desc>
@@ -15961,7 +15986,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129131444 +0000" stop="20251129141501 +0000" channel="Sky Replay">
+    <programme start="20251129131407 +0000" stop="20251129141420 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Visionen</sub-title>
         <desc lang="de">Die Detectives Rust Cohle und Martin Hart stehen unter enormem Druck, im Mordfall Dora Lange endlich Ergebnisse zu liefern. Ein Kollege warnt sie, dass sie den Fall an eine neue Okkultismus-Task-Force verlieren könnten. Da stoßen sie auf eine Spur, die sie von einem Bordell auf dem Land zu einer niedergebrannten Kirche führt. Unterdessen belastet der Job zusehends Martins Ehe mit Maggie.</desc>
@@ -15995,7 +16020,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129141501 +0000" stop="20251129151538 +0000" channel="Sky Replay">
+    <programme start="20251129141420 +0000" stop="20251129151452 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Der verschlossene Raum</sub-title>
         <desc lang="de">Ein verborgenes Bild in der abgebrannten Kirche führt die Detectives Rust Cohle und Martin Hart zu einer evangelikalen Gemeinde, die neue Hinweise hat: Dora Lange wurde kurz vor dem Mord zusammen mit einem großen Mann gesehen. Unterdessen durchforstet Cohle einige alte Fälle auf der Suche nach Parallelen und stößt tatsächlich auf eine Verbindung.</desc>
@@ -16031,7 +16056,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129151538 +0000" stop="20251129161501 +0000" channel="Sky Replay">
+    <programme start="20251129151452 +0000" stop="20251129161409 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Wer ist da?</sub-title>
         <desc lang="de">Hart and Cohle sind auf der Jagd nach einem neuen Verdächtigen: Reggie Ledoux, ein Drogenkoch, der gemeinsam mit Dora Langes Ehemann im Knast saß. Um ihn aufzuspüren, schlüpft Cohle in eine alte Identität aus seinen Drogentagen. Doch die Undercoveraktion führt ihn und Hart bald auf gefährliches Terrain, wo Recht und Gesetz nichts gelten.</desc>
@@ -16065,7 +16090,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129161501 +0000" stop="20251129171446 +0000" channel="Sky Replay">
+    <programme start="20251129161409 +0000" stop="20251129171350 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Das geheime Schicksal allen Lebens</sub-title>
         <desc lang="de">Eine brutale Wendung führt zur Lösung des Dora-Lange-Falles. Cohle and Hart werden als Helden gefeiert. Nach dem Ende der Ermittlungen scheinen endlich für alle Beteiligten ruhigere Zeiten anzubrechen. Während Hart zu seiner Familie zurückkehrt, wagt Cohle eine neue Beziehung und erwirbt sich den Ruf eines exzellenten Verhörspezialisten.</desc>
@@ -16100,7 +16125,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129171446 +0000" stop="20251129181541 +0000" channel="Sky Replay">
+    <programme start="20251129171350 +0000" stop="20251129181445 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Die Geister, die ich rief</sub-title>
         <desc lang="de">Im Jahr 2002 kommt Detective Cohle allmählich zu der Überzeugung, dass er und sein Partner Hart 1995 im Dora-Lange-Fall etwas Wesentliches übersehen haben. Auf eigene Faust untersucht er eine merkwürdige Verbindung zwischen dem Verschwinden einiger Kinder in der Gegend und dem Wellsprings-Programm des Predigers Billy Lee Tuttle.</desc>
@@ -16135,7 +16160,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129181541 +0000" stop="20251129191150 +0000" channel="Sky Replay">
+    <programme start="20251129181445 +0000" stop="20251129191043 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Nachdem du weg warst</sub-title>
         <desc lang="de">Ein grausiges Beweisstück bringt Detective Hart dazu, nach einer langen Zeit voller Spannungen endlich einen Waffenstillstand mit Cohle zu schließen. Er hilft ihm, eine Serie von Fällen zu untersuchen, bei denen Frauen verschwanden. Sie alle stehen mit dem Mord an Dora Lange in Verbindung. Die Spuren führen bis zur Tuttle-Familie.</desc>
@@ -16171,7 +16196,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129191150 +0000" stop="20251129200838 +0000" channel="Sky Replay">
+    <programme start="20251129191043 +0000" stop="20251129200847 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Form und Leere</sub-title>
         <desc lang="de">Die Befragung von Steve Geraci bringt zwar neue Informationen, aber nicht den erhofften Durchbruch. Unversehens finden sich die Detectives Hart und Cohle wieder ganz am Anfang. Aber dann bringt sie ein Detail auf einem Foto auf eine neue Spur in ihrem langjährigen Fall. Eine Spur, die letztlich in einer mörderischen Konfrontation endet.</desc>
@@ -16206,7 +16231,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129200838 +0000" stop="20251129210931 +0000" channel="Sky Replay">
+    <programme start="20251129200847 +0000" stop="20251129210939 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Das Totenbuch des Westens</sub-title>
         <desc lang="de">Ein Mord im Süden Kaliforniens verstrickt drei Gesetzeshüter und einen Gangster in ein tödliches Netz aus Betrug und Verschwörung: Highway-Cop Paul Woodrugh entdeckt die Leiche des Kommunalpolitikers Caspere und löst damit eine Kette verhängnisvoller Ereignisse aus. Bald ermitteln auch der korrumpierte Cop Ray Velcoro und die idealistische Polizistin Ani Bezzerides in dem Fall.</desc>
@@ -16238,7 +16263,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129210931 +0000" stop="20251129220932 +0000" channel="Sky Replay">
+    <programme start="20251129210939 +0000" stop="20251129220935 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Die Nacht findet dich</sub-title>
         <desc lang="de">Die Autopsie des ermordeten Politikers Ben Caspere fördert die ganze Scheußlichkeit und Brutalität des Verbrechens zu tage. Detective Ray Velcoro und seine Kollegin Ani Bezzerides rätseln, ob Caspers Vorliebe für Prostituierte etwas mit dem Mord zu tun haben könnte. Unterdessen geht Frank Semyon der Frage nach, wo sein verschwundenes Geld abgeblieben ist.</desc>
@@ -16270,7 +16295,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129220932 +0000" stop="20251129230934 +0000" channel="Sky Replay">
+    <programme start="20251129220935 +0000" stop="20251129230927 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Vielleicht morgen</sub-title>
         <desc lang="de">Detective Ray Velcoro versucht, die Ermittlungen eigenmächtig voranzutreiben, aber seine Kollegin Ani Bezzerides macht ihm klar, dass dies ihr Fall ist. Da stößt er auf neue Beweise, die dem Fall eine ganz neue Richtung geben. Frank Semyon trifft sich unterdessen mit seinen ehemaligen kriminellen Geschäftspartnern, doch die wollen sich von ihm nichts mehr sagen lassen.</desc>
@@ -16301,7 +16326,7 @@
         </rating>
     </programme>
 
-    <programme start="20251129230934 +0000" stop="20251130000549 +0000" channel="Sky Replay">
+    <programme start="20251129230927 +0000" stop="20251130000543 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Alles geht nieder</sub-title>
         <desc lang="de">Frank Semyon beginnt, sein Geschäftsimperium wieder aufzubauen. Er reaktiviert auch Verbindungen zu Drogengangstern, um sein verlorenes Geld wiederzubekommen. Ani Bezzerides und Ray Velcoro folgen unterdessen den Spuren des ermordeten Ben Caspere bis zu einem Stück Land, das durch jahrelangen Bergbau mit Schwermetallen verseucht wurde. Paul Woodrugh stößt in einem Pfandhaus auf Casperes Armbanduhr.</desc>
@@ -16332,7 +16357,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130000549 +0000" stop="20251130010552 +0000" channel="Sky Replay">
+    <programme start="20251130000543 +0000" stop="20251130010551 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Andere Leben</sub-title>
         <desc lang="de">Zwei Monate nach der Schießerei in Vinci ist der Fall Caspere offiziell geschlossen. Ani Bezzerides wurde wegen sexuellen Fehlverhaltens dazu verdonnert, an einer Therapiegruppe teilzunehmen. Trotzdem versucht sie weiterhin, Zugang zu den rätselhaften Sexpartys zu erhalten, die offenbar mit dem Fall in Verbindung stehen. Ray Velcoro hat unterdessen den Dienst quittiert und arbeitet als Ausputzer für Frank Semyon.</desc>
@@ -16363,7 +16388,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130010552 +0000" stop="20251130020557 +0000" channel="Sky Replay">
+    <programme start="20251130010551 +0000" stop="20251130020600 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Kirche in Trümmern</sub-title>
         <desc lang="de">Nachdem Ray herausgefunden hat, wie Gangster Frank Semyon ihn seit Jahren manipulierte, kommt es zur Konfrontation. Ani erschleicht sich undercover den Zugang zu einer der berüchtigten Sexpartys, stets überwacht von Ray und Paul. Aber auch sie können nicht verhindern, dass die Aktion in einem Desaster endet.</desc>
@@ -16394,7 +16419,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130020557 +0000" stop="20251130031022 +0000" channel="Sky Replay">
+    <programme start="20251130020600 +0000" stop="20251130031031 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Schwarzes Land und Motelzimmer</sub-title>
         <desc lang="de">Ani kämpft noch immer mit den Nachwirkungen der Sexparty und der Drogen, die sie dort nehmen musste. Das bekommt auch Ray zu spüren. Trotzdem stoßen die beiden auf neue brisante Details im Fall Caspere. Über Paul Woodrugh braut sich derweil Unheil zusammen: Jemand versucht, ihn mit kompromittierenden Fotos aus seiner Zeit bei der Army zu erpressen.</desc>
@@ -16425,7 +16450,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130031022 +0000" stop="20251130043556 +0000" channel="Sky Replay">
+    <programme start="20251130031031 +0000" stop="20251130043559 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Omega Station</sub-title>
         <desc lang="de">Ermittler Ray Velcoro und Polizistin Ani Bezzerides kommen dem Killer von Ben Caspere allmählich auf die Spur. Das macht ihre Lage nur noch gefährlicher. Lieutenant Burris hängt Ray den Mord an Paul Woodrugh an. Halbwelt-Größe Frank Semyon trifft Vorbereitungen, um sich nach Venezuela abzusetzen.</desc>
@@ -16456,7 +16481,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130043556 +0000" stop="20251130053543 +0000" channel="Sky Replay">
+    <programme start="20251130043559 +0000" stop="20251130053547 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <desc lang="de">Arkansas, 1980: In der Kleinstadt West Finger verschwinden zwei Kinder unter rätselhaften Umständen. Auch 35 Jahre später lässt das ungeklärte Verbrechen Detective Wayne Hays nicht los. 57 Min.
         USA 2018. Von Jeremy Saulnier, mit Mahershala Ali, Stephen Dorff, Deborah Ayorinde, Carmen Ejogo.
@@ -16467,7 +16492,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130053543 +0000" stop="20251130063314 +0000" channel="Sky Replay">
+    <programme start="20251130053547 +0000" stop="20251130063313 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Den Morgen wirst du nicht erleben</sub-title>
         <desc lang="de">Hays beschäftigt sich mit den Folgen des Purcell-Falls aus dem Jahr 1980 und hat neue Erkenntnisse. Mögliche Beweisstücke wurden offenbar übersehen. Während sich seine Aufmerksamkeit auf zwei Verdächtige richtet, taucht eine kryptische Nachricht auf.</desc>
@@ -16498,7 +16523,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130063314 +0000" stop="20251130072802 +0000" channel="Sky Replay">
+    <programme start="20251130063313 +0000" stop="20251130072755 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Das große Nie</sub-title>
         <desc lang="de">Hays erinnert sich an Risse in seiner Beziehung mit Amelia, die nach der Heirat auftauchten. Zehn Jahre nach den Purcell-Verbrechen tauchen neue Beweise auf, die Hays eine zweite Chance geben, sich und die Untersuchung zu rechtfertigen.</desc>
@@ -16527,7 +16552,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130072802 +0000" stop="20251130083529 +0000" channel="Sky Replay">
+    <programme start="20251130072755 +0000" stop="20251130083518 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Der Tag und die Stunde</sub-title>
         <desc lang="de">Hays und West sehen einen möglichen Zusammenhang zwischen der Kirche und den Purcell-Verbrechen. Während die Detektive nach einem Verdächtigen suchen und einen anderen zum Verhör aufrufen, wird Woodard von einer Bürgerwehr angegriffen.</desc>
@@ -16557,7 +16582,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130083529 +0000" stop="20251130093456 +0000" channel="Sky Replay">
+    <programme start="20251130083518 +0000" stop="20251130093439 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Wenn du Geister hast</sub-title>
         <desc lang="de">Neue Hinweise im Purcell-Fall bringen Detective Wayne Hays in eine unangenehme Lage. Unterdessen wird Amelia bewusst, dass ihre schriftstellerischen Ambitionen die Beziehung mit Wayne gefährden.</desc>
@@ -16586,7 +16611,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130093456 +0000" stop="20251130103349 +0000" channel="Sky Replay">
+    <programme start="20251130093439 +0000" stop="20251130103328 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Jäger in der Dunkelheit</sub-title>
         <desc lang="de">Wayne Hays und Roland West nehmen sich Unstimmigkeiten im Purcell-Fall vor, die im Lauf der Jahre vergessen wurden. Amelias Buchveröffentlichung wird unterdessen von Ereignissen der Vergangenheit überschattet.</desc>
@@ -16616,7 +16641,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130103349 +0000" stop="20251130113202 +0000" channel="Sky Replay">
+    <programme start="20251130103328 +0000" stop="20251130113136 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Das Letzte Land</sub-title>
         <desc lang="de">Neue Spuren führen Wayne Hays und Roland West zu einem ehemaligen Polizisten, der den Dienst während der Ermittlungen quittiert hat. Amelia hofft, dass sie über Lucy Purcells beste Freundin den einäugigen Mann aufspüren kann.</desc>
@@ -16645,7 +16670,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130113202 +0000" stop="20251130124808 +0000" channel="Sky Replay">
+    <programme start="20251130113136 +0000" stop="20251130124806 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Was verloren war</sub-title>
         <desc lang="de">Wayne hat schwer damit zu kämpfen, seine verblassenden Erinnerungen und den Bezug zur Realität nicht zu verlieren. Unterdessen kommt im Purcell-Fall allmählich die Wahrheit ans Licht.</desc>
@@ -16674,7 +16699,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130124808 +0000" stop="20251130134734 +0000" channel="Sky Replay">
+    <programme start="20251130124806 +0000" stop="20251130134727 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Folge 1</sub-title>
         <desc lang="de">Eine Gruppe von Wissenschaftlern, die in der Kleinstadt Ennis in Alaska arbeiten, wird erfroren in der Wildnis aufgefunden. Die Detectives finden in ihrem Labor eine herausgeschnittene Zunge - und bemerken zunehmend ungewöhnliche Vorkommnisse.</desc>
@@ -16699,7 +16724,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130134734 +0000" stop="20251130145103 +0000" channel="Sky Replay">
+    <programme start="20251130134727 +0000" stop="20251130145051 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Folge 2</sub-title>
         <desc lang="de">Danvers und Prior wollen mehr über Tsalal erfahren und suchen einen Ort für die physischen Beweise. Unterdessen droht Captain Connelly, den Fall nach Anchorage zu verlegen, und Navarro und Danvers finden unabhängig voneinander eine Verbindung.</desc>
@@ -16724,7 +16749,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130145103 +0000" stop="20251130155051 +0000" channel="Sky Replay">
+    <programme start="20251130145051 +0000" stop="20251130155035 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Folge 3</sub-title>
         <desc lang="de">Während Hank die Suche nach Clark leitet, befragt Prior Danvers über den Mord-Selbstmord-Fall, der einen Keil zwischen sie und Navarro getrieben hat. Navarro und Danvers suchen bei einem örtlichen Friseur nach weiteren Informationen über Annie.</desc>
@@ -16749,7 +16774,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130155051 +0000" stop="20251130165224 +0000" channel="Sky Replay">
+    <programme start="20251130155035 +0000" stop="20251130165202 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Folge 4</sub-title>
         <desc lang="de">Danvers und Navarro suchen den Ort, an dem Annie ermordet wurde, und die Verbindung zu Tsalal.</desc>
@@ -16774,7 +16799,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130165224 +0000" stop="20251130175614 +0000" channel="Sky Replay">
+    <programme start="20251130165202 +0000" stop="20251130175547 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Folge 5</sub-title>
         <desc lang="de">Prior geht den Verbindungen zwischen der Forschungsstation und der Bergbaufirma Silver Sky nach.</desc>
@@ -16799,7 +16824,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130175614 +0000" stop="20251130191150 +0000" channel="Sky Replay">
+    <programme start="20251130175547 +0000" stop="20251130191118 +0000" channel="Sky Replay">
         <title lang="de">True Detective</title>
         <sub-title lang="de">Folge 6</sub-title>
         <desc lang="de">Danvers und Navarro sind während eines Sturms in der Forschungsstation gefangen, ohne Strom und Verbindung zur Außenwelt. Sie müssen sich den Dämonen ihrer Vergangenheit und der drohenden Gefahr in der Gegenwart stellen.</desc>
@@ -16824,7 +16849,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130191150 +0000" stop="20251130200704 +0000" channel="Sky Replay">
+    <programme start="20251130191118 +0000" stop="20251130200728 +0000" channel="Sky Replay">
         <title lang="de">The White Lotus</title>
         <sub-title lang="de">Die Ankunft</sub-title>
         <desc lang="de">Willkommen im Paradies: Das hawaiianische Luxusresort "The White Lotus" empfängt seine neuesten Gäste. Bald kommt es allerdings zu Spannungen zwischen dem Hotelpersonal und den launischen Urlaubern.</desc>
@@ -16854,7 +16879,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130200704 +0000" stop="20251130210445 +0000" channel="Sky Replay">
+    <programme start="20251130200728 +0000" stop="20251130210503 +0000" channel="Sky Replay">
         <title lang="de">The White Lotus</title>
         <sub-title lang="de">Ein neuer Tag</sub-title>
         <desc lang="de">Die Spa-Managerin Belinda versucht mit dem VIP-Gast Tanya die richtige Balance zwischen fürsorglichem Service und professioneller Distanz zu finden. Der Resortchef Armond ringt unterdessen damit, Shane zufriedenzustellen.</desc>
@@ -16884,7 +16909,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130210445 +0000" stop="20251130220343 +0000" channel="Sky Replay">
+    <programme start="20251130210503 +0000" stop="20251130220356 +0000" channel="Sky Replay">
         <title lang="de">The White Lotus</title>
         <sub-title lang="de">Wir sind nur Affen</sub-title>
         <desc lang="de">Shane bittet den Resort-Chef Armond, ihm bei der Planung eines romantischen Abends mit Rachel zu helfen. Tanya will unterdessen, dass die Spa-Managerin Belinda zusammen mit ihr die Asche ihrer Mutter im Meer verstreut.</desc>
@@ -16914,7 +16939,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130220343 +0000" stop="20251130230239 +0000" channel="Sky Replay">
+    <programme start="20251130220356 +0000" stop="20251130230248 +0000" channel="Sky Replay">
         <title lang="de">The White Lotus</title>
         <sub-title lang="de">Rückbesinnung</sub-title>
         <desc lang="de">Rachel erzählt ihrem Ehemann Shane von ihrer neuen Karriereplanung. Shane zeigt sich jedoch leider nicht sonderlich begeistert. Anschließend wird das frisch verheiratete Ehepaar auch noch von einem unerwarteten Besuch überrascht.</desc>
@@ -16944,7 +16969,7 @@
         </rating>
     </programme>
 
-    <programme start="20251130230239 +0000" stop="20251201000340 +0000" channel="Sky Replay">
+    <programme start="20251130230248 +0000" stop="20251201000343 +0000" channel="Sky Replay">
         <title lang="de">The White Lotus</title>
         <sub-title lang="de">Die Lotusesser</sub-title>
         <desc lang="de">Während Armond versucht, den Schaden zu begrenzen, versucht Belinda, Tanyas Aufmerksamkeit auf ihren Geschäftsvorschlag zu lenken. Rachel beginnt unterdessen sich über ihre Zukunft Gedanken zu machen. Nicole stößt Mark von sich weg.</desc>
@@ -16974,7 +16999,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201000340 +0000" stop="20251201010856 +0000" channel="Sky Replay">
+    <programme start="20251201000343 +0000" stop="20251201010905 +0000" channel="Sky Replay">
         <title lang="de">The White Lotus</title>
         <sub-title lang="de">Abreise</sub-title>
         <desc lang="de">Rachel konfrontiert Shane mit der harten Wahrheit und vertraut sich Belinda an. Familie Mossbacher lässt eine traumatische Erfahrung hinter sich. Armond geht auf eine Sauftour und nimmt ultimative Rache an seinem Erzfeind.</desc>
@@ -17004,7 +17029,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201010856 +0000" stop="20251201022127 +0000" channel="Sky Replay">
+    <programme start="20251201010905 +0000" stop="20251201022136 +0000" channel="Sky Replay">
         <title lang="de">Quatsch Comedy Club</title>
         <sub-title lang="de">Staffel 5, Episode 1</sub-title>
         <desc lang="de">Thomas Hermanns startet mit einem großen Special in die fünfte Staffel, um mit Gästen wie Oliver Pocher und Carolin Kebekus das 30-jährige Jubiläum seiner Show zu feiern.</desc>
@@ -17021,7 +17046,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201022127 +0000" stop="20251201025638 +0000" channel="Sky Replay">
+    <programme start="20251201022136 +0000" stop="20251201025647 +0000" channel="Sky Replay">
         <title lang="de">Quatsch Comedy Club</title>
         <sub-title lang="de">Staffel 5, Episode 2</sub-title>
         <desc lang="de">Neben bekannten Stammgästen ist diesmal auch der Newcomer Benedikt Mitmannsgruber dabei.</desc>
@@ -17038,7 +17063,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201025638 +0000" stop="20251201032854 +0000" channel="Sky Replay">
+    <programme start="20251201025647 +0000" stop="20251201032903 +0000" channel="Sky Replay">
         <title lang="de">Quatsch Comedy Club</title>
         <sub-title lang="de">Staffel 5, Episode 3</sub-title>
         <desc lang="de">Matze Knop begrüßt auf der Bühne Helene Bockhorst, Jochen Prang und Hennes Bender.</desc>
@@ -17055,7 +17080,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201032854 +0000" stop="20251201040001 +0000" channel="Sky Replay">
+    <programme start="20251201032903 +0000" stop="20251201040024 +0000" channel="Sky Replay">
         <title lang="de">Quatsch Comedy Club</title>
         <desc lang="de">Mirja Regensburg begrüßt als Gastgeberin des heutigen "Quatsch Comedy"-Abends ein hochklassiges Männer-Trio: Dave Davis, Markus Barth und Fabi Rommel. 30 Min.
         D 2022. Von Nadja Zonsarowa, mit Mirja Regensburg, Dave Davis, Markus Barth.
@@ -17066,7 +17091,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201040001 +0000" stop="20251201050105 +0000" channel="Sky Replay">
+    <programme start="20251201040024 +0000" stop="20251201050125 +0000" channel="Sky Replay">
         <title lang="de">True Blood</title>
         <desc lang="de">Vampir Bill Compton spürt die Ablehnung der Bewohner von Bon Temps deutlich. Nur die telepathische Kellnerin Sookie fühlt sich zu ihm hingezogen - und lässt sich damit auf eine gefährliche Affäre ein. 56 Min.
         USA 2008. Von Alan Ball, mit Anna Paquin, Stephen Moyer, Sam Trammell.
@@ -17077,7 +17102,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201050105 +0000" stop="20251201055000 +0000" channel="Sky Replay">
+    <programme start="20251201050125 +0000" stop="20251201055034 +0000" channel="Sky Replay">
         <title lang="de">True Blood</title>
         <sub-title lang="de">Zaubersprüche</sub-title>
         <desc lang="de">Sookie und Alcide suchen fieberhaft nach Eric, der sich ohne Gedächtnis am helllichten Tag draußen herumtreibt. Dank des Feenblutes, das er getrunken hat, kann ihm die Sonne nichts anhaben. Doch die schützende Wirkung wird bald nachlassen. Unterdessen verlangt Pam von Marnie, dass sie den Fluch aufhebt und erhält eine Abfuhr.</desc>
@@ -17121,7 +17146,7 @@
         </rating>
     </programme>
 
-    <programme start="20251201055000 +0000" stop="20251201064746 +0000" channel="Sky Replay">
+    <programme start="20251201055034 +0000" stop="20251201064746 +0000" channel="Sky Replay">
         <title lang="de">True Blood</title>
         <sub-title lang="de">Ich und der Teufel</sub-title>
         <desc lang="de">Der Geist der Vampir-hassenden Hexe Antonia hat Besitz von Marnie ergriffen. Bill lässt sie einsperren, doch ihre Macht scheint immer weiterzuwachsen. Lafayette und Jesus suchen unterdessen Hilfe in Mexiko, um sich gegen die Vampire zu wappnen. Eric und Sookie lernen sich nach seinem Gedächtnisverlust neu kennen und kommen sich dabei gefährlich nah.</desc>
