@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-02 00:53:22.289465 -->
+<!-- created on 2025-12-02 02:28:02.789780 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251202001000 +0000" stop="20251202010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im sicheren Heim</sub-title>
-        <desc lang="de">Die junge Immobilienmaklerin Sasha Samsudean verschwindet an einem Abend in der Innenstadt von Orlando. Am nächsten Tag rufen besorgte Freunde die Polizei um Hilfe. Die Beamten finden Sasha erdrosselt in ihrer eigenen Wohnung auf.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E2</episode-num>
-    </programme>
-
-    <programme start="20251202010500 +0000" stop="20251202015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Austauschjahr ohne Wiederkehr</sub-title>
-        <desc lang="de">2017 verschwindet die chinesische Austauschstudentin Yingying Zhang vom Campus der University of Illinois. Polizei und FBI stützen sich auf Videoüberwachungsaufnahmen, um einen kaltblütigen Mörder vor Gericht zu bringen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E7</episode-num>
-    </programme>
 
     <programme start="20251202015000 +0000" stop="20251202023500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -116,10 +76,13 @@
 
     <programme start="20251202032000 +0000" stop="20251202034500 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <sub-title lang="de">02.12.2025 04:20.</sub-title>
+        <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
+        <date>2025</date>
         <category lang="de">Magazin</category>
         <icon src="https://images.mdn.ors.at/10657219629432381085"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
     <programme start="20251202034500 +0000" stop="20251202040000 +0000" channel="PULS24">
@@ -668,24 +631,46 @@
         <episode-num system="onscreen">S6 E7</episode-num>
     </programme>
 
-    <programme start="20251202002500 +0000" stop="20251202015500 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Aktuelle Themen, spannende Gäste, eine spektakuläre Location: Sport und Talk aus dem Hangar-7.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
-        <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+    <programme start="20251204012000 +0000" stop="20251204020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Der Schein trügt</sub-title>
+        <desc lang="de">Die junge Mutter Michele Davis kommt bei einem Autounfall ums Leben. Die Polizisten vermuten jedoch, dass der Unfall von jemandem verursacht wurde, der Michele tot sehen wollte. Mithilfe der Überwachungskameras machen sie sich auf die Suche nach dem möglichen Täter.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E9</episode-num>
     </programme>
 
-    <programme start="20251202015500 +0000" stop="20251202021000 +0000" channel="ServusTV">
-        <title lang="de">Winter Heroes</title>
-        <sub-title lang="de">Daniel Tschofenig</sub-title>
-        <desc lang="de">Die neue Doku-Serie „Winter Heroes“ startet am 27. Oktober 2025 auf Red Bull TV und bringt die emotionalsten Geschichten des Wintersports auf den Bildschirm. Von Eileen Gu bis Marcel Hirscher, von Anna Gasser bis Ryōyū Kobayashi: 16 Weltstars und Talente zeigen, was hinter Medaillen, Ruhm und Erfolgen steckt. In Sportarten wie Snowboard, Skispringen, Eisschnelllauf, Ski alpin und Skibergsteigen gewährt die Serie tiefe Einblicke in die Welt der einzelnen Athleten: Zwischen Trainings-Alltag, familiären Momenten, Rückschlägen und Triumphen.&lt;br /&gt;&lt;br /&gt;Von aufstrebenden Stars bis hin zu unaufhaltsamen Legenden: Lernen Sie die Elite der Wintersportler kennen, die in ihrer Disziplin absolute Spitzenleistungen erbringen. Blicke hinter die Kulissen enthüllen ihre Denkweise, ihr Training und die Grenzen, die sie als Nächstes verschieben.</desc>
+    <programme start="20251204020500 +0000" stop="20251204025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">04.12.2025 03:05.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/16580291654555417031"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251202021000 +0000" stop="20251202024000 +0000" channel="ServusTV">
@@ -1556,6 +1541,35 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/14831744824980154305"/>
         <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20251204013000 +0000" stop="20251204021500 +0000" channel="ServusTV">
+        <title lang="de">Reprisal - Nimm dir, was dir gehört!</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bruce Willis im bleihaltigen Crimestopper-Einsatz: Als Ex-Cop will er Banker Frank Grillo helfen, einen brutalen Bankräuber zu schnappen. Aber bald läuft die Mission mächtig aus dem Ruder.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Bruce Willis</actor>
+            <actor> Frank Grillo</actor>
+            <actor> Johnathon Schaech</actor>
+            <actor> Olivia Culpo</actor>
+            <actor> Natali Yura</actor>
+            <actor> Uncle Murda</actor>
+            <actor> Natalia Sophie Butler</actor>
+            <actor> Tyler Jon Olson; [B]Regie[/B]: Brian A. Miller; [B]Drehbuch[/B]: Bryce Hammons</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Action</category>
+        <icon src="https://images.mdn.ors.at/8342555855911248401"/>
+        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20251204021500 +0000" stop="20251204025500 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Innovationen für die Umwelt - Eine Spezialausgabe</sub-title>
+        <desc lang="de">In dieser Spezialausgabe von P.M. Wissen: Wie werden Jeans kompostierbar? // Wie kann die Hydra helfen, Leben zu verlängern? // Wie können Züge schneller fahren? // Können wir Solarpaneele auf dem Meer nutzen? // Wo liegt Atlantis? // Wie helfen Delfine den Fischern?&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2022</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
