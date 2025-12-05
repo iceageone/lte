@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-05 00:53:34.014186 -->
+<!-- created on 2025-12-05 02:28:45.176520 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251205002000 +0000" stop="20251205011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Schein trügt</sub-title>
-        <desc lang="de">Die junge Mutter Michele Davis kommt bei einem Autounfall ums Leben. Die Polizisten vermuten jedoch, dass der Unfall von jemandem verursacht wurde, der Michele tot sehen wollte. Mithilfe der Überwachungskameras machen sie sich auf die Suche nach dem möglichen Täter.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E9</episode-num>
-    </programme>
-
-    <programme start="20251205011500 +0000" stop="20251205020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im sicheren Heim</sub-title>
-        <desc lang="de">Die junge Immobilienmaklerin Sasha Samsudean verschwindet an einem Abend in der Innenstadt von Orlando. Am nächsten Tag rufen besorgte Freunde die Polizei um Hilfe. Die Beamten finden Sasha erdrosselt in ihrer eigenen Wohnung auf.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E2</episode-num>
-    </programme>
 
     <programme start="20251205020500 +0000" stop="20251205025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -567,33 +527,45 @@
         <episode-num system="onscreen">S6 E10</episode-num>
     </programme>
 
-    <programme start="20251205000500 +0000" stop="20251205005500 +0000" channel="ServusTV">
-        <title lang="de">BLICKWECHSEL. Das Nachrichtenmagazin</title>
-        <sub-title lang="de">05.12.2025 01:05.</sub-title>
-        <desc lang="de">„BLICKWECHSEL. Das Nachrichtenmagazin“ ist jeden Donnerstag um 21.15 Uhr bei ServusTV zu sehen. Die Idee zum Format schließt nahtlos an jener der Servus Nachrichten an. „BLICKWECHSEL“ unterscheidet sich jedoch durch seine hintergründigen und ausführlichen Beiträge von der Kompaktheit einer Nachrichtensendung. „BLICKWECHSEL“ bietet einen tieferen Blick hinter die Kulissen des Zeitgeschehens – und nimmt dabei immer auch überraschende, womöglich unbekannte Positionen ein.&lt;br /&gt;„BLICKWECHSEL“ berichtet über politische, wirtschaftliche und gesellschaftliche Themen, die die Menschen in Österreich bewegen. Mit freiem Geist und dem Ziel, mit jedem Beitrag einen BLICKWECHSEL vorzunehmen. Mit Themen und Aspekten, die woanders zu kurz, oder gar nicht vorkommen. Man blickt hinter die bekannten Schlagzeilen und vielfach gleichen Erzählungen. Mit Mut, aber sachlich und mit journalistischer Sorgfalt, unabhängig davon, ob die Positionen vermeintlich unerhört oder unkonventionell sein mögen.&lt;br /&gt;Durch die 30-minütige Sendung führt Katrin Prähauser live aus dem Studio in Salzburg. Gemeinsam mit einem Studiogast sollen das Thema der Woche erläutert und drängende Fragen beantwortet werden.&lt;br /&gt;&lt;br /&gt;Alle wichtigen Nachrichten auf einen Blick.</desc>
+    <programme start="20251207012000 +0000" stop="20251207020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Seelenlos</sub-title>
+        <desc lang="de">Die zweifache Mutter Heather Jackson wird in ihrem Zuhause brutal ermordet. Im Verdacht stehen Personen aus ihrem Freundeskreis, die der Polizei jedoch kontroverse Informationen geben. Enthalten die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/13261847682484024997"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E11</episode-num>
     </programme>
 
-    <programme start="20251205005500 +0000" stop="20251205020500 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">05.12.2025 01:55.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+    <programme start="20251207020500 +0000" stop="20251207025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251205020500 +0000" stop="20251205025500 +0000" channel="ServusTV">
@@ -1406,6 +1378,23 @@
         <country>Österreich, Australien</country>
     </programme>
 
+    <programme start="20251207015500 +0000" stop="20251207032000 +0000" channel="ServusTV">
+        <title lang="de">Die Hölle</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Özge Dogruol, eine junge, türkisch-stämmige Taxifahrerin, wird Zeugin eines extrem brutalen Mordes. Der Täter scheint ein wahnsinniger, vom Islam inspirierter nmörder zu sein. Und er ist der Überzeugung, dass Özge ihn gesehen hat. Ein Kampf auf Leben und Tod beginnt.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Violetta Schurawlow</actor>
+            <actor> Tobias Moretti</actor>
+            <actor> Sammy Sheik</actor>
+            <actor> Friedrich von Thun</actor>
+            <actor> Robert Palfrader; [B]Regie[/B]: Stefan Ruzowitzky; [B]Drehbuch[/B]: Martin Ambrosch</actor>
+            <actor> Claudia Kolland</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Krimi</category>
+        <icon src="https://images.mdn.ors.at/11950955155929549844"/>
+        <country>Österreich, Deutschland</country>
+    </programme>
+
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
     <programme start="20251204235327 +0000" stop="20251205000327 +0000" channel="Cartoonito">
         <title lang="de">Ella im Weltall</title>
@@ -2017,6 +2006,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958665_e_h10_ab_2019-10-02T18_40_20.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -2073,6 +2063,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958658_e_h11_aa_2018-03-27T07_05_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -2091,6 +2082,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958684_e_h11_aa_2018-03-27T07_03_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -2379,6 +2371,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14704767_e_h10_aa_2018-06-14T12_01_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -2435,6 +2428,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14704775_e_h10_aa_2019-06-17T13_00_58.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -2869,6 +2863,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p18207955_e_h10_aa_2020-12-07T06_30_54.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S4</episode-num>
@@ -2886,6 +2881,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p18208016_e_h10_aa_2020-12-07T04_10_37.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S4</episode-num>
@@ -3222,6 +3218,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958623_e_h8_aa_2019-09-17T16_40_16.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -3240,6 +3237,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958632_e_h11_aa_2018-03-27T07_05_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -3258,6 +3256,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958627_e_h8_aa_2019-09-17T15_40_39.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -3722,6 +3721,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11702144_e_h10_aa_2020-03-08T23_30_08.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S1</episode-num>
@@ -4435,6 +4435,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14568471_e_h10_aa_2018-06-13T09_22_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3 E4</episode-num>
@@ -4740,6 +4741,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14690499_e_h11_aa_2018-06-14T12_01_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -4758,6 +4760,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14706030_e_h11_aa_2018-04-05T08_37_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -4795,6 +4798,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14706063_e_h10_aa_2018-03-20T15_46_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -4832,6 +4836,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/5/p15274746_e_h10_aa_2019-07-01T12_00_48.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3 E41</episode-num>
@@ -5288,6 +5293,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19417129_e_h10_aa_2021-08-06T07_07_58.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S5</episode-num>
@@ -5582,6 +5588,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958637_e_h8_aa_2019-09-18T14_00_29.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -5600,6 +5607,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958654_e_h10_aa_2019-09-04T10_20_16.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -5618,6 +5626,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958675_e_h8_aa_2018-03-20T16_01_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -5655,6 +5664,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958665_e_h10_ab_2019-10-02T18_40_20.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -6078,6 +6088,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11702152_e_h10_ab_2017-04-11T11_33_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S1</episode-num>
@@ -6115,6 +6126,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11559890_e_h10_ab_2017-04-11T11_33_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S1</episode-num>
@@ -6775,6 +6787,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14568441_e_h10_aa_2018-06-12T16_21_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3 E12</episode-num>
@@ -6793,6 +6806,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14568480_e_h10_ae_2023-06-16T02_06_19.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3 E9</episode-num>
@@ -7117,6 +7131,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14706055_e_h8_aa_2018-04-05T08_37_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -7135,6 +7150,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/4/p14706066_e_h8_aa_2018-03-20T15_46_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S3</episode-num>
@@ -7618,6 +7634,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19418791_e_h10_aa_2021-05-10T04_36_18.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S5</episode-num>
@@ -7636,6 +7653,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19417902_e_h10_aa_2021-08-06T07_27_11.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S5</episode-num>
@@ -7978,6 +7996,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958658_e_h11_aa_2018-03-27T07_05_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -7996,6 +8015,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13958684_e_h11_aa_2018-03-27T07_03_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S2</episode-num>
@@ -8388,6 +8408,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12212990_e_h10_ab_2017-04-11T11_33_00.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S1</episode-num>
@@ -8406,6 +8427,7 @@
         <category lang="de">Animation</category>
         <category lang="de">Kinder</category>
         <category lang="de">Comedy</category>
+        <category lang="de">Abenteuer</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12216344_e_h10_ab_2022-07-19T06_08_46.jpg"/>
         <country>US,CA</country>
         <episode-num system="onscreen">S1</episode-num>
@@ -9170,7 +9192,7 @@
         <desc lang="de">Aus der MEWA Arena in Mainz, Rhineland-Palatinate, Deutschland.</desc>
         <date>2025</date>
         <category lang="de">Fußball</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/aZ/aZ/GNLZZGG002GXP86_2025-11-06T19_28_30.jpg"/>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/aZ/aZ/GNLZZGG002JG4HV_2025-12-04T23_45_40.jpg"/>
     </programme>
 
     <programme start="20251205221502 +0000" stop="20251205231520 +0000" channel="Sky Showcase">
@@ -10722,6 +10744,7 @@
             <producer>Bill Skarsgård</producer>
         </credits>
         <date>2025</date>
+        <category lang="de">Fantasy</category>
         <category lang="de">Horror</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/1/p31126888_e_h8_aa_2025-11-26T12_25_32.jpg"/>
         <country>US</country>
