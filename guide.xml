@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-06 00:50:56.543659 -->
+<!-- created on 2025-12-06 02:21:35.988263 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,16 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251205232500 +0000" stop="20251206011000 +0000" channel="PULS24">
-        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
-        <desc lang="de">Ein Ehepaar lockt über Anzeigen Frauen in ihr Haus, nur um sie zu quälen. In dem Horrorhaus Höxter kommt es bis zum Äußersten. Ein Mann ist durch seine Gewalttaten aufgefallen, doch seine Freundin wollte ihn bessern. Nachdem sie sich von ihm trennt, nimmt er grausame Rache. Außerdem soll Franz S. eine Studentin misshandelt und brutal ermordet haben. Er gesteht die Tat und kommt ins Gefängnis. Später widerruft er seine Aussage. Wird ihm die Polizei glauben?&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
-        <date>2024</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S1 E1</episode-num>
-    </programme>
 
     <programme start="20251206011000 +0000" stop="20251206024000 +0000" channel="PULS24">
         <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
@@ -674,24 +664,47 @@
         <episode-num system="onscreen">S6 E9</episode-num>
     </programme>
 
-    <programme start="20251206005000 +0000" stop="20251206013500 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Star-Influencer "The AustrianKiwi"</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin im Pausenmodus geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+    <programme start="20251208012000 +0000" stop="20251208020500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">08.12.2025 02:20.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20251206013500 +0000" stop="20251206022000 +0000" channel="ServusTV">
-        <title lang="de">Das Feuer weitergeben - unsere Winterbräuche</title>
-        <sub-title lang="de">Das Feuer weitergeben - unsere Winterbräuche (2/2)</sub-title>
-        <desc lang="de">Innviertler Landler, Mühlviertler Blaudruck, Ybbsitzer Schmiedehandwerk – Österreich ist reich an gelebtem Brauchtum, was auch die UNESCO zu schätzen weiß.&lt;br /&gt;&lt;br /&gt;Innviertler Landler, Mühlviertler Blaudruck, Ybbsitzer Schmiedehandwerk – Österreich ist reich an gelebtem Brauchtum, was auch die UNESCO zu schätzen weiß.</desc>
-        <date>2017</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/8367859371889239358"/>
-        <country>Österreich</country>
+    <programme start="20251208020500 +0000" stop="20251208024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251206022000 +0000" stop="20251206032000 +0000" channel="ServusTV">
@@ -1528,6 +1541,21 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2 E11</episode-num>
+    </programme>
+
+    <programme start="20251208014000 +0000" stop="20251208024000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">08.12.2025 02:40.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
