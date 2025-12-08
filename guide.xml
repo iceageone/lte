@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-08 00:54:03.273376 -->
+<!-- created on 2025-12-08 02:29:34.802182 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,48 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251208002500 +0000" stop="20251208012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Schein trügt</sub-title>
-        <desc lang="de">Die junge Mutter Michele Davis kommt bei einem Autounfall ums Leben. Die Polizisten vermuten jedoch, dass der Unfall von jemandem verursacht wurde, der Michele tot sehen wollte. Mithilfe der Überwachungskameras machen sie sich auf die Suche nach dem möglichen Täter.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E9</episode-num>
-    </programme>
-
-    <programme start="20251208012000 +0000" stop="20251208020000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">08.12.2025 02:20.</sub-title>
-        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251208020000 +0000" stop="20251208024500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -778,23 +736,46 @@
         <episode-num system="onscreen">S6 E11</episode-num>
     </programme>
 
-    <programme start="20251208002000 +0000" stop="20251208014000 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Hotel-Legenden</title>
-        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 11</sub-title>
-        <desc lang="de">Als das Skifahren am Arlberg populär wurde, hat Wilhelm Schneider 1929 im damaligen Bauernhof in Lech die ersten Gäste beherbergt. Drei Generationen später, in den Neunzigerjahren, kamen dann Gerold, seine Frau Katia und der Masterplan … Dabei ist Gerold nicht nur Hotelier, sondern auch Architekt und Philosoph – eine Gratwanderung.&lt;br /&gt;Die Krone steht seit 1838 am Dorfplatz von Hittisau im schönen Bregenzerwald, scheinbar unverändert und stoisch gelassen. Chefin Helen Nussbaumer-Natter nennt sie „eine solide, alte Dame“. 1930 wurde die Krone von den Brüdern Oskar und Walter Natter gekauft. Bereits in dritter Generation führen nun Helen und ihr Mann Dietmar die alte Dame.&lt;br /&gt;Es war einmal das „alte Delefantenhaus“ auf der Teichalm im steirischen Fladnitz, das 1893 Maria und Franz Pierer erworben haben. Vier Generationen später sind die beiden Brüder Alfred und Franz Pierer die Chefs des nunmehr Vier-Sterne-Superior-Betriebes „Almwellness Pierer“.&lt;br /&gt;Arbeitsteilung heißt es bei den Ronachers in den Kärntner Nockbergen, wenn es um die Geschäfte geht. Markus Ronacher kümmert sich um das Familienhotel Die Post. Seine Frau Simone, Tochter der Drei-Hauben-Köchin Johanna Maier aus Filzmoos, führt das Stammhaus. Das Haus ist nun Kärntens einziger 5-Sterne-Superior-Hotelbetrieb und wurde im Jahr 2013 auch mit dem „Five Star Diamond Award“ ausgezeichnet, quasi dem Oscar unter den Hotelauszeichnungen.&lt;br /&gt;Die Mitglieder der Familie Altenberger aus Leogang im Salzburger Pinzgau sind wahre Tausendsassas. Nicht nur das Vier-Sterne-Superior-Resorthotel Der Krallerhof, sondern auch die erste Skischule von Leogang. Mit dem Asitzbräu, der Alten Schmiede und der Kralleralm haben die vielköpfigen Altenbergers aber noch einige gastronomische Jagdgründe mehr erschlossen.&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
+    <programme start="20251210012000 +0000" stop="20251210020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Am seidenen Faden</sub-title>
+        <desc lang="de">Eine Frau wird aus ihrem Zuhause in Lansing, Illinois, entführt, gequält und angezündet. Sie kann jedoch den Notruf anrufen und Details zum Täter preisgeben. Wird die Polizei das Monster fassen können, bevor es wieder zuschlägt?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Kamera[/B]: Florian Schilling</actor>
-            <actor> Namche Okon</actor>
-            <actor> Felix Raitz von Frentz</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor> Tobias Diehl-Dürnberger</actor>
-            <actor> Jutta Hespelein; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Lisa Meiberger</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E10</episode-num>
+    </programme>
+
+    <programme start="20251210020500 +0000" stop="20251210025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">10.12.2025 03:05.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E11</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251208014000 +0000" stop="20251208024000 +0000" channel="ServusTV">
@@ -1614,6 +1595,31 @@
         <icon src="https://images.mdn.ors.at/6426240912183734673"/>
         <country>Deutschland</country>
         <episode-num system="onscreen">S6 E2</episode-num>
+    </programme>
+
+    <programme start="20251210010000 +0000" stop="20251210015000 +0000" channel="ServusTV">
+        <title lang="de">Hubert und Staller</title>
+        <sub-title lang="de">Geheimrezepte</sub-title>
+        <desc lang="de">Als Sonja Wirth eine aufgebrachte Kundin zu einer Reklamation in den Hofladen "Lange leben" begleitet, macht sie dort eine schreckliche Entdeckung: Für den Inhaber Thomas Lange hat sich das Motto seines Geschäfts ganz offensichtlich nicht erfüllt - er liegt tot auf dem Boden! Dr. Anja Licht kann keine unmittelbaren Hinweise auf äußere Gewalteinwirkung finden.&lt;br /&gt;&lt;br /&gt;Die in Wolfratshausen Dienst versehenden bayerischen Streifenpolizisten Franz Hubert und Johannes Staller geraten bei Situationen aus dem Polizeialltag in Fälle hinein, die eigentlich außerhalb ihres Kompetenzbereiches liegen. Trotzdem gelingt es ihnen, die Straftaten aufzuklären, wobei Hubert die Dienstvorschriften stärker beachtet als Staller, der nach seinem Willen ermittelt</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Christian Tramitz</actor>
+            <actor> Michael Brandner</actor>
+        </credits>
+        <date>2016</date>
+        <category lang="de">Krimi</category>
+        <icon src="https://images.mdn.ors.at/6426240912183734673"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S6 E3</episode-num>
+    </programme>
+
+    <programme start="20251210015000 +0000" stop="20251210023000 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Im Einklang mit der Natur - Wie wir voneinander profitieren</sub-title>
+        <desc lang="de">Diesmal bei TM Wissen: Können wir in Österreich Soja anbauen? // Wie nützlich sind Laufkäfer bei der Schädlingsbekämpfung? // Warum ist Seegras so wichtig? // Wie kommen alte Hefestämme ins Bier? // Was passiert bei der Gärung? // Wie hilft K.I. bei der Weinprobe?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
