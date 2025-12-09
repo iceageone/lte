@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-09 00:53:20.674725 -->
+<!-- created on 2025-12-09 02:28:22.171711 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251209001000 +0000" stop="20251209010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im Supermarkt</sub-title>
-        <desc lang="de">2013 wird der Ladenbesitzer Imran Ashgar in seinem Geschäft in Columbus, Ohio, erschossen. Mit Die Schießerei wurde mit der Kamera aufgezeichnet, und der Mörder ist auf der Flucht, Die Ermittler wollen ihn fassen, bevor er erneut tötet.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E13</episode-num>
-    </programme>
-
-    <programme start="20251209010500 +0000" stop="20251209015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Seelenlos</sub-title>
-        <desc lang="de">Die zweifache Mutter Heather Jackson wird in ihrem Zuhause brutal ermordet. Im Verdacht stehen Personen aus ihrem Freundeskreis, die der Polizei jedoch kontroverse Informationen geben. Enthalten die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E11</episode-num>
-    </programme>
 
     <programme start="20251209015000 +0000" stop="20251209023500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -697,17 +657,46 @@
         <episode-num system="onscreen">S6 E10</episode-num>
     </programme>
 
-    <programme start="20251208232500 +0000" stop="20251209011500 +0000" channel="ServusTV">
-        <title lang="de">Bergwelten</title>
-        <sub-title lang="de">Bergwelten</sub-title>
-        <desc lang="de">"Der lange Weg" ist die längste Skitour der Alpen: Es ist der Versuch von sieben internationalen Athleten, eine Ost-West-Transalp von der Rax bis nach Nizza zu bewältigen - knapp 90.000 Höhenmeter in unter 40 Tagen. Vom österreichischen Skitouren-Speed-Spezialisten David Wallmann bis zur Südtiroler Achttausender-Alpinistin Tamara Lunger stellt sich ein Team aus fünf Nationen dieser ultimativen Herausforderung...&lt;br /&gt;&lt;br /&gt;Die Reihe Bergwelten zeigt Bergbilder, die auch Menschenbilder sind. Bilder nicht nur von Alpinisten oder einfachen Bergbewohnern, sondern auch von Menschen aus den Städten, die der Faszination der Bergwelt erliegen: Schauspieler, Musiker, Maler, Schriftsteller.</desc>
+    <programme start="20251211012000 +0000" stop="20251211020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Mord im Supermarkt</sub-title>
+        <desc lang="de">2013 wird der Ladenbesitzer Imran Ashgar in seinem Geschäft in Columbus, Ohio, erschossen. Mit Die Schießerei wurde mit der Kamera aufgezeichnet, und der Mörder ist auf der Flucht, Die Ermittler wollen ihn fassen, bevor er erneut tötet.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Regie[/B]:  Fritz Kalteis; [B]Drehbuch[/B]: Stefan Ludwig</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E13</episode-num>
+    </programme>
+
+    <programme start="20251211020500 +0000" stop="20251211025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">11.12.2025 03:05.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/11279591239437936311"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251209011500 +0000" stop="20251209031000 +0000" channel="ServusTV">
