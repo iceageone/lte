@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-10 00:54:48.269027 -->
+<!-- created on 2025-12-10 02:45:32.959299 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251210002500 +0000" stop="20251210012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Seelenlos</sub-title>
-        <desc lang="de">Die zweifache Mutter Heather Jackson wird in ihrem Zuhause brutal ermordet. Im Verdacht stehen Personen aus ihrem Freundeskreis, die der Polizei jedoch kontroverse Informationen geben. Enthalten die Aufzeichnungen der Überwachungskameras Hinweise auf den Täter?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E11</episode-num>
-    </programme>
-
-    <programme start="20251210012000 +0000" stop="20251210020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Am seidenen Faden</sub-title>
-        <desc lang="de">Eine Frau wird aus ihrem Zuhause in Lansing, Illinois, entführt, gequält und angezündet. Sie kann jedoch den Notruf anrufen und Details zum Täter preisgeben. Wird die Polizei das Monster fassen können, bevor es wieder zuschlägt?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E10</episode-num>
-    </programme>
 
     <programme start="20251210020500 +0000" stop="20251210025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -673,44 +633,46 @@
         <episode-num system="onscreen">S6 E12</episode-num>
     </programme>
 
-    <programme start="20251210001500 +0000" stop="20251210010000 +0000" channel="ServusTV">
-        <title lang="de">Hubert und Staller</title>
-        <sub-title lang="de">Das letzte Kapitel</sub-title>
-        <desc lang="de">Die bekannte Krimi-Schriftstellerin Lydia Fernét wird tot aufgefunden. Hubert und Stallers Ermittlungen führen in den Buchverlag von Claus Umbach. Angeblich wird die Autorin seit Kurzem von einem Stalker bedrängt.&lt;br /&gt;&lt;br /&gt;Die in Wolfratshausen Dienst versehenden bayerischen Streifenpolizisten Franz Hubert und Johannes Staller geraten bei Situationen aus dem Polizeialltag in Fälle hinein, die eigentlich außerhalb ihres Kompetenzbereiches liegen. Trotzdem gelingt es ihnen, die Straftaten aufzuklären, wobei Hubert die Dienstvorschriften stärker beachtet als Staller, der nach seinem Willen ermittelt</desc>
+    <programme start="20251212012000 +0000" stop="20251212020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Eine erschütternde Wahrheit</sub-title>
+        <desc lang="de">Die achtjährige Hiawayi Robinson kehrt nach dem Spielen nicht mehr nach Hause zurück. Ihre Familie veranlasst eine groß angelegte Suche, doch erst die Aufzeichnungen der Überwachungskameras eines Ladens, den sie besuchte, liefern erschreckende Details zum traurigen Schicksal des Mädchens.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Christian Tramitz</actor>
-            <actor> Michael Brandner</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2016</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/6426240912183734673"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S6 E2</episode-num>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E14</episode-num>
     </programme>
 
-    <programme start="20251210010000 +0000" stop="20251210015000 +0000" channel="ServusTV">
-        <title lang="de">Hubert und Staller</title>
-        <sub-title lang="de">Geheimrezepte</sub-title>
-        <desc lang="de">Als Sonja Wirth eine aufgebrachte Kundin zu einer Reklamation in den Hofladen "Lange leben" begleitet, macht sie dort eine schreckliche Entdeckung: Für den Inhaber Thomas Lange hat sich das Motto seines Geschäfts ganz offensichtlich nicht erfüllt - er liegt tot auf dem Boden! Dr. Anja Licht kann keine unmittelbaren Hinweise auf äußere Gewalteinwirkung finden.&lt;br /&gt;&lt;br /&gt;Die in Wolfratshausen Dienst versehenden bayerischen Streifenpolizisten Franz Hubert und Johannes Staller geraten bei Situationen aus dem Polizeialltag in Fälle hinein, die eigentlich außerhalb ihres Kompetenzbereiches liegen. Trotzdem gelingt es ihnen, die Straftaten aufzuklären, wobei Hubert die Dienstvorschriften stärker beachtet als Staller, der nach seinem Willen ermittelt</desc>
+    <programme start="20251212020500 +0000" stop="20251212025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">12.12.2025 03:05.</sub-title>
+        <desc lang="de">"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige, spannende und emotionale Arbeit von Rettungskräften in ganz Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen und erleben dank besonderer Kameratechnologie und dem Einsatz von kleinen Action Cams die Rettungsaktionen unmittelbar und aus der Sicht der Sanitäter:innen und Ärzt:innen mit.&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Christian Tramitz</actor>
-            <actor> Michael Brandner</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2016</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/6426240912183734673"/>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
         <country>Deutschland</country>
-        <episode-num system="onscreen">S6 E3</episode-num>
-    </programme>
-
-    <programme start="20251210015000 +0000" stop="20251210023000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Im Einklang mit der Natur - Wie wir voneinander profitieren</sub-title>
-        <desc lang="de">Diesmal bei TM Wissen: Können wir in Österreich Soja anbauen? // Wie nützlich sind Laufkäfer bei der Schädlingsbekämpfung? // Warum ist Seegras so wichtig? // Wie kommen alte Hefestämme ins Bier? // Was passiert bei der Gärung? // Wie hilft K.I. bei der Weinprobe?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
-        <country>Österreich</country>
     </programme>
 
     <programme start="20251210023000 +0000" stop="20251210033500 +0000" channel="ServusTV">
@@ -1106,8 +1068,8 @@
 
     <programme start="20251211042500 +0000" stop="20251211045500 +0000" channel="ServusTV">
         <title lang="de">Bares für Rares</title>
-        <sub-title lang="de">Episode 1889</sub-title>
-        <desc lang="de">Bei Horst Lichter und seinen Experten kommt keine Langweile auf. Im Pulheimer Walzwerk kämpfen heiße Emotionen gegen kaltes Kalkül, wenn alte, längst vergessene oder zufällig entdeckte Fundstücke zum Verkauf angeboten werden. Und die Händler können dafür sogar Rekordpreise bieten!&lt;br /&gt;&lt;br /&gt;Wertvoll oder wertlos? Ob alter Krimskrams oder edle Rarität: In Horst Lichters Trödel-Show kann jeder seltene Fundstücke aus Keller oder Garage schätzen lassen.</desc>
+        <sub-title lang="de">Bärenstarke Expertise</sub-title>
+        <desc lang="de">Eine bärenstarke Expertise erwartet die beiden Verkäufer einer kostbaren historischen Keramikvase. Doch welchen Schätzpreis nennt der Experte Colmar Schulte-Goltz? Die wunderbare englische Keramikvase mit Schlickerdekor ist handgefertigt und in einwandfreiem Zustand, obwohl sie in den 1930er Jahren hergestellt wurde und somit historisch ist. Für den Entwurf verantwortlich ist der Keramikkünstler William Moorcroft. Werden auch die Händler so begeistert sein, wie es der Experte Colmar Schulte-Goltz ist? Und folgen der Begeisterung schlussendlich auch zahlreiche Gebote? Wer ersteigert die schöne Vase mit dem zeitlosen Dekor? Es bleibt spannend!&lt;br /&gt;&lt;br /&gt;Wertvoll oder wertlos? Ob alter Krimskrams oder edle Rarität: In Horst Lichters Trödel-Show kann jeder seltene Fundstücke aus Keller oder Garage schätzen lassen.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Horst Lichter</actor>
         </credits>
@@ -1115,7 +1077,6 @@
         <category lang="de">Antiquitäten</category>
         <icon src="https://images.mdn.ors.at/14977960181002016825"/>
         <country>Deutschland</country>
-        <episode-num system="onscreen">E1889</episode-num>
     </programme>
 
     <programme start="20251211045500 +0000" stop="20251211050000 +0000" channel="ServusTV">
@@ -1456,6 +1417,34 @@
         <icon src="https://images.mdn.ors.at/13261847682484024997"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251212010500 +0000" stop="20251212021500 +0000" channel="ServusTV">
+        <title lang="de">Talk im Hangar-7</title>
+        <sub-title lang="de">12.12.2025 02:05.</sub-title>
+        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
+            <actor> Michael Fleischhacker</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251212021500 +0000" stop="20251212030000 +0000" channel="ServusTV">
+        <title lang="de">China - Ein uraltes Königreich der Natur</title>
+        <sub-title lang="de">Zentralchina - Ein Balanceakt</sub-title>
+        <desc lang="de">China: Ein Land mit mehr als 1,4 Milliarden Menschen, einigen der bevölkerungsreichsten Städte der Welt und der am schnellsten wachsenden Wirtschaft. Aber fernab von den funkelnden Lichtern der Zivilisation gibt es eine andere Welt, eine, in der die Natur an erster Stelle steht. Zehn neu angelegte Nationalparks schaffen für Chinas einzigartige Tierwelt und deren atemberaubenden Lebensräume einen noch nie dagewesen Schutz.&lt;br /&gt;&lt;br /&gt;Das weltweit größte Naturschutzprojekt wurde in China ins Leben gerufen. Entdecken Sie die atemberaubende Tierwelt, die in den beeindruckenden Nationalparks verborgen liegt.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Vanessa Kirby</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Tiere</category>
+        <icon src="https://images.mdn.ors.at/10850954267104754486"/>
+        <country>Vereinigtes Königreich, China, Russische Föderation, Vereinigte Staaten</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
