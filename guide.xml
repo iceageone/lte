@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-11 00:55:26.061871 -->
+<!-- created on 2025-12-11 02:48:12.411670 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251211002000 +0000" stop="20251211012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Am seidenen Faden</sub-title>
-        <desc lang="de">Eine Frau wird aus ihrem Zuhause in Lansing, Illinois, entführt, gequält und angezündet. Sie kann jedoch den Notruf anrufen und Details zum Täter preisgeben. Wird die Polizei das Monster fassen können, bevor es wieder zuschlägt?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E10</episode-num>
-    </programme>
-
-    <programme start="20251211012000 +0000" stop="20251211020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mord im Supermarkt</sub-title>
-        <desc lang="de">2013 wird der Ladenbesitzer Imran Ashgar in seinem Geschäft in Columbus, Ohio, erschossen. Mit Die Schießerei wurde mit der Kamera aufgezeichnet, und der Mörder ist auf der Flucht, Die Ermittler wollen ihn fassen, bevor er erneut tötet.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E13</episode-num>
-    </programme>
 
     <programme start="20251211020500 +0000" stop="20251211025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -614,13 +574,24 @@
         <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20251211004500 +0000" stop="20251211024000 +0000" channel="ServusTV">
-        <title lang="de">Fahndung Österreich</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;„Fahndung Österreich“ unterstützt die Verbrechensbekämpfung in Österreich und liefert wertvolle Präventionstipps.&lt;br /&gt;Hans Martin Paar präsentiert in enger Zusammenarbeit mit dem Bundesministerium für Inneres, dem Bundesministerium für Justiz und dem Bundeskriminalamt in jeder Live-Sendung sechs bis dato ungelöste Kriminalfälle. Die Hilfe der Zuschauer ist gefragt, wenn es darum geht ungelöste Fälle aufzuklären, unbekannte Täter zu identifizieren oder flüchtige Verbrecher aufzuspüren.</desc>
-        <date>2021</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/2597974328941004785"/>
-        <country>Österreich</country>
+    <programme start="20251213011000 +0000" stop="20251213023500 +0000" channel="PULS24">
+        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
+        <desc lang="de">Mehr als 13 Jahre sitzt ein Mann für einen vermeintlichen Mord Gefängnis. Handelt es sich hier um einen Riesen-Justizskandal? Die Tochter einer Frau wird ermordet, woraufhin sie den Angeklagten im Gerichtssaal erschießt. Ein Fall, der Rechtsgeschichte schreibt. Eine Frau ist neunmal schwanger und bringt alle Babys zur Welt. Allerdings müssen alle Säuglinge sterben.&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
+        <date>2024</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
+    </programme>
+
+    <programme start="20251213023500 +0000" stop="20251213040500 +0000" channel="PULS24">
+        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
+        <desc lang="de">Die Entführung des Richard Oetker gilt als Jahrhundertverbrechen: Nie war bis dahin eine Lösegeldforderung höher, selten ein Täter so brutal und raffiniert. Ein Mann bringt seine Freundin und seine Mutter um. Er leidet an Schizophrenie, ausgelöst durch jahrelanges Kiffen. Doch ist er schuldfähig? Ein Jeep kreuzt ein illegales Autorennen in Berlin und der Jeep-Fahrer ist sofort tot. Erstmals werden Raser in Deutschland wegen Mordes angeklagt.&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
+        <date>2024</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
     <programme start="20251211024000 +0000" stop="20251211033500 +0000" channel="ServusTV">
@@ -1424,6 +1395,38 @@
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251213010000 +0000" stop="20251213014500 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">So schmeckt der Winter</sub-title>
+        <desc lang="de">Die Tage werden kürzer, die Temperaturen sinken, die meisten Felder sind abgeerntet: Es ist Zeit die kulinarischen Winterfreuden auszukosten. Früher ist es für die Bauern überlebensnotwendig gewesen Vorräte für die langen, harten Winter anzulegen. Die jahrtausendealten Techniken auf natürliche Weise zu konservieren sind vielfältig. Allen gemeinsam: Sie entlocken den Lebensmitteln überraschende, intensive, reichhaltig Aromen. Bei der Vorarlberger Familie Marte freut man sich über eisige Temperaturen – je kälter umso mehr ihrer köstlichen Roten Rüben werden verlangt. Zubereiten darf sie nur die Feuermeisterin – Großmutter Resi und die weiß, was beim Rote Rüben zubereiten wichtig ist: Ganz viel Zeit! Wer würde Mandarinen, Zitronen, Orangen oder Limetten aus Österreich erwarten? Im Wiener Schloss Schönbrunn gibt es die zweitgrößte Zitrussammlung Europas - seit über 400 Jahren. Für sie verantwortlich ist Heimo Karner, seines Zeichens Zitrusguru. Er muss seine empfindlichen Pflanzen umsiedeln. Die Schönbrunner Zitrusbäume bekommen nämlich eine neue Behausung. &lt;br /&gt;&lt;br /&gt;Essen haltbar machen wie zu Omas Zeiten und dann noch mit Gemüse, das schon lange nicht mehr in heimischen Küchen in Gläser kam. Robert Brodnjak schützt bedrohte Arten, aber keine Tiere sondern Gemüse. &lt;br /&gt;&lt;br /&gt;Außerdem: Die Kärntner Altbauern Franz und Josef dörren noch Birnen nach alten Methoden und im Pinzgau erbt ein junger Metzger das Wissen um Dry Aged Fleisch, welches seit Generationen weitergegeben wird.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251213014500 +0000" stop="20251213023000 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Farben, Trends und starke Gefühle - Das TM Wissen Sommer-Spezial</sub-title>
+        <desc lang="de">Diesmal wird es ziemlich bunt bei Terra Mater Wissen: Grün ist die Hoffnung, durch eine rosarote Brille betrachtet ist die Welt gleich viel schöner. Und wenn die Wände in Pastell- oder Naturtönen gestrichen sind, sorgt das für ein harmonisches Umfeld. Haben Farben tatsächlich eine Wirkung auf unser Gemüt? Psychologen in Zürich haben versucht, das zu messen.  Die Ergebnisse sind überraschend. // Wie wirkt Kunst auf uns? Ist sie reine Geschmackssache oder lässt sich objektiv messen, was Kunst ist und wie sie auf uns wirkt? Reporter Reinhard Nowak hat sich einem Wissenschaftler als Proband zur Verfügung gestellt // Kein Stein, kein Strauch, und auch kein Baum im Weg. Ackerflächen sind heutzutage für Großmaschinen optimiert, und jeder Quadratmeter Anbaufläche zählt. Doch wenn es immer wärmer wird und das Klima weiter Kapriolen schlägt, sind Bäume nicht mehr das Problem, sondern die Lösung. Agrarexperten zeigen, wie das funktionieren kann // Auf dem Friedhof können Angehörige Abschied nehmen, Trauer verarbeiten und den Toten gedenken. Doch so ruhig wie es scheint, ist es oft gar nicht. Es kann dort ziemlich lebhaft zugehen. Nämlich dann, wenn aus dem Friedhof ein Biotop geworden ist. In Wien gibt es zahllose Beispiele dafür // "Terra Mater Wissen" erklärt Phänomene des Alltags und beleuchtet neuste Trends aus Forschung und Wissenschaft. Mit Astro-Physiker Gernot Grömer präsentiert das Team von "Terra Mater Wissen" jede Woche spannende Ideen und Erfindungen, die unsere Welt besser machen können.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251213023000 +0000" stop="20251213032000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
