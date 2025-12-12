@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-12 00:54:53.825231 -->
+<!-- created on 2025-12-12 02:46:14.811231 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251212002000 +0000" stop="20251212012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Kaltblütig</sub-title>
-        <desc lang="de">Die 25-jährige Heather Strube steht vor einem Neuanfang in ihrem Leben, als sie am helllichten Tag erschossen wird. Verwirrende Zeugenaussagen erschweren den Ermittlern die Suche nach dem Täter. Können hier die Aufzeichnungen der Überwachungskameras Hinweise geben?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E12</episode-num>
-    </programme>
-
-    <programme start="20251212012000 +0000" stop="20251212020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Eine erschütternde Wahrheit</sub-title>
-        <desc lang="de">Die achtjährige Hiawayi Robinson kehrt nach dem Spielen nicht mehr nach Hause zurück. Ihre Familie veranlasst eine groß angelegte Suche, doch erst die Aufzeichnungen der Überwachungskameras eines Ladens, den sie besuchte, liefern erschreckende Details zum traurigen Schicksal des Mädchens.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E14</episode-num>
-    </programme>
 
     <programme start="20251212020500 +0000" stop="20251212025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -337,6 +297,17 @@
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
+    <programme start="20251213040000 +0000" stop="20251213041500 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">13.12.2025 05:00.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2025</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
     <programme start="20251213041500 +0000" stop="20251213050000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
         <sub-title lang="de">13.12.2025 05:15.</sub-title>
@@ -578,33 +549,46 @@
         <episode-num system="onscreen">S6 E13</episode-num>
     </programme>
 
-    <programme start="20251212001500 +0000" stop="20251212010500 +0000" channel="ServusTV">
-        <title lang="de">BLICKWECHSEL. Das Nachrichtenmagazin</title>
-        <sub-title lang="de">12.12.2025 01:15.</sub-title>
-        <desc lang="de">„BLICKWECHSEL. Das Nachrichtenmagazin“ ist jeden Donnerstag um 21.15 Uhr bei ServusTV zu sehen. Die Idee zum Format schließt nahtlos an jener der Servus Nachrichten an. „BLICKWECHSEL“ unterscheidet sich jedoch durch seine hintergründigen und ausführlichen Beiträge von der Kompaktheit einer Nachrichtensendung. „BLICKWECHSEL“ bietet einen tieferen Blick hinter die Kulissen des Zeitgeschehens – und nimmt dabei immer auch überraschende, womöglich unbekannte Positionen ein.&lt;br /&gt;„BLICKWECHSEL“ berichtet über politische, wirtschaftliche und gesellschaftliche Themen, die die Menschen in Österreich bewegen. Mit freiem Geist und dem Ziel, mit jedem Beitrag einen BLICKWECHSEL vorzunehmen. Mit Themen und Aspekten, die woanders zu kurz, oder gar nicht vorkommen. Man blickt hinter die bekannten Schlagzeilen und vielfach gleichen Erzählungen. Mit Mut, aber sachlich und mit journalistischer Sorgfalt, unabhängig davon, ob die Positionen vermeintlich unerhört oder unkonventionell sein mögen.&lt;br /&gt;Durch die 30-minütige Sendung führt Katrin Prähauser live aus dem Studio in Salzburg. Gemeinsam mit einem Studiogast sollen das Thema der Woche erläutert und drängende Fragen beantwortet werden.&lt;br /&gt;&lt;br /&gt;Alle wichtigen Nachrichten auf einen Blick.</desc>
+    <programme start="20251214012000 +0000" stop="20251214020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Kaltblütig</sub-title>
+        <desc lang="de">Die 25-jährige Heather Strube steht vor einem Neuanfang in ihrem Leben, als sie am helllichten Tag erschossen wird. Verwirrende Zeugenaussagen erschweren den Ermittlern die Suche nach dem Täter. Können hier die Aufzeichnungen der Überwachungskameras Hinweise geben?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/13261847682484024997"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S6 E12</episode-num>
     </programme>
 
-    <programme start="20251212010500 +0000" stop="20251212021500 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">12.12.2025 02:05.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+    <programme start="20251214020500 +0000" stop="20251214025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">14.12.2025 03:05.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251212021500 +0000" stop="20251212030000 +0000" channel="ServusTV">
@@ -1393,6 +1377,23 @@
         <category lang="de">Gameshow</category>
         <icon src="https://images.mdn.ors.at/17476105810317577193"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251214013000 +0000" stop="20251214030000 +0000" channel="ServusTV">
+        <title lang="de">Heaven</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Philippas Mann wurde von einem Drogenboss umgebracht und die Justiz unternimmt nichts. Deshalb nimmt die Englischlehrerin die Sache selbst in die Hand und will sich mit einem Bombenattentat an dem Täter rächen. Ihr Plan geht jedoch schief und sie kommt ins Gefängnis, wo sie sich in den Polizisten Filippo verliebt. Als klar ist, dass die Polizei und der Drogenring unter einer Decke stecken, verhilft Filippo ihr zur Flucht. Doch ihre Feinde sind ihnen dicht auf den Fersen.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Cate Blanchett</actor>
+            <actor> Giovanni Ribisi</actor>
+            <actor> Remo Girone</actor>
+            <actor> Stefania Rocca</actor>
+            <actor> Alessandro Sperduti; [B]Regie[/B]: Tom Tykwer; [B]Drehbuch[/B]: Krzysztof Kieslowski</actor>
+            <actor>  Krzysztof Piesiewicz</actor>
+        </credits>
+        <date>2002</date>
+        <category lang="de">Krimi</category>
+        <icon src="https://images.mdn.ors.at/13984971706735677973"/>
+        <country>Vereinigtes Königreich, Frankreich, Italien, Vereinigte Staaten, Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
