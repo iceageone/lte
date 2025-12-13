@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-13 00:51:26.655018 -->
+<!-- created on 2025-12-13 02:24:56.104131 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,16 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251212231500 +0000" stop="20251213010500 +0000" channel="PULS24">
-        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
-        <desc lang="de">Ein Mann hat drei Frauen missbraucht und getötet. Aber mit Hilfe seiner Gefängnis-Therapeutin gelingt ihm die Flucht aus dem Gefängnis. Nach dem Verschwinden der Eltern, hat der Sohn noch medienwirksam nach ihnen gesucht. Doch es stellt sich heraus, dass er weiß, wo seine Eltern sind. Eine der reichsten Frauen Deutschlands sucht das Abenteuer und fällt auf einen Gigolo rein. Er erpresst sie um Millionen - doch sie kämpft und zeigt ihn an.&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
-        <date>2024</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S1 E3</episode-num>
-    </programme>
 
     <programme start="20251213010500 +0000" stop="20251213023000 +0000" channel="PULS24">
         <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
@@ -683,27 +673,48 @@
         <episode-num system="onscreen">S6 E14</episode-num>
     </programme>
 
-    <programme start="20251213001000 +0000" stop="20251213010000 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Tennisprofi Barbara Schett</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+    <programme start="20251215012000 +0000" stop="20251215020500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">15.12.2025 02:20.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20251213010000 +0000" stop="20251213014500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">So schmeckt der Winter</sub-title>
-        <desc lang="de">Die Tage werden kürzer, die Temperaturen sinken, die meisten Felder sind abgeerntet: Es ist Zeit die kulinarischen Winterfreuden auszukosten. Früher ist es für die Bauern überlebensnotwendig gewesen Vorräte für die langen, harten Winter anzulegen. Die jahrtausendealten Techniken auf natürliche Weise zu konservieren sind vielfältig. Allen gemeinsam: Sie entlocken den Lebensmitteln überraschende, intensive, reichhaltig Aromen. Bei der Vorarlberger Familie Marte freut man sich über eisige Temperaturen – je kälter umso mehr ihrer köstlichen Roten Rüben werden verlangt. Zubereiten darf sie nur die Feuermeisterin – Großmutter Resi und die weiß, was beim Rote Rüben zubereiten wichtig ist: Ganz viel Zeit! Wer würde Mandarinen, Zitronen, Orangen oder Limetten aus Österreich erwarten? Im Wiener Schloss Schönbrunn gibt es die zweitgrößte Zitrussammlung Europas - seit über 400 Jahren. Für sie verantwortlich ist Heimo Karner, seines Zeichens Zitrusguru. Er muss seine empfindlichen Pflanzen umsiedeln. Die Schönbrunner Zitrusbäume bekommen nämlich eine neue Behausung. &lt;br /&gt;&lt;br /&gt;Essen haltbar machen wie zu Omas Zeiten und dann noch mit Gemüse, das schon lange nicht mehr in heimischen Küchen in Gläser kam. Robert Brodnjak schützt bedrohte Arten, aber keine Tiere sondern Gemüse. &lt;br /&gt;&lt;br /&gt;Außerdem: Die Kärntner Altbauern Franz und Josef dörren noch Birnen nach alten Methoden und im Pinzgau erbt ein junger Metzger das Wissen um Dry Aged Fleisch, welches seit Generationen weitergegeben wird.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+    <programme start="20251215020500 +0000" stop="20251215024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">15.12.2025 03:05.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2019</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
-        <country>Österreich</country>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251213014500 +0000" stop="20251213023500 +0000" channel="ServusTV">
@@ -1575,6 +1586,43 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2 E12</episode-num>
+    </programme>
+
+    <programme start="20251215012500 +0000" stop="20251215022500 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">15.12.2025 02:25.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2025</episode-num>
+    </programme>
+
+    <programme start="20251215022500 +0000" stop="20251215031000 +0000" channel="ServusTV">
+        <title lang="de">Wunderstoffe</title>
+        <sub-title lang="de">Von Beton zu Lehm</sub-title>
+        <desc lang="de">Die Reihe stellt neue Konzepte des Bauens altem Wissen gegenüber und fragt, wie die Städte von morgen beschaffen sein müssen, damit sie lebenswert bleiben. Überraschend dabei ist, wie viele traditionelle Werkstoffe – zum Beispiel aus Indien, Thailand und Afrika – wiederentdeckt werden. Die erste Folge beschäftigt sich mit dem Material der Moderne: Beton.&lt;br /&gt;&lt;br /&gt;Beton, Stahl, Holz, Glas und Lehm – ohne sie ist unsere Architektur nicht denkbar. Aus diesen Materialien entstanden Häuser, Städte, ja ganze Kulturen! Sie prägen Regionen und kommen seit Jahrtausenden zum Einsatz. Diesen „Wunderstoffen“ haben wir großartige und bis heute emblematische Bauwerke zu verdanken, aber sie gelten, wie Beton und Stahl, inzwischen als Klimakiller oder sind nicht nachhaltig genug.</desc>
+        <credits>
+            <actor>[B]Regie[/B]: Jakob Kneser</actor>
+            <actor> Francesca D'Amicis</actor>
+            <actor> Francesca D'Amicis; [B]Produzent[/B]: Stefan Schneider</actor>
+            <actor> Svenja Wolter</actor>
+            <actor> Katharina Krohmann; [B]Editor[/B]: Ann-Christin Hornberger</actor>
+            <actor> Rafal Bujoczek</actor>
+            <actor> Silvia Menzel; [B]Kamera[/B]: Enrico Pergolini</actor>
+            <actor> James Rodney Stolz</actor>
+            <actor> Samir Saad</actor>
+            <actor> Oliver Vogt</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Technologie</category>
+        <icon src="https://images.mdn.ors.at/17764984058275438682"/>
+        <country>Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
