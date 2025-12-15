@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-15 00:57:27.898173 -->
+<!-- created on 2025-12-15 02:55:39.406482 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,70 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251215002500 +0000" stop="20251215011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Eine erschütternde Wahrheit</sub-title>
-        <desc lang="de">Die achtjährige Hiawayi Robinson kehrt nach dem Spielen nicht mehr nach Hause zurück. Ihre Familie veranlasst eine groß angelegte Suche, doch erst die Aufzeichnungen der Überwachungskameras eines Ladens, den sie besuchte, liefern erschreckende Details zum traurigen Schicksal des Mädchens.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S6 E14</episode-num>
-    </programme>
-
-    <programme start="20251215011500 +0000" stop="20251215020000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">15.12.2025 02:15.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20251215020000 +0000" stop="20251215024500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">15.12.2025 03:00.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251215024500 +0000" stop="20251215033000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -671,37 +607,68 @@
         <episode-num system="onscreen">S4 E4</episode-num>
     </programme>
 
-    <programme start="20251215000500 +0000" stop="20251215012500 +0000" channel="ServusTV">
-        <title lang="de">Österreichische Hotel-Legenden</title>
-        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 12</sub-title>
-        <desc lang="de">Vom Knappenhaus zur Schutzhütte und schließlich zum 5-Sterne-Palast: Das Seekarhaus in Obertauern hat eine bewegte Geschichte. Maßgeblich daran beteiligt ist seit 1957 die Familie Krings. Theodor, Gerhard und Manfred Krings haben Schulter an Schulter alles zusammen aufgebaut: Hotel, Skilifte, Landwirtschaft, Skirestaurant – bei den Krings führen die drei Familien der legendären Brüder gemeinsam das Imperium.&lt;br /&gt;5 Sterne Superior, 7 Hauben und ein Michelin-Stern – das Trofana Royal im Après-Ski-Mekka Ischgl ist eines der berühmtesten Hotels der Alpen. Genauso aufregend ist auch die Geschichte der Eigentümerfamilie von der Thannen. Hans von der Thannen hat sich vom Kochlehrling zum Großgastronomen hochgearbeitet. Heute leitet Sohn Alexander die Geschäfte.&lt;br /&gt;Der Grundstein des Hotels Waldruhe wird im Jahr 1929 mit einer Jausenstation gelegt. In den 1950er-Jahren übernimmt Franz Strasser den Betrieb, doch dann schlägt das Schicksal erbarmungslos zu. Seine Frau stirbt früh, und es fehlt nicht nur den Kindern eine Mutter, sondern auch der Pension eine Köchin. Dann wird die Verwandtschaft aktiv und geht auf die Suche nach einer Frau für den Franz...&lt;br /&gt;Der Jagdhof der Familie Pfurtscheller im Stubaital: Angefangen hat alles 1956 mit dem kleinen Café Gletscherblick. 1999 übernehmen Sohn Armin und seine Frau Christina das Hotel. Heute ist mit Sohn Alban die dritte Generation im Betrieb tätig. Gastgeber im Jagdhof waren aber immer die Damen des Hauses.&lt;br /&gt;Die Blaue Gans steht seit dem Jahr 1350 in der Getreidegasse und ist das älteste Gasthaus der Stadt Salzburg. Seit 100 Jahren ist es im Besitz der Familie Gfrerer. Der Chef heute ist Andreas Gfrerer, der die DNA von Salzburg mit der Muttermilch aufgesogen hat. Vor 20 Jahren hat er das Hotel übernommen, das zwischenzeitlich zur Bruchbude ve&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
+    <programme start="20251217012000 +0000" stop="20251217020500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Gejagt</sub-title>
+        <desc lang="de">Edward Lowry wird erstochen auf einem Parkplatz aufgefunden. Am Tatort finden die Ermittler nur wenige Hinweise auf den Tathergang und müssen auf die Aufzeichnungen der Überwachungskameras zurückgreifen. Doch werden diese wirklich Aufschluss über Edwards letzte Schritte geben können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]Kamera[/B]: Namche Okon</actor>
-            <actor>  Klaus Achter</actor>
-            <actor> Felix Raitz von Frentz</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor> Tobias Diehl-Dürnberger; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Lisa Meiberger</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E12</episode-num>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E5</episode-num>
     </programme>
 
-    <programme start="20251215012500 +0000" stop="20251215022500 +0000" channel="ServusTV">
-        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
-        <sub-title lang="de">15.12.2025 02:25.</sub-title>
-        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+    <programme start="20251217020500 +0000" stop="20251217024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">17.12.2025 03:05.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
-            <actor> Christoph Kotanko</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Politik</category>
-        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251217024500 +0000" stop="20251217033000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">17.12.2025 03:45.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251215022500 +0000" stop="20251215030500 +0000" channel="ServusTV">
@@ -1514,6 +1481,25 @@
         <category lang="de">Western</category>
         <icon src="https://images.mdn.ors.at/10824516979481402581"/>
         <country>Frankreich, Italien, Deutschland</country>
+    </programme>
+
+    <programme start="20251217020000 +0000" stop="20251217024500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Meister der Lüfte - Wie lösen Eulen Konflikte?</sub-title>
+        <desc lang="de">Wer bekommt die nächste Maus? Schleiereulen-Küken verhandeln das offenbar stundenlang untereinander, während die Eltern auf der Jagd sind – und einigen sich friedlich. Der Schweizer Eulenforscher Prof. Alexandre Roulin hat tausende Stunden Schleiereulen-„Unterhaltungen“ ausgewertet: bis zu 5000 Zischlaute stoßen die Küken pro Nacht aus, wenn sie ohne Eltern im Nest sind. Das ist ungewöhnlich, in den meisten Vogelnestern herrscht Stille, wenn die Küken alleine sind, und sobald die Eltern mit Futter kommen, versucht jedes Küken das Lauteste oder Stärkste zu sein. Nicht so bei den Schleiereulen: wenn die Eltern mit Beute ins Nest fliegen, machen die Küken einem auserwählten Geschwisterchen Platz, so dass es in Ruhe fressen kann. Manchmal gibt ein Küken seine Maus sogar an ein Geschwisterchen ab, das ist in der Tierwelt einmalig. So läuft die Fütterung sehr friedlich ab und mehr Junge überleben. Nach welchen Regeln verhandeln die Schleiereulen-Küken? Und wie hört sich das an?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2024</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251217024500 +0000" stop="20251217033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
