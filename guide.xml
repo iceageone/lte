@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-16 00:55:31.941136 -->
+<!-- created on 2025-12-16 02:48:05.374949 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,68 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251216001000 +0000" stop="20251216010500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Gejagt</sub-title>
-        <desc lang="de">Edward Lowry wird erstochen auf einem Parkplatz aufgefunden. Am Tatort finden die Ermittler nur wenige Hinweise auf den Tathergang und müssen auf die Aufzeichnungen der Überwachungskameras zurückgreifen. Doch werden diese wirklich Aufschluss über Edwards letzte Schritte geben können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E5</episode-num>
-    </programme>
-
-    <programme start="20251216010500 +0000" stop="20251216015000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Skrupellos</sub-title>
-        <desc lang="de">Am 23. Dezember verschwindet Beth von Steinner. Nur einige Tage später wird ihr gefrorener Körper im Müll hinter ihrem Haus gefunden. Die Polizei steht vor einem Rätsel und hofft darauf, dass die Aufnahmen einer Überwachungskamera Licht ins Dunkel bringen können.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E6</episode-num>
-    </programme>
-
-    <programme start="20251216015000 +0000" stop="20251216023500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">16.12.2025 02:50.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251216023500 +0000" stop="20251216032000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -686,14 +624,68 @@
         <episode-num system="onscreen">S4 E5</episode-num>
     </programme>
 
-    <programme start="20251216000000 +0000" stop="20251216023500 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Aktuelle Themen, spannende Gäste, eine spektakuläre Location: Sport und Talk aus dem Hangar-7.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
+    <programme start="20251218011500 +0000" stop="20251218020000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Die letzte Party</sub-title>
+        <desc lang="de">Am Neujahrsabend verschwindet Michelle spurlos. Es gibt keinerlei Zeugen, nur die Aufzeichnungen von vier Überwachungskameras. Die Ermittlungen führen schließlich zu einer grausamen Entdeckung ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E4</episode-num>
+    </programme>
+
+    <programme start="20251218020000 +0000" stop="20251218024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">18.12.2025 03:00.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251218024500 +0000" stop="20251218033000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">18.12.2025 03:45.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251216023500 +0000" stop="20251216033500 +0000" channel="ServusTV">
@@ -1549,6 +1541,34 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/8614290371008559221"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251218010000 +0000" stop="20251218024500 +0000" channel="ServusTV">
+        <title lang="de">Väter &amp; Töchter - Ein ganzes Leben</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Vom "Kiss the Coach"-Regisseur: große Stars in einer berührenden Vater-Tochter-Geschichte über die Wunden, die das Leben schlägt. - Seit dem Unfalltod seiner Frau leidet Witwer Jake (Russell Crowe) unter Depressionen - sehr zum Leidwesen seiner kleinen Tochter Katie. Als die verbitterte Schwägerin Elizabeth (Diane Kruger) das Sorgerecht einklagt, beginnt ein Kampf um die süße Katie. Ein Vierteljahrhundert später ist Katie (Amanda Seyfried) erwachsen - und versucht herauszufinden, was sie so beziehungsunfähig gemacht hat.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Russell Crowe</actor>
+            <actor> Amanda Seyfried</actor>
+            <actor> Aaron Paul</actor>
+            <actor> Diane Kruger</actor>
+            <actor> Quvenzhané Wallis</actor>
+            <actor> Bruce Greenwood</actor>
+            <actor> Janet McTeer</actor>
+            <actor> Kylie Rogers; [B]Regie[/B]: Gabriele Muccino; [B]Drehbuch[/B]: Brad Desch</actor>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Drama</category>
+        <icon src="https://images.mdn.ors.at/13142707259592157108"/>
+        <country>Italien, Vereinigte Staaten, Kanada</country>
+    </programme>
+
+    <programme start="20251218024500 +0000" stop="20251218033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
