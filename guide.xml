@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-18 00:51:43.837924 -->
+<!-- created on 2025-12-18 02:29:29.865228 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251218002000 +0000" stop="20251218011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Gejagt</sub-title>
-        <desc lang="de">Edward Lowry wird erstochen auf einem Parkplatz aufgefunden. Am Tatort finden die Ermittler nur wenige Hinweise auf den Tathergang und müssen auf die Aufzeichnungen der Überwachungskameras zurückgreifen. Doch werden diese wirklich Aufschluss über Edwards letzte Schritte geben können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E5</episode-num>
-    </programme>
-
-    <programme start="20251218011500 +0000" stop="20251218020000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die letzte Party</sub-title>
-        <desc lang="de">Am Neujahrsabend verschwindet Michelle spurlos. Es gibt keinerlei Zeugen, nur die Aufzeichnungen von vier Überwachungskameras. Die Ermittlungen führen schließlich zu einer grausamen Entdeckung ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E4</episode-num>
-    </programme>
 
     <programme start="20251218020000 +0000" stop="20251218024500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -628,21 +588,14 @@
         <episode-num system="onscreen">S2 E1</episode-num>
     </programme>
 
-    <programme start="20251218001000 +0000" stop="20251218005500 +0000" channel="ServusTV">
-        <title lang="de">Watzmann ermittelt</title>
-        <sub-title lang="de">Almsünde</sub-title>
-        <desc lang="de">In der Ache wird eine junge Frau tot aufgefunden. Gemeinsam mit ihrer Freundin Klarissa Zilch betrieb sie seit zwei Jahren einen Friseursalon, der sich vor allem bei den Herren einiger Beliebtheit erfreute. Ein erster Verdacht fällt auf den aggressiven Exfreund der Toten, Arthur Latzka, dem sie Geld schuldete.&lt;br /&gt;&lt;br /&gt;Hauptkommissar Benedikt Beissl sorgt in dieser ARD-Serie schon seit Jahrzehnten in Berchtesgaden für Recht und Ordnung Er ist wie der Watzmann - das Wahrzeichen von Berchtesgaden. Groß, mächtig und unverrückbar. Doch dann kommt ein neuer Kollege: Jerry Paulsen. Der ist nicht nur all das, was Beissl nicht ist, nämlich charmant, redselig und offenherzig.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Andreas Giebel</actor>
-            <actor> Ines Arabella Lutz</actor>
-            <actor> Kathrin von Steinburg</actor>
-            <actor> Barbara Weinzierl</actor>
-            <actor> Leonie Charlotte Brill; [B]Regie[/B]: Heidi Kranz</actor>
-        </credits>
-        <date>2019</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/8614290371008559221"/>
+    <programme start="20251220010500 +0000" stop="20251220023000 +0000" channel="PULS24">
+        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
+        <desc lang="de">TV-Star Günther Kaufmann gesteht einen Mord, den er nicht begangen hat, und verbüßt 831 Tage im Gefängnis. Ein Ex-Elitesoldat startet einen Rachefeldzug gegen seine Frau und ihren Liebhaber. Josef Fritzl, das "Monster von Amstetten", hält seine Tochter 24 Jahre lang im Keller gefangen, vergewaltigt sie und zeugt sieben Kinder mit ihr. Drei schockierende Fälle, die die Welt erschütterten und noch heute Fragen aufwerfen ...&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
+        <date>2025</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
         <country>Deutschland</country>
+        <episode-num system="onscreen">S2 E2</episode-num>
     </programme>
 
     <programme start="20251218005500 +0000" stop="20251218024500 +0000" channel="ServusTV">
@@ -1516,6 +1469,29 @@
         <icon src="https://images.mdn.ors.at/10670443562102061803"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E2</episode-num>
+    </programme>
+
+    <programme start="20251220013000 +0000" stop="20251220021500 +0000" channel="ServusTV">
+        <title lang="de">Die Gruaberin</title>
+        <sub-title lang="de">Mit Monika Gruber und Willy Astor</sub-title>
+        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20251220021500 +0000" stop="20251220030000 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Advent am Arlberg</sub-title>
+        <desc lang="de">In Österreichs größtem Skigebiet dreht sich das Winterkarussell auch in der Adventzeit. Das Passgebiet zwischen Tirol und Vorarlberg ist die Wiege des alpinen Skisports und zugleich auch einer der berühmtesten Wintersportorte des Landes.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;In der Zeit vor Weihnachten herrscht hier bereits Hochbetrieb. Jeder Einheimische ist in das Karussell des Winters eingebunden. Egal ob Bäcker Martin Walch, Förster Norbert Egger, Lawinensprengerin Angelika Kaufmann, Hotelière Andrea Schuler oder Bauer Hans Küng – die Betriebsamkeit der Vorweihnachtszeit macht vor ihrem Alltag keinen Halt.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stille und Besinnlichkeit gibt es dennoch. Fernab der Pisten, in unberührter Natur, oder in den wenigen Momenten, die den Menschen bleiben, um sich auf Weihnachten vorzubereiten. Hinter Glanz und Glamour verborgen, leben auch die Menschen am Arlberg ihre adventlichen Traditionen und schätzen ihr Stück der besonderen Heimat.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
