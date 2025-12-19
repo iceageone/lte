@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-19 00:55:04.847933 -->
+<!-- created on 2025-12-19 02:46:45.460270 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,67 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251219001500 +0000" stop="20251219011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Augen der Kirche</sub-title>
-        <desc lang="de">Der 60-jährige Sozialarbeiter Maurice Byrd wird erschossen in seinem eigenen Haus aufgefunden. Mit nur wenigen Hinweisen und keiner heißen Spur haben die Ermittler nur noch eine Chance, den Mord aufzuklären: die Aufnahmen einer Überwachungskamera der nahegelegenen Kirche ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E7</episode-num>
-    </programme>
-
-    <programme start="20251219011000 +0000" stop="20251219015500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Skrupellos</sub-title>
-        <desc lang="de">Am 23. Dezember verschwindet Beth von Steinner. Nur einige Tage später wird ihr gefrorener Körper im Müll hinter ihrem Haus gefunden. Die Polizei steht vor einem Rätsel und hofft darauf, dass die Aufnahmen einer Überwachungskamera Licht ins Dunkel bringen können.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E6</episode-num>
-    </programme>
-
-    <programme start="20251219015500 +0000" stop="20251219023500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251219023500 +0000" stop="20251219032000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -587,32 +526,66 @@
         <episode-num system="onscreen">S4 E6</episode-num>
     </programme>
 
-    <programme start="20251219004000 +0000" stop="20251219015000 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">19.12.2025 01:40.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+    <programme start="20251221011500 +0000" stop="20251221020000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Gejagt</sub-title>
+        <desc lang="de">Edward Lowry wird erstochen auf einem Parkplatz aufgefunden. Am Tatort finden die Ermittler nur wenige Hinweise auf den Tathergang und müssen auf die Aufzeichnungen der Überwachungskameras zurückgreifen. Doch werden diese wirklich Aufschluss über Edwards letzte Schritte geben können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2025</episode-num>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E5</episode-num>
     </programme>
 
-    <programme start="20251219015000 +0000" stop="20251219023500 +0000" channel="ServusTV">
-        <title lang="de">China - Ein uraltes Königreich der Natur</title>
-        <sub-title lang="de">Chinas Osten - Die letzte Zuflucht</sub-title>
-        <desc lang="de">Von der sonnenverwöhnten Tropeninsel der Gibbons bis zur frostigen Grenze zu Russland – der Osten Chinas ist eine sehr vielfältige Region. Von den fruchtbaren, grünen Landstrichen bis hin zu den riesigen Megametropolen – mehr als eine halbe Milliarde Menschen sind hier Zuhause. Trotz der Menschen und der wirtschaftlichen Entwicklung, wird der Natur auch hier Raum gegeben, besonders in vier bedeutenden Nationalparks: Im kalten Nordosten, an der Grenze zu Russland und Nordkorea, wurde der Nordostchinesische Tiger- und Leoparden-Nationalpark eingerichtet, vor allem um seltene Raubkatzen zu schützen. Der Wintereinbruch verwandelt den Nationalpark. Die Temperaturen können hier unter minus 40 Grad fallen. Hirsche und Wildschweine suchen verzweifelt nach Nahrung. Aber sie müssen auf der Hut sein, denn dieser Wald ist auch das Jagdrevier eines Spitzenprädators: Des Sibirischen Tigers, der größten Raubkatze der Welt. In der chinesischen Kultur wird er wegen seiner Kräfte verehrt, er gilt als der König der Könige. Früher lebten mehr als 4.000 Sibirische Tiger in diesen Wäldern. Heute ist ihre Population auf 37 Tiere geschrumpft. Der Nationalpark wurde gegründet, um diese sagenhaften Tiere und ihr Ökosystem zu schützen. Eine gewaltige Herausforderung. Abholzung und Siedlungsbau haben 90 Prozent des ursprünglichen Lebensraums der Tiger zerstört. Drei von zehn gefällten Bäumen in China kamen aus diesen Wäldern. Heute werden die letzten Sibirischen Tiger auf Schritt und Tritt verfolgt.&lt;br /&gt;&lt;br /&gt;Das weltweit größte Naturschutzprojekt wurde in China ins Leben gerufen. Entdecken Sie die atemberaubende Tierwelt, die in den beeindruckenden Nationalparks verborgen liegt.</desc>
+    <programme start="20251221020000 +0000" stop="20251221024000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Vanessa Kirby</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2020</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/10850954267104754486"/>
-        <country>Vereinigtes Königreich, Vereinigte Staaten</country>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251221024000 +0000" stop="20251221032500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251219023500 +0000" stop="20251219033500 +0000" channel="ServusTV">
@@ -1444,6 +1417,24 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/4379864625315390238"/>
         <country>Österreich, Deutschland</country>
+    </programme>
+
+    <programme start="20251221013000 +0000" stop="20251221031000 +0000" channel="ServusTV">
+        <title lang="de">Wolfsbrüder</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der siebenjährige Marcos  wird von seinem Vater an einen Großgrundbesitzer verkauft. In den abgeschiedenen Bergen der Sierra Morena soll er Ziegen hüten. Als der alte Ziegenhirt stirbt, bleibt der Junge völlig allein zurück. Aber dann erhält er bei seinem Kampf gegen Hunger, Kälte und Einsamkeit plötzlich Unterstützung von einem Rudel Wölfe. Abenteuerfilm von Gerardo Olivares nach einer wahren Geschichte.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sancho Gracia</actor>
+            <actor> Carlos Bardem</actor>
+            <actor> Alex Brendemühl</actor>
+            <actor> Eduardo Gómez</actor>
+            <actor> Agustín Rodríguez López</actor>
+            <actor> Luisa Martín</actor>
+            <actor> Vicente Romero; [B]Regie[/B]: Gerardo Olivares</actor>
+        </credits>
+        <date>2010</date>
+        <category lang="de">Abenteuer</category>
+        <icon src="https://images.mdn.ors.at/11792318660027753622"/>
+        <country>Spanien, Deutschland, Frankreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
