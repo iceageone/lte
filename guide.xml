@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-20 00:51:52.544669 -->
+<!-- created on 2025-12-20 02:25:04.049640 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,16 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251219231500 +0000" stop="20251220010000 +0000" channel="PULS24">
-        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
-        <desc lang="de">Das mysteriöse Verschwinden der kleinen Maddie McCann 2007 in Portugal bleibt bis heute ungeklärt. Der brutale Tod des Volksschauspielers Walter Sedlmayr enthüllt dunkle Geheimnisse. Ein Leichenfund in einer Villa in Nordhessen schockiert die Bevölkerung. Jürgen Harksen, der "Jahrhundert-Betrüger", prellt Hamburgs Elite um Millionen. All diese Fälle zeigen die Abgründe menschlichen Handelns und fesseln die Öffentlichkeit bis heute ...&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
-        <date>2025</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S2 E1</episode-num>
-    </programme>
 
     <programme start="20251220010000 +0000" stop="20251220023000 +0000" channel="PULS24">
         <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
@@ -676,25 +666,46 @@
         <episode-num system="onscreen">S4 E7</episode-num>
     </programme>
 
-    <programme start="20251220003500 +0000" stop="20251220012500 +0000" channel="ServusTV">
-        <title lang="de">Die Zeit, die noch bleibt</title>
-        <sub-title lang="de">Die Zeit, die noch bleibt - Episode 2</sub-title>
-        <desc lang="de">Josef Huainig hat mit seinen 90 Jahren ein bewegtes Leben hinter sich. Nach dem 2. Weltkrieg tauscht er Waffen gegen Obst und Schokolade und wird von einer ungesicherten Pistole schwer verletzt. Die Ehefrau stirbt nach 60 Jahren Ehe. Doch trotz dieser Schicksalsschläge fährt der vielleicht älteste Berufsfischer Österreichs bei Wind und Wetter täglich auf den Wörthersee. Die Arbeit hält ihn jung. Die 85jährige Ulrike Eichler lebt ihr bestes Leben. Ein Unfall und eine Gallenentzündung werden ihr fast zum Verhängnis. Doch genau deswegen genießt sie jeden Tag, ohne Kompromisse. Ihr Mann Hubert war einer der bekanntesten Laienschauspieler Tirols und ist immer mit von der Partie. „Immer Volldampf“ ist das Motto der pensionierten Schneider aus Sistrans.&lt;br /&gt;&lt;br /&gt;Zwei Menschen, die im letzten Lebensabschnitt Dinge unternehmen, die man für unmöglich hält.</desc>
-        <date>2025</date>
+    <programme start="20251222010500 +0000" stop="20251222015000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/10670443562102061803"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">E2</episode-num>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20251220012500 +0000" stop="20251220021500 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Willy Astor</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+    <programme start="20251222015000 +0000" stop="20251222023500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251220021500 +0000" stop="20251220030000 +0000" channel="ServusTV">
@@ -1558,6 +1569,24 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/9323291474678905971"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20251222011000 +0000" stop="20251222023000 +0000" channel="ServusTV">
+        <title lang="de">Österreichische Hotel-Legenden</title>
+        <sub-title lang="de">Traditionshäuser in Familienhand - Episode 13</sub-title>
+        <desc lang="de">Das ehemalige Wirtshaus Weyerhof im Pinzgauer Bramberg ist schon seit 1832 im Besitz der Familie Meilinger. Am Herd steht Franz Meilinger jun., ein weitgereister Spitzenkoch, der den Betrieb 2015 von seinen Eltern Franz und Elisabeth übernommen hat.&lt;br /&gt;Schon in den 1920er-Jahren hat Graf Tattenbach in Zürs nach englischem Vorbild „paying guests“ beherbergt. Familie Skardarasy kaufte das Domizil am Arlberg 1955 und machte daraus ein Ski- und Spa-Resort in der Fünf-Sterne-Superior-Luxus-Liga: mit großem Ruf und einem Service, der seinesgleichen sucht. Hier tummelt sich alles, was Rang und Namen hat, aber inkognito dem Sonnenskilauf frönen möchte.&lt;br /&gt;Seit sechs Generationen ist das über 500 Jahre alte Klosterbräu in Seefeld in Tirol schon in den Händen der Familie Seyrling und hat eine bewegte Vergangenheit: Als Kloster im 16. Jahrhundert gegründet, war neben dem Hotel in den 1960er- und 1970er-Jahren vor allem der Nachtklub „Kanne“ im Untergeschoss ein beliebter Treffpunkt von Stars und Sternchen. &lt;br /&gt;Der Mühltalhof der Familie Rachinger ist als Gourmet-Tempel für Feinschmecker aber das ganze Jahr über ein beliebtes Ziel. Helmut Rachinger ist ein Design-Liebhaber, Musik-Enthusiast, Ästhet und vor allem eines: Meisterkoch. Zusammen mit seinem Sohn Philip steht er am Herd, seine Schwester Johanna führt das Familienhotel in der fünften Generation.&lt;br /&gt;Ruhe hat Christoph Schmuck in den letzten Jahren kaum gehabt. Er hat das Forsthofgut in Leogang 2006 übernommen und es zu einem der prestigeträchtigsten Häuser in Österreich gemacht. Das ehemalige kleine, bäuerliche Hotel hat er mit einem Millionenkredit zum Fünf-Sterne-Hotel ausgebaut. Seine anfängliche Unbekümmertheit und die Last des Kredits haben sich bezahlt gemacht – an 320 Tagen im Jahr hat die Familie Schmuck ein volles Haus.&lt;br /&gt;&lt;br /&gt;Die Dokumentarserie wirft einen Blick hinter die Kulissen traditioneller österreichischer Häuser. Zu den bekanntesten Top-Hotels zählen der Wiener Sacher, der Stanglwirt und die Gasthof Post.</desc>
+        <credits>
+            <actor>[B]Kamera[/B]: Florian Schilling</actor>
+            <actor>  Michael Kittel</actor>
+            <actor>  Antonia Adelsberger</actor>
+            <actor> Christian Gappmaier</actor>
+            <actor> Tobias Diehl-Dürnberger; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Lisa Meiberger</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reisen</category>
+        <icon src="https://images.mdn.ors.at/12794290758268777093"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">E13</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
