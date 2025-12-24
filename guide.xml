@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-24 00:54:45.843673 -->
+<!-- created on 2025-12-24 02:45:42.398475 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -32,67 +32,6 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
 
-    <programme start="20251224001000 +0000" stop="20251224010000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Augen der Kirche</sub-title>
-        <desc lang="de">Der 60-jährige Sozialarbeiter Maurice Byrd wird erschossen in seinem eigenen Haus aufgefunden. Mit nur wenigen Hinweisen und keiner heißen Spur haben die Ermittler nur noch eine Chance, den Mord aufzuklären: die Aufnahmen einer Überwachungskamera der nahegelegenen Kirche ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E7</episode-num>
-    </programme>
-
-    <programme start="20251224010000 +0000" stop="20251224014500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tödliche Verwechslung</sub-title>
-        <desc lang="de">Im Juni 2013 wird der 46-jährige Familienvater Richard Arenas mitten am Tag in seiner Einfahrt heimtückisch niedergeschossen. Es gibt weder Zeugen, noch ein Motiv. Gelingt es den Ermittlern dennoch, den kaltblütigen Killer zu finden?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E11</episode-num>
-    </programme>
-
-    <programme start="20251224014500 +0000" stop="20251224023000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
     <programme start="20251224023000 +0000" stop="20251224031000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
@@ -116,7 +55,6 @@
 
     <programme start="20251224031000 +0000" stop="20251224035500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">24.12.2025 04:10.</sub-title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
             <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
@@ -838,24 +776,67 @@
         <episode-num system="onscreen">S4 E10</episode-num>
     </programme>
 
-    <programme start="20251223232000 +0000" stop="20251224013500 +0000" channel="ServusTV">
-        <title lang="de">Ist das Leben nicht schön?</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Weihnachtsfilm-Klassiker von Regie-Altmeister Frank Capra: Ein Mann steht vor dem Ruin und will seinem Leben ein Ende setzen. Kann ihn der Engel Clarence davon abbringen und ihn davon überzeugen, dass das Leben schön ist? Mit James Stewart und Lionel Barrymore in einer neu kolorierten Fassung!</desc>
+    <programme start="20251226011500 +0000" stop="20251226020000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: James Stewart</actor>
-            <actor> Donna Reed</actor>
-            <actor> Lionel Barrymore</actor>
-            <actor> Thomas Mitchell</actor>
-            <actor> Henry Travers</actor>
-            <actor> Frank Faylen</actor>
-            <actor> Ward Bond</actor>
-            <actor> Beulah Bondi; [B]Regie[/B]: Frank Capra; [B]Drehbuch[/B]: Frances Goodrich</actor>
-            <actor>  Albert Hackett</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>1946</date>
-        <category lang="de">Drama</category>
-        <icon src="https://images.mdn.ors.at/2232723021493043443"/>
-        <country>Vereinigte Staaten</country>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251226020000 +0000" stop="20251226024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251226024500 +0000" stop="20251226032500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251224013500 +0000" stop="20251224032500 +0000" channel="ServusTV">
@@ -1470,6 +1451,29 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/13215017856374426444"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20251226010500 +0000" stop="20251226033500 +0000" channel="ServusTV">
+        <title lang="de">Papillon</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Wegen Mordes an einem Zuhälter wird Henri Charrière alias Papillon zu lebenslanger Zwangsarbeit in der Strafkolonie Französisch-Guyana verurteilt. Abgeschobene Kriminelle sollen hier unter unmenschlichen Haftbedingungen gebrochen werden. Doch Henri trotzt der sengenden tropischen Sonne, den Krankheiten und den sadistischen Schikanen der Wärter. Gemeinsam mit dem Fälscher Louis Dega schmiedet er einen gewagten Fluchtplan.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Steve McQueen</actor>
+            <actor> Dustin Hoffman</actor>
+            <actor> Victor Jory</actor>
+            <actor> Don Gordon</actor>
+            <actor> Anthony Zerbe</actor>
+            <actor> Robert Deman</actor>
+            <actor> Woodrow Parfrey</actor>
+            <actor> Ratna Assan</actor>
+            <actor> Bill Mumy</actor>
+            <actor> George Coulouris; [B]Regie[/B]: Franklin J. Schaffner; [B]Drehbuch[/B]: Dalton Trumbo</actor>
+            <actor> Lorenzo Semple jr.</actor>
+            <actor> Henri Charrière</actor>
+        </credits>
+        <date>1973</date>
+        <category lang="de">Action</category>
+        <icon src="https://images.mdn.ors.at/8937008076452201313"/>
+        <country>Vereinigte Staaten, Frankreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
