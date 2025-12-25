@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-25 00:54:37.815203 -->
+<!-- created on 2025-12-25 02:48:29.258257 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,47 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251225004500 +0000" stop="20251225013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Falsche Freunde</sub-title>
-        <desc lang="de">Nach einer Nacht in einer Bar verschwindet Dalene Carlson spurlos. Die Ermittlungen laufen auf Hochtouren, um die Frau zu finden bevor es zu spät ist. Können die Aufzeichnungen einer Überwachungskamera den ausschlaggebenden Hinweis liefern?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E8</episode-num>
-    </programme>
-
-    <programme start="20251225013000 +0000" stop="20251225021500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251225021500 +0000" stop="20251225030000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -745,43 +704,24 @@
         <episode-num system="onscreen">S2 E3</episode-num>
     </programme>
 
-    <programme start="20251224230000 +0000" stop="20251225010500 +0000" channel="ServusTV">
-        <title lang="de">Bodyguard</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Leibwächter Frank ist der Beste seines Fachs. Als er jedoch den Superstar Rachel beschützen soll, wird er vor eine schier unlösbare Aufgabe gestellt. Und dann verstösst er gegen das oberste Gebot jedes Leibwächters: Er verliebt sich in seine Auftraggeberin.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Kevin Costner</actor>
-            <actor> Whitney Houston</actor>
-            <actor> Gary Kemp</actor>
-            <actor> Bill Cobbs</actor>
-            <actor> Ralph Waite</actor>
-            <actor> Tomas Arana</actor>
-            <actor> Michele Lamar Richards</actor>
-            <actor> Mike Starr; [B]Regie[/B]: Mick Jackson; [B]Drehbuch[/B]: Lawrence Kasdan</actor>
-        </credits>
-        <date>1992</date>
-        <category lang="de">Action</category>
-        <icon src="https://images.mdn.ors.at/12216355852693630387"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20251227010000 +0000" stop="20251227023000 +0000" channel="PULS24">
+        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
+        <desc lang="de">Natascha Kampuschs jahrelange Gefangenschaft, eine Stalking-Obsession mit fatalen Folgen, die mysteriöse Suche nach einem verschwundenen Bruder und die aufsehenerregende Jagd auf den mutmaßlichen Millionenbetrüger Kim Dotcom. Vier erschütternde Kriminalfälle, die die Welt in Atem hielten ...&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
+        <date>2025</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S2 E4</episode-num>
     </programme>
 
-    <programme start="20251225010500 +0000" stop="20251225024000 +0000" channel="ServusTV">
-        <title lang="de">Bob, der Streuner</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Straßenmusiker James Bowen kann von seinem mageren Einkommen kaum leben. Eines Tages verirrt sich eine streunende Katze in seine Sozialwohnung. Die Katze, die den Namen Bob bekommt, folgt ihrem neuen Freund sogar zu seinen Auftritten auf den Straßen Londons, was die Aufmerksamkeit der Menschen auf das ungleiche Paar zieht. Nach und nach gelingt es James mit Bobs Hilfe, auch sein eigenes Leben wieder zu ordnen.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Luke Treadaway</actor>
-            <actor> Bob the Cat</actor>
-            <actor> Ruta Gedmintas</actor>
-            <actor> Joanne Froggatt</actor>
-            <actor> Anthony Head</actor>
-            <actor> Darren Evans</actor>
-            <actor> Tony Jayawardena; [B]Regie[/B]: Roger Spottiswoode; [B]Drehbuch[/B]: Tim John</actor>
-            <actor> James Bowen</actor>
-            <actor> Garry Jenkins</actor>
-        </credits>
-        <date>2016</date>
-        <category lang="de">Filmbiografie</category>
-        <icon src="https://images.mdn.ors.at/17310456250721610182"/>
-        <country>Vereinigtes Königreich, China</country>
+    <programme start="20251227023000 +0000" stop="20251227040000 +0000" channel="PULS24">
+        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
+        <desc lang="de">Die Entführung des Richard Oetker gilt als Jahrhundertverbrechen: Nie war bis dahin eine Lösegeldforderung höher, selten ein Täter so brutal und raffiniert. Ein Mann bringt seine Freundin und seine Mutter um. Er leidet an Schizophrenie, ausgelöst durch jahrelanges Kiffen. Doch ist er schuldfähig? Ein Jeep kreuzt ein illegales Autorennen in Berlin und der Jeep-Fahrer ist sofort tot. Erstmals werden Raser in Deutschland wegen Mordes angeklagt.&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
+        <date>2024</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
+        <country>Deutschland</country>
+        <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
 
     <programme start="20251225024000 +0000" stop="20251225040500 +0000" channel="ServusTV">
@@ -1414,6 +1354,22 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/1734580459016060979"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20251227012000 +0000" stop="20251227025000 +0000" channel="ServusTV">
+        <title lang="de">Im Netz der Camorra</title>
+        <sub-title lang="de">Im Netz der Camorra - Teil 1</sub-title>
+        <desc lang="de">Winzer Matteo (Tobias Moretti) lebt mit seiner Frau Stefania (Ursina Lardi) und der gemeinsamen Tochter Laura (Antonia Moretti) ein bürgerliches Leben inmitten der Weinberge Südtirols. Die Familie ist bekannt für ihren guten Wein, im Dorf schätzt man sie. Eines Tages taucht Nino Sorrentino (Fabrizio Romagnoli) auf ihrem Weingut auf, scheinbar ein alter Bekannter von Matteo. Doch Nino ist mehr als nur ein Weggefährte aus Matteos Kindheitstagen – er ist Teil von Matteos dunkler Mafia-Vergangenheit, die in Neapel seinen Ursprung nahm und die er vor vielen Jahren hinter sich gelassen hat. Zur selben Zeit erschüttert ein bizarrer Vorfall das idyllische Leben in der Gegend: Eine junge Frau wird in den Weinbergen angeschossen. Carabiniere Adrin Erlacher (Harald Windisch) übernimmt die Ermittlungen. Obwohl Dezernatsleiterin Christina Melauer den Fall schnell zu den Akten legen will, häufen sich für Erlacher die Indizien, dass die Täter aus dem Dorf kommen. Der mürrische Gesetzeshüter ermittelt auf eigene Faust und plötzlich rückt Matteo ins Visier der Ermittlungen.&lt;br /&gt;&lt;br /&gt;Für das packende TV-Event „Im Netz der Camorra“ stand Publikumsliebling Tobias Moretti erstmals gemeinsam mit seiner Tochter Antonia Moretti vor der Kamera. Das hochkarätige Ensemble vervollständigen Ursina Lardi, Melika Foroutan, Harald Windisch, Precious Sanusi, Katia Fellin und der italienische Schauspieler Fabrizio Romagnoli. Inszeniert wurden die Filme von Austro-Erfolgsregisseur Andreas Prochaska („Das Boot“), der neben Ben Braeunlich auch für die Drehbücher verantwortlich zeichnet. Die Bildgestaltung übernahm der österreichische Kameramann Thomas Kiennast, der mit Prochaska schon für „Das finstere Tal“ zusammenarbeitete. Gedreht wurde in Südtirol, Kitzbühel, Wien und Umgebung.&lt;br /&gt;&lt;br /&gt;Winzer Matteo lebt glücklich mit seiner Familie in Südtirol. Als sein Jugendfreund Nino plötzlich auftaucht, gerät seine Welt ins Wanken. Denn mit Nino kommen dunkle Geheimnisse aus der Vergangenheit ans Licht, die bis in die kriminellen Machenschaften der Mafia reichen. Starbesetzter TV-Event-Zweiteiler von Andreas Prochaska, mit Tobias Moretti, seiner Tochter Antonia Moretti und Harald Windisch.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Tobias Moretti</actor>
+            <actor> Ursina Lardi</actor>
+            <actor> Harald Windisch</actor>
+            <actor> Antonia Moretti; [B]Regie[/B]: Andreas Prochaska; [B]Drehbuch[/B]: Ben von Rönne</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/14727810522940027252"/>
+        <country>Österreich, Deutschland, Italien</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
