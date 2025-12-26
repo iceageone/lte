@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-26 00:55:03.276549 -->
+<!-- created on 2025-12-26 02:47:45.685290 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,68 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251226003000 +0000" stop="20251226011500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Das letzte Spiel</sub-title>
-        <desc lang="de">Nach der Ermordung einer gewissen Diane Cunningham im September 2014 gibt es zunächst wenige Hinweise, die auf den oder die Täter schließen lassen. Erst Aufzeichnungen einer Überwachungskamera bringen Licht ins Dunkel.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E10</episode-num>
-    </programme>
-
-    <programme start="20251226011500 +0000" stop="20251226020000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20251226020000 +0000" stop="20251226024000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251226024000 +0000" stop="20251226032500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -142,7 +80,7 @@
         <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
         <date>2025</date>
         <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/14103702853258628569"/>
+        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2025</episode-num>
     </programme>
@@ -416,19 +354,6 @@
         <category lang="de">Infomercial</category>
         <icon src="https://images.mdn.ors.at/15003526960107385804"/>
         <country>Österreich, Deutschland, Schweiz</country>
-    </programme>
-
-    <programme start="20251226004500 +0000" stop="20251226010500 +0000" channel="ServusTV">
-        <title lang="de">Die besten Köche der Welt - Zu Gast im Ikarus</title>
-        <sub-title lang="de">Álvaro Salazar</sub-title>
-        <desc lang="de">Für das außergewöhnliche Restaurantkonzept reist Red Bull Hangar-7 Executive Chef Martin Klein im Vorfeld zu den besten Köchen der Welt, blickt hinter die Kulissen der Haute Cuisine und taucht ein in ihre kulinarischen Geheimnisse. Die Sendung „Die besten Köche der Welt - Zu Gast im Ikarus“ bietet exklusive Einblicke in die Welt der Spitzengastronomie und porträtiert eindrucksvoll die Philosophie, Persönlichkeit und Esskultur jedes Gastkochs.&lt;br /&gt;&lt;br /&gt;Jeden Monat kreiert im Salzburger Zwei-Sterne-Restaurant Ikarus ein anderer internationaler Spitzenkoch das Menü – ein weltweit einzigartiges Konzept. Hangar-7 Executive Chef Martin Klein besucht dafür jeden Monat die Besten der Besten, wirft einen Blick hinter die Kulissen der Haute Cuisine und wird eingeweiht in kulinarischen Geheimnisse.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Martin Klein</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/13215017856374426444"/>
-        <country>Österreich</country>
     </programme>
 
     <programme start="20251226010500 +0000" stop="20251226032500 +0000" channel="ServusTV">
@@ -1184,6 +1109,22 @@
         <category lang="de">Biografie</category>
         <icon src="https://images.mdn.ors.at/17148089373269732500"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20251228012000 +0000" stop="20251228025000 +0000" channel="ServusTV">
+        <title lang="de">Im Netz der Camorra</title>
+        <sub-title lang="de">Auftrag</sub-title>
+        <desc lang="de">Winzer Matteo lebt glücklich mit seiner Familie in Südtirol. Als sein Jugendfreund Nino plötzlich auftaucht, gerät seine Welt ins Wanken. Denn mit Nino kommen dunkle Geheimnisse aus der Vergangenheit ans Licht, die bis in die kriminellen Machenschaften der Mafia reichen. Starbesetztes TV-Event von Andreas Prochaska, mit Tobias Moretti, seiner Tochter Antonia Moretti und Harald Windisch.&lt;br /&gt;&lt;br /&gt;Winzer Matteo lebt glücklich mit seiner Familie in Südtirol. Als sein Jugendfreund Nino plötzlich auftaucht, gerät seine Welt ins Wanken. Denn mit Nino kommen dunkle Geheimnisse aus der Vergangenheit ans Licht, die bis in die kriminellen Machenschaften der Mafia reichen. Starbesetzter TV-Event-Zweiteiler von Andreas Prochaska, mit Tobias Moretti, seiner Tochter Antonia Moretti und Harald Windisch.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Tobias Moretti</actor>
+            <actor> Ursina Lardi</actor>
+            <actor> Harald Windisch</actor>
+            <actor> Antonia Moretti; [B]Regie[/B]: Andreas Prochaska; [B]Drehbuch[/B]: Ben von Rönne</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Thriller</category>
+        <icon src="https://images.mdn.ors.at/14727810522940027252"/>
+        <country>Österreich, Deutschland, Italien</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
