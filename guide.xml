@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-12-30 00:55:27.667540 -->
+<!-- created on 2025-12-30 02:51:16.964065 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,47 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20251230005000 +0000" stop="20251230013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein mörderisches Paar</sub-title>
-        <desc lang="de">2014 verschwindet die schwangere Studentin Loretta Saunders. Zuletzt wurde sie auf der Überwachungskamera ihres Wohnhauses gesichtet. Dann entdeckt die Polizei ihr Auto auf einer anderen Kamera.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E9</episode-num>
-    </programme>
-
-    <programme start="20251230013000 +0000" stop="20251230021500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20251230021500 +0000" stop="20251230030000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -814,23 +773,67 @@
         <episode-num system="onscreen">S4 E13</episode-num>
     </programme>
 
-    <programme start="20251229235500 +0000" stop="20251230015500 +0000" channel="ServusTV">
-        <title lang="de">White House Down</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Polizist John Cale bewirbt sich um einen Job als Personenschützer des Präsidenten und wird abgewiesen. Als kurze Zeit später das Weiße Haus überfallen wird, liegt das Leben des Präsidenten plötzlich in seiner Hand.</desc>
+    <programme start="20260101011500 +0000" stop="20260101020000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Channing Tatum</actor>
-            <actor> Jamie Foxx</actor>
-            <actor> Maggie Gyllenhaal</actor>
-            <actor> Jason Clarke</actor>
-            <actor> Richard Jenkins</actor>
-            <actor> Joey King</actor>
-            <actor> James Woods</actor>
-            <actor>  Nicolas Wright; [B]Regie[/B]: Roland Emmerich; [B]Drehbuch[/B]: James Vanderbilt</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2013</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/15046766954100436517"/>
-        <country>Vereinigte Staaten</country>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260101020000 +0000" stop="20260101024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260101024500 +0000" stop="20260101033000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20251230015500 +0000" stop="20251230035500 +0000" channel="ServusTV">
@@ -1601,6 +1604,15 @@
         <date>2024</date>
         <category lang="de">Musik</category>
         <icon src="https://images.mdn.ors.at/3101246430680926774"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20260101012500 +0000" stop="20260101033500 +0000" channel="ServusTV">
+        <title lang="de">A schware Partie 25 - LIVE aus dem Ernst-Happel-Stadion</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Seiler und Speer zelebrieren gemeinsam mit über 50 Tausend Fans ein legendäres Konzert im ausverkauften Ernst-Happel-Stadion. Gemeinsam mit Überraschungsgästen wie Otto Waalkes und Ernst Molden feiern sie auf der Bühne das zehnjährige Jubiläum ihres ersten Hits „Ham Kummst“.</desc>
+        <date>2025</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/16371650537936942052"/>
         <country>Österreich</country>
     </programme>
 
