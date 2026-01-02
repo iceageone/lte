@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-02 00:56:37.143868 -->
+<!-- created on 2026-01-02 02:54:32.466806 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,50 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260102004500 +0000" stop="20260102013000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">02.01.2026 01:45.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20260102013000 +0000" stop="20260102021500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">02.01.2026 02:30.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260102021500 +0000" stop="20260102030000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -656,26 +612,48 @@
         <episode-num system="onscreen">S4 E12</episode-num>
     </programme>
 
-    <programme start="20260102004500 +0000" stop="20260102023500 +0000" channel="ServusTV">
-        <title lang="de">Das Schweigen der Lämmer</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ein Serienkiller zieht seine blutige Spur durch den mittleren Westen der USA. Das FBI tritt auf der Stelle. Nur einer könnte der Truppe um Jack Crawford helfen: Dr. Hannibal Lecter. Der psychopathische Massenmörder und Psychologe sitzt in einem Hochsicherheitstrakt. Er soll ein Profil des Serienmörders erstellen und damit die Fahndung voranbringen. Crawford setzt die FBI-Schülerin Clarice Starling auf Lecter an, doch er weiß, dass Lecter nicht ohne Zugeständnisse helfen wird ...</desc>
+    <programme start="20260104013500 +0000" stop="20260104021500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">04.01.2026 02:35.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Jodie Foster</actor>
-            <actor> Anthony Hopkins</actor>
-            <actor> Scott Glenn</actor>
-            <actor> Ted Levine</actor>
-            <actor> Anthony Heald</actor>
-            <actor> Diane Baker</actor>
-            <actor> Kasi Lemmons</actor>
-            <actor> Lawrence A. Bonney</actor>
-            <actor> Lawrence T. Wrentz</actor>
-            <actor> Tracey Walter; [B]Regie[/B]: Jonathan Demme; [B]Drehbuch[/B]: Thomas Harris</actor>
-            <actor> Ted Tally</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>1991</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/14527759182123142387"/>
-        <country>Vereinigte Staaten</country>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260104021500 +0000" stop="20260104030000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">04.01.2026 03:15.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260102023500 +0000" stop="20260102040500 +0000" channel="ServusTV">
@@ -1488,6 +1466,37 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/2181359986121563528"/>
         <country>Vereinigte Staaten, Ungarn, Vereinigtes Königreich, Russische Föderation</country>
+    </programme>
+
+    <programme start="20260104015500 +0000" stop="20260104024500 +0000" channel="ServusTV">
+        <title lang="de">Grüne Zukunft - Helden des Alltags</title>
+        <sub-title lang="de">Der Südosten Frankreichs</sub-title>
+        <desc lang="de">Helden des Alltags mit spannenden Geschichten: Männer und Frauen aus der Landwirtschaft, der Gastronomie und Architektur, dem Ingenieurswesen und dem Ehrenamt, auf dem Land und aus der Stadt – überall auf der Erde leben Menschen, die etwas verändern und eine nachhaltigere Welt schaffen wollen.&lt;br /&gt;&lt;br /&gt;Ob Landwirte, Viehzüchter, Fischer oder Menschen, die ungewöhnliche Produkte herstellen – die Doku-Reihe folgt diesen Personen auf der ganzen Welt, um mehr über ihre Leidenschaft und ihre Arbeit zu erfahren, aber auch über ihren Geschmack und Fachwissen.</desc>
+        <credits>
+            <actor>[B]Editor[/B]: Charlotte Lorteau</actor>
+            <actor> Gaelle Berrabah</actor>
+            <actor> Pascaline Aumond</actor>
+            <actor> Florian Leterrier</actor>
+            <actor> Lea Demars</actor>
+            <actor> Kevin Lamour; [B]Regie[/B]:  Frédéric Planchenault; [B]Kamera[/B]: Jean L'Appartien</actor>
+            <actor> Claire Djian</actor>
+            <actor>  Antoine Delemarre; [B]Drehbuch[/B]: Benjamin Doize; [B]Produzent[/B]: Severin Delpon</actor>
+            <actor> Jean Moncaut</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Umwelt</category>
+        <icon src="https://images.mdn.ors.at/9461398258581345675"/>
+        <country>Frankreich</country>
+    </programme>
+
+    <programme start="20260104024500 +0000" stop="20260104032500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <sub-title lang="de">BilderWelten</sub-title>
+        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2026</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
