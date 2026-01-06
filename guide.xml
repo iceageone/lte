@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-06 00:56:35.652021 -->
+<!-- created on 2026-01-06 02:53:42.936790 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,68 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260106002500 +0000" stop="20260106011000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ungewisses Schicksal</sub-title>
-        <desc lang="de">Eine Frau verschwindet im Dezember 2014 spurlos. Die Ermittler stoßen auf Aufzeichnungen einer Überwachungskamera aus einem Hotel. Nach und nach enthüllen sie eine Lebensgeschichte voller Lügen und Enttäuschungen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E14</episode-num>
-    </programme>
-
-    <programme start="20260106011000 +0000" stop="20260106015500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20260106015500 +0000" stop="20260106024000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260106024000 +0000" stop="20260106032500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -194,8 +132,8 @@
         <sub-title lang="de">Die Letzten ihrer Art</sub-title>
         <desc lang="de">Immer mehr Berufsbilder sind vom Aussterben bedroht. Einige wenige halten die Tradition aber am Leben, als die letzten ihrer Art. Dazu gehören auch Vater und Sohn Mitterlehner, die als Messerschleifer durchs Land ziehen. Derweil repariert der 84-jährige Leo Josimovic als einer der letzten Vertreter seines Standes alte analoge Radios in seiner Wiener Werkstatt. Luxuriöser geht es bei den Schuhmachern von Rudolf Scheer zu, deren Kunden sich auch mal Schuhe aus Python-Haut wünschen.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Christian Clerici</actor>
-            <actor> Eva De Luca</actor>
+            <actor>[B]DarstellerInnen[/B]: Eva De Luca</actor>
+            <actor> Christian Clerici</actor>
         </credits>
         <date>2017</date>
         <category lang="de">Reportage</category>
@@ -261,7 +199,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260106103500 +0000" stop="20260106113000 +0000" channel="PULS24">
+    <programme start="20260106103500 +0000" stop="20260106113500 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Skurrile Stammtische</sub-title>
         <desc lang="de">Während Diskussionen heute mehrheitlich im Kommentarbereich von Social-Media-Kanälen stattfinden, machen es sich manche zur Aufgabe, die Tradition der Stammtische am Leben zu erhalten. Die Reportage begleitet drei gesellige Runden, die sich regelmäßig treffen, um Außergewöhnliches zu teilen: Den legendären Franz Antel-Stammtisch, den Zauber-Stammtisch des Circus- &amp; Clownmuseums Wien und einen Rattenstammtisch.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -276,7 +214,7 @@
         <episode-num system="onscreen">S1</episode-num>
     </programme>
 
-    <programme start="20260106113000 +0000" stop="20260106123000 +0000" channel="PULS24">
+    <programme start="20260106113500 +0000" stop="20260106123500 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Heimliche Weltmeister</sub-title>
         <desc lang="de">ATV gibt Einblick in die skurrilsten Disziplinen Österreichs und stellt ihre heimlichen Weltmeister vor. So wird in einem Waldviertel das jährliche 24-Stunden-Traktorrennen ausgetragen. In Illmitz findet derweil ein tierischer Schönheitswettbewerb statt und beim Handtaschenweitwurf zählt die beste Flugeigenschaft.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -290,7 +228,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260106123000 +0000" stop="20260106133000 +0000" channel="PULS24">
+    <programme start="20260106123500 +0000" stop="20260106133000 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Die Letzten ihrer Art</sub-title>
         <desc lang="de">Immer mehr Berufsbilder sind vom Aussterben bedroht. Einige wenige halten die Tradition aber am Leben, als die letzten ihrer Art. Dazu gehören auch Vater und Sohn Mitterlehner, die als Messerschleifer durchs Land ziehen. Derweil repariert der 84-jährige Leo Josimovic als einer der letzten Vertreter seines Standes alte analoge Radios in seiner Wiener Werkstatt. Luxuriöser geht es bei den Schuhmachern von Rudolf Scheer zu, deren Kunden sich auch mal Schuhe aus Python-Haut wünschen.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -304,7 +242,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260106133000 +0000" stop="20260106142500 +0000" channel="PULS24">
+    <programme start="20260106133000 +0000" stop="20260106143000 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Marktstandler</sub-title>
         <desc lang="de">"ATV - Die Reportage" begleitet das Alltagsleben der "Marktstandler" in Wien, Graz und Salzburg. Auf dem Viktor-Adler-Markt in Wien sind die lautesten Marktschreier zu Hause. Gemüseverkäufer wie Rudolf Penz bringen hier mit einer ordentlichen Portion Schmäh ihre Waren an den Mann. Auf dem Grazer Kaiser-Josef-Markt werden ausschließlich selbstproduzierte Artikel verkauft. Und auf dem Brunnenmarkt in Wien kommen Menschen verschiedenster Kulturen zusammen.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -319,7 +257,7 @@
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
-    <programme start="20260106142500 +0000" stop="20260106152500 +0000" channel="PULS24">
+    <programme start="20260106143000 +0000" stop="20260106152500 +0000" channel="PULS24">
         <title lang="de">Österreich unzensiert - Kurioser Alltag</title>
         <desc lang="de">Heute geht es in "Österreich unzensiert" nach Wien Favoriten, im Volksmund als 10. Hieb bezeichnet. PULS 4 lässt die Bewohner:innen zu Wort kommen. Was beschäftigt die Menschen am Markt, in einem klassischen Wiener Beisl, im Böhmischen Prater oder am Reumannplatz?&lt;br /&gt;&lt;br /&gt;Die Reportage-Reihe "Österreich unzensiert" taucht in die verschiedenen sozialen Welten der Alpenrepublik ein und gibt jenen eine Stimme, die oft nicht gehört werden. Unzensiert und frei aus dem Bauch heraus erzählt die österreichische Bevölkerung über Freuden, Sorgen und Ängste aus ihrem Leben und gibt Einblick in ihre Lebensrealität.</desc>
         <date>2023</date>
@@ -329,7 +267,7 @@
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
-    <programme start="20260106152500 +0000" stop="20260106162000 +0000" channel="PULS24">
+    <programme start="20260106152500 +0000" stop="20260106162500 +0000" channel="PULS24">
         <title lang="de">Österreich unzensiert - Kurioser Alltag</title>
         <desc lang="de">Feiern ist ein weltweites Phänomen, das auch in Österreich nicht zu kurz kommt. Denn hier wird gefeiert, als gäbe es keinen Morgen. Der Wiesn-Schurli und zahlreiche andere Besucher:innen feiern in Schladming das "Night Race" des Weltcup Ski-Zirkus. Ein Event bei dem auch abseits der Piste Vollgas gegeben wird. Und: Die Single-Party im Tanzlokal Auszeit 2000 verspricht nicht nur einen ausgelassenen Abend, sondern vielleicht sogar die große Liebe.&lt;br /&gt;&lt;br /&gt;Die Reportage-Reihe "Österreich unzensiert" taucht in die verschiedenen sozialen Welten der Alpenrepublik ein und gibt jenen eine Stimme, die oft nicht gehört werden. Unzensiert und frei aus dem Bauch heraus erzählt die österreichische Bevölkerung über Freuden, Sorgen und Ängste aus ihrem Leben und gibt Einblick in ihre Lebensrealität.</desc>
         <date>2023</date>
@@ -339,7 +277,7 @@
         <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20260106162000 +0000" stop="20260106172000 +0000" channel="PULS24">
+    <programme start="20260106162500 +0000" stop="20260106172000 +0000" channel="PULS24">
         <title lang="de">Österreich unzensiert - Kurioser Alltag</title>
         <desc lang="de">Wenn das Geld nicht bis zum Monatsende reicht, führt der letzte Ausweg oft ins Pfandhaus. Die Inflation löst in der Pfandleih-Branche einen regelrechten Boom aus. Auch Scheidungen und Arbeitslosigkeit sind oft der direkte Weg in die Armut. Oftmals spielen sich hinter den Türen der Pfandhäuser Tragödien ab. Hitzige Diskussionen und Frustration stehen auf der Tagesordnung, denn häufig liegt der tatsächliche Wert deutlich unter der Wunschvorstellung der Besitzer:innen.&lt;br /&gt;&lt;br /&gt;Die Reportage-Reihe "Österreich unzensiert" taucht in die verschiedenen sozialen Welten der Alpenrepublik ein und gibt jenen eine Stimme, die oft nicht gehört werden. Unzensiert und frei aus dem Bauch heraus erzählt die österreichische Bevölkerung über Freuden, Sorgen und Ängste aus ihrem Leben und gibt Einblick in ihre Lebensrealität.</desc>
         <date>2023</date>
@@ -378,7 +316,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260106211000 +0000" stop="20260106230000 +0000" channel="PULS24">
+    <programme start="20260106211000 +0000" stop="20260106225500 +0000" channel="PULS24">
         <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
         <desc lang="de">Ein Ehepaar lockt über Anzeigen Frauen in ihr Haus, nur um sie zu quälen. In dem Horrorhaus Höxter kommt es bis zum Äußersten. Ein Mann ist durch seine Gewalttaten aufgefallen, doch seine Freundin wollte ihn bessern. Nachdem sie sich von ihm trennt, nimmt er grausame Rache. Außerdem soll Franz S. eine Studentin misshandelt und brutal ermordet haben. Er gesteht die Tat und kommt ins Gefängnis. Später widerruft er seine Aussage. Wird ihm die Polizei glauben?&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
         <date>2024</date>
@@ -388,7 +326,7 @@
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
-    <programme start="20260106230000 +0000" stop="20260106235500 +0000" channel="PULS24">
+    <programme start="20260106225500 +0000" stop="20260106235000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
         <sub-title lang="de">Die letzte Party</sub-title>
         <desc lang="de">Am Neujahrsabend verschwindet Michelle spurlos. Es gibt keinerlei Zeugen, nur die Aufzeichnungen von vier Überwachungskameras. Die Ermittlungen führen schließlich zu einer grausamen Entdeckung ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
@@ -408,7 +346,7 @@
         <episode-num system="onscreen">S4 E4</episode-num>
     </programme>
 
-    <programme start="20260106235500 +0000" stop="20260107003500 +0000" channel="PULS24">
+    <programme start="20260106235000 +0000" stop="20260107003500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
         <sub-title lang="de">Wehrlos</sub-title>
         <desc lang="de">Jordie Hudson verschwindet nach einer Party-Nacht mit ihren Freunden und lässt die Ermittler ratlos zurück. Deren einzige Spuren sind Jordies Brille, die in einer Blutlache aufgefunden wird, und das Video einer Überwachungskamera. Kann die Polizei die Frau ausfindig machen, bevor es zu spät ist?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
@@ -473,16 +411,16 @@
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-            <actor> Sirko Schulz</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
             <actor> Lukas Olschinka</actor>
             <actor> Thomas Haselof</actor>
             <actor> Benjamin Wenderlich</actor>
             <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
         <category lang="de">Reportage</category>
@@ -490,7 +428,7 @@
         <country>Deutschland</country>
     </programme>
 
-    <programme start="20260107025000 +0000" stop="20260107033500 +0000" channel="PULS24">
+    <programme start="20260107025000 +0000" stop="20260107033000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
@@ -511,9 +449,9 @@
         <country>Deutschland</country>
     </programme>
 
-    <programme start="20260107033500 +0000" stop="20260107040000 +0000" channel="PULS24">
+    <programme start="20260107033000 +0000" stop="20260107040000 +0000" channel="PULS24">
         <title lang="de">Heinzl und die VIPs - Weekend</title>
-        <sub-title lang="de">07.01.2026 04:35.</sub-title>
+        <sub-title lang="de">07.01.2026 04:30.</sub-title>
         <desc lang="de">Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.&lt;br /&gt;&lt;br /&gt;Dominic Heinzl präsentiert seine Society-Woche: Welche VIPs haben Österreich bewegt, wer sorgte für Schlagzeilen? Dominic Heinzl hat die Story.</desc>
         <date>2025</date>
         <category lang="de">Magazin</category>
@@ -772,36 +710,45 @@
         <episode-num system="onscreen">S4 E2</episode-num>
     </programme>
 
-    <programme start="20260105233500 +0000" stop="20260106014000 +0000" channel="ServusTV">
-        <title lang="de">Sieben Jahre in Tibet</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Atemberaubende Bergkulisse, faszinierende Bilder: Brad Pitt wandelt sich im tibetischen Exil vom egomanischen Bergsteiger zum Freund des Dalai Lama. Nach der Autobiographie von Heinrich Harrer. - 1939 will der österreichische Alpinist Heinrich Harrer (Brad Pitt) den Nanga Parbat besteigen. Am Anfang der Expedition geraten er und sein Team in Kriegsgefangenschaft. Gemeinsam mit Landsmann Peter Aufschnaiter (David Thewlis) gelingt Harrer die Flucht nach Tibet.</desc>
+    <programme start="20260108013000 +0000" stop="20260108021500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Tod an der Uni</sub-title>
+        <desc lang="de">Eine junge Studentin wird auf dem Parkplatz ihrer Uni erschossen. Die Ermittler sichten stundenlang die Bänder der Überwachungskameras, um Maples Killer zu finden.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Brad Pitt</actor>
-            <actor> David Thewlis</actor>
-            <actor> B.D. Wong</actor>
-            <actor> Danny Denzongpa</actor>
-            <actor> Victor Wong</actor>
-            <actor> Ingeborga Dapkunaite</actor>
-            <actor> Jamyang Jamtsho Wangchuk; [B]Regie[/B]: Jean-Jacques Annaud; [B]Drehbuch[/B]: Becky Johnston</actor>
-            <actor> Heinrich Harrer</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>1997</date>
-        <category lang="de">Abenteuer</category>
-        <icon src="https://images.mdn.ors.at/3544888817272856167"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E16</episode-num>
     </programme>
 
-    <programme start="20260106014000 +0000" stop="20260106023000 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Winter im Salzkammergut - An Pfochtl brauchts!</sub-title>
-        <desc lang="de">Wenn Gerti Herzog aus Mondsee mit ihrer Norikerstute Trixi bei eisigen Temperaturen aufbricht, um Holz zu ziehen, am Wolfgangsee Arbeiter der „Österreich“, einem Schiff der Wolfgangseeflotte, mit der Flex zu Leibe rücken und  die historischen Loks der Schafbergbahn in ihre Einzelteile zerlegt und für den Frühling flott gemacht werden, ja, dann hat der Winter Einzug gehalten im Salzkammergut!&lt;br /&gt;Auch Revierförster Jörg Schörghuber und Freundin Melanie machen sich jetzt auf die Suche nach einem altersschwachen Gamsbock, der Melanies erster Abschuss werden soll. Denn nur im Winter haben die Haare der Gams den berühmten „Silberstreif“.  Und diese Haare bringen sie zu Burgl Schramml, der einzigen Frau im Salzkammergut, die in die Männerdomäne des Gamsbartbindens eingedrungen ist. &lt;br /&gt;Eine Fuhr zu bauen, auch das ist eine Arbeit, für die nur im Winter Zeit ist. Die Tischlerei der Brüder Amon ist der letzte Betrieb am Grundlsee, in dem die Kunst des Plättenbaus noch weiterlebt.  &lt;br /&gt;Messer aus Altmetall zu schmieden und gleichzeitig feinste Seidenstoffe mit traditionellen Dirndlmustern von Hand zu bedrucken, ist für Peter Wach kein Wiederspruch. Er perfektioniert die Herstellung von Messern, die von handwerklich höchster Qualität sind. &lt;br /&gt;Und in einem alten Gewölbe am tief verschneiten Pötschenpass röstet Georg Hrovat, der Apotheker aus Bad Goisern, Kaffeebohnen in einem holzbefeuerten Ofen. Von Hand. &lt;br /&gt;Helmut Edelmaier wiederum ist der einzige Briefträger Österreichs, der die Post im Winter auf Ski zustellt. Bis Mai ist Heli täglich auf Dienstlatten auf der Tauplitzalm unterwegs. &lt;br /&gt;Dem „Pfochtl“ auf der Spur - eine Entdeckungsreise durch das winterliche Salzkammergut.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+    <programme start="20260108021500 +0000" stop="20260108030000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2021</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
-        <country>Österreich</country>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260106023000 +0000" stop="20260106033500 +0000" channel="ServusTV">
@@ -1585,6 +1532,16 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/11401491809437512419"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich, Ecuador</country>
+    </programme>
+
+    <programme start="20260108023000 +0000" stop="20260108033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <sub-title lang="de">BilderWelten</sub-title>
+        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2026</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Österreich, Deutschland</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
