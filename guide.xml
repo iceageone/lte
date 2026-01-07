@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-07 00:57:08.330280 -->
+<!-- created on 2026-01-07 02:54:44.661559 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,68 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260107003500 +0000" stop="20260107012000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Der Lottogewinn</sub-title>
-        <desc lang="de">Die Leiche des 70-jährigen Fernando Silva wird auf einem Boot in Warwick Cove, Rhode Island, entdeckt. Da der Tatort nur wenig über die Todesumstände verrät, werden Überwachungsbilder herangezogen.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E15</episode-num>
-    </programme>
-
-    <programme start="20260107012000 +0000" stop="20260107020500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20260107020500 +0000" stop="20260107025000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260107025000 +0000" stop="20260107033000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -716,33 +654,45 @@
         <episode-num system="onscreen">S4 E3</episode-num>
     </programme>
 
-    <programme start="20260107003000 +0000" stop="20260107020000 +0000" channel="ServusTV">
-        <title lang="de">Die Rückkehr der glorreichen Sieben</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;In der Fortsetzung des Westernfilms "Die glorreichen Sieben" vereinen sich die Revolverhelden im rebellischen Mexiko: Nach einem blutigen Vorfall schwört der Banditenführer Francisco Lorca Rache, weshalb er unschuldige Bauern entführt und diese versklavt. Unter den Geiseln ist der ehemalige Revolverheld Chico. Um ihn zu befreien, stellen die glorreichen Sieben eine neue Truppe zusammen und bereiten sich auf einen gnadenlosen Kampf vor.</desc>
+    <programme start="20260109012500 +0000" stop="20260109021000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Tödliches Date</sub-title>
+        <desc lang="de">Nach einer Partynacht am 12. April 2008 verschwindet Susan Casey spurlos. Lediglich Schleifspuren vor ihrem Haus und die Aufnahmen einer Videokamera stehen den Ermittlern bei der Aufklärung des Falls zur Verfügung. Drei Verdächtige machen es der Polizei nicht einfach, denn nicht alle sagen die Wahrheit ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Yul Brynner</actor>
-            <actor> Robert Fuller</actor>
-            <actor> Julián Mateos</actor>
-            <actor> Warren Oates</actor>
-            <actor> Claude Akins; [B]Regie[/B]: Burt Kennedy; [B]Drehbuch[/B]: Larry Cohen</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>1966</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/7838174139949641814"/>
-        <country>Vereinigte Staaten, Spanien</country>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E2</episode-num>
     </programme>
 
-    <programme start="20260107020000 +0000" stop="20260107024000 +0000" channel="ServusTV">
-        <title lang="de">Weltmusikstadt Wien</title>
-        <sub-title lang="de">Neue Stimmen, neue Klänge (Teil II)</sub-title>
-        <desc lang="de">Wien – die heimliche Musikhauptstadt der Welt. Hier lebten die großen Komponisten der Klassik, hier konnten sich legendäre Orchester wie die Wiener Philharmoniker oder die Wiener Symphoniker entwickeln. Bis heute lebt die Stadt von ihrem einzigartigen musikalischen Erbe – und erfindet sich dabei ständig neu. Die zweiteilige Dokumentation „Weltmusikstadt Wien“ bietet eine filmische Reise durch Vergangenheit, Gegenwart und Zukunft, an deren Ende die Frage steht: Wie klingt die einst schillerndste Musikstadt der Welt heute?&lt;br /&gt;&lt;br /&gt;Wien – die heimliche Musikhauptstadt der Welt. Hier lebten die großen Komponisten der Klassik, hier konnten sich legendäre Orchester wie die Wiener Philharmoniker oder die Wiener Symphoniker entwickeln. Bis heute lebt die Stadt von ihrem einzigartigen musikalischen Erbe – und erfindet sich dabei ständig neu. Die zweiteilige Dokumentation „Weltmusikstadt Wien“ bietet eine filmische Reise durch Vergangenheit, Gegenwart und Zukunft, an deren Ende die Frage steht: Wie klingt die einst schillerndste Musikstadt der Welt heute?</desc>
+    <programme start="20260109021000 +0000" stop="20260109025500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]Regie[/B]: Hannes M. Schalle; [B]Kamera[/B]: Stefan Resch; [B]Editor[/B]:  Frank Gerdes</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2023</date>
-        <category lang="de">Musik</category>
-        <icon src="https://images.mdn.ors.at/4728466802898160997"/>
-        <country>Österreich</country>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260107024000 +0000" stop="20260107040000 +0000" channel="ServusTV">
@@ -1506,6 +1456,34 @@
         <icon src="https://images.mdn.ors.at/10092140308075608800"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260109013500 +0000" stop="20260109022000 +0000" channel="ServusTV">
+        <title lang="de">Der Untergang der Dinosaurier</title>
+        <sub-title lang="de">Neue Beweise</sub-title>
+        <desc lang="de">Der Paläontologe Robert de Palma erforscht seit zehn Jahren eine Ausgrabungsstätte namens Tanis in der fossilienreichen Hell-Creek-Formation in North Dakota. Dort gibt es eine ein Meter dicke, bröckelige Sedimentschicht, die vermutlich aus den letzten Tagen der Kreidezeit stammt, als ein Asteroideneinschlag auf der Erde zu einem Massensterben führte. Ihm und seinem Team sind bereits verschiedene spannende Funde geglückt, von versteinerter Triceratops-Haut über Fußabdrücke bis zu einem Flugsaurier-Embryo im Ei. Doch seinem Ziel, die Fossilien mit dem Einschlag in Verbindung zu bringen, kommt er erst mit Hilfe von modernster Technik und einiger merkwürdiger Kügelchen aus fossilen Fisch-Kiemen näher.&lt;br /&gt;&lt;br /&gt;Vor 66 Millionen Jahren starben die Dinosaurier aus. Ein Team von Wissenschaftlern glaubt, dass es einen Zeugen dieser Katastrophe gab - einen Überlebenden, der an der Seite des T-Rex wandelte und dem die Menschheit ihre Existenz verdanken könnte. Gleichzeitig stellt sich die Frage, was auf uns zukommt, falls ein weiterer Asteroid auf der Erde einschlagen sollte.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: David Attenborough; [B]Regie[/B]: Matthew Thompson; [B]Editor[/B]: Simon Cooper</actor>
+            <actor> Darren Jonusas</actor>
+            <actor> Ben Lavington Martin</actor>
+            <actor> Doug Moxen; [B]Kamera[/B]:  Kevin White</actor>
+            <actor> David Langan</actor>
+            <actor> Ian Kellett; [B]Produzent[/B]: Laura Davey</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Tiere</category>
+        <icon src="https://images.mdn.ors.at/16487285939070247884"/>
+        <country>Deutschland, Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260109022000 +0000" stop="20260109033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <sub-title lang="de">BilderWelten</sub-title>
+        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2026</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
