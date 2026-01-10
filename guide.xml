@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-10 00:55:13.135714 -->
+<!-- created on 2026-01-10 02:46:37.386164 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260110005000 +0000" stop="20260110014000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <desc lang="de">Am 14. September 1972 fällt der Tanzsportler Heinz Kern einem Giftanschlag zum Opfer. Jemand hat ihm und seiner Gattin ein Paket mit steirischen Schmankerln geschickt. Unter den Spezialitäten befindet sich auch Kerns geliebtes Verhackertes, das dem Tänzer das Leben kosten soll. Der Täter ist bis heute nicht gestellt. Neue Erkenntnisse liefert ein Zeuge im Fall Aeryn Gillern. Der US-Amerikaner war 2007 aus einer Wiener Sauna verschwunden und wird bis heute vermisst.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E6</episode-num>
-    </programme>
-
-    <programme start="20260110014000 +0000" stop="20260110023000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <desc lang="de">Im Jahre 1991 wurde in Spanien ein unbekanntes Mädchen erhängt an einem Baum aufgefunden. "Ungelöst - Cold Case Austria" hatte in Staffel 2 über den mysteriösen Fall berichtet. Nur einen Tag nach der Ausstrahlung der Sendung ereilte die Redaktion ein bahnbrechender Hinweis, der nun zur Klärung der Identität des Opfers beitragen könnte. Bei der Verstorbenen handelt es sich womöglich um eine junge Südtirolerin, die seit dem 3.9.1990 vermisst wird ...&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E11</episode-num>
-    </programme>
 
     <programme start="20260110023000 +0000" stop="20260110031500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -663,37 +643,26 @@
         <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
-    <programme start="20260110001000 +0000" stop="20260110010000 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und Domina Nina Workhard</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
-        <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+    <programme start="20260112011000 +0000" stop="20260112020000 +0000" channel="PULS24">
+        <title lang="de">Österreichs schockierendste Verbrechen</title>
+        <sub-title lang="de">Der tödliche Villacher Frauenzirkel</sub-title>
+        <desc lang="de">Am 19. Oktober 2018 wird eine Frau tot in ihrer Wohnung in Villach aufgefunden. Der Fundort wirkt unauffällig und die Leiche der Frau wird zur Einäscherung freigegeben. Doch der Polizist Harald Wucherer glaubt nicht an einen natürlichen Tod, denn ihre Wahl-Tochter ist eine amtsbekannte Betrügerin. Er erwirkt eine Obduktion und tatsächlich: die Frau wurde erwürgt. Doch von wem? Die Hauptverdächtige, Margit T., ist Mitglied in einem okkulten Zirkel ...&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
+        <date>2022</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S3 E5</episode-num>
     </programme>
 
-    <programme start="20260110010000 +0000" stop="20260110014500 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Zwoa Brettln, a leiwander Schnee - Connys Wintertour</sub-title>
-        <desc lang="de">In ihrem Heimatort Maria Alm beginnt für Conny Bürgler die Wintertour – begleitet von zwei ihrer besten Freunde: Ihren Skiern. Beim Training des Demo-Skiteams aus Maria Alm versucht sie bezüglich Tempo und Technik mitzuhalten, um ihnen später bei den österreichischen Meisterschaften in Fieberbrunn die Daumen zu drücken.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Im Salzburger Trattenbachtal stärkt sie sich nach einer anstrengenden Skitour mit H.P. Kreidl mit 'Owischnei-Nidei' und Sauerkraut. Beim Brauch des Scheibenschlagens im malerischen Grins beweist Conny Fingerspitzengefühl und erfährt warum hier schon seit Maria Theresias Zeiten eine berühmte Schnapsbrennkultur existiert.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Im familiären Skigebiet Berwang im Tiroler Außerfern erlebt sie hautnah, was es heißt, mit einer Pistenraupe steilste Naturschneepisten zu präparieren. Und beim Besuch der Filzmooser Ballonwochen schwebt Conny hoch über den Bergen mit Blick auf eine faszinierende Winterlandschaft.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+    <programme start="20260112020000 +0000" stop="20260112025000 +0000" channel="PULS24">
+        <title lang="de">Österreichs schockierendste Verbrechen</title>
+        <sub-title lang="de">Der Kannibale vom Neusiedlersee</sub-title>
+        <desc lang="de">Im April 2018 macht die Polizei einen schockierenden Fund: aus dem Neusiedlersee werden der abgetrennte Torso und Kopf einer Leiche geborgen. Ein Hinweis führt in eine Gemeindewohnung im 20. Wiener Gemeindebezirk. Alfred U., der dort wohnt, hat eine lange Strafakte, die durchzogen ist von Gewalttaten: sexuelle Nötigung, Missbrauch, Vergewaltigung, versuchter Totschlag. Doch ist dieser Verdächtige auch der gesuchte Mörder? Grausame Funde in der Wohnung sprechen dafür ...&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
+        <date>2022</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
         <country>Österreich</country>
-    </programme>
-
-    <programme start="20260110014500 +0000" stop="20260110023500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Liebesglück per App - Machen Dating-Apps unglücklich?</sub-title>
-        <desc lang="de">Dating-Apps machen das Kennenlernen scheinbar einfacher, doch viele Nutzer sind frustriert. Apps versprechen Nähe, führen aber oft zu Distanz. Sozialpsychologin Dr. Johanna L. Degen von der Europa-Universität Flensburg erforscht, wie Dating-Apps unser Wohlbefinden und Beziehungen beeinflussen. Die große Auswahl überfordert viele, statt glücklich zu machen. Helena Spindler setzt auf Alternativen und organisiert Slow-Dating-Abende, bei denen echte Begegnungen im Vordergrund stehen. Zwischen „Choice Overload“, Ghosting und App-Müdigkeit bleibt die Frage: Liegt das wahre Glück offline? // Ohne Satelliten gäbe es kein GPS, keinen Wetterbericht und kein mobiles Internet. Doch der Platz im All wird knapp: Tausende Satelliten und Millionen Trümmerteile kreisen um die Erde. Das Wiener Start-up Gate Space will mit einem neuen Satellitentriebwerk Abhilfe schaffen. Daniel Kaiser und Moritz Novak haben einen Antrieb entwickelt, der Schub stufenlos reguliert und präzise Manöver ermöglicht – eine Weltneuheit. Nach jahrelanger Arbeit steht der entscheidende Test bevor. Bald könnte das Triebwerk von Cape Canaveral starten. // Die Fäden australischer Radnetzspinnen sind reißfester als Stahl, elastisch, antibakteriell und biologisch abbaubar – perfekte Eigenschaften für die Medizin. Biologin Dr. Sarah Strauß erforscht, wie Spinnenseide gewonnen und genutzt werden kann. Im Spiderlab liefern Spinnen das wertvolle Material. Chirurg Prof. Dr. Peter Vogt verwendet es, um Nerven zu verbinden und Zellwachstum anzuregen – ohne Abstoßungsreaktionen. // Maria Scholz und Christian Mayer lassen in Wien altes Handwerk neu aufleben. In ihrer „Zuckerlwerkstatt“ entstehen essbare Kunstwerke mit Kirschen, Blumen oder Herzen. Mit viel Erfahrung formen sie die Motive in Zucker und bewahren Wiener Kultur.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2025</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
-        <country>Österreich</country>
+        <episode-num system="onscreen">S4 E6</episode-num>
     </programme>
 
     <programme start="20260110023500 +0000" stop="20260110032000 +0000" channel="ServusTV">
@@ -1603,6 +1572,40 @@
         <icon src="https://images.mdn.ors.at/12794290758268777093"/>
         <country>Österreich</country>
         <episode-num system="onscreen">E14</episode-num>
+    </programme>
+
+    <programme start="20260112011500 +0000" stop="20260112021500 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">12.01.2026 02:15.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2026</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260112021500 +0000" stop="20260112030000 +0000" channel="ServusTV">
+        <title lang="de">Evolve</title>
+        <sub-title lang="de">Überleben - Wie Tiere Klimakrisen trotzen</sub-title>
+        <desc lang="de">Diesmal untersucht der britische Biologe Patrick Aryee, ob die größten Überlebenskünstler der Natur Technologien inspirieren können, die der Menschheit zugute kommen. Willkommen in der Bionik!&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Patrick Aryee; [B]Produzent[/B]:  Brian Leckey</actor>
+            <actor> Mark Drake</actor>
+            <actor> Jorge Franzini; [B]Regie[/B]: Chris Baron</actor>
+            <actor> Joanna Barwick</actor>
+            <actor> Katy Savage</actor>
+            <actor> Rachelle Keeling</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2937860843089589682"/>
+        <country>Vereinigte Staaten, Vereinigtes Königreich, Singapur</country>
+        <episode-num system="onscreen">S1 E2</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
