@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-13 00:52:55.625005 -->
+<!-- created on 2026-01-13 02:48:12.357905 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,16 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260113005000 +0000" stop="20260113022000 +0000" channel="PULS24">
-        <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
-        <desc lang="de">Natascha Kampuschs jahrelange Gefangenschaft, eine Stalking-Obsession mit fatalen Folgen, die mysteriöse Suche nach einem verschwundenen Bruder und die aufsehenerregende Jagd auf den mutmaßlichen Millionenbetrüger Kim Dotcom. Vier erschütternde Kriminalfälle, die die Welt in Atem hielten ...&lt;br /&gt;&lt;br /&gt;Das Horrorhaus in Höxter. Ein Zahnarzt, der schwer bewaffnet zum Rachefeldzug ansetzt. Ein junger Mann, der seine Eltern in der Garage einbetoniert. Keine Fiktion, sondern alles Fälle, die Deutschland bewegt- und in Atem halten. Im Mittelpunkt: Opfer und Täter, echte Menschen. "Deutschlands spektakulärste Kriminalfälle" deckt brutale Morde auf, berichtet von dramatischen Entführungen, unglaublichen Justizskandalen, hollywoodreifen Betrügereien und tragischen Beziehungsdramen.</desc>
-        <date>2025</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/7914000543227599277"/>
-        <country>Deutschland</country>
-        <episode-num system="onscreen">S2 E4</episode-num>
-    </programme>
 
     <programme start="20260113022000 +0000" stop="20260113030500 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -145,7 +135,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260113110000 +0000" stop="20260113132000 +0000" channel="PULS24">
+    <programme start="20260113110000 +0000" stop="20260113131500 +0000" channel="PULS24">
         <title lang="de">Treffpunkt Österreich zu Mittag</title>
         <sub-title lang="de">13.01.2026 12:00.</sub-title>
         <desc lang="de">Das Magazin "Treffpunkt Österreich zu Mittag" kredenzt von Montag bis Freitag ein buntes, reichhaltiges TV-Menü. Unter der Moderation von Bianca Ambros und Sabine Loho, die abwechselnd bei "Treffpunkt Österreich zu Mittag" durch die Sendung führen, erwartet die Seher:innen ein abwechslungsreicher Mix aus spannenden Reportagen, praktischen Gesundheits- und Servicetipps, einem täglich frischen News-Update und einer großen Portion Society-Updates.&lt;br /&gt;&lt;br /&gt;Das Infotainment-Magazin "Treffpunkt Österreich zu Mittag" bündelt alles, was die Österreicher:innen bewegt: Chronik, Politik, Sport, Society und mehr.</desc>
@@ -156,7 +146,7 @@
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260113132000 +0000" stop="20260113140000 +0000" channel="PULS24">
+    <programme start="20260113131500 +0000" stop="20260113135500 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Medizintourismus</sub-title>
         <desc lang="de">Türkei, Tschechien, Ungarn und die Slowakei: das sind die neuen Lieblingsdestinationen der ÖsterreicherInnen. Aber nur, wenn es um die Schönheit geht, denn der Medizintourismus boomt. Ein bisschen Sightseeing, ein bisschen Erholung und nebenbei eine neue Figur zum Schnäppchenpreis. Der Run auf Beauty-Kliniken im Ausland ist enorm. Angst vor Komplikationen haben die wenigsten.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -170,7 +160,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260113140000 +0000" stop="20260113145500 +0000" channel="PULS24">
+    <programme start="20260113135500 +0000" stop="20260113145500 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Extremer Körperkult</sub-title>
         <desc lang="de">"ATV - Die Reportage" begleitet Menschen, die ihren Körper als Kultobjekt sehen. Viele von ihnen wollen einem gesetzten Schönheitsideal entsprechen und trainieren dafür unzählige Stunden im Fitnessstudio. Andere wiederum unterziehen sich hochriskanten Eingriffen und lassen sich beispielsweise Rippen entfernen ...&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -184,7 +174,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260113145500 +0000" stop="20260113155500 +0000" channel="PULS24">
+    <programme start="20260113145500 +0000" stop="20260113155000 +0000" channel="PULS24">
         <title lang="de">Mein Recht! Ich geb' nicht auf!</title>
         <desc lang="de">Wenn sich der Traum vom eigenen Haus zum existenzbedrohenden Albtraum entpuppt - das muss leider Jungfamilie Karlovcec in der Steiermark hautnah erleben. Die Familie zog in ein Haus, das nach und nach zahlreiche Mängel aufweist. Darunter beispielsweise ein Rohrbruch unter der Terrasse und Schimmelbefall. Kann die Familie noch von dem Kaufvertrag zurücktreten?&lt;br /&gt;&lt;br /&gt;In der Doku-Reihe begleitet der Rechtsanwalt Dr. Christian Horwath Menschen bei ihrem Kampf um Gerechtigkeit.</desc>
         <date>2019</date>
@@ -194,7 +184,7 @@
         <episode-num system="onscreen">S5 E9</episode-num>
     </programme>
 
-    <programme start="20260113155500 +0000" stop="20260113165500 +0000" channel="PULS24">
+    <programme start="20260113155000 +0000" stop="20260113165000 +0000" channel="PULS24">
         <title lang="de">Mein Recht! Ich geb' nicht auf!</title>
         <desc lang="de">Dr. Christian Horwath wird zu einem Tierskandal nach Vorarlberg gerufen. Der Tierschutzverein Rankweil hilft Vierbeinern in Not. 2018 übergaben zwei Mitglieder, Melanie Maurer und Michaela Bonmassar, einen Hund, den sie selbst nicht vermitteln konnten, an Frau S., eine angebliche Hundetrainerin aus Kärnten. Monate später kam die Wahrheit über Frau S. ans Licht. Mindestens 30 Hunde starben unter ihrer Obhut ...&lt;br /&gt;&lt;br /&gt;In der Doku-Reihe begleitet der Rechtsanwalt Dr. Christian Horwath Menschen bei ihrem Kampf um Gerechtigkeit.</desc>
         <date>2019</date>
@@ -204,7 +194,7 @@
         <episode-num system="onscreen">S5 E10</episode-num>
     </programme>
 
-    <programme start="20260113165500 +0000" stop="20260113175000 +0000" channel="PULS24">
+    <programme start="20260113165000 +0000" stop="20260113175000 +0000" channel="PULS24">
         <title lang="de">Pfusch am Bau</title>
         <desc lang="de">Günther Nussbaum wird in eine Kleingartenanlage im 21. Wiener Bezirk gerufen. Hier wollte sich Frau Kurta für 140.000 Euro ein gemütliches Häuschen bauen lassen, bekommen hat sie nur einen verpfuschten Rohbau. Muss die bisherige Konstruktion gar abgerissen werden? Auch Familie Moderbacher aus Niederösterreich hat gravierende Baumängel zu beklagen. Sie ließ einen Neubau auf einen alten Keller setzten, dessen Feuchtigkeit nun Risse bis in den zweiten Stock verursacht.&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
         <date>2019</date>
@@ -661,25 +651,44 @@
         <episode-num system="onscreen">S4 E7</episode-num>
     </programme>
 
-    <programme start="20260113001000 +0000" stop="20260113014000 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <sub-title lang="de">Sport und Talk aus dem Hangar-7</sub-title>
-        <desc lang="de">Aktuelle Themen, spannende Gäste, eine spektakuläre Location: Sport und Talk aus dem Hangar-7.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
-        <date>2026</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+    <programme start="20260115013000 +0000" stop="20260115021500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Skrupellos</sub-title>
+        <desc lang="de">Am 23. Dezember verschwindet Beth von Steinner. Nur einige Tage später wird ihr gefrorener Körper im Müll hinter ihrem Haus gefunden. Die Polizei steht vor einem Rätsel und hofft darauf, dass die Aufnahmen einer Überwachungskamera Licht ins Dunkel bringen können.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E6</episode-num>
     </programme>
 
-    <programme start="20260113014000 +0000" stop="20260113023000 +0000" channel="ServusTV">
-        <title lang="de">Hans Hass - Pionier der Tiefe</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Die Unterwasserwelt hat für viele Menschen eine magische Anziehungskraft. Die ersten Aufnahmen von farbenprächtigen Korallenriffen und imposanten Haien verdanken wir Hans Hass. Er machte in den 1930er Jahren als Erster dem großen Publikum die Welt der Meere mit seinen Filmen und Forschungsexpeditionen zugänglich. Und das zu einer Zeit, in der das noch fast unmöglich schien.</desc>
+    <programme start="20260115021500 +0000" stop="20260115030000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]Regie[/B]: Daniela Pulverer; [B]DarstellerInnen[/B]: Hans Hass</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2022</date>
-        <category lang="de">Biografie</category>
-        <icon src="https://images.mdn.ors.at/1069486130135597875"/>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1520,6 +1529,16 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/2753218290715011164"/>
         <country>Norwegen, Schweden, Dänemark</country>
+    </programme>
+
+    <programme start="20260115022500 +0000" stop="20260115033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <sub-title lang="de">BilderWelten</sub-title>
+        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2026</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
