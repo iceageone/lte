@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-15 00:55:15.480700 -->
+<!-- created on 2026-01-15 02:53:06.039571 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260115004500 +0000" stop="20260115013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Die Augen der Kirche</sub-title>
-        <desc lang="de">Der 60-jährige Sozialarbeiter Maurice Byrd wird erschossen in seinem eigenen Haus aufgefunden. Mit nur wenigen Hinweisen und keiner heißen Spur haben die Ermittler nur noch eine Chance, den Mord aufzuklären: die Aufnahmen einer Überwachungskamera der nahegelegenen Kirche ...&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E7</episode-num>
-    </programme>
-
-    <programme start="20260115013000 +0000" stop="20260115021500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Skrupellos</sub-title>
-        <desc lang="de">Am 23. Dezember verschwindet Beth von Steinner. Nur einige Tage später wird ihr gefrorener Körper im Müll hinter ihrem Haus gefunden. Die Polizei steht vor einem Rätsel und hofft darauf, dass die Aufnahmen einer Überwachungskamera Licht ins Dunkel bringen können.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E6</episode-num>
-    </programme>
 
     <programme start="20260115021500 +0000" stop="20260115030000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -678,36 +638,46 @@
         <episode-num system="onscreen">S2 E3</episode-num>
     </programme>
 
-    <programme start="20260115000500 +0000" stop="20260115005500 +0000" channel="ServusTV">
-        <title lang="de">Die Flugretter - Notruf in den Alpen</title>
-        <desc lang="de">In dieser Folge muss ein Bergsteiger am Matterhorn mit Erfrierungen auf 4.000 Metern aufgeben. Für den Piloten Gerold Biner bedeutet das, bei starkem Wind so nah wie möglich an das Solvay-Biwak für eine Windenbergung heranzufliegen. Eine fliegerische Meisterleistung am Nordostgrat des Matterhorns.&lt;br /&gt;Wir begleiten eine der renommiertesten Flugrettermannschaften der Welt, erhalten Einblicke in ihren Alltag und erleben in spektakulären Aufnahmen, was die Air Zermatt so einzigartig macht.&lt;br /&gt;&lt;br /&gt;Sie kommen immer dann zum Einsatz, wenn Menschen in Not sind und jede Minute zählt: Die Hubschrauber-Crews der österreichischen ARA-Flugrettung.</desc>
-        <date>2024</date>
+    <programme start="20260117010000 +0000" stop="20260117015500 +0000" channel="PULS24">
+        <title lang="de">Ungelöst - Cold Case Austria</title>
+        <sub-title lang="de">Folge 13</sub-title>
+        <desc lang="de">Ein grausames Verbrechen überschattet zur Jahrtausendwende den Ort Kindberg in der Obersteiermark. Der Spielzeugwarenhändler Adolf F. wird durch eine Bombe getötet, die jemand unter dem Fahrersitz seines Pkws versteckt hatte. Warum der Familienvater sterben sollte, ist bis heute ungeklärt. Auch der Mord an der 19-jährigen Steirerin Ulrike R. wirft Fragen auf. Die junge Frau wurde 1999 in Südtirol mit einem Stein erschlagen.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
+        <date>2023</date>
         <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/14095189826116407522"/>
+        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S3 E3</episode-num>
     </programme>
 
-    <programme start="20260115005500 +0000" stop="20260115023000 +0000" channel="ServusTV">
-        <title lang="de">Todesfalle Nordsee</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Durch einen unterirdischen Erdrutsch bricht eine Ölplattform ein und versinkt innerhalb von Minuten in den Fluten der Nordsee. Bei der Suche nach Überlebenden werden die Trümmer von der Ingenieurin Sofia mit einem Unterwasserroboter untersucht. Dabei entdeckt Sofia einen gewaltigen Riss im Meeresboden, aus dem große Mengen an Methangas austreten - der Anfang einer viel größeren Katastrophe?</desc>
+    <programme start="20260117015500 +0000" stop="20260117025000 +0000" channel="PULS24">
+        <title lang="de">Ungelöst - Cold Case Austria</title>
+        <sub-title lang="de">Folge 14</sub-title>
+        <desc lang="de">Im Jahr 2016 stürmt ein Unbekannter den Laden des Meidlinger Friseurmeisters Arnold S. und schießt ihm zweimal in die Brust. Der Geschäftsmann erliegt noch im Krankenhaus seinen Verletzungen. Die Ermittlungen in dem Fall weisen auf einen Auftragsmord hin. Wer den Friseur getötet hat, ist bis heute ungeklärt. Auch der Fall um den steirischen Wirt Hubert S. beschäftigt die Polizei. Der Mann ist seit dem 17. Oktober 2003 spurlos verschwunden.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
+        <date>2023</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S3 E4</episode-num>
+    </programme>
+
+    <programme start="20260117025000 +0000" stop="20260117033000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Falsche Freunde</sub-title>
+        <desc lang="de">Nach einer Nacht in einer Bar verschwindet Dalene Carlson spurlos. Die Ermittlungen laufen auf Hochtouren, um die Frau zu finden bevor es zu spät ist. Können die Aufzeichnungen einer Überwachungskamera den ausschlaggebenden Hinweis liefern?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Kristine Kujath Thorp</actor>
-            <actor> Rolf Kristian Larsen</actor>
-            <actor> Henrik Bjelland</actor>
-            <actor> Anders Baasmo</actor>
-            <actor> Björn Floberg</actor>
-            <actor> Anneke von der Lippe</actor>
-            <actor> Christoffer Staib</actor>
-            <actor> Anders Baasmo Christiansen</actor>
-            <actor> Kristine Thorp</actor>
-            <actor> Rolf Larsen</actor>
-            <actor> Ane Skumsvoll; [B]Regie[/B]: John Andreas Andersen; [B]Drehbuch[/B]: Harald Rosenløw-Eeg</actor>
-            <actor> Lars Gudmestad</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2021</date>
-        <category lang="de">Action</category>
-        <icon src="https://images.mdn.ors.at/2753218290715011164"/>
-        <country>Norwegen, Schweden, Dänemark</country>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E8</episode-num>
     </programme>
 
     <programme start="20260115023000 +0000" stop="20260115033500 +0000" channel="ServusTV">
@@ -892,7 +862,7 @@
         <desc lang="de">Noch immer ist der Bergbau ein wichtiger Wirtschaftszweig in Österreich, der auch kulturell ganze Regionen prägt. Jeden Tag arbeiten sie in mehreren hundert Metern Tiefe. Die Arbeit im Bergbau scheint ein Relikt aus vergangenen Tagen. Doch noch immer machen sich die Bergmänner Österreichs jeden Tag auf den Weg zu Ihrer Arbeit unter Tage.&lt;br /&gt;&lt;br /&gt;Kurzreportagen über Berufe, Bräuche, Naturphänomene oder Burgen, die den österreichischen Kulturraum geprägt haben und noch heute prägen.</desc>
         <date>2011</date>
         <category lang="de">Kultur</category>
-        <icon src="https://images.mdn.ors.at/16276042158420795019"/>
+        <icon src="https://images.mdn.ors.at/14684592353351058215"/>
         <country>Österreich</country>
     </programme>
 
@@ -1211,7 +1181,7 @@
     <programme start="20260116074000 +0000" stop="20260116080500 +0000" channel="ServusTV">
         <title lang="de">Hoagascht</title>
         <sub-title lang="de">A Leben voller Spiele</sub-title>
-        <desc lang="de">„HOAGASCHT – Ein Leben voller Spiele“ taucht tief in die Welt des Spielens ein: von Halleins ältestem Spielwarengeschäft über die Matador-Werkstatt mit ihrer traditionsreichen Holzbearbeitung bis zu einem leidenschaftlichen Sammler und spielbegeisterten Kindern. Weiter geht’s zu Piatnik, wo Spielkarten und Brettspiele entstehen und Entwickler über kreative Höhen und Tiefen erzählen. Den Abschluss bilden junge und alte Tarockrunden – vom Kulturerbe Königrufen bis zur Faszination eines Spiels, das Generationen verbindet.&lt;br /&gt;&lt;br /&gt;Das Volkskultur-Magazin bei ServusTV. Unsere Moderatoren leben und verkörpern die alpenländische Volkskultur.</desc>
+        <desc lang="de">Richie Deutinger begleitet ein Leben voller Spiele: Vom ältesten Spielwarengeschäft über die Matador-Werkstatt und einen leidenschaftlichen Sammler bis zu Tarockrunden von Jung bis Alt – Spielkultur lebendig erzählt.&lt;br /&gt;&lt;br /&gt;Das Volkskultur-Magazin bei ServusTV. Unsere Moderatoren leben und verkörpern die alpenländische Volkskultur.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Conny Bürgler</actor>
             <actor>  Bertl Göttl</actor>
@@ -1304,7 +1274,7 @@
     <programme start="20260116120000 +0000" stop="20260116130000 +0000" channel="ServusTV">
         <title lang="de">Heimatleuchten</title>
         <sub-title lang="de">Kleinwalsertal - Die schönste Sackgasse der Welt</sub-title>
-        <desc lang="de">Das Kleinwalsertal ist eine Enklave innerhalb Vorarlbergs. Von Bergen eingekesselt, gehört es zwar zu Österreich, ist aber nur von Deutschland aus erreichbar. Seine Bewohner fühlen sich weder als Österreicher noch als Deutsche, sondern als stolze Walser.&lt;br /&gt;&lt;br /&gt;So sehr das Kleinwalsertal abgeschlossen wirken mag, so außergewöhnlich sind die Pfade, auf denen man hier wandelt. Gotthard Paul ist mit seinen über 70 Jahren noch immer als Snowboard-Lehrer aktiv tätig. Sabine Ott bewirtschaftet die Bärgunthütte am Fuß des großen Widdersteins auch im Winter.&lt;br /&gt;&lt;br /&gt;„Wege sind das Wichtigste für die Walser“, sagt die Wirtin und erzählt mit leuchtenden Augen, dass die frühen Walser ihre Handelswege bis nach Genua führten - von wo sie ihren Frauen Mittelmeer-Korallen als Souvenir mitbrachten, weshalb noch heute eine Korallenkette Teil der Walser Tracht ist.&lt;br /&gt;&lt;br /&gt;Peter Hammerer hingegen muss genau wissen, wohin er seine Pferde den Schlitten ziehen lässt. So bullig und kantig der typische Walser auf den ersten Blick wirkt, so feinfühlig ist er mit den 25 Norikern, die er züchtet und dafür etliche Preise gewonnen hat. Xander Mathies ist im wahrsten Sinne ein Wegbereiter. Mit seinem hypermodernen Räuple, wie er es liebevoll nennt, sorgt er dafür, dass sich das Kleinwalsertal für Langläufer öffnet.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <desc lang="de">Abgeschlossen von Österreich und nur über Deutschland erreichbar. Für die Bewohner ist das Kleinwalsertal auch im Winter der schönste Ort der Welt.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
         </credits>
@@ -1491,7 +1461,7 @@
     <programme start="20260116210000 +0000" stop="20260116220000 +0000" channel="ServusTV">
         <title lang="de">Die Gruaberin</title>
         <sub-title lang="de">Mit Monika Gruber und Late-Night-Ikone Harald Schmidt</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+        <desc lang="de">Late-Night-Ikone Harald Schmidt zu Gast bei Monika Gruber! Wenn die beiden TV- Entertainer aufeinandertreffen, bleibt kein Auge trocken. Harald Schmidt spricht über sein neues Arbeitsleben auf dem Traumschiff und was er mit einer Domina gemeinsam hat. Mit feiner Ironie lässt er seine Late-Night-Ära Revue passieren und erzählt, warum klassische Samstagabend-Shows für ihn nie so richtig passten. An Österreich mag er unter anderem das sogenannte Fluchtachterl. Ein Gipfeltreffen der TV-Entertainer.&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
         <date>2025</date>
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
@@ -1513,7 +1483,7 @@
     <programme start="20260116234500 +0000" stop="20260117004500 +0000" channel="ServusTV">
         <title lang="de">Die Gruaberin</title>
         <sub-title lang="de">Mit Monika Gruber und Late-Night-Ikone Harald Schmidt</sub-title>
-        <desc lang="de">Die Gruaberin is back! In ihrem Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben. Denn wie sagte ihre Oma immer? „Reden macht a Sach aus und bringt d’Leid zamm.“ Der Kabarettistin geht es um die hohe Kunst des Plauderns und Geschichtenerzählens und um menschliche Begegnungen. Thematisch ist es offen, nur langweilen darf es nicht und Tiefgang muss es haben. „Mein Vorbild als Podcaster ist der Joe Rogan. Der war genauso wie ich Stand-up-Comedian und hat aus Gaudi heraus gesagt: Jetzt hocken wir uns vor ein Mikro und reden einfach. Und - wow - jetzt ist das der erfolgreichste Podcast der Welt. Think big – warum nit.“&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+        <desc lang="de">Late-Night-Ikone Harald Schmidt zu Gast bei Monika Gruber! Wenn die beiden TV- Entertainer aufeinandertreffen, bleibt kein Auge trocken. Harald Schmidt spricht über sein neues Arbeitsleben auf dem Traumschiff und was er mit einer Domina gemeinsam hat. Mit feiner Ironie lässt er seine Late-Night-Ära Revue passieren und erzählt, warum klassische Samstagabend-Shows für ihn nie so richtig passten. An Österreich mag er unter anderem das sogenannte Fluchtachterl. Ein Gipfeltreffen der TV-Entertainer.&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
         <date>2025</date>
         <category lang="de">Talk-Show</category>
         <icon src="https://images.mdn.ors.at/14384818036775112595"/>
@@ -1523,7 +1493,7 @@
     <programme start="20260117004500 +0000" stop="20260117013000 +0000" channel="ServusTV">
         <title lang="de">Heimatleuchten</title>
         <sub-title lang="de">Kleinwalsertal - Die schönste Sackgasse der Welt</sub-title>
-        <desc lang="de">Das Kleinwalsertal ist eine Enklave innerhalb Vorarlbergs. Von Bergen eingekesselt, gehört es zwar zu Österreich, ist aber nur von Deutschland aus erreichbar. Seine Bewohner fühlen sich weder als Österreicher noch als Deutsche, sondern als stolze Walser.&lt;br /&gt;&lt;br /&gt;So sehr das Kleinwalsertal abgeschlossen wirken mag, so außergewöhnlich sind die Pfade, auf denen man hier wandelt. Gotthard Paul ist mit seinen über 70 Jahren noch immer als Snowboard-Lehrer aktiv tätig. Sabine Ott bewirtschaftet die Bärgunthütte am Fuß des großen Widdersteins auch im Winter.&lt;br /&gt;&lt;br /&gt;„Wege sind das Wichtigste für die Walser“, sagt die Wirtin und erzählt mit leuchtenden Augen, dass die frühen Walser ihre Handelswege bis nach Genua führten - von wo sie ihren Frauen Mittelmeer-Korallen als Souvenir mitbrachten, weshalb noch heute eine Korallenkette Teil der Walser Tracht ist.&lt;br /&gt;&lt;br /&gt;Peter Hammerer hingegen muss genau wissen, wohin er seine Pferde den Schlitten ziehen lässt. So bullig und kantig der typische Walser auf den ersten Blick wirkt, so feinfühlig ist er mit den 25 Norikern, die er züchtet und dafür etliche Preise gewonnen hat. Xander Mathies ist im wahrsten Sinne ein Wegbereiter. Mit seinem hypermodernen Räuple, wie er es liebevoll nennt, sorgt er dafür, dass sich das Kleinwalsertal für Langläufer öffnet.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <desc lang="de">Abgeschlossen von Österreich und nur über Deutschland erreichbar. Für die Bewohner ist das Kleinwalsertal auch im Winter der schönste Ort der Welt.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
         </credits>
@@ -1531,6 +1501,26 @@
         <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/11209616897171521044"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20260117013000 +0000" stop="20260117021500 +0000" channel="ServusTV">
+        <title lang="de">Terra Mater Wissen</title>
+        <sub-title lang="de">Flirtkiller "Ick-Moment"? - Wie kleine Macken große Gefühle abwürgen</sub-title>
+        <desc lang="de">Ein vielversprechendes Date, ein Knistern in der Luft – und plötzlich ist alles vorbei. Eben noch Flirt, jetzt nur noch Fremdscham. TM Wissen schaut sich den Moment an, in dem aus Anziehung schlagartig Abwehr wird: den „Ick“. Psychotherapeutin Nadia Danneberg erklärt, warum wir während eines Flirts schlagartig mit Flucht reagieren – und was eigentlich hinter diesem plötzlichen Ekel steckt. Doch nicht immer ist der „Ick“ ein echtes Warnsignal: Auf Social Media werden längst auch harmlose Eigenschaften zur roten Flagge erklärt.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
+        <date>2025</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20260117021500 +0000" stop="20260117032000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <sub-title lang="de">BilderWelten</sub-title>
+        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2026</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
