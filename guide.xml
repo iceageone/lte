@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-16 00:57:31.665660 -->
+<!-- created on 2026-01-16 02:56:50.031381 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260116004500 +0000" stop="20260116013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Skrupellos</sub-title>
-        <desc lang="de">Am 23. Dezember verschwindet Beth von Steinner. Nur einige Tage später wird ihr gefrorener Körper im Müll hinter ihrem Haus gefunden. Die Polizei steht vor einem Rätsel und hofft darauf, dass die Aufnahmen einer Überwachungskamera Licht ins Dunkel bringen können.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E6</episode-num>
-    </programme>
-
-    <programme start="20260116013000 +0000" stop="20260116021500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Gejagt</sub-title>
-        <desc lang="de">Edward Lowry wird erstochen auf einem Parkplatz aufgefunden. Am Tatort finden die Ermittler nur wenige Hinweise auf den Tathergang und müssen auf die Aufzeichnungen der Überwachungskameras zurückgreifen. Doch werden diese wirklich Aufschluss über Edwards letzte Schritte geben können?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E5</episode-num>
-    </programme>
 
     <programme start="20260116021500 +0000" stop="20260116030000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -663,36 +623,45 @@
         <episode-num system="onscreen">S9 E4</episode-num>
     </programme>
 
-    <programme start="20260116002000 +0000" stop="20260116013000 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">16.01.2026 01:20.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
-        </credits>
-        <date>2026</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+    <programme start="20260118010000 +0000" stop="20260118015000 +0000" channel="PULS24">
+        <title lang="de">Pfusch am Bau</title>
+        <desc lang="de">Erst im Herbst 2019 ist Familie Badov in Friedersbach in eine Wohnung gezogen und schon nach kurzer Zeit breitet sich der Schimmel aus. Der Vermieter ist nicht bereit, eine Sanierung vorzunehmen. Günther Nussbaum ist schockiert und schätzt den Zustand der Wohnung als hochgradig gesundheitsgefährdend ein. Auch Familie Hintringer aus Geiersberg zählt auf Nussbaums Unterstützung. Ihr Anbau weist erhebliche Mängel auf und droht vom Altbau wegzubrechen.&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
+        <date>2020</date>
+        <category lang="de">Doku-Soap</category>
+        <icon src="https://images.mdn.ors.at/947581550505729740"/>
         <country>Österreich</country>
-        <episode-num system="onscreen">S2026</episode-num>
+        <episode-num system="onscreen">S16 E11</episode-num>
     </programme>
 
-    <programme start="20260116013000 +0000" stop="20260116022000 +0000" channel="ServusTV">
-        <title lang="de">Der Untergang der Dinosaurier</title>
-        <sub-title lang="de">Der letzte Tag</sub-title>
-        <desc lang="de">Neuste Forschungen belegen, dass ein riesiger Asteroid für das Aussterben der Dinosaurier verantwortlich ist. Basierend darauf, rekonstruiert Sir David Attenborough die Katastrophe.&lt;br /&gt;&lt;br /&gt;Vor 66 Millionen Jahren starben die Dinosaurier aus. Ein Team von Wissenschaftlern glaubt, dass es einen Zeugen dieser Katastrophe gab - einen Überlebenden, der an der Seite des T-Rex wandelte und dem die Menschheit ihre Existenz verdanken könnte. Gleichzeitig stellt sich die Frage, was auf uns zukommt, falls ein weiterer Asteroid auf der Erde einschlagen sollte.</desc>
+    <programme start="20260118015000 +0000" stop="20260118024500 +0000" channel="PULS24">
+        <title lang="de">Pfusch am Bau</title>
+        <desc lang="de">Seit einem Jahr wohnen Marco Pilz und Lucia Fülöpova in ihrem Fertigteilhaus. Doch richtig genießen können die beiden ihr neues Eigenheim nicht. Fenster lassen sich nicht richtig öffnen und schließen, dadurch zieht es im ganzen Haus, die Dusche kann nicht mehr benutzt werden, weil die Fugen aufgerissen sind und dadurch Wasser in den Holzriegelbau eindringen kann. Die Sockelabdichtung rund ums Haus ist schadhaft und Verfärbungen an der Fassade lassen auch nichts Gutes vermuten.&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
+        <date>2020</date>
+        <category lang="de">Doku-Soap</category>
+        <icon src="https://images.mdn.ors.at/947581550505729740"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S20 E9</episode-num>
+    </programme>
+
+    <programme start="20260118024500 +0000" stop="20260118032500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: David Attenborough</actor>
-            <actor> Robert DePalma</actor>
-            <actor> Steve Brusatte</actor>
-            <actor> Emily Bamforth</actor>
-            <actor> Sonia Tikoo; [B]Drehbuch[/B]: Brian Switek; [B]Produzent[/B]: Chris Lavington Wood; [B]Regie[/B]: Sam Barker</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2022</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/16487285939070247884"/>
-        <country>Deutschland, Vereinigte Staaten, Vereinigtes Königreich, Frankreich, China</country>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260116022000 +0000" stop="20260116033500 +0000" channel="ServusTV">
@@ -1270,7 +1239,7 @@
         </credits>
         <date>1958</date>
         <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/13367535518210238925"/>
+        <icon src="https://images.mdn.ors.at/8528930863224950000"/>
         <country>Vereinigte Staaten</country>
     </programme>
 
@@ -1502,6 +1471,24 @@
         <category lang="de">Romantische Komödie</category>
         <icon src="https://images.mdn.ors.at/2788953805030012492"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260118015000 +0000" stop="20260118041000 +0000" channel="ServusTV">
+        <title lang="de">Terminator 2 - Tag der Abrechnung</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;James Camerons preisgekröntes Action-Meisterwerk mit Arnold Schwarzenegger in seiner ikonischen Rolle als Kampfmaschine aus der Zukunft, die einen 12-jährigen Jungen vor einem weiterentwickelten Terminator beschützen muss.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Arnold Schwarzenegger</actor>
+            <actor> Linda Hamilton</actor>
+            <actor> Edward Furlong</actor>
+            <actor> Robert Patrick</actor>
+            <actor> Earl Boen</actor>
+            <actor> Joe Morton</actor>
+            <actor> S. Epatha Merkerson; [B]Regie[/B]: James Cameron; [B]Drehbuch[/B]:  William Wisher</actor>
+        </credits>
+        <date>1991</date>
+        <category lang="de">Action</category>
+        <icon src="https://images.mdn.ors.at/4819424667090467783"/>
+        <country>Vereinigte Staaten, Frankreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
