@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-17 00:54:37.605010 -->
+<!-- created on 2026-01-17 02:43:52.074080 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,28 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260117001500 +0000" stop="20260117010000 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Der Fall Heidi Wastl</sub-title>
-        <desc lang="de">Das Vermisstenrätsel um die Niederösterreicherin Heidrun Wastl scheint gelöst: Nach fast elf Jahren bricht der Tischler Erich W. unter Polizeidruck sein Schweigen und spricht von einem Unfall mit Todesfolge - damals am 28. September 2001. Doch wo ist die Leiche der jungen Mutter? Stimmt die Geschichte überhaupt? Die Polizei glaubt an Mord, doch ohne Leiche lässt sich das nicht beweisen. Exklusiv spricht in dieser Folge Gertrude D., die Lebensgefährtin des Verhafteten.&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2012</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E3</episode-num>
-    </programme>
-
-    <programme start="20260117010000 +0000" stop="20260117015500 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Folge 13</sub-title>
-        <desc lang="de">Ein grausames Verbrechen überschattet zur Jahrtausendwende den Ort Kindberg in der Obersteiermark. Der Spielzeugwarenhändler Adolf F. wird durch eine Bombe getötet, die jemand unter dem Fahrersitz seines Pkws versteckt hatte. Warum der Familienvater sterben sollte, ist bis heute ungeklärt. Auch der Mord an der 19-jährigen Steirerin Ulrike R. wirft Fragen auf. Die junge Frau wurde 1999 in Südtirol mit einem Stein erschlagen.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E3</episode-num>
-    </programme>
 
     <programme start="20260117015500 +0000" stop="20260117024500 +0000" channel="PULS24">
         <title lang="de">Ungelöst - Cold Case Austria</title>
@@ -156,6 +134,7 @@
         <category lang="de">Magazin</category>
         <icon src="https://images.mdn.ors.at/3803772351230153019"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
     <programme start="20260117111000 +0000" stop="20260117114500 +0000" channel="PULS24">
@@ -244,7 +223,6 @@
 
     <programme start="20260117162000 +0000" stop="20260117164000 +0000" channel="PULS24">
         <title lang="de">Adiweiss.TV</title>
-        <sub-title lang="de">17.01.2026 17:20.</sub-title>
         <desc lang="de">Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.&lt;br /&gt;&lt;br /&gt;Mehr Mode, mehr Beauty, mehr Lifestyle! Das ist "Adiweiss.TV" - und der Titel ist Programm. Mode-Experte Adi Weiss ist Dreh- und Angelpunkt der Sendung und entführt uns in seine Fashionwelt. In "Adiweiss.TV" zeigt er die neuesten Trends, trifft Designer und Modemacher, interviewt Laufstegschönheiten und ist bei Shootings mit am Set.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Adi Weiss</actor>
@@ -531,7 +509,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260118131500 +0000" stop="20260118141000 +0000" channel="PULS24">
+    <programme start="20260118131500 +0000" stop="20260118141500 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Wunderheiler</sub-title>
         <desc lang="de">In Österreich ist das Heilen von Menschen ohne schulmedizinische Ausbildung strafbar. Doch vor allem Kranken, bei denen die moderne Medizin versagt, ist das egal. Sie suchen nach alternativen Möglichkeiten und hoffen nicht selten auf ein Wunder. Die Reportage hat sich auf die Spur der Wunderheiler begeben, war bei Behandlungen anwesend und portraitiert Menschen, die sich durch Methoden wie Exorzismus oder schamanischer Heilreise eine Genesung erhoffen.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -545,7 +523,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260118141000 +0000" stop="20260118151000 +0000" channel="PULS24">
+    <programme start="20260118141500 +0000" stop="20260118151000 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Das Geschäft mit dem Wasser</sub-title>
         <desc lang="de">Leitungswasser kann man wunderbar verkaufen - Hauptsache, es ist "belebt" oder "energetisiert". Anbieter dieser "Wunderwasser" gibt es viele, denn dahinter steckt ein riesiges Geschäft. Während findige Unternehmer die Konsumenten davon überzeugen wollen, dass ihr speziell belebtes Wasser Heilung verspricht, schlägt die Umweltorganisation Alarm. Denn das durchwegs ausgezeichnete, österreichische Leitungswasser ist in Gefahr!&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -589,7 +567,7 @@
         <episode-num system="onscreen">E2</episode-num>
     </programme>
 
-    <programme start="20260118171000 +0000" stop="20260118180500 +0000" channel="PULS24">
+    <programme start="20260118171000 +0000" stop="20260118181000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Die Motorradpolizei</title>
         <sub-title lang="de">Schneechaos auf den Straßen</sub-title>
         <desc lang="de">Kaum kommt der erste Schnee, bricht der Verkehr zusammen. Dieses Mal haben die Motorrad-Polizisten allerdings mit besonders großen Schneemassen zu kämpfen: Ein Auto, dessen Fahrer die Kontrolle verlor, ist in einen Linienbus gerast. Neben der Polizei ist auch die Feuerwehr vor Ort, um den schwerverletzten Fahrer zu bergen und die Straße wieder frei zu räumen. Auch die Auszubildenden erleben eine stressige Zeit, wobei ein kleiner Unfall verheerende Auswirkungen hat.&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
@@ -600,7 +578,7 @@
         <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20260118180500 +0000" stop="20260118191000 +0000" channel="PULS24">
+    <programme start="20260118181000 +0000" stop="20260118191000 +0000" channel="PULS24">
         <title lang="de">24 Stunden - Die Motorradpolizei</title>
         <sub-title lang="de">Blutiger Verkehrsunfall</sub-title>
         <desc lang="de">Bei einem Autounfall in Wien wird eine Frau angefahren und schwer verletzt ins Krankenhaus transportiert. Währenddessen liefert der Autofahrer eine schlüssige Erklärung für den Unfallhergang. Die verantwortlichen Polizisten bleiben dennoch skeptisch. Der in der Ausbildung befindliche Polizist Richard hat derweil seinen ersten Einsatz mit einem dienstälteren Kollegen. Schon bald müssen sie sich mit einem renitenten Motorradtuner auseinandersetzen ...&lt;br /&gt;&lt;br /&gt;Das Team von "24 Stunden" begleitet die Mitglieder der Motorrad-Polizei, einer Spezialeinheit der Landesverkehrsabteilung, bei ihren täglichen Einsätzen, die Fahrkönnen, Fingerspitzengefühl und Mut voraussetzen. Nur so können sie für Sicherheit auf Österreichs Straßen sorgen.</desc>
@@ -687,34 +665,53 @@
         <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20260117004500 +0000" stop="20260117013000 +0000" channel="ServusTV">
-        <title lang="de">Heimatleuchten</title>
-        <sub-title lang="de">Kleinwalsertal - Die schönste Sackgasse der Welt</sub-title>
-        <desc lang="de">Abgeschlossen von Österreich und nur über Deutschland erreichbar. Für die Bewohner ist das Kleinwalsertal auch im Winter der schönste Ort der Welt.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+    <programme start="20260119005500 +0000" stop="20260119014500 +0000" channel="PULS24">
+        <title lang="de">Österreichs schockierendste Verbrechen</title>
+        <sub-title lang="de">Der Fünffach-Mord in Kitzbühel</sub-title>
+        <desc lang="de">Andreas E. löscht am frühen Morgen des 6. Oktober 2019 das Leben aller seiner engsten Bezugspersonen aus. "Österreichs schockierendste Verbrechen" gibt einen Überblick über die verheerende Nacht in Kitzbühel und spricht mit Expert:innen über mögliche Motive.&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
+        <date>2023</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S4 E5</episode-num>
     </programme>
 
-    <programme start="20260117013000 +0000" stop="20260117022500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Flirtkiller "Ick-Moment"? - Wie kleine Macken große Gefühle abwürgen</sub-title>
-        <desc lang="de">Ein vielversprechendes Date, ein Knistern in der Luft – und plötzlich ist alles vorbei. Eben noch Flirt, jetzt nur noch Fremdscham. TM Wissen schaut sich den Moment an, in dem aus Anziehung schlagartig Abwehr wird: den „Ick“. Psychotherapeutin Nadia Danneberg erklärt, warum wir während eines Flirts schlagartig mit Flucht reagieren – und was eigentlich hinter diesem plötzlichen Ekel steckt. Doch nicht immer ist der „Ick“ ein echtes Warnsignal: Auf Social Media werden längst auch harmlose Eigenschaften zur roten Flagge erklärt.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2025</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20260119014500 +0000" stop="20260119023500 +0000" channel="PULS24">
+        <title lang="de">Österreichs schockierendste Verbrechen</title>
+        <sub-title lang="de">Der zersägte Filmemacher</sub-title>
+        <desc lang="de">Während in Wien eine Filmcrew ihren Kollegen Fritz K. vermisst, findet in Budapest ein obdachloser Mann im Mai 1992 Leichenteile in einem Müllcontainer. Der grausige Fund löst einen Großeinsatz der ungarischen Polizei aus, die 17 Säcke mit Gliedmaßen und einen Torso auf mehrere große Mülleimer verteilt findet. Aber was hat der Tote in Budapest mit dem Vermissten aus Wien zu tun?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
+        <date>2023</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S4 E6</episode-num>
+    </programme>
+
+    <programme start="20260119023500 +0000" stop="20260119032000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260117022500 +0000" stop="20260117032000 +0000" channel="ServusTV">
         <title lang="de">BilderWelten</title>
-        <sub-title lang="de">BilderWelten</sub-title>
-        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2026</date>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
         <category lang="de">Natur</category>
         <icon src="https://images.mdn.ors.at/9828049829320918821"/>
         <country>Deutschland, Österreich</country>
@@ -1134,9 +1131,8 @@
 
     <programme start="20260118042000 +0000" stop="20260118045500 +0000" channel="ServusTV">
         <title lang="de">BilderWelten</title>
-        <sub-title lang="de">BilderWelten</sub-title>
-        <desc lang="de">Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2026</date>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
         <category lang="de">Natur</category>
         <icon src="https://images.mdn.ors.at/9828049829320918821"/>
         <country>Deutschland, Österreich</country>
@@ -1230,11 +1226,11 @@
     </programme>
 
     <programme start="20260118093000 +0000" stop="20260118120500 +0000" channel="ServusTV">
-        <title lang="de">Tennis: Grand Slam in Australian Open</title>
-        <sub-title lang="de">Tennis LIVE: 1. Runde - Match</sub-title>
-        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale.&lt;br /&gt;Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch.&lt;br /&gt;ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;Übertragung des Tennisturniers Australian Open.</desc>
+        <title lang="de">Australian Open 2026</title>
+        <sub-title lang="de">C. Alcaraz - A. Walton, Tennis LIVE: 1. Runde</sub-title>
+        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale. Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch. ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;</desc>
         <date>2026</date>
-        <category lang="de">Tennis</category>
+        <category lang="de">Sonstiges</category>
         <icon src="https://images.mdn.ors.at/10623260643040612984"/>
         <country>Australien</country>
     </programme>
@@ -1313,7 +1309,7 @@
     <programme start="20260118145500 +0000" stop="20260118155500 +0000" channel="ServusTV">
         <title lang="de">Terra Mater - Eine Perle im Sand</title>
         <sub-title lang="de">Überfluss</sub-title>
-        <desc lang="de">Ein neu entstandenes Wasserloch in der trockenen Savanne des Tsavo Nationalparks in Kenia wird zum Lebensquell für zahlreiche wilde Tiere.&lt;br /&gt;&lt;br /&gt;</desc>
+        <desc lang="de">Ein neu entstandenes Wasserloch in der trockenen Savanne des Tsavo Nationalparks in Kenia wird zum Lebensquell für zahlreiche wilde Tiere.&lt;br /&gt;&lt;br /&gt;Die bildstarke Dokumentation in zwei Teilen zeigt die Entstehung eines Wasserlochs und das Leben in seinem Umkreis inmitten der trockenen Savanne des Tsavo Nationalparks in Kenia. Alles beginnt mit einem verlassenen Termitenbau. Die lehmige Erde des zerfallenen Turms zieht Elefanten magisch an.</desc>
         <credits>
             <actor>[B]Editor[/B]: Jolene van Antwerp</actor>
             <actor> Sophia Evans; [B]Produzent[/B]: Ivo Filatsch; [B]Regie[/B]:  Mark Deeble</actor>
@@ -1321,7 +1317,7 @@
         </credits>
         <date>2022</date>
         <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3712929238868353904"/>
+        <icon src="https://images.mdn.ors.at/17408005934106946232"/>
         <country>Österreich</country>
         <episode-num system="onscreen">E1</episode-num>
     </programme>
@@ -1490,8 +1486,16 @@
         <title lang="de">Ab Hof</title>
         <sub-title lang="de">Dankbarkeit</sub-title>
         <desc lang="de">Bauer sein, im Einklang mit der Natur und dennoch davon Leben können? Für viele Kleinbauern  wurde das in den letzten Jahrzehnten ein Ding der Unmöglichkeit. Mit Mut und Vision gehen immer mehr Bauern neue Wege. Gemeinsam mit denen, die frische Lebensmitteldirekt  aus ihrer Region beziehen wollen, machen sie es möglich.&lt;br /&gt;&lt;br /&gt;Ein Trend der letzten Jahre ist die Selbstvermarktung. Warum nicht direkt vom Bauern ums Eck kaufen? Die Suche nach den besten Nahrungsmitteln aus der unmittelbaren Umgebung ist durch die Zeiten der Corona-Lockdowns noch verstärkt worden.</desc>
+        <credits>
+            <actor>[B]Kamera[/B]: Aline László</actor>
+            <actor> Felix Raitz von Frentz</actor>
+            <actor> Thomas Weidinger</actor>
+            <actor>  Michael Gügerl; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Verena Wallner</actor>
+            <actor>  Peter Köhler</actor>
+            <actor> Beatrix Ziegler</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Dokumentation</category>
+        <category lang="de">Essen</category>
         <icon src="https://images.mdn.ors.at/10102790760583344558"/>
         <country>Österreich</country>
     </programme>
@@ -1508,7 +1512,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260118210000 +0000" stop="20260118220000 +0000" channel="ServusTV">
+    <programme start="20260118210000 +0000" stop="20260118220500 +0000" channel="ServusTV">
         <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
         <sub-title lang="de">18.01.2026 22:00.</sub-title>
         <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
@@ -1523,17 +1527,20 @@
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Flirtkiller "Ick-Moment"? - Wie kleine Macken große Gefühle abwürgen</sub-title>
-        <desc lang="de">Ein vielversprechendes Date, ein Knistern in der Luft – und plötzlich ist alles vorbei. Eben noch Flirt, jetzt nur noch Fremdscham. TM Wissen schaut sich den Moment an, in dem aus Anziehung schlagartig Abwehr wird: den „Ick“. Psychotherapeutin Nadia Danneberg erklärt, warum wir während eines Flirts schlagartig mit Flucht reagieren – und was eigentlich hinter diesem plötzlichen Ekel steckt. Doch nicht immer ist der „Ick“ ein echtes Warnsignal: Auf Social Media werden längst auch harmlose Eigenschaften zur roten Flagge erklärt.&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2025</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20260118220500 +0000" stop="20260118225000 +0000" channel="ServusTV">
+        <title lang="de">BLICKWECHSEL. Das Nachrichtenmagazin</title>
+        <sub-title lang="de">Ralph Schöllhammer: „In fünf Jahren könnten auch amerikanische Flaggen auf Grönland wehen“</sub-title>
+        <desc lang="de">US-Präsident Donald Trump meint es mit Grönland „sehr ernst“. Das zu unterschätzen wäre fatal, sagt Politikwissenschafter Ralph Schöllhammer in einem BLICKWECHSEL Spezial. Die Aufregung versteht er nicht, denn der Kauf von Territorien habe in den USA lange Tradition – und Grönland sei geopolitisch wie strategisch von enormer Bedeutung. Im Gespräch mit Moderatorin Katrin Prähauser skizziert Schöllhammer, wie Trumps Grönland aussehen könnte: finanzielle Anreize für die Bevölkerung, vereinfachter Zugang zur Greencard und massiver politischer Einfluss aus Washington. Gewinnen also die USA das Rennen um die Zukunft der größten und bedeutendsten Insel der Erde?&lt;br /&gt;&lt;br /&gt;Alle wichtigen Nachrichten auf einen Blick.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+        </credits>
+        <date>2026</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/13261847682484024997"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260118230000 +0000" stop="20260119000000 +0000" channel="ServusTV">
+    <programme start="20260118225000 +0000" stop="20260118234500 +0000" channel="ServusTV">
         <title lang="de">Evolve</title>
         <sub-title lang="de">Heilen - Wie die Natur die Medizin revolutioniert</sub-title>
         <desc lang="de">Der britische Biologe Patrick Aryee erforscht die regenerativen Geheimnisse der Evolution und zeigt bahnbrechende medizinische Forschung, die schon bald die Zukunft der Gesundheitsversorgung revolutionieren könnte!&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
@@ -1552,14 +1559,56 @@
         <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
-    <programme start="20260119000000 +0000" stop="20260119011500 +0000" channel="ServusTV">
+    <programme start="20260118234500 +0000" stop="20260119010500 +0000" channel="ServusTV">
         <title lang="de">Ab Hof</title>
         <sub-title lang="de">Dankbarkeit</sub-title>
         <desc lang="de">Bauer sein, im Einklang mit der Natur und dennoch davon Leben können? Für viele Kleinbauern  wurde das in den letzten Jahrzehnten ein Ding der Unmöglichkeit. Mit Mut und Vision gehen immer mehr Bauern neue Wege. Gemeinsam mit denen, die frische Lebensmitteldirekt  aus ihrer Region beziehen wollen, machen sie es möglich.&lt;br /&gt;&lt;br /&gt;Ein Trend der letzten Jahre ist die Selbstvermarktung. Warum nicht direkt vom Bauern ums Eck kaufen? Die Suche nach den besten Nahrungsmitteln aus der unmittelbaren Umgebung ist durch die Zeiten der Corona-Lockdowns noch verstärkt worden.</desc>
+        <credits>
+            <actor>[B]Kamera[/B]: Aline László</actor>
+            <actor> Felix Raitz von Frentz</actor>
+            <actor> Thomas Weidinger</actor>
+            <actor>  Michael Gügerl; [B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Verena Wallner</actor>
+            <actor>  Peter Köhler</actor>
+            <actor> Beatrix Ziegler</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Dokumentation</category>
+        <category lang="de">Essen</category>
         <icon src="https://images.mdn.ors.at/10102790760583344558"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20260119010500 +0000" stop="20260119020500 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">19.01.2026 02:05.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2026</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260119020500 +0000" stop="20260119025000 +0000" channel="ServusTV">
+        <title lang="de">Evolve</title>
+        <sub-title lang="de">Heilen - Wie die Natur die Medizin revolutioniert</sub-title>
+        <desc lang="de">Der britische Biologe Patrick Aryee erforscht die regenerativen Geheimnisse der Evolution und zeigt bahnbrechende medizinische Forschung, die schon bald die Zukunft der Gesundheitsversorgung revolutionieren könnte!&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Patrick Aryee; [B]Produzent[/B]:  Brian Leckey</actor>
+            <actor> Mark Drake</actor>
+            <actor> Jorge Franzini; [B]Regie[/B]: Chris Baron</actor>
+            <actor> Joanna Barwick</actor>
+            <actor> Katy Savage</actor>
+            <actor> Rachelle Keeling</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2937860843089589682"/>
+        <country>Vereinigte Staaten, Vereinigtes Königreich, Singapur</country>
+        <episode-num system="onscreen">S1 E3</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
