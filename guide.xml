@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-20 00:56:12.454710 -->
+<!-- created on 2026-01-20 02:56:47.977955 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,17 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260120005500 +0000" stop="20260120014000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Folge 14</sub-title>
-        <desc lang="de">Im Jahr 2016 stürmt ein Unbekannter den Laden des Meidlinger Friseurmeisters Arnold S. und schießt ihm zweimal in die Brust. Der Geschäftsmann erliegt noch im Krankenhaus seinen Verletzungen. Die Ermittlungen in dem Fall weisen auf einen Auftragsmord hin. Wer den Friseur getötet hat, ist bis heute ungeklärt. Auch der Fall um den steirischen Wirt Hubert S. beschäftigt die Polizei. Der Mann ist seit dem 17. Oktober 2003 spurlos verschwunden.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E4</episode-num>
-    </programme>
 
     <programme start="20260120014000 +0000" stop="20260120031000 +0000" channel="PULS24">
         <title lang="de">Deutschlands spektakulärste Kriminalfälle</title>
@@ -444,6 +433,7 @@
         <category lang="de">Magazin</category>
         <icon src="https://images.mdn.ors.at/4160418182083694424"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
     <programme start="20260121090000 +0000" stop="20260121100000 +0000" channel="PULS24">
@@ -454,6 +444,7 @@
         <category lang="de">Magazin</category>
         <icon src="https://images.mdn.ors.at/4160418182083694424"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
     <programme start="20260121100000 +0000" stop="20260121110000 +0000" channel="PULS24">
@@ -464,6 +455,7 @@
         <category lang="de">Magazin</category>
         <icon src="https://images.mdn.ors.at/4160418182083694424"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
     <programme start="20260121110000 +0000" stop="20260121131500 +0000" channel="PULS24">
@@ -671,27 +663,45 @@
         <episode-num system="onscreen">S4 E11</episode-num>
     </programme>
 
-    <programme start="20260119234500 +0000" stop="20260120020500 +0000" channel="ServusTV">
-        <title lang="de">Sport und Talk aus dem Hangar-7</title>
-        <desc lang="de">Traditionell meldet sich Sport und Talk zu Beginn der Hahnenkamm-Woche mit einer Sondersendung direkt von der Seidlalm in Kitzbühel, wo Gastgeber Christian Brugger u.a. Abfahrts-Weltmeister Franjo von Allmen, Marco Büchel, Fritz Strobl, Hannes Reichelt und Hans Knauß, die Ski-Damen Nina Ortlieb und Mirjam Puchner sowie Sängerin Melissa Naschenweng und Köchin Paula Bründl begrüßt.&lt;br /&gt;&lt;br /&gt;Stattdessen kommen die Halbgötter in Schwarz trotz oder wegen des Video Assistant Referees immer wieder in die Schlagzeilen oder ins Zentrum so manchen Shitstorms. Vergessen wird dabei der Mensch hinter der Pfeife. Doch genau mit denen reden wir darüber im Hangar-7.</desc>
-        <date>2026</date>
-        <category lang="de">Sportmagazin</category>
-        <icon src="https://images.mdn.ors.at/1700841261"/>
-        <country>Österreich</country>
+    <programme start="20260122013000 +0000" stop="20260122021500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Mörderisches Wochenende</sub-title>
+        <desc lang="de">Emily Lambert, Mutter zweier kleiner Töchter, verbringt das Wochenende mit ihrem neuen Freund Robert Earley in New Mexico. Doch nach einem Streit in einer Bar verschwindt sie spurlos.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E12</episode-num>
     </programme>
 
-    <programme start="20260120020500 +0000" stop="20260120025000 +0000" channel="ServusTV">
-        <title lang="de">Spektakuläre Erde</title>
-        <sub-title lang="de">Vulkane</sub-title>
-        <desc lang="de">Von magisch aufflammenden Polarlichtern bis hin zu gewaltigen Vulkaneruptionen: Um diese einzigartigen Momente mitzuerleben, muss man nicht nur zur richtigen Zeit am richtigen Ort sein, sondern auch einige der extremsten Regionen unseres Planeten aufsuchen.&lt;br /&gt;&lt;br /&gt;Bahnbrechende Erkenntnisse und bahnbrechende Filmtechniken machen es möglich, einigen der schönsten Naturphänomene der Welt spannend nahe zu kommen.</desc>
+    <programme start="20260122021500 +0000" stop="20260122030000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Kwame Augustine; [B]Regie[/B]: Ben Wilson</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2022</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/6508464836846120854"/>
-        <country>Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S1 E3</episode-num>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260120025000 +0000" stop="20260120033500 +0000" channel="ServusTV">
@@ -766,6 +776,16 @@
     <programme start="20260120075500 +0000" stop="20260120081500 +0000" channel="ServusTV">
         <title lang="de">Tennis: Grand Slam in Australian Open</title>
         <sub-title lang="de">Tennis LIVE: 1. Runde - Vorbericht</sub-title>
+        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale.&lt;br /&gt;Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch.&lt;br /&gt;ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;Übertragung des Tennisturniers Australian Open.</desc>
+        <date>2026</date>
+        <category lang="de">Tennis</category>
+        <icon src="https://images.mdn.ors.at/10623260643040612984"/>
+        <country>Australien</country>
+    </programme>
+
+    <programme start="20260120081500 +0000" stop="20260120105000 +0000" channel="ServusTV">
+        <title lang="de">Tennis: Grand Slam in Australian Open</title>
+        <sub-title lang="de">H. Gaston - J. Sinner, Tennis LIVE: 1. Runde</sub-title>
         <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale.&lt;br /&gt;Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch.&lt;br /&gt;ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;Übertragung des Tennisturniers Australian Open.</desc>
         <date>2026</date>
         <category lang="de">Tennis</category>
@@ -1517,6 +1537,25 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/8288769522712830089"/>
         <country>Vereinigte Staaten, Frankreich, Kanada, Deutschland, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260122020500 +0000" stop="20260122025000 +0000" channel="ServusTV">
+        <title lang="de">P.M. Wissen</title>
+        <sub-title lang="de">Elektrozaun für Fische / Frittenfett im Flieger / Queere Tiere</sub-title>
+        <desc lang="de">Themen der Sendung: Wie schützt ein Elektrozaun unsere Fische vor Turbinen? // Wie drehen Profis  wackelfreie Luftaufnahmen? // Wie wird Frittierfett zu Flugzeugtreibstoff? // Wie funktioniert Betankung im Flug? // Wie lassen sich Lawinenabgänge besser vorhersagen? // Gibt es queere Tiere? // Wie verbessern wir unseren Schlaf? // Leiden Wölfe unter milden Wintern? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+        <date>2023</date>
+        <category lang="de">Wissensmagazin</category>
+        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20260122025000 +0000" stop="20260122033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
