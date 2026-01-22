@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-22 00:57:40.501837 -->
+<!-- created on 2026-01-22 03:02:25.685898 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,67 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260122004500 +0000" stop="20260122013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tödliche Verwechslung</sub-title>
-        <desc lang="de">Im Juni 2013 wird der 46-jährige Familienvater Richard Arenas mitten am Tag in seiner Einfahrt heimtückisch niedergeschossen. Es gibt weder Zeugen, noch ein Motiv. Gelingt es den Ermittlern dennoch, den kaltblütigen Killer zu finden?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E11</episode-num>
-    </programme>
-
-    <programme start="20260122013000 +0000" stop="20260122021500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Mörderisches Wochenende</sub-title>
-        <desc lang="de">Emily Lambert, Mutter zweier kleiner Töchter, verbringt das Wochenende mit ihrem neuen Freund Robert Earley in New Mexico. Doch nach einem Streit in einer Bar verschwindt sie spurlos.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E12</episode-num>
-    </programme>
-
-    <programme start="20260122021500 +0000" stop="20260122030000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260122030000 +0000" stop="20260122034500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -684,33 +623,46 @@
         <episode-num system="onscreen">S4 E6</episode-num>
     </programme>
 
-    <programme start="20260122004500 +0000" stop="20260122020500 +0000" channel="ServusTV">
-        <title lang="de">Source Code</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Mittels dem Computerprogramm „Source Code“ wird Soldat Colter Stevens in einen vollbesetzten Zug bei Chicago katapultiert. Dort soll er, versetzt in den Körper eines Fremden, den Bombenleger finden, der den Zug wenig später in die Luft sprengen wird.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Jake Gyllenhaal</actor>
-            <actor> Michelle Monaghan</actor>
-            <actor> Vera Farmiga</actor>
-            <actor> Jeffrey Wright</actor>
-            <actor> Michael Arden</actor>
-            <actor> Cas Anvar</actor>
-            <actor> Russell Peters</actor>
-            <actor> Brent Skagford; [B]Regie[/B]: Duncan Jones; [B]Drehbuch[/B]: Ben Ripley</actor>
-        </credits>
-        <date>2011</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/8288769522712830089"/>
-        <country>Vereinigte Staaten, Frankreich, Kanada, Deutschland, Vereinigtes Königreich</country>
+    <programme start="20260124010000 +0000" stop="20260124015000 +0000" channel="PULS24">
+        <title lang="de">Ungelöst - Cold Case Austria</title>
+        <sub-title lang="de">Folge 15</sub-title>
+        <desc lang="de">"Ungelöst - Cold Case Austria" beleuchtet einen tragischen Fall aus den 80er Jahren. In Niederösterreich versuchte damals eine Frau gemeinsam mit ihrem Sohn ihrem gewaltsamen Partner zu entfliehen. Eines Tages jedoch war die Dame plötzlich verschwunden. Steckte ihr damaliger Freund dahinter? Auch der rätselhafte Mord an einer jungen Studentin wird wieder aufgerollt. Die Frau war 2005 auf dem Nachhauseweg von einer Disco von einem Unbekannten erstochen worden.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
+        <date>2023</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S3 E5</episode-num>
     </programme>
 
-    <programme start="20260122020500 +0000" stop="20260122025500 +0000" channel="ServusTV">
-        <title lang="de">P.M. Wissen</title>
-        <sub-title lang="de">Elektrozaun für Fische / Frittenfett im Flieger / Queere Tiere</sub-title>
-        <desc lang="de">Themen der Sendung: Wie schützt ein Elektrozaun unsere Fische vor Turbinen? // Wie drehen Profis  wackelfreie Luftaufnahmen? // Wie wird Frittierfett zu Flugzeugtreibstoff? // Wie funktioniert Betankung im Flug? // Wie lassen sich Lawinenabgänge besser vorhersagen? // Gibt es queere Tiere? // Wie verbessern wir unseren Schlaf? // Leiden Wölfe unter milden Wintern? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
+    <programme start="20260124015000 +0000" stop="20260124024000 +0000" channel="PULS24">
+        <title lang="de">Ungelöst - Cold Case Austria</title>
+        <sub-title lang="de">Folge 16</sub-title>
+        <desc lang="de">Der Fall um den Österreicher Andreas K. ist nach wie vor ungelöst. Der Jugendliche war bei einer Mallorca-Reise durch mysteriöse Umstände zu Tode gekommen. Die spanische Polizei geht davon aus, dass Andreas einen Unfall hatte und durch einen Sturz von der Notstiege des Hotels aus dem Leben geschieden ist. Doch die Familie des Opfers zweifelt an der Theorie der Behörden. Steckt ein Verbrechen dahinter?&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
         <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/7248204328812284824"/>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S3 E6</episode-num>
+    </programme>
+
+    <programme start="20260124024000 +0000" stop="20260124032000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Das letzte Spiel</sub-title>
+        <desc lang="de">Nach der Ermordung einer gewissen Diane Cunningham im September 2014 gibt es zunächst wenige Hinweise, die auf den oder die Täter schließen lassen. Erst Aufzeichnungen einer Überwachungskamera bringen Licht ins Dunkel.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E10</episode-num>
     </programme>
 
     <programme start="20260122025500 +0000" stop="20260122033500 +0000" channel="ServusTV">
@@ -789,15 +741,15 @@
         <date>2026</date>
         <category lang="de">Tennis</category>
         <icon src="https://images.mdn.ors.at/10623260643040612984"/>
-        <country>Australien, Rumänien</country>
+        <country>Australien</country>
     </programme>
 
     <programme start="20260122081500 +0000" stop="20260122105000 +0000" channel="ServusTV">
-        <title lang="de">Australian Open 2026</title>
+        <title lang="de">Tennis: Grand Slam in Australian Open</title>
         <sub-title lang="de">J. Duckworth - J. Sinner, Tennis LIVE: 2. Runde</sub-title>
-        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale. Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch. ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;</desc>
+        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale. Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch. ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;Übertragung des Tennisturniers Australian Open.</desc>
         <date>2026</date>
-        <category lang="de">Sonstiges</category>
+        <category lang="de">Tennis</category>
         <icon src="https://images.mdn.ors.at/10623260643040612984"/>
         <country>Australien</country>
     </programme>
@@ -1310,7 +1262,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260123130000 +0000" stop="20260123140500 +0000" channel="ServusTV">
+    <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="ServusTV">
         <title lang="de">Servus um 2</title>
         <sub-title lang="de">23.01.2026 14:00.</sub-title>
         <desc lang="de">Informativ, unterhaltsam, abwechslungsreich: Eine ganze Stunde lang widmet sich „Servus um 2“ jenen Themen, die Österreich bewegen. Worüber spricht, diskutiert und spekuliert das Land aktuell? Freuen Sie sich auf fesselnde Reportagen, ausführliche Hintergrund-Informationen und besondere Studiogäste! Erhalten Sie wertvolle Service-, Verbraucher- und Gesundheitstipps sowie einen umfangreichen Blick auf das Wetter! Und lernen Sie die interessantesten Menschen, Bräuche und Regionen des Landes kennen! Von Montag bis Freitag, ab 14 Uhr, bei ServusTV! Die Moderatoren der Sendung sind Gerald Schober und Alexander Schweitzer.&lt;br /&gt;&lt;br /&gt;Servus um 2: Von Montag bis Freitag erwartet die Zuschauer täglich ab 14:00 Uhr eine Stunde voller aktueller Themen aus Österreich, Reportagen und Portraits sowie nützlicher Verbraucher- und Gesundheitstipps. Abgerundet wird die Live-Sendung durch Studiogespräche mit Experten sowie Studiogästen, die ihrerseits vertiefende Einblicke in einzelne Themenfelder geben.</desc>
@@ -1323,6 +1275,16 @@
         <icon src="https://images.mdn.ors.at/11292966636382855837"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260123140000 +0000" stop="20260123140500 +0000" channel="ServusTV">
+        <title lang="de">Heimatlexikon</title>
+        <sub-title lang="de">Innsbrucker Bergrettung</sub-title>
+        <desc lang="de">Ein Unglück auf der Schipiste. Die Bergrettung muss anrücken. Für den Innsbrucker Bergretter Bruno Berloffa eine alltägliche Situation. Neben körperlicher Fitness ist eine rund 2-jährige, harte Ausbildung Voraussetzung für solch einen Einsatz. Darüber hinaus muss das Team regelmäßig Einsätze üben, z.B. in der Hafelekarrinne über Innsbruck. Sie zählt mit ihrem 70-prozentigem Gefälle zu den gefährlichsten Schipisten Europas. Passiert hier ein Unfall, wird von den Bergrettern das Maximum abverlangt. Wir haben das Team um Bergretter Bruno Berloffa bei einer Übung begleitet.&lt;br /&gt;&lt;br /&gt;Kurzreportagen über Berufe, Bräuche, Naturphänomene oder Burgen, die den österreichischen Kulturraum geprägt haben und noch heute prägen.</desc>
+        <date>2011</date>
+        <category lang="de">Kultur</category>
+        <icon src="https://images.mdn.ors.at/14684592353351058215"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20260123140500 +0000" stop="20260123145000 +0000" channel="ServusTV">
@@ -1338,7 +1300,7 @@
         <country>Deutschland</country>
     </programme>
 
-    <programme start="20260123145000 +0000" stop="20260123155500 +0000" channel="ServusTV">
+    <programme start="20260123145000 +0000" stop="20260123155400 +0000" channel="ServusTV">
         <title lang="de">Bares für Rares</title>
         <sub-title lang="de">Meisterwerk oder Flop?</sub-title>
         <desc lang="de">Das Gemälde eines sehr bekannten zeitgenössischen Künstlers aus den Niederlanden ist im Pulheimer Walzwerk eingetroffen. Doch was ist es wert? Wie wird Kunst von Herman Brood gehandelt? Was kann die derzeitige Besitzerin für ihren Kunstschatz verlangen? Das Gemälde ist imposant und auch recht groß. Kann die Expertin Bianca Berding den Herstellungszeitraum beziffern? Wie schätzt sie das Gemälde in Mischtechnik in seinem Wert ein? Und: Kann das Motiv des ausgelassen tanzenden Mannes die Händler und Händlerinnen im Pulheimer Walzwerk begeistern? Macht es sie neugierig oder ist eher von Gebotsflaute im Händlerraum auszugehen? Die derzeitige Besitzerin ist auf jeden Fall gewillt, auch vom relativ hohen Schätzpreis einige Abstriche zu machen, um einen erfolgreichen Verkauf über die Bühne zu bringen. Denn bei ihr ist nun Tapetenwechsel angesagt!&lt;br /&gt;&lt;br /&gt;Wertvoll oder wertlos? Ob alter Krimskrams oder edle Rarität: In Horst Lichters Trödel-Show kann jeder seltene Fundstücke aus Keller oder Garage schätzen lassen.</desc>
@@ -1351,9 +1313,9 @@
         <country>Deutschland</country>
     </programme>
 
-    <programme start="20260123155500 +0000" stop="20260123160000 +0000" channel="ServusTV">
+    <programme start="20260123155400 +0000" stop="20260123160000 +0000" channel="ServusTV">
         <title lang="de">Servus Wetter</title>
-        <sub-title lang="de">23.01.2026 16:55.</sub-title>
+        <sub-title lang="de">23.01.2026 16:54.</sub-title>
         <desc lang="de">Die ServusTV-Meteorologen bereisen den Alpenraum und produzieren Ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen. Außerdem erfahren Sie beim Servus Wetter nicht nur, wie das Wetter wird, sondern auch, warum es so wird.&lt;br /&gt;&lt;br /&gt;Servus Wetter. Die ServusTV-Meteorologen bereisen den Alpenraum und produzieren Ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Sebastian Weber</actor>
@@ -1551,6 +1513,38 @@
         <category lang="de">Reportage</category>
         <icon src="https://images.mdn.ors.at/6779097643803862882"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20260124012500 +0000" stop="20260124021500 +0000" channel="ServusTV">
+        <title lang="de">Die Gruaberin</title>
+        <sub-title lang="de">Mit Monika Gruber und der Journalistin Gabriele Krone-Schmalz</sub-title>
+        <desc lang="de">Bekannt wurde Gabriele Krone-Schmalz als langjährige Moskau-Korrespondentin in der Ära Gorbatschow. Heute fällt die Ex-ARD-Journalistin mit der markanten Frisur vor allem durch ihren kritischen Blick auf den Ukraine-Krieg auf. Krone-Schmalz versucht, Brücken zu schlagen: „Wir erleben keine informierten Debatten mehr, sondern nur noch moralisch aufgeblasenes Schwarz-Weiß-Denken.“ Im Gespräch mit Monika Gruber plädiert sie für eine bessere Streitkultur: ruhiger, selbstkritischer und respektvoller.&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+        <date>2025</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20260124021500 +0000" stop="20260124030000 +0000" channel="ServusTV">
+        <title lang="de">Heimatleuchten</title>
+        <sub-title lang="de">Unbekanntes Kitzbühel - Abseits der Streif</sub-title>
+        <desc lang="de">Mehr als nur Hahnenkammrennen und Spielplatz der Reichen: Österreichs wohl berühmtester Skiort aus der Sicht der heimischen Bevölkerung.&lt;br /&gt;&lt;br /&gt;Zur Heimat gehören Bilder, Gerüche, Geschmack, Traditionen, die Familie und eine ganz bestimmte Landschaft. All das zeigt „Heimatleuchten“ – wie ein Buch voller Eindrücke, voller Geschichten und Erinnerungen.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Conny Bürgler; [B]ErzählerIn[/B]: Florentin Groll</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/11209616897171521044"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20260124030000 +0000" stop="20260124032000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
