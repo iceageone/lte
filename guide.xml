@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-23 00:58:01.191495 -->
+<!-- created on 2026-01-23 02:58:22.482371 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,46 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260123005000 +0000" stop="20260123013000 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein mörderisches Paar</sub-title>
-        <desc lang="de">2014 verschwindet die schwangere Studentin Loretta Saunders. Zuletzt wurde sie auf der Überwachungskamera ihres Wohnhauses gesichtet. Dann entdeckt die Polizei ihr Auto auf einer anderen Kamera.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E9</episode-num>
-    </programme>
-
-    <programme start="20260123013000 +0000" stop="20260123021500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tödliche Verwechslung</sub-title>
-        <desc lang="de">Im Juni 2013 wird der 46-jährige Familienvater Richard Arenas mitten am Tag in seiner Einfahrt heimtückisch niedergeschossen. Es gibt weder Zeugen, noch ein Motiv. Gelingt es den Ermittlern dennoch, den kaltblütigen Killer zu finden?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E11</episode-num>
-    </programme>
 
     <programme start="20260123021500 +0000" stop="20260123030000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -673,48 +633,35 @@
         <episode-num system="onscreen">S16 E13</episode-num>
     </programme>
 
-    <programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="ServusTV">
-        <title lang="de">Giganten</title>
-        <sub-title lang="de">Elefanten</sub-title>
-        <desc lang="de">Schlau, stark - und das größte Landsäugetier der Welt: Der afrikanische Elefant. Diesmal ist der Zoologe Dan O'Neill einem wahren Rekordbrecher auf der Spur.&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
-        <credits>
-            <actor>[B]Produzent[/B]: Ruth Harries</actor>
-            <actor> James Mair; [B]Regie[/B]: Robert Myler; [B]Kamera[/B]: Peter Hayns</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">Tiere</category>
-        <icon src="https://images.mdn.ors.at/10447930531001392668"/>
-        <country>Vereinigtes Königreich</country>
-    </programme>
-
-    <programme start="20260123010000 +0000" stop="20260123021000 +0000" channel="ServusTV">
-        <title lang="de">Talk im Hangar-7</title>
-        <sub-title lang="de">23.01.2026 02:00.</sub-title>
-        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
-            <actor> Michael Fleischhacker</actor>
-        </credits>
-        <date>2026</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2026</episode-num>
-    </programme>
-
-    <programme start="20260123021000 +0000" stop="20260123025000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Steinerne Riesen</sub-title>
-        <desc lang="de">Der Tempel in Abu Simbel, im alten Ägypten, wurde so gebaut, dass die einfallenden Sonnenstrahlen zweimal im Jahr auf die Figur des König Ramses II. treffen, sodass kosmische Energien freigesetzt werden. Die berühmten Moai-Statuen auf der Osterinsel sollen einst eine magische Kraft besessen haben. Während die Wissenschaft von symbolischen Darstellungen ausgeht, sind die Theoretiker der Prä-Astronautik überzeugt, dass diese Figuren einem bestimmten Zweck gewidmet waren.&lt;br /&gt;In all diesen antiken monumentalen Bauten wurde das Material Quarz verbaut. Heutzutage wird Quarz in Datenspeichern verbaut, wie etwa optischen 5D-Datenspeichern, auf denen bis zu 330 Terrabyte Daten gespeichert werden können.&lt;br /&gt;Im Jahr 2019 entdeckte ein Team aus Wissenschaftlern der Universitäten und Forschungsinstitute MIT, Harvard und Yale, dass ungewöhnliche magnetische Anomalien in den kolossalen Steinköpfen in Mittelamerika vorzufinden seien. Die Bauwerke waren einst von den Olmeken und Monte-Alto-Kultur erbaut worden. Könnten die Steinköpfe über bisher unentdecktes Wissen über die antike Welt verfügen?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
+    <programme start="20260125014500 +0000" stop="20260125024000 +0000" channel="PULS24">
+        <title lang="de">Pfusch am Bau</title>
+        <desc lang="de">Familie Kahraman aus Strasshof hat für rund 18.000 Euro auf der Terrasse ihrer Eisdiele eine Glasfassade errichten lassen, doch es wurde gepfuscht: Jetzt regnet es bei der Tür rein und die Baufirma lässt nichts mehr von sich hören. Günther Nussbaum soll helfen. Auch Gabriel Schneider und Melitta Vrtaric bitten Nussbaum um Unterstützung. Ihr erstandenes Eigenheim bereitet den beiden große Kopfschmerzen, nachdem sich dort nach kürzester Zeit der Schimmel ausbreitete.&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
         <date>2020</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/15422341268842851798"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S12 E27</episode-num>
+        <category lang="de">Doku-Soap</category>
+        <icon src="https://images.mdn.ors.at/947581550505729740"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S16 E14</episode-num>
+    </programme>
+
+    <programme start="20260125024000 +0000" stop="20260125032000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260123025000 +0000" stop="20260123033500 +0000" channel="ServusTV">
@@ -1302,14 +1249,15 @@
 
     <programme start="20260124121500 +0000" stop="20260124124500 +0000" channel="ServusTV">
         <title lang="de">World of Freesports</title>
-        <sub-title lang="de">World of Freesports</sub-title>
+        <sub-title lang="de">Renn-Premiere in Südafrika</sub-title>
         <desc lang="de">Weg frei für die Welt des Extremsports! Unter der Rubrik „World of Freesports“ gibt es jede Woche Sport-Action pur bei ServusTV zu bestaunen. Das Highlight-Programm bietet Extremsport aus aller Welt: Freeriding am Südpol, Klettern in China, Kitesurfen in Brasilien – der Welt des Freesports sind keine Grenzen gesetzt.&lt;br /&gt;&lt;br /&gt;</desc>
         <date>2025</date>
-        <category lang="de">Extremsport</category>
-        <icon src="https://images.mdn.ors.at/15252096949787102290"/>
+        <category lang="de">Sonstiges</category>
+        <icon src="https://images.mdn.ors.at/1751688562284"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20260124124500 +0000" stop="20260124134300 +0000" channel="ServusTV">
+    <programme start="20260124124500 +0000" stop="20260124134800 +0000" channel="ServusTV">
         <title lang="de">P.M. Wissen</title>
         <sub-title lang="de">LKW mit Fernsteuerung - Ist das die Zukunft des Warentransports?</sub-title>
         <desc lang="de">P.M. Wissen" erklärt Phänomene des Alltags, schaut in Labore und Werkstätten und zeigt, wo und wie gerade Zukunft entsteht. Gemeinsam mit Astro-Physiker Gernot Grömer begibt sich das Team von "P.M. Wissen" jede Woche auf eine Reise zu Ideen, die vor kurzem noch Science-Fiction waren.&lt;br /&gt;&lt;br /&gt;P.M. Wissen zeigt, wo und wie gerade Zukunft entsteht und ist wissenschaftlichen Phänomenen auf der Spur. Astro-Physiker Gernot Grömer nimmt uns jede Woche mit auf eine Entdeckungsreise zu Entwicklungen, die vor kurzem noch Science-Fiction waren.</desc>
@@ -1319,9 +1267,9 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260124134300 +0000" stop="20260124134500 +0000" channel="ServusTV">
+    <programme start="20260124134800 +0000" stop="20260124135000 +0000" channel="ServusTV">
         <title lang="de">Servus Wetter</title>
-        <sub-title lang="de">24.01.2026 14:43.</sub-title>
+        <sub-title lang="de">24.01.2026 14:48.</sub-title>
         <desc lang="de">Servus Wetter zeigt Ihnen jeden Tag, wie das Wetter im Servus-Raum wird.&lt;br /&gt;&lt;br /&gt;Servus Wetter. Die ServusTV-Meteorologen bereisen den Alpenraum und produzieren Ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen.</desc>
         <date>2026</date>
         <category lang="de">Wetter</category>
@@ -1330,7 +1278,7 @@
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260124134500 +0000" stop="20260124144500 +0000" channel="ServusTV">
+    <programme start="20260124135000 +0000" stop="20260124145000 +0000" channel="ServusTV">
         <title lang="de">Fackeln, Feuer, Funken - Winterleuchten</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Vor allem in der dunklen Jahreszeit sehnen sich die Menschen nach Licht und Wärme. In Aurolzmünster erhellen aufwändig gestaltete Lampenschirme den Raum auf besondere Weise, das Leuchten der Glöcklerkappen in Ebensee soll böse Geister vertreiben, und wenn nach Monaten im Schatten die ersten Sonnenstrahlen wieder die engen Täler erreichen, feiern die Hallstätter die Rückkehr des Lichts.</desc>
         <credits>
@@ -1345,7 +1293,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260124144500 +0000" stop="20260124154500 +0000" channel="ServusTV">
+    <programme start="20260124145000 +0000" stop="20260124155000 +0000" channel="ServusTV">
         <title lang="de">Bergwelten</title>
         <sub-title lang="de">Zwei Brüder am Limit - Ein Winter mit Jakob und Matthias Weger</sub-title>
         <desc lang="de">Die Südtiroler Brüder Jakob und Matthias Weger sind seit Jahren in den extremsten Couloirs ihrer Heimat unterwegs. In den Dolomiten und der Ortler Gruppe haben sie spektakuläre Erstbefahrungen gemeistert – Jakob mit dem Snowboard und Matthias auf Skiern. Ein neues Projekt sind zwei wilde Couloirs in der Pala Gruppe im Trentino, in den südlichen Dolomiten. Beide bisher unbefahren. Wie zwei finstere Tunnels ziehen sie sich fast fünfhundert Höhenmeter als schmale Rinne durch den Fels.&lt;br /&gt;&lt;br /&gt;Die Reihe Bergwelten zeigt Bergbilder, die auch Menschenbilder sind. Bilder nicht nur von Alpinisten oder einfachen Bergbewohnern, sondern auch von Menschen aus den Städten, die der Faszination der Bergwelt erliegen: Schauspieler, Musiker, Maler, Schriftsteller.</desc>
@@ -1358,9 +1306,9 @@
         <country>Österreich, Italien</country>
     </programme>
 
-    <programme start="20260124154500 +0000" stop="20260124155000 +0000" channel="ServusTV">
+    <programme start="20260124155000 +0000" stop="20260124155500 +0000" channel="ServusTV">
         <title lang="de">Servus Wetter</title>
-        <sub-title lang="de">24.01.2026 16:45.</sub-title>
+        <sub-title lang="de">24.01.2026 16:50.</sub-title>
         <desc lang="de">Die ServusTV-Meteorologen bereisen den Alpenraum und produzieren Ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen. Außerdem erfahren Sie beim Servus Wetter nicht nur, wie das Wetter wird, sondern auch, warum es so wird.&lt;br /&gt;&lt;br /&gt;Servus Wetter. Die ServusTV-Meteorologen bereisen den Alpenraum und produzieren Ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen.</desc>
         <credits>
             <actor>[B]GastgeberIn[/B]: Sebastian Weber</actor>
@@ -1372,7 +1320,7 @@
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260124155000 +0000" stop="20260124165000 +0000" channel="ServusTV">
+    <programme start="20260124155500 +0000" stop="20260124165000 +0000" channel="ServusTV">
         <title lang="de">Giganten</title>
         <sub-title lang="de">Elefanten</sub-title>
         <desc lang="de">Schlau, stark - und das größte Landsäugetier der Welt: Der afrikanische Elefant. Diesmal ist der Zoologe Dan O'Neill einem wahren Rekordbrecher auf der Spur.&lt;br /&gt;&lt;br /&gt;Der Entdecker, Biologe und Artenschützer Dan O'Neill ist auf der Suche nach den größten Tieren der Welt. Was braucht es um zum Giganten zu werden und als solcher zu überleben egal ob in der Vergangenheit oder Gegenwart?</desc>
@@ -1572,6 +1520,37 @@
         <category lang="de">Krimi</category>
         <icon src="https://images.mdn.ors.at/183338045601869396"/>
         <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260125020000 +0000" stop="20260125024500 +0000" channel="ServusTV">
+        <title lang="de">Grüne Zukunft - Helden des Alltags</title>
+        <sub-title lang="de">USA</sub-title>
+        <desc lang="de">Von der Hektik New York Citys zur Wüste Utahs, von den Büros im Silicon Valley zur Ranch in Texas: Die USA sind eine Nation der Paradoxe und Extreme, ein Einwanderungsland, das schon immer neue Lebensperspektiven geboten hat und ein Land, in dem alles möglich zu sein scheint.&lt;br /&gt;Die modernen Pioniere der Gegenwart wollen den Übergang zu nachhaltiger Landwirtschaft fördern, verantwortungsvolle Architektur gestalten und ein bescheideneres Leben ermöglichen. Anja hat sich in der Steppe im Nordosten Kaliforniens niedergelassen. Dort hält sie Schweine und Rinder, mit größtmöglichem Respekt für die Tiere und das Land. &lt;br /&gt;Der Familienbetrieb von Dru und Paul in der Nähe von San Francisco produziert Obst und Gemüse auf unkonventionelle Weise. In New York verarbeitet eine Gruppe von jungen Metzgern hochwertiges Biofleisch - eine Ausnahmeerscheinung in diesem Land der Massenproduktion. Und in Seattle lebt eine einzigartige Gemeinschaft. Bainbridge Island liegt 30 Minuten mit der Fähre von Seattle entfernt. Die Stadt und zugleich Insel ist eine der ökologischsten Wohngegenden der USA.&lt;br /&gt;&lt;br /&gt;Ob Landwirte, Viehzüchter, Fischer oder Menschen, die ungewöhnliche Produkte herstellen – die Doku-Reihe folgt diesen Personen auf der ganzen Welt, um mehr über ihre Leidenschaft und ihre Arbeit zu erfahren, aber auch über ihren Geschmack und Fachwissen.</desc>
+        <credits>
+            <actor>[B]Editor[/B]: Charlotte Lorteau</actor>
+            <actor> Gaelle Berrabah</actor>
+            <actor> Pascaline Aumond</actor>
+            <actor> Florian Leterrier</actor>
+            <actor> Lea Demars</actor>
+            <actor> Kevin Lamour; [B]Regie[/B]:  Frédéric Planchenault; [B]Kamera[/B]: Jean L'Appartien</actor>
+            <actor> Claire Djian</actor>
+            <actor>  Antoine Delemarre; [B]Drehbuch[/B]: Benjamin Doize; [B]Produzent[/B]: Severin Delpon</actor>
+            <actor> Jean Moncaut</actor>
+            <actor> Marwan Rarrbo</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Umwelt</category>
+        <icon src="https://images.mdn.ors.at/9461398258581345675"/>
+        <country>Frankreich</country>
+    </programme>
+
+    <programme start="20260125024500 +0000" stop="20260125032500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -3423,7 +3402,7 @@
     <programme start="20260123195628 +0000" stop="20260123200317 +0000" channel="Cartoonito">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Der Doppelgänger</sub-title>
-        <desc lang="de">Grizzy baut einen Roboter, der so aussieht wie er selbst, um die Lemminge fernzuhalten. In der Zwischenzeit will er in Ruhe eine Popcorn-Party für die Bärendame vorbereiten. Doch sein Double ist leider nicht so klug wie erhofft.</desc>
+        <desc lang="de">Grizzly baut einen Roboter, der so aussieht wie er selbst, um die Lemminge fernzuhalten. In der Zwischenzeit will er in Ruhe eine Popcorn-Party für die Bärendame vorbereiten. Doch sein Double ist leider nicht so klug wie erhofft.</desc>
         <credits>
             <director>Victor-Emmanuel Moulin</director>
             <director>Cédric Lachenaud</director>
@@ -3517,7 +3496,7 @@
     <programme start="20260123203727 +0000" stop="20260123204357 +0000" channel="Cartoonito">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Bärenkunst</sub-title>
-        <desc lang="de">Grizzy versucht, die Bärendame, in die er verliebt ist, zu beeindrucken, indem er von ihr eine Skulptur aus Holz fertigt. Doch kaum dreht der Künstler seinem Werk den Rücken zu, nagen die Lemminge an dem Holz, um es in einen Rodelschlitten zu verwandeln. Nun muss der Bär mit den Lemmingen fertig werden, ohne dass sein Model erfährt, was gerade vor sich geht.</desc>
+        <desc lang="de">Grizzly versucht, die Bärendame, in die er verliebt ist, zu beeindrucken, indem er von ihr eine Skulptur aus Holz fertigt. Doch kaum dreht der Künstler seinem Werk den Rücken zu, nagen die Lemminge an dem Holz, um es in einen Rodelschlitten zu verwandeln. Nun muss der Bär mit den Lemmingen fertig werden, ohne dass sein Model erfährt, was gerade vor sich geht.</desc>
         <credits>
             <director>Victor-Emmanuel Moulin</director>
         </credits>
