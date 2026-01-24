@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-24 00:55:32.213244 -->
+<!-- created on 2026-01-24 02:50:01.687644 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,39 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260124001000 +0000" stop="20260124010000 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Der Kannibale vom Neusiedlersee</sub-title>
-        <desc lang="de">Im April 2018 macht die Polizei einen schockierenden Fund: aus dem Neusiedlersee werden der abgetrennte Torso und Kopf einer Leiche geborgen. Ein Hinweis führt in eine Gemeindewohnung im 20. Wiener Gemeindebezirk. Alfred U., der dort wohnt, hat eine lange Strafakte, die durchzogen ist von Gewalttaten: sexuelle Nötigung, Missbrauch, Vergewaltigung, versuchter Totschlag. Doch ist dieser Verdächtige auch der gesuchte Mörder? Grausame Funde in der Wohnung sprechen dafür ...&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2022</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S4 E6</episode-num>
-    </programme>
-
-    <programme start="20260124010000 +0000" stop="20260124015000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Folge 15</sub-title>
-        <desc lang="de">"Ungelöst - Cold Case Austria" beleuchtet einen tragischen Fall aus den 80er Jahren. In Niederösterreich versuchte damals eine Frau gemeinsam mit ihrem Sohn ihrem gewaltsamen Partner zu entfliehen. Eines Tages jedoch war die Dame plötzlich verschwunden. Steckte ihr damaliger Freund dahinter? Auch der rätselhafte Mord an einer jungen Studentin wird wieder aufgerollt. Die Frau war 2005 auf dem Nachhauseweg von einer Disco von einem Unbekannten erstochen worden.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E5</episode-num>
-    </programme>
-
-    <programme start="20260124015000 +0000" stop="20260124024000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Folge 16</sub-title>
-        <desc lang="de">Der Fall um den Österreicher Andreas K. ist nach wie vor ungelöst. Der Jugendliche war bei einer Mallorca-Reise durch mysteriöse Umstände zu Tode gekommen. Die spanische Polizei geht davon aus, dass Andreas einen Unfall hatte und durch einen Sturz von der Notstiege des Hotels aus dem Leben geschieden ist. Doch die Familie des Opfers zweifelt an der Theorie der Behörden. Steckt ein Verbrechen dahinter?&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E6</episode-num>
-    </programme>
 
     <programme start="20260124024000 +0000" stop="20260124032000 +0000" channel="PULS24">
         <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
@@ -324,6 +291,9 @@
     <programme start="20260124220500 +0000" stop="20260124230500 +0000" channel="PULS24">
         <title lang="de">Mein Recht! Ich geb' nicht auf!</title>
         <desc lang="de">Dr. Christian Horwath ist einem betrügerischen Schlüsseldienst auf der Spur. Der Staranwalt reist ins Ruhrgebiet. In der deutschen Stadt Essen hofft er, den Geschäftsführer des Schlüsseldienstes anzutreffen und zur Rede zu stellen - doch statt dem Geschäftsführer trifft er auf eine aggressive Gruppe offenbar arabischstämmiger Männer und es kommt zu einer schwierigen Situation ...&lt;br /&gt;&lt;br /&gt;In der Doku-Reihe begleitet der Rechtsanwalt Dr. Christian Horwath Menschen bei ihrem Kampf um Gerechtigkeit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Dr. Horwath</actor>
+        </credits>
         <date>2019</date>
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/10574286328609722230"/>
@@ -333,6 +303,9 @@
     <programme start="20260124230500 +0000" stop="20260125000000 +0000" channel="PULS24">
         <title lang="de">Mein Recht! Ich geb' nicht auf!</title>
         <desc lang="de">In dieser Folge nimmt sich Dr. Christian Horwath dem Fall von Günther Nussbaum an und eilt dem Paar Schultes-Forstner zu Hilfe. Deren Wohnung weist gravierende Baumängel auf, obwohl das Paar bereits seine gesamten Ersparnisse von 90.000 Euro investiert hat. Horwath stellt fest, dass deren Vertragspartner in Konkurs ist und versucht alle Hebel in Bewegung zu setzen, um das Paar aus der Notlage zu befreien.&lt;br /&gt;&lt;br /&gt;In der Doku-Reihe begleitet der Rechtsanwalt Dr. Christian Horwath Menschen bei ihrem Kampf um Gerechtigkeit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Dr. Horwath</actor>
+        </credits>
         <date>2019</date>
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/10574286328609722230"/>
@@ -343,6 +316,9 @@
     <programme start="20260125000000 +0000" stop="20260125005500 +0000" channel="PULS24">
         <title lang="de">Mein Recht! Ich geb' nicht auf!</title>
         <desc lang="de">Wieder einmal beschäftigt sich Dr. Christian Horwath mit einem Thema, das sehr viele Österreicher betrifft: Betrügerische Schlüsseldienste, die mit topgereihten Google-Anzeigen und günstigen Preisen locken, dann aber, sobald der Schlüsseldienst-Mitarbeiter seine Arbeit erledigt hat, völlig überraschend stark überhöhte Rechnungen legen. Ludwig W. hat auf diese Weise 1300 Euro verloren ...&lt;br /&gt;&lt;br /&gt;In der Doku-Reihe begleitet der Rechtsanwalt Dr. Christian Horwath Menschen bei ihrem Kampf um Gerechtigkeit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Dr. Horwath</actor>
+        </credits>
         <date>2020</date>
         <category lang="de">Reality-TV</category>
         <icon src="https://images.mdn.ors.at/10574286328609722230"/>
@@ -702,29 +678,36 @@
         <episode-num system="onscreen">S5 E4</episode-num>
     </programme>
 
-    <programme start="20260124003000 +0000" stop="20260124012500 +0000" channel="ServusTV">
-        <title lang="de">Fackeln, Feuer, Funken - Winterleuchten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Vor allem in der dunklen Jahreszeit sehnen sich die Menschen nach Licht und Wärme. In Aurolzmünster erhellen aufwändig gestaltete Lampenschirme den Raum auf besondere Weise, das Leuchten der Glöcklerkappen in Ebensee soll böse Geister vertreiben, und wenn nach Monaten im Schatten die ersten Sonnenstrahlen wieder die engen Täler erreichen, feiern die Hallstätter die Rückkehr des Lichts.</desc>
-        <credits>
-            <actor>[B]Kamera[/B]:  Klaus Achter</actor>
-            <actor> Christian Gappmaier</actor>
-            <actor>  Hans Schober; [B]Editor[/B]:  Ivan Radovanovic</actor>
-            <actor> Eva Walkner-Schwarzl; [B]Produzent[/B]: Karin Schneider; [B]Regie[/B]: Magdalena Brunner</actor>
-        </credits>
-        <date>2024</date>
+    <programme start="20260126015000 +0000" stop="20260126024000 +0000" channel="PULS24">
+        <title lang="de">Österreichs schockierendste Verbrechen</title>
+        <sub-title lang="de">Der Sprengfallenmord</sub-title>
+        <desc lang="de">Petra M. wird bei einer Waffenübergabe an die Polizei von einer Handgranate getötet. Werner Neymayer, der den Waffendeal eingefädelt hatte, soll seine Mitarbeiterin ermordet haben, um ihre Lebensversicherung kassieren zu können. Er wird zu einer lebenslangen Freiheitsstrafe verurteilt, obwohl er stets seine Unschuld beteuerte. Für die Wiederaufnahme des Verfahrens nimmt ein Sprengstoffexperte den Fall noch einmal unter die Lupe und kommt zu einem erstaunlichen Ergebnis.&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
+        <date>2012</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/6779097643803862882"/>
+        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2 E2</episode-num>
     </programme>
 
-    <programme start="20260124012500 +0000" stop="20260124023000 +0000" channel="ServusTV">
-        <title lang="de">Die Gruaberin</title>
-        <sub-title lang="de">Mit Monika Gruber und der Journalistin Gabriele Krone-Schmalz</sub-title>
-        <desc lang="de">Bekannt wurde Gabriele Krone-Schmalz als langjährige Moskau-Korrespondentin in der Ära Gorbatschow. Heute fällt die Ex-ARD-Journalistin mit der markanten Frisur vor allem durch ihren kritischen Blick auf den Ukraine-Krieg auf. Krone-Schmalz versucht, Brücken zu schlagen: „Wir erleben keine informierten Debatten mehr, sondern nur noch moralisch aufgeblasenes Schwarz-Weiß-Denken.“ Im Gespräch mit Monika Gruber plädiert sie für eine bessere Streitkultur: ruhiger, selbstkritischer und respektvoller.&lt;br /&gt;&lt;br /&gt;Die Gruaberin is back! In ihrem neuen Vodcast trifft Monika Gruber spannende, interessante, lustige und unterhaltsame Menschen, die etwas zu sagen haben.</desc>
+    <programme start="20260126024000 +0000" stop="20260126032000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2025</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/14384818036775112595"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260124023000 +0000" stop="20260124033500 +0000" channel="ServusTV">
@@ -805,11 +788,13 @@
     </programme>
 
     <programme start="20260124061500 +0000" stop="20260124090000 +0000" channel="ServusTV">
-        <title lang="de">Australian Open 2026</title>
+        <title lang="de">Tennis: Grand Slam in Australian Open</title>
         <sub-title lang="de">S. Wawrinka - T. Fritz, Tennis LIVE: 3. Runde</sub-title>
-        <desc lang="de">Er wird der „Happy Slam“ genannt – und eröffnet traditionell das Tennisjahr. Die Australian Open stehen nicht nur für hochklassiges Tennis, sondern auch für schönes Wetter, Wärme und australische Lebensfreude. Fast schon genauso traditionell können Sie das erste Grand-Slam-Turnier des Jahres live bei ServusTV verfolgen. Sie bekommen täglich das Topspiel bequem ins Wohnzimmer geliefert.&lt;br /&gt;&lt;br /&gt;</desc>
-        <category lang="de">Sonstiges</category>
-        <icon src="https://files.app.austrostream.at/files/photo-placeholder-serie-001.jpg"/>
+        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale.&lt;br /&gt;Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch.&lt;br /&gt;ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;Übertragung des Tennisturniers Australian Open.</desc>
+        <date>2026</date>
+        <category lang="de">Tennis</category>
+        <icon src="https://images.mdn.ors.at/10623260643040612984"/>
+        <country>Australien</country>
     </programme>
 
     <programme start="20260124090000 +0000" stop="20260124090800 +0000" channel="ServusTV">
@@ -845,7 +830,7 @@
         <category lang="de">Geschichtlich</category>
         <icon src="https://images.mdn.ors.at/15422341268842851798"/>
         <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S12 E27</episode-num>
+        <episode-num system="onscreen">S13 E27</episode-num>
     </programme>
 
     <programme start="20260124095800 +0000" stop="20260124100000 +0000" channel="ServusTV">
@@ -1354,32 +1339,32 @@
     </programme>
 
     <programme start="20260125120000 +0000" stop="20260125121500 +0000" channel="ServusTV">
-        <title lang="de">World Rally Championship 2026</title>
+        <title lang="de">World Rally Championship</title>
         <sub-title lang="de">Rallye Monte-Carlo: Vorbericht</sub-title>
-        <desc lang="de">Die Rallye Monte Carlo eröffnet die neue Rallye-Saison 2026 und gilt als einer der traditionsreichsten Läufe im Kalender. Rund um Monaco treffen Fahrer und Teams auf wechselnde Bedingungen: trockener Asphalt, nasse Straßen, Schnee und Eis. Es geht um den perfekten Saisonstart. Und um einen der begehrtesten Siege der WRC.&lt;br /&gt;&lt;br /&gt;</desc>
+        <desc lang="de">Die Rallye Monte Carlo eröffnet die neue Rallye-Saison 2026 und gilt als einer der traditionsreichsten Läufe im Kalender. Rund um Monaco treffen Fahrer und Teams auf wechselnde Bedingungen: trockener Asphalt, nasse Straßen, Schnee und Eis. Es geht um den perfekten Saisonstart. Und um einen der begehrtesten Siege der WRC.&lt;br /&gt;&lt;br /&gt;Übertragung des Programms - FIA World Rally Championship.</desc>
         <date>2025</date>
-        <category lang="de">Sonstiges</category>
-        <icon src="https://files.app.austrostream.at/files/photo-placeholder-serie-001.jpg"/>
+        <category lang="de">Rally</category>
+        <icon src="https://images.mdn.ors.at/15231857690309743180"/>
         <country>Monaco</country>
     </programme>
 
     <programme start="20260125121500 +0000" stop="20260125131500 +0000" channel="ServusTV">
-        <title lang="de">World Rally Championship 2026</title>
+        <title lang="de">World Rally Championship</title>
         <sub-title lang="de">Rallye Monte-Carlo: Powerstage</sub-title>
-        <desc lang="de">Die Rallye Monte Carlo eröffnet die neue Rallye-Saison 2026 und gilt als einer der traditionsreichsten Läufe im Kalender. Rund um Monaco treffen Fahrer und Teams auf wechselnde Bedingungen: trockener Asphalt, nasse Straßen, Schnee und Eis. Es geht um den perfekten Saisonstart. Und um einen der begehrtesten Siege der WRC.&lt;br /&gt;&lt;br /&gt;</desc>
+        <desc lang="de">Die Rallye Monte Carlo eröffnet die neue Rallye-Saison 2026 und gilt als einer der traditionsreichsten Läufe im Kalender. Rund um Monaco treffen Fahrer und Teams auf wechselnde Bedingungen: trockener Asphalt, nasse Straßen, Schnee und Eis. Es geht um den perfekten Saisonstart. Und um einen der begehrtesten Siege der WRC.&lt;br /&gt;&lt;br /&gt;Übertragung des Programms - FIA World Rally Championship.</desc>
         <date>2025</date>
-        <category lang="de">Sonstiges</category>
-        <icon src="https://files.app.austrostream.at/files/photo-placeholder-serie-001.jpg"/>
+        <category lang="de">Rally</category>
+        <icon src="https://images.mdn.ors.at/15231857690309743180"/>
         <country>Monaco</country>
     </programme>
 
     <programme start="20260125131500 +0000" stop="20260125133000 +0000" channel="ServusTV">
-        <title lang="de">World Rally Championship 2026</title>
+        <title lang="de">World Rally Championship</title>
         <sub-title lang="de">Rallye Monte-Carlo: Nachbericht</sub-title>
-        <desc lang="de">Die Rallye Monte Carlo eröffnet die neue Rallye-Saison 2026 und gilt als einer der traditionsreichsten Läufe im Kalender. Rund um Monaco treffen Fahrer und Teams auf wechselnde Bedingungen: trockener Asphalt, nasse Straßen, Schnee und Eis. Es geht um den perfekten Saisonstart. Und um einen der begehrtesten Siege der WRC.&lt;br /&gt;&lt;br /&gt;</desc>
+        <desc lang="de">Die Rallye Monte Carlo eröffnet die neue Rallye-Saison 2026 und gilt als einer der traditionsreichsten Läufe im Kalender. Rund um Monaco treffen Fahrer und Teams auf wechselnde Bedingungen: trockener Asphalt, nasse Straßen, Schnee und Eis. Es geht um den perfekten Saisonstart. Und um einen der begehrtesten Siege der WRC.&lt;br /&gt;&lt;br /&gt;Übertragung des Programms - FIA World Rally Championship.</desc>
         <date>2025</date>
-        <category lang="de">Sonstiges</category>
-        <icon src="https://files.app.austrostream.at/files/photo-placeholder-serie-001.jpg"/>
+        <category lang="de">Rally</category>
+        <icon src="https://images.mdn.ors.at/15231857690309743180"/>
         <country>Monaco</country>
     </programme>
 
@@ -1567,7 +1552,8 @@
 
     <programme start="20260125191500 +0000" stop="20260125204500 +0000" channel="ServusTV">
         <title lang="de">Ab Hof</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Im Pinzgauer Saalachtal liegt der Biohof Stechaubauer zwischen dem Steinernem Meer und den Leoganger Steinbergen. Bereits seit 1964 wird dieser Hof der Familie Haitzmann biologisch bewirtschaftet. Im Hofladen gibt es Gemüse aus Eigenanbau in allen Variationen, aber auch Schweine- und Rindfleisch aus eigener Zucht. Im Innviertel steht seit 1931 die Privatkäserei Höflmaier. Nicht nur von Kennern aus der österreichischen Spitzengastronomie gerühmt für Käse und Butter aus biologischer Erzeugung. In vierter Generation wird Höflmaier heute geführt von den Brüdern Josef und Thomas Höflmaier. Aber was wäre ein gutes Stück Käse ohne einem herzhaften Bissen Brot? An einem Seitenarm der Mur, zehn Kilometer südlich von Graz, steht ein technisches Wunderwerk, die Haindlmühle. Seit 1925 wird hier Getreide zu Mehl verarbeitet. Alois und Johanna Haindl führen die Mühle nun bereits in der dritten Generation und auch Tochter Daniela hat sich zur Weiterführung entschlossen. Nicht nur das Mehl, sondern auch frisches Brot kann im angeschlossenen Laden gekauft werden. Auf "Solidarische Landwirtschaft" setzen im Innviertel dagegen Carola Geisberger und Reinhard Hofer. Fixe Abnahmeverträge mit Kunden ermöglichen ein planbares und risikoärmeres Wirtschaften, als in der konventionellen Landwirtschaft.  Am Biohof Feldhütter, 40km nördlich von Salzburg, bei Ostermiething stellt Familie Klüglein mit ihren Saanenziegen den Ettenauer Ziegenkäse her. Ihre eigenen Hofkäserei macht eine schonende Verarbeitung der frischen Rohmilch möglich. Und natürlich gibt es auch hier den Hofladen, der mit viel Liebe geführt und nicht nur mit Käsespezilitäten überrascht.</desc>
+        <sub-title lang="de">Mut</sub-title>
+        <desc lang="de">Bauer sein, im Einklang mit der Natur und dennoch davon Leben können? Für viele Kleinbauern  wurde das in den letzten Jahrzehnten ein Ding der Unmöglichkeit. Mit Mut und Vision gehen immer mehr Bauern neue Wege. Gemeinsam mit denen, die frische Lebensmitteldirekt  aus ihrer Region beziehen wollen, machen sie es möglich.&lt;br /&gt;&lt;br /&gt;Ein Trend der letzten Jahre ist die Selbstvermarktung. Warum nicht direkt vom Bauern ums Eck kaufen? Die Suche nach den besten Nahrungsmitteln aus der unmittelbaren Umgebung ist durch die Zeiten der Corona-Lockdowns noch verstärkt worden.</desc>
         <credits>
             <actor>[B]Kamera[/B]: Florian Schilling</actor>
             <actor>  Michael Gügerl</actor>
@@ -1581,7 +1567,7 @@
             <actor> Beatrix Ziegler; [B]Regie[/B]: Alexandar Saran</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Sonstiges</category>
+        <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/10102790760583344558"/>
         <country>Österreich</country>
     </programme>
@@ -1598,7 +1584,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260125205500 +0000" stop="20260125215500 +0000" channel="ServusTV">
+    <programme start="20260125205500 +0000" stop="20260125220000 +0000" channel="ServusTV">
         <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
         <sub-title lang="de">25.01.2026 21:55.</sub-title>
         <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
@@ -1613,17 +1599,15 @@
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260125215500 +0000" stop="20260125225500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Im Einklang mit der Natur - Wie wir voneinander profitieren</sub-title>
-        <desc lang="de">Diesmal bei TM Wissen: Können wir in Österreich Soja anbauen? // Wie nützlich sind Laufkäfer bei der Schädlingsbekämpfung? // Warum ist Seegras so wichtig? // Wie kommen alte Hefestämme ins Bier? // Was passiert bei der Gärung? // Wie hilft K.I. bei der Weinprobe?&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20260125220000 +0000" stop="20260125225000 +0000" channel="ServusTV">
+        <title lang="de">Sascha Huber vs. Johannes Lamparter</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Salzburger Fitness-Creator Sascha Huber trifft in einer dreiteiligen Serie auf die Spitzenathleten Anna Gandler (Biathlon), Johannes Lamparter (nordische Kombination) und Paul Verbnjak (Skibergsteigen). In Training und „Wettkampf“ erlebt er die körperlichen und mentalen Anforderungen der Wintersportarten aus nächster Nähe. Alle Folgen auf ServusTV On.</desc>
+        <date>2026</date>
+        <category lang="de">Sonstiges</category>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260125225500 +0000" stop="20260125235000 +0000" channel="ServusTV">
+    <programme start="20260125225000 +0000" stop="20260125234500 +0000" channel="ServusTV">
         <title lang="de">Evolve</title>
         <sub-title lang="de">Verteidigen - Was Tiere unbesiegbar macht</sub-title>
         <desc lang="de">Von unsichtbaren Kraken bis hin zu beinahe unzerstörbaren Kakerlaken! Der britische Biologe Patrick Aryee trifft Wissenschaftler, die von der Flora und Fauna lernen, um neuartige Technologien zu entwickeln, die uns in Zukunft besser schützen könnten. Seit langem ist Patrick Aryee bereits fasziniert von der Bionik. Dabei nehmen Wissenschaftler Anregungen aus der Biologie und setzen diese in Form von neuartiger Technologie und Technik um. In dieser Episode deckt Patrick Aryee auf, wie die Verteidigungslösungen der Natur Wissenschaftler zu neuen Schutztechnologien für die Menschheit inspirieren.&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
@@ -1642,9 +1626,10 @@
         <episode-num system="onscreen">S1 E4</episode-num>
     </programme>
 
-    <programme start="20260125235000 +0000" stop="20260126010500 +0000" channel="ServusTV">
+    <programme start="20260125234500 +0000" stop="20260126010000 +0000" channel="ServusTV">
         <title lang="de">Ab Hof</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Im Pinzgauer Saalachtal liegt der Biohof Stechaubauer zwischen dem Steinernem Meer und den Leoganger Steinbergen. Bereits seit 1964 wird dieser Hof der Familie Haitzmann biologisch bewirtschaftet. Im Hofladen gibt es Gemüse aus Eigenanbau in allen Variationen, aber auch Schweine- und Rindfleisch aus eigener Zucht. Im Innviertel steht seit 1931 die Privatkäserei Höflmaier. Nicht nur von Kennern aus der österreichischen Spitzengastronomie gerühmt für Käse und Butter aus biologischer Erzeugung. In vierter Generation wird Höflmaier heute geführt von den Brüdern Josef und Thomas Höflmaier. Aber was wäre ein gutes Stück Käse ohne einem herzhaften Bissen Brot? An einem Seitenarm der Mur, zehn Kilometer südlich von Graz, steht ein technisches Wunderwerk, die Haindlmühle. Seit 1925 wird hier Getreide zu Mehl verarbeitet. Alois und Johanna Haindl führen die Mühle nun bereits in der dritten Generation und auch Tochter Daniela hat sich zur Weiterführung entschlossen. Nicht nur das Mehl, sondern auch frisches Brot kann im angeschlossenen Laden gekauft werden. Auf "Solidarische Landwirtschaft" setzen im Innviertel dagegen Carola Geisberger und Reinhard Hofer. Fixe Abnahmeverträge mit Kunden ermöglichen ein planbares und risikoärmeres Wirtschaften, als in der konventionellen Landwirtschaft.  Am Biohof Feldhütter, 40km nördlich von Salzburg, bei Ostermiething stellt Familie Klüglein mit ihren Saanenziegen den Ettenauer Ziegenkäse her. Ihre eigenen Hofkäserei macht eine schonende Verarbeitung der frischen Rohmilch möglich. Und natürlich gibt es auch hier den Hofladen, der mit viel Liebe geführt und nicht nur mit Käsespezilitäten überrascht.</desc>
+        <sub-title lang="de">Mut</sub-title>
+        <desc lang="de">Bauer sein, im Einklang mit der Natur und dennoch davon Leben können? Für viele Kleinbauern  wurde das in den letzten Jahrzehnten ein Ding der Unmöglichkeit. Mit Mut und Vision gehen immer mehr Bauern neue Wege. Gemeinsam mit denen, die frische Lebensmitteldirekt  aus ihrer Region beziehen wollen, machen sie es möglich.&lt;br /&gt;&lt;br /&gt;Ein Trend der letzten Jahre ist die Selbstvermarktung. Warum nicht direkt vom Bauern ums Eck kaufen? Die Suche nach den besten Nahrungsmitteln aus der unmittelbaren Umgebung ist durch die Zeiten der Corona-Lockdowns noch verstärkt worden.</desc>
         <credits>
             <actor>[B]Kamera[/B]: Florian Schilling</actor>
             <actor>  Michael Gügerl</actor>
@@ -1658,9 +1643,52 @@
             <actor> Beatrix Ziegler; [B]Regie[/B]: Alexandar Saran</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Sonstiges</category>
+        <category lang="de">Dokumentation</category>
         <icon src="https://images.mdn.ors.at/10102790760583344558"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20260126010000 +0000" stop="20260126020000 +0000" channel="ServusTV">
+        <title lang="de">Links. Rechts. Mitte - Duell der Meinungsmacher</title>
+        <sub-title lang="de">26.01.2026 02:00.</sub-title>
+        <desc lang="de">Ein Tisch, verschiedene Meinungen. Dazu ein Moderator, der mit den Gästen die relevanten Themen der Woche bespricht und ausdiskutiert. Im Mittelpunkt steht ein pointierter und lebendiger Austausch an Argumenten und Meinungen, der dem Zuseher beide Seiten einer Medaille erklärt. Bei „Links. Rechts. Mitte“ kommen Gäste zu Wort, die tatsächlich etwas zu sagen haben und nicht nur die bekannten Phrasen austauschen. 60 Minuten Talkshow, die das Zeitgeschehen auf den Punkt bringt und dem Zuschauer Orientierung auch in turbulenten Zeiten spendet.&lt;br /&gt;&lt;br /&gt;Politische Einstellungen werden seit gut 200 Jahren in "links" oder "rechts" eingeteilt, ob diese Einteilung noch Gültigkeit besitzt, sei dahingestellt. „Links. Rechts. Mitte“ ist ein Diskussionsformat, bei dem jeden Sonntagabend jeweils zwei sogenannte linke Publizisten/Journalisten auf zwei sogenannte rechtskonservative Publizisten/Journalisten treffen, um die aktuellen Entwicklungen in der (Welt-)Politik einordnen. Ziel ist nicht nur ein pointierter Austausch an Argumenten, der dem Zuseher einen Erkenntnis- und Einordnungsgewinn beschert, sondern auch die eine oder andere überraschende Überschneidung bei Positionen, die – bei gewissen Themen – von beiden Seiten vertreten werden.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Katrin Prähauser</actor>
+            <actor> Christoph Kotanko</actor>
+        </credits>
+        <date>2026</date>
+        <category lang="de">Politik</category>
+        <icon src="https://images.mdn.ors.at/10922517224870149189"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260126020000 +0000" stop="20260126024500 +0000" channel="ServusTV">
+        <title lang="de">Evolve</title>
+        <sub-title lang="de">Verteidigen - Was Tiere unbesiegbar macht</sub-title>
+        <desc lang="de">Von unsichtbaren Kraken bis hin zu beinahe unzerstörbaren Kakerlaken! Der britische Biologe Patrick Aryee trifft Wissenschaftler, die von der Flora und Fauna lernen, um neuartige Technologien zu entwickeln, die uns in Zukunft besser schützen könnten. Seit langem ist Patrick Aryee bereits fasziniert von der Bionik. Dabei nehmen Wissenschaftler Anregungen aus der Biologie und setzen diese in Form von neuartiger Technologie und Technik um. In dieser Episode deckt Patrick Aryee auf, wie die Verteidigungslösungen der Natur Wissenschaftler zu neuen Schutztechnologien für die Menschheit inspirieren.&lt;br /&gt;&lt;br /&gt;In der Dokureihe „Evolve“ erklärt der Biologe, Moderator und BBC-Wildlife-Experte Patrick Aryee die spannende Wissenschaft der Biomimetik, die Naturphänomene erforscht, um technische Entwicklungen voranzubringen. Er zeigt, was die Evolution über Jahrtausende an Methoden hervorgebracht hat, die menschlichen Ansätzen weit überlegen sind – und wie Forschende und Entwickler damit Zukunftsfragen der Menschheit lösen wollen. Eine visuell opulente Reise in eine mögliche, von der Natur inspirierte Zukunft.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Patrick Aryee; [B]Regie[/B]: Chris Baron</actor>
+            <actor> Katy Savage</actor>
+            <actor> Joanna Barwick</actor>
+            <actor> Rachelle Keeling; [B]Produzent[/B]:  Brian Leckey</actor>
+            <actor> Mark Drake</actor>
+            <actor> Jorge Franzini</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Wissenschaft</category>
+        <icon src="https://images.mdn.ors.at/2937860843089589682"/>
+        <country>Vereinigte Staaten, Singapur, Vereinigtes Königreich</country>
+        <episode-num system="onscreen">S1 E4</episode-num>
+    </programme>
+
+    <programme start="20260126024500 +0000" stop="20260126033500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -3564,7 +3592,7 @@
     <programme start="20260124195714 +0000" stop="20260124200409 +0000" channel="Cartoonito">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Begehrte Blume</sub-title>
-        <desc lang="de">Ein Windstoß trägt die Blume davon, die Grizzlys angehimmelte Bärendame im Haar trägt. Sofort erkennt der Bär seine große Chance und will die Blume zurückholen, um die Bärendame zu beeindrucken. Die Lemminge, die gerade auf einem bockigen Karibu sitzen, haben es ebenfalls auf die Blume abgesehen und so liefern sich der Bär und die Lemminge mal wieder ein rasantes Wettrennen.</desc>
+        <desc lang="de">Ein Windstoß trägt die Blume davon, die Grizzys angehimmelte Bärendame im Haar trägt. Sofort erkennt der Bär seine große Chance und will die Blume zurückholen, um die Bärendame zu beeindrucken. Die Lemminge, die gerade auf einem bockigen Karibu sitzen, haben es ebenfalls auf die Blume abgesehen und so liefern sich der Bär und die Lemminge mal wieder ein rasantes Wettrennen.</desc>
         <credits>
             <director>Victor-Emmanuel Moulin</director>
         </credits>
