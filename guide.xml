@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-01-28 00:57:19.805004 -->
+<!-- created on 2026-01-28 02:59:55.510556 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,67 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260128004000 +0000" stop="20260128012500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Tödliche Verwechslung</sub-title>
-        <desc lang="de">Im Juni 2013 wird der 46-jährige Familienvater Richard Arenas mitten am Tag in seiner Einfahrt heimtückisch niedergeschossen. Es gibt weder Zeugen, noch ein Motiv. Gelingt es den Ermittlern dennoch, den kaltblütigen Killer zu finden?&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E11</episode-num>
-    </programme>
-
-    <programme start="20260128012500 +0000" stop="20260128020500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Ein mörderisches Paar</sub-title>
-        <desc lang="de">2014 verschwindet die schwangere Studentin Loretta Saunders. Zuletzt wurde sie auf der Überwachungskamera ihres Wohnhauses gesichtet. Dann entdeckt die Polizei ihr Auto auf einer anderen Kamera.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2018</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
-        <episode-num system="onscreen">S4 E9</episode-num>
-    </programme>
-
-    <programme start="20260128020500 +0000" stop="20260128025000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260128025000 +0000" stop="20260128033500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -723,19 +662,66 @@
         <episode-num system="onscreen">S4 E16</episode-num>
     </programme>
 
-    <programme start="20260128004000 +0000" stop="20260128012500 +0000" channel="ServusTV">
-        <title lang="de">Hubert und Staller</title>
-        <sub-title lang="de">Wenn's läuft, dann läuft's</sub-title>
-        <desc lang="de">Blondine Christine Wagner ist ein echter Volltreffer, das steht für Yazid bereits nach dem ersten Date in einer Gaststätte fest. Doch mit der ewigen Liebe wird es nichts, denn Christine ist bereits kurz nach dem Rendezvous tot. Yazid findet ihre Leiche auf dem Parkplatz vor dem Lokal, in dem er seine Traumfrau traf. Als Yazid im Affekt die Tatwaffe aufhebt und mit dem Messer in der Hand gesehen wird, bleibt dem ansonsten um keine Ausrede verlegenen Schlitzohr nur die Flucht.&lt;br /&gt;&lt;br /&gt;Die in Wolfratshausen Dienst versehenden bayerischen Streifenpolizisten Franz Hubert und Johannes Staller geraten bei Situationen aus dem Polizeialltag in Fälle hinein, die eigentlich außerhalb ihres Kompetenzbereiches liegen. Trotzdem gelingt es ihnen, die Straftaten aufzuklären, wobei Hubert die Dienstvorschriften stärker beachtet als Staller, der nach seinem Willen ermittelt</desc>
+    <programme start="20260130013000 +0000" stop="20260130021500 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Das letzte Spiel</sub-title>
+        <desc lang="de">Nach der Ermordung einer gewissen Diane Cunningham im September 2014 gibt es zunächst wenige Hinweise, die auf den oder die Täter schließen lassen. Erst Aufzeichnungen einer Überwachungskamera bringen Licht ins Dunkel.&lt;br /&gt;&lt;br /&gt;Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Christian Tramitz</actor>
-            <actor> Michael Brandner</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>2016</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/6426240912183734673"/>
+        <date>2018</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Kanada, Vereinigtes Königreich, Vereinigte Staaten</country>
+        <episode-num system="onscreen">S4 E10</episode-num>
+    </programme>
+
+    <programme start="20260130021500 +0000" stop="20260130030000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
         <country>Deutschland</country>
-        <episode-num system="onscreen">S6 E9</episode-num>
+    </programme>
+
+    <programme start="20260130030000 +0000" stop="20260130034500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260128012500 +0000" stop="20260128033000 +0000" channel="ServusTV">
@@ -838,12 +824,12 @@
     </programme>
 
     <programme start="20260128081500 +0000" stop="20260128105000 +0000" channel="ServusTV">
-        <title lang="de">Australian Open 2026</title>
+        <title lang="de">Tennis: Grand Slam in Australian Open</title>
         <sub-title lang="de">B. Shelton - J. Sinner, Tennis LIVE: Viertelfinale</sub-title>
-        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale.&lt;br /&gt;Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch.&lt;br /&gt;ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;</desc>
+        <desc lang="de">Carlos Alcaraz und Jannik Sinner haben sich die letzten acht Grand-Slam-Titel untereinander ausgemacht. Viermal konnte der Spanier triumphieren, viermal der Südtiroler und die ganze Tennis-Welt wartet wieder auf einen Showdown der beiden Ausnahmekönner im Finale.&lt;br /&gt;Oder kann diesmal vielleicht jemand dazwischenfunken? Novak Djokovic hat seine Mission Major-Titel Nummer 25 noch nicht aufgegeben. Alexander Zverev träumt nach wie vor von seinem ersten Slam überhaupt und hat 2025 mit dem Finaleinzug schon gezeigt, dass ihm der australische Hartplatz liegt. Dahinter lauern die US-Boys mit Taylor Fritz und Ben Shelton oder der Kanadier Felix Auger-Aliassime. Aus österreichischer Sicht hält Filip Misolic die Fahnen hoch.&lt;br /&gt;ServusTV begleitet Sie durch den „Happy Slam“, zeigt jeden Tag ein ausgewähltes Topspiel, beide Herren-Halbfinalspiele sowie das Damen- und das Herren-Finale und versorgt Sie mit den Kommentatoren Christian Nehiba und Philipp Krummholz sowie ServusTV-Experte Alexander Antonitsch auch mit ausführlichen Analysen.&lt;br /&gt;&lt;br /&gt;Übertragung des Tennisturniers Australian Open.</desc>
         <date>2026</date>
         <category lang="de">Tennis</category>
-        <icon src="https://images.mdn.ors.at/3331589704029752258"/>
+        <icon src="https://images.mdn.ors.at/10623260643040612984"/>
         <country>Australien</country>
     </programme>
 
@@ -1554,6 +1540,45 @@
         <category lang="de">Tiere</category>
         <icon src="https://images.mdn.ors.at/10447930531001392668"/>
         <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260130010000 +0000" stop="20260130021000 +0000" channel="ServusTV">
+        <title lang="de">Talk im Hangar-7</title>
+        <sub-title lang="de">30.01.2026 02:00.</sub-title>
+        <desc lang="de">Jede Woche diskutieren beim "Talk im Hangar-7" nationale und internationale Experten über relevante Fragen unserer Zeit. Dabei steht immer das Thema im Mittelpunkt: Brisant, hintergründig, lösungsorientiert - keine politischen Plattitüden und kein sinnloser Schlagabtausch. So wird die Sendung zum Forum für spannende Themen aus Wirtschaft, Wissenschaft und Gesellschaft - live aus einer einzigartigen Location.&lt;br /&gt;&lt;br /&gt;Prominente im Talk über ihre Wünsche und Erwartungen an eine neue Regierung</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]:  Helmut Brandstätter</actor>
+            <actor> Michael Fleischhacker</actor>
+        </credits>
+        <date>2026</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/10092140308075608800"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260130021000 +0000" stop="20260130025000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Die göttliche Zahl</sub-title>
+        <desc lang="de">In zahlreichen heiligen Traditionen hat die Zahl Zwölf eine göttliche Bedeutung. Man findet sie wiederholt in der antiken Architektur, in Gruppen von zwölf Weisheitswächtern und sogar in den neuesten wissenschaftlichen Prinzipien. Diese göttliche Zahl könnte Teil eines fremden Codes sein, der der Menschheit zum Entziffern hinterlassen wurde.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+        </credits>
+        <date>2020</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/15422341268842851798"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S13 E35</episode-num>
+    </programme>
+
+    <programme start="20260130025000 +0000" stop="20260130032500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
