@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-08 00:47:33.896211 -->
+<!-- created on 2026-08-08 02:44:35.996927 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,49 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260807235500 +0000" stop="20260808005000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Folge 7</sub-title>
-        <desc lang="de">Am 29. Oktober 2017 werden bei einem Nachbarschaftsstreit im steirischen Stiwoll zwei Menschen erschossen und eine Person verletzt. Der Tatverdächtige, Friedrich Felzmann, hatte in der Vergangenheit bereits versucht, sich selbst in die Luft zu sprengen. Bis heute ist es der Polizei nicht gelungen, Felzmann zu stellen. Außerdem bleibt der Fall um Elfriede Schönberger unaufgeklärt. Die Dame verschwand im Juni 1980, nach einem Discobesuch, von der Bildfläche.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E3</episode-num>
-    </programme>
-
-    <programme start="20260808005000 +0000" stop="20260808014000 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <desc lang="de">1990 wird Angelika Föger an ihrem Arbeitsplatz in Tirol erstochen und der Lehrling Martin K. als Täter verhaftet. Doch bis heute ist unklar, ob er die Frau tatsächlich ermordet hat. In Angelikas Hand wurden blonde Haare gefunden. Weder von ihr noch von Martin können diese Haare stammen. Läuft der Mörder noch frei herum? Rätselhaft ist auch der Fall von Ramesh Rani. Die Dame galt lange als vermisst und wurde 2021 tot aufgefunden. Was ihr genau passiert ist, ist unklar ...&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E4</episode-num>
-    </programme>
-
-    <programme start="20260808014000 +0000" stop="20260808022500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">08.08.2026 03:40.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260808022500 +0000" stop="20260808031500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -125,7 +82,7 @@
         <desc lang="de">MediaShop bietet innovative, qualitativ hochwertige Produkte, die den Alltag erleichtern zu einem sehr attraktiven Preis. Nach dem Motto "Immer etwas Neues" gibt es bei MediaShop Innovationen aus aller Welt und ein unterhaltsames Einkaufserlebnis. Das umfassende Produktportfolio beinhaltet die neuesten Produkte aus den Bereichen: KÃ¼che, Haushalt, Freizeit, Fitness, Wellness und Beauty. MediaShop vertreibt die originalen "As seen on TV" Produkte an Millionen zufriedene Kunden.&lt;br /&gt;&lt;br /&gt;MediaShop bietet innovative, qualitativ hochwertige Produkte die den Alltag erleichtern zu einem sehr attraktiven Preis. Nach dem Motto "Immer etwas Neues" gibt es bei MediaShop Innovationen aus aller Welt und ein unterhaltsames Einkaufserlebnis. Das umfassende Produktportfolio beinhaltet die neuesten Produkte aus den Bereichen: Küche, Haushalt, Freizeit, Fitness, Wellness und Beauty. MediaShop vertreibt die originalen "As seen on TV" Produkte an Millionen zufriedene Kunden.</desc>
         <date>2025</date>
         <category lang="de">Infomercial</category>
-        <icon src="https://images.mdn.ors.at/15003526960107385804"/>
+        <icon src="https://images.mdn.ors.at/14765927450314812822"/>
         <country>Österreich, Deutschland, Schweiz</country>
     </programme>
 
@@ -435,7 +392,7 @@
         <desc lang="de">MediaShop bietet innovative, qualitativ hochwertige Produkte, die den Alltag erleichtern zu einem sehr attraktiven Preis. Nach dem Motto "Immer etwas Neues" gibt es bei MediaShop Innovationen aus aller Welt und ein unterhaltsames Einkaufserlebnis. Das umfassende Produktportfolio beinhaltet die neuesten Produkte aus den Bereichen: KÃ¼che, Haushalt, Freizeit, Fitness, Wellness und Beauty. MediaShop vertreibt die originalen "As seen on TV" Produkte an Millionen zufriedene Kunden.&lt;br /&gt;&lt;br /&gt;MediaShop bietet innovative, qualitativ hochwertige Produkte die den Alltag erleichtern zu einem sehr attraktiven Preis. Nach dem Motto "Immer etwas Neues" gibt es bei MediaShop Innovationen aus aller Welt und ein unterhaltsames Einkaufserlebnis. Das umfassende Produktportfolio beinhaltet die neuesten Produkte aus den Bereichen: Küche, Haushalt, Freizeit, Fitness, Wellness und Beauty. MediaShop vertreibt die originalen "As seen on TV" Produkte an Millionen zufriedene Kunden.</desc>
         <date>2025</date>
         <category lang="de">Infomercial</category>
-        <icon src="https://images.mdn.ors.at/15003526960107385804"/>
+        <icon src="https://images.mdn.ors.at/14765927450314812822"/>
         <country>Österreich, Deutschland, Schweiz</country>
     </programme>
 
@@ -445,7 +402,7 @@
         <desc lang="de">Was passiert in Österreich und der Welt? Wo staut es? Und wie wird das Wetter? Fragen, auf die "Café PULS" Montag bis Freitag die passenden Antworten hat. "Café PULS" mit einem Mix aus Information in den ersten News des Tages, Verkehrsnachrichten, dem aktuellen Wetter inklusive Wettervorschau sowie Tipps und Tricks und ein Blick in die Welt der Promis.&lt;br /&gt;&lt;br /&gt;Was passiert in Österreich und der Welt? Wo staut es? Und wie wird das Wetter? Fragen, auf die "Café PULS" Montag bis Freitag die passenden Antworten hat. "Café PULS" mit einem Mix aus Information in den ersten News des Tages, Verkehrsnachrichten, dem aktuellen Wetter inklusive Wettervorschau sowie Tipps und Tricks und ein Blick in die Welt der Promis.</desc>
         <date>2026</date>
         <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/7916396530190732388"/>
+        <icon src="https://images.mdn.ors.at/8306340723489980543"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
@@ -627,7 +584,7 @@
         <desc lang="de">Gabriele K., ein elfjähriges Mädchen aus Wiener Neustadt, wird 1973 in einem Park missbraucht und mit einem Bleistift zu Tode gequält. Das beispiellos grausame Verbrechen konnte trotz modernster Techniken und DNA-Analysen bis heute nicht aufgeklärt werden. Ist der Täter noch immer unter uns? Warum konnte die Polizei das Sexualverbrechen trotz zahlreicher Verdächtiger nie klären?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
         <date>2011</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
@@ -638,7 +595,7 @@
         <desc lang="de">Ein entsetzlicher Fund schockiert 2006 ganz Oberösterreich. Die Leiche einer jungen Frau wird von Straßenarbeitern bei Sarmingstein in der Donau entdeckt. Bei der Bergung dann der nächste Schock: der Kopf und die Hände der Toten fehlen. Sie wurde außerdem nicht nur geköpft und zerstückelt, sondern auch verbrannt. Wer ist für einen derartigen Overkill verantwortlich? Und wer war das Opfer, das so zugerichtet wurde?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
         <date>2025</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S5 E6</episode-num>
     </programme>
@@ -649,7 +606,7 @@
         <desc lang="de">Am 29. Oktober 2017 werden bei einem Nachbarschaftsstreit im steirischen Stiwoll zwei Menschen erschossen und eine Person verletzt. Der Tatverdächtige, Friedrich Felzmann, hatte in der Vergangenheit bereits versucht, sich selbst in die Luft zu sprengen. Bis heute ist es der Polizei nicht gelungen, Felzmann zu stellen. Außerdem bleibt der Fall um Elfriede Schönberger unaufgeklärt. Die Dame verschwand im Juni 1980, nach einem Discobesuch, von der Bildfläche.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
         <date>2022</date>
         <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
+        <icon src="https://images.mdn.ors.at/10661128689274655529"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2 E3</episode-num>
     </programme>
@@ -659,7 +616,7 @@
         <desc lang="de">1990 wird Angelika Föger an ihrem Arbeitsplatz in Tirol erstochen und der Lehrling Martin K. als Täter verhaftet. Doch bis heute ist unklar, ob er die Frau tatsächlich ermordet hat. In Angelikas Hand wurden blonde Haare gefunden. Weder von ihr noch von Martin können diese Haare stammen. Läuft der Mörder noch frei herum? Rätselhaft ist auch der Fall von Ramesh Rani. Die Dame galt lange als vermisst und wurde 2021 tot aufgefunden. Was ihr genau passiert ist, ist unklar ...&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
         <date>2022</date>
         <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/2300900674155972385"/>
+        <icon src="https://images.mdn.ors.at/10661128689274655529"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2 E4</episode-num>
     </programme>
@@ -670,7 +627,7 @@
         <desc lang="de">Eine Bankraubserie erschüttert Österreich Mitte der 1980er Jahre. Der Täter erbeutet einen Millionenbetrag und überfällt drei Banken an einem Tag. Die Boulevard-Presse gab ihm den Namen Pumpgun Ronnie.&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
         <date>2023</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S4 E8</episode-num>
     </programme>
@@ -681,7 +638,7 @@
         <desc lang="de">Ein rätselhafter Giftanschlag wird zu einem der aufsehenerregendsten Kriminalfälle der Wachau: 2008 wird der beliebte Bürgermeister von Spitz an der Donau vergiftet. Hannes H. stirbt durch eine mit Strychnin versetzte Praline. Ein DNA-Test grenzt die Suche nach dem Täter ein. Helmut O., der wie das Opfer aus einer bekannten Winzer-Dynastie stammt, soll Hannes H. ermordet haben. Doch der verurteilte Mann streitet nach wie vor seine Schuld ab.&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
         <date>2023</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S4 E2</episode-num>
     </programme>
@@ -692,7 +649,7 @@
         <desc lang="de">Gabriele K., ein elfjähriges Mädchen aus Wiener Neustadt, wird 1973 in einem Park missbraucht und mit einem Bleistift zu Tode gequält. Das beispiellos grausame Verbrechen konnte trotz modernster Techniken und DNA-Analysen bis heute nicht aufgeklärt werden. Ist der Täter noch immer unter uns? Warum konnte die Polizei das Sexualverbrechen trotz zahlreicher Verdächtiger nie klären?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
         <date>2011</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S1 E5</episode-num>
     </programme>
@@ -703,43 +660,66 @@
         <desc lang="de">Ein entsetzlicher Fund schockiert 2006 ganz Oberösterreich. Die Leiche einer jungen Frau wird von Straßenarbeitern bei Sarmingstein in der Donau entdeckt. Bei der Bergung dann der nächste Schock: der Kopf und die Hände der Toten fehlen. Sie wurde außerdem nicht nur geköpft und zerstückelt, sondern auch verbrannt. Wer ist für einen derartigen Overkill verantwortlich? Und wer war das Opfer, das so zugerichtet wurde?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
         <date>2025</date>
         <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/5652995906944117895"/>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S5 E6</episode-num>
     </programme>
 
-    <programme start="20260808003000 +0000" stop="20260808011000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Schattenhafte Besucher anderer Dimensionen</sub-title>
-        <desc lang="de">Millionen von Menschen auf der ganzen Welt haben von Begegnungen mit schattenhaften Wesen berichtet, die Angst, Atemnot und sogar Lähmungen verursachen. Ist es möglich, dass die sogenannten Schattenmenschen mehr sind als bloße Hirngespinste? Könnten sie Besucher aus anderen Welten sein oder sogar aus anderen Dimensionen?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+    <programme start="20260810012500 +0000" stop="20260810021000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">10.08.2026 03:25.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2022</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/15422341268842851798"/>
-        <country>Vereinigte Staaten</country>
-        <episode-num system="onscreen">S14 E8</episode-num>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20260808011000 +0000" stop="20260808015500 +0000" channel="ServusTV">
-        <title lang="de">Terra Mater Wissen</title>
-        <sub-title lang="de">Uralt und voll fit?  - Das Geheimnis des langen Lebens und mehr</sub-title>
-        <desc lang="de">Themen: Wie wird man in Österreich gesund alt? // Wie düngen Grizzlies mit Lachsen die Bäume? // Können unsere Vulkane wieder ausbrechen? // Woher kommt unser Thermalwasser? // Warum perlt Champagner? // Wie kommen wir umweltgerecht ins Jenseits? // Gibt es „Stonehenge“ auch im Senegal? // Moderation: Dr. Gernot Grömer&lt;br /&gt;&lt;br /&gt;Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer präsentiert in seinem Wissensmagazin ab sofort faszinierende Geschichten und spannende Phänomene unter dem neuen Sendungstitel in gewohnter Qualität.</desc>
-        <date>2023</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/12196364882271256332"/>
+    <programme start="20260810021000 +0000" stop="20260810022000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">10.08.2026 04:10.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2026</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
         <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260808015500 +0000" stop="20260808022000 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland, Österreich</country>
+    <programme start="20260810022000 +0000" stop="20260810023000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">10.08.2026 04:20.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2026</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260810023000 +0000" stop="20260810030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Sommergespräche</title>
+        <sub-title lang="de">10.08.2026</sub-title>
+        <desc lang="de">ATV Urgestein Dominic Heinzl hat den direkten Draht zur österreichischen Welt der Reichen und Schönen. Mit dabei bei seinen Sommergesprächen: hochkarätige Schauspieler, Kabarettlegenden bis hin zu bekannten ATV-Gesichtern.&lt;br /&gt;&lt;br /&gt;ATV Society-Reporter Dominic Heinzl trifft die Stars Österreichs zum Sommergespräch. In sechs Folgen spricht er mit ihnen über ihr Schaffen, ihr Leben und ihre Zukunft. Mit dabei: Seriendarstellerin Ursula Strauss, das erheiternde Promi-Paar Thomas Stipsits und Kathi Strasser, Kabarettlegende Roland Düringer, Schauspielerin Nina Proll, Bauexperte Günther Nussbaum und Bauer-sucht-Frau Moderatorin Arabella Kiesbauer.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Dominic Heinzl</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/1856833989722655669"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20260808022000 +0000" stop="20260808030500 +0000" channel="ServusTV">
@@ -1572,14 +1552,7 @@
             <actor> Juergen Maurer</actor>
             <actor> Leopold Altenburg</actor>
             <actor> Juergen Maurer</actor>
-            <actor> Sarah Pernerstetter; [B]ErzählerIn[/B]: Florentin Groll; [B]DarstellerInnen[/B]: Clemens Mück</actor>
-            <actor> Lukas Pertl</actor>
-            <actor> Philipp Pertl</actor>
-            <actor> Andreas Mösenlechner</actor>
-            <actor> Margret Hart-Meikl</actor>
-            <actor> Andreas Hinterlechner</actor>
-            <actor> Andrea von Götz</actor>
-            <actor> Roland David</actor>
+            <actor> Sarah Pernerstetter; [B]ErzählerIn[/B]: Florentin Groll; [B]DarstellerInnen[/B]: Roland David</actor>
             <actor> Katrin Unterreiner</actor>
             <actor> Jeremias Riezler</actor>
             <actor> Susanne Bisovsky</actor>
@@ -1588,7 +1561,14 @@
             <actor> Andreas Ortner</actor>
             <actor> Adam Fisher</actor>
             <actor> Gerti Huppe</actor>
-            <actor> Dr. Julia Evangelist; [B]Kamera[/B]:  Michael Kittel</actor>
+            <actor> Dr. Julia Evangelist</actor>
+            <actor> Clemens Mück</actor>
+            <actor> Lukas Pertl</actor>
+            <actor> Philipp Pertl</actor>
+            <actor> Andreas Mösenlechner</actor>
+            <actor> Margret Hart-Meikl</actor>
+            <actor> Andreas Hinterlechner</actor>
+            <actor> Andrea von Götz; [B]Kamera[/B]:  Michael Kittel</actor>
             <actor> Christian Gappmaier</actor>
             <actor>  Roland Gassner</actor>
             <actor> Benedikt Grobbauer; [B]Editor[/B]: Gottfried Paulus</actor>
@@ -1676,15 +1656,15 @@
     </programme>
 
     <programme start="20260809181500 +0000" stop="20260809194500 +0000" channel="ServusTV">
-        <title lang="de">Ein Sommer wie damals</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Das Freibad Böndlsee in Goldegg im Pongau wurde vor fast 70 Jahren errichtet und wird heute von Eva Pronebner geleitet. Sie kämpft mit viel Engagement um dessen Fortbestand. Unterstützung bekommt sie dabei von der treuen Bade-Community, die den See vor allem an heißen Tagen als Abkühlung schätzen. Wie ein Jungbrunnen findet Heidi Herzog das kristallklare Wasser des Almsees. Dass sie dabei vor Dienstbeginn als Erste und nach Feierabend als Letzte ins erfrischende Wasser eintaucht, versteht sich fast von selbst. Schließlich betreibt sie dort den einzigen Kiosk weit und breit – mitten in einer der schönsten Naturkulissen Oberösterreichs. Dass sie dabei auch als Erste vor Dienstantritt und als Letzte nach Dienstende im glasklaren Wasser die Schönheit Oberösterreichs genießt, versteht sich von selbst. Andreas Czekelius aus Ruette ist schon seit seiner Kindheit ein leidenschaftlicher Wassermensch. Mit seinem eigenen, selbst gebauten Boot paddelt er gerne am Plansee. So wischt er alle Belastungen weg und wird eins mit der Natur. Die wilde Traun: Die 153 Kilometer lange Traun ist ein rechter Nebenfluss der Donau in Oberösterreich, der nur so vor Vielfalt strotzt: Während sich Frank Pramendorfer als Canyoning-Guide in die wilden Wellen stürzt, geht es die Grafikerin und Fliegenfischerin Jenny Roth eher gemächlich an. Übernachten könnten beide auf dem vielleicht kleinsten Campingplatz Österreichs direkt am Traunfall, denn auch so kann man sich dem Fluss auf ganz spezielle Art und Weise nähern.</desc>
+        <title lang="de">Ein Sommer wie damals - Mit allen Wassern gewaschen</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ein Sommer wie damals: Mit allen Wassern gewaschen erzählt von Menschen, deren Leben untrennbar mit Seen, Flüssen und der Donau verbunden ist. Vom kreativen Campingplatzbetreiber an der Donau über die engagierte Hüterin eines idyllischen Naturbadesees bis hin zu Fischern, Fliegenfischerinnen, Bootsbauern, Canyoning-Guides und leidenschaftlichen Wassersportlerinnen – sie alle schöpfen Kraft, Lebensfreude und Inspiration aus dem Wasser.</desc>
         <credits>
             <actor>[B]Regie[/B]: Florian Guthknecht; [B]Editor[/B]: Manfred Neubacher; [B]Kamera[/B]: Rodney Sewell</actor>
             <actor> Pascal Wendlinger</actor>
         </credits>
         <date>2026</date>
-        <category lang="de">Sonstiges</category>
-        <icon src="https://files.app.austrostream.at/files/photo-placeholder-spielfilm-001.jpg"/>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/13692344990230823431"/>
         <country>Österreich</country>
     </programme>
 
@@ -1727,15 +1707,15 @@
     </programme>
 
     <programme start="20260809223000 +0000" stop="20260809234500 +0000" channel="ServusTV">
-        <title lang="de">Ein Sommer wie damals</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Das Freibad Böndlsee in Goldegg im Pongau wurde vor fast 70 Jahren errichtet und wird heute von Eva Pronebner geleitet. Sie kämpft mit viel Engagement um dessen Fortbestand. Unterstützung bekommt sie dabei von der treuen Bade-Community, die den See vor allem an heißen Tagen als Abkühlung schätzen. Wie ein Jungbrunnen findet Heidi Herzog das kristallklare Wasser des Almsees. Dass sie dabei vor Dienstbeginn als Erste und nach Feierabend als Letzte ins erfrischende Wasser eintaucht, versteht sich fast von selbst. Schließlich betreibt sie dort den einzigen Kiosk weit und breit – mitten in einer der schönsten Naturkulissen Oberösterreichs. Dass sie dabei auch als Erste vor Dienstantritt und als Letzte nach Dienstende im glasklaren Wasser die Schönheit Oberösterreichs genießt, versteht sich von selbst. Andreas Czekelius aus Ruette ist schon seit seiner Kindheit ein leidenschaftlicher Wassermensch. Mit seinem eigenen, selbst gebauten Boot paddelt er gerne am Plansee. So wischt er alle Belastungen weg und wird eins mit der Natur. Die wilde Traun: Die 153 Kilometer lange Traun ist ein rechter Nebenfluss der Donau in Oberösterreich, der nur so vor Vielfalt strotzt: Während sich Frank Pramendorfer als Canyoning-Guide in die wilden Wellen stürzt, geht es die Grafikerin und Fliegenfischerin Jenny Roth eher gemächlich an. Übernachten könnten beide auf dem vielleicht kleinsten Campingplatz Österreichs direkt am Traunfall, denn auch so kann man sich dem Fluss auf ganz spezielle Art und Weise nähern.</desc>
+        <title lang="de">Ein Sommer wie damals - Mit allen Wassern gewaschen</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ein Sommer wie damals: Mit allen Wassern gewaschen erzählt von Menschen, deren Leben untrennbar mit Seen, Flüssen und der Donau verbunden ist. Vom kreativen Campingplatzbetreiber an der Donau über die engagierte Hüterin eines idyllischen Naturbadesees bis hin zu Fischern, Fliegenfischerinnen, Bootsbauern, Canyoning-Guides und leidenschaftlichen Wassersportlerinnen – sie alle schöpfen Kraft, Lebensfreude und Inspiration aus dem Wasser.</desc>
         <credits>
             <actor>[B]Regie[/B]: Florian Guthknecht; [B]Editor[/B]: Manfred Neubacher; [B]Kamera[/B]: Rodney Sewell</actor>
             <actor> Pascal Wendlinger</actor>
         </credits>
         <date>2026</date>
-        <category lang="de">Sonstiges</category>
-        <icon src="https://files.app.austrostream.at/files/photo-placeholder-spielfilm-001.jpg"/>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/13692344990230823431"/>
         <country>Österreich</country>
     </programme>
 
@@ -1765,6 +1745,26 @@
         <category lang="de">Geschichtlich</category>
         <icon src="https://images.mdn.ors.at/10162226841199653827"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260810013500 +0000" stop="20260810023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
+    </programme>
+
+    <programme start="20260810023500 +0000" stop="20260810032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">10.08.2026 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -11988,6 +11988,8 @@
             <actor>Tom Bennett</actor>
             <actor>Tom Taylor</actor>
             <actor>Vincent Regan</actor>
+            <actor>Tom Glynn</actor>
+            <actor>James Norton</actor>
             <producer>George R.R. Martin</producer>
             <producer>Ryan Condal</producer>
             <producer>Sara Hess</producer>
@@ -15145,6 +15147,8 @@
             <actor>Tom Bennett</actor>
             <actor>Tom Taylor</actor>
             <actor>Vincent Regan</actor>
+            <actor>Tom Glynn</actor>
+            <actor>James Norton</actor>
             <producer>George R.R. Martin</producer>
             <producer>Ryan Condal</producer>
             <producer>Sara Hess</producer>
@@ -15335,6 +15339,8 @@
             <actor>Tom Bennett</actor>
             <actor>Tom Taylor</actor>
             <actor>Vincent Regan</actor>
+            <actor>Tom Glynn</actor>
+            <actor>James Norton</actor>
             <producer>George R.R. Martin</producer>
             <producer>Ryan Condal</producer>
             <producer>Sara Hess</producer>
