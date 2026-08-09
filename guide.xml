@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-09 00:51:02.058139 -->
+<!-- created on 2026-08-09 02:52:25.931474 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260809004500 +0000" stop="20260809014000 +0000" channel="PULS24">
-        <title lang="de">Pfusch am Bau</title>
-        <desc lang="de">Fünf Jahre nach dem Bau-Desaster präsentiert das Ehepaar Kübler stolz sein in Eigenregie vollendetes Traumhaus. Damals stand der Firmeninhaber hinter Gittern, 70.000 Euro waren verloren, Schimmel bedrohte die Gesundheit. Günther Nussbaum erlebt die beeindruckende Verwandlung. Derweil kämpft Frau Pöltl um ihren geplanten Altersruhesitz: Über 200.000 Euro investiert, doch Fassade und Dach sind derart verpfuscht, dass Nässe ungehindert eindringt. Ein Totalschaden droht.&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
-        <date>2016</date>
-        <category lang="de">Rund ums Haus</category>
-        <icon src="https://images.mdn.ors.at/947581550505729740"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260809014000 +0000" stop="20260809023000 +0000" channel="PULS24">
-        <title lang="de">Pfusch am Bau</title>
-        <desc lang="de">Familie Kavalirek aus Velden am Wörthersee investierte 200.000 Euro in ihr Traumhaus, doch seit dem Einzug häufen sich die Schreckensmeldungen. Feuchtigkeit im Keller, Schimmel unterm Dach - die Verzweiflung wächst täglich. Günther Nussbaum eilt nach Kärnten. In Wien kämpft Gertrude Lolei seit Jahren um ihren Altersruhesitz: Das vermeintliche Passivhaus bleibt unbewohnbar. Es zieht durch sämtliche Räume, weder Heizung noch Pelletsofen funktionieren.&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
-        <date>2016</date>
-        <category lang="de">Rund ums Haus</category>
-        <icon src="https://images.mdn.ors.at/947581550505729740"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20260809023000 +0000" stop="20260809031500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -702,48 +684,59 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260809002000 +0000" stop="20260809010500 +0000" channel="ServusTV">
-        <title lang="de">Grüne Zukunft - Helden des Alltags</title>
-        <sub-title lang="de">Der Südwesten Frankreichs</sub-title>
-        <desc lang="de">Helden des Alltags mit spannenden Geschichten: Männer und Frauen aus der Landwirtschaft, der Gastronomie und Architektur, dem Ingenieurswesen und dem Ehrenamt, auf dem Land und aus der Stadt – überall auf der Erde leben Menschen, die etwas verändern und eine nachhaltigere Welt schaffen wollen.&lt;br /&gt;&lt;br /&gt;Ob Landwirte, Viehzüchter, Fischer oder Menschen, die ungewöhnliche Produkte herstellen – die Doku-Reihe folgt diesen Personen auf der ganzen Welt, um mehr über ihre Leidenschaft und ihre Arbeit zu erfahren, aber auch über ihren Geschmack und Fachwissen.</desc>
+    <programme start="20260811012000 +0000" stop="20260811020000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">11.08.2026 03:20.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]Editor[/B]: Charlotte Lorteau</actor>
-            <actor> Gaelle Berrabah</actor>
-            <actor> Pascaline Aumond</actor>
-            <actor> Florian Leterrier</actor>
-            <actor> Lea Demars</actor>
-            <actor> Kevin Lamour; [B]Regie[/B]:  Frédéric Planchenault; [B]Kamera[/B]: Jean L'Appartien</actor>
-            <actor> Claire Djian</actor>
-            <actor>  Antoine Delemarre; [B]Drehbuch[/B]: Benjamin Doize; [B]Produzent[/B]: Severin Delpon</actor>
-            <actor> Jean Moncaut</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Umwelt</category>
-        <icon src="https://images.mdn.ors.at/9461398258581345675"/>
-        <country>Frankreich</country>
-    </programme>
-
-    <programme start="20260809010500 +0000" stop="20260809015500 +0000" channel="ServusTV">
-        <title lang="de">Die Geheimnisse unseres Sonnensystems</title>
-        <sub-title lang="de">Vulkanische Welten</sub-title>
-        <desc lang="de">Eine spektakuläre Reise zu den aktivsten und außergewöhnlichsten Vulkanen des Sonnensystems: Von den gigantischen Feuerbergen des Mars über die explosiven Ausbrüche auf dem Jupitermond Io bis zu den eisigen Fontänen auf Enceladus. &lt;br /&gt;Vulkane faszinieren die Menschheit seit jeher. Sie stehen für Zerstörung und Schöpfung zugleich und für die gewaltige Kraft, die tief im Inneren eines Planeten schlummert. Doch Vulkanismus ist kein exklusives Phänomen der Erde. Auch auf anderen Himmelskörpern unseres Sonnensystems brodelt es unter der Oberfläche, manchmal sogar unter kilometerdickem Eis. &lt;br /&gt;Wissenschaftlerinnen und Wissenschaftler entschlüsseln, wie vulkanische Prozesse Planeten formen, ihre Atmosphäre beeinflussen und welche Rolle sie für die Entstehung von Leben spielen. Die Erforschung dieser vulkanischen Welten ist mehr als das Staunen über Naturphänomene. Sie ist eine Suche nach den Ursprüngen des Lebens und nach den Bedingungen, die einen Planeten bewohnbar machen. Die Vielfalt und Kraft des Vulkanismus zeigen, wie eng geologische Prozesse, Atmosphäre und Klima miteinander verbunden sind und wie einzigartig die Erde inmitten all dieser brodelnden Welten ist.&lt;br /&gt;&lt;br /&gt;Voller Begeisterung für ihren faszinierenden Beruf erzählen Weltraumforscher von den Geheimnissen unseres Sonnensystems. Von der infernalen Energie der Sonne bis zu der eisigen Schönheit des Pluto - die Reihe beleuchtet in spektakulären Bildern unser Spektrum des Universums.</desc>
-        <credits>
-            <actor>[B]Produzent[/B]: Ben Bowie</actor>
-            <actor>  Iain Riddick; [B]ErzählerIn[/B]: Jim Al-Khalili</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2024</date>
-        <category lang="de">Wissenschaft</category>
-        <icon src="https://images.mdn.ors.at/17780813235450647522"/>
-        <country>Vereinigtes Königreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20260809015500 +0000" stop="20260809022500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland, Österreich</country>
+    <programme start="20260811020000 +0000" stop="20260811024500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">11.08.2026 04:00.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260811024500 +0000" stop="20260811030000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">11.08.2026 04:45.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2026</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
     <programme start="20260809022500 +0000" stop="20260809031000 +0000" channel="ServusTV">
@@ -1406,12 +1399,15 @@
         <credits>
             <actor>[B]Drehbuch[/B]:  Marie-Noëlle Himbert</actor>
             <actor> Jacques Malaterre</actor>
-            <actor> Frédéric Fougea; [B]Editor[/B]: Laurence Guzzo</actor>
-            <actor> Thomas Cirotteau</actor>
-            <actor> Aude Richelet; [B]Kamera[/B]: Samuel Toutain</actor>
+            <actor> Frédéric Fougea; [B]Editor[/B]: Aude Richelet</actor>
+            <actor> Laurence Guzzo</actor>
+            <actor> Thomas Cirotteau; [B]Kamera[/B]: Samuel Toutain</actor>
             <actor> Romain Plumat</actor>
             <actor> Leonel Jan Kerguistel</actor>
             <actor>  Pascal Gaubert</actor>
+            <actor>  Jerome Bouvier</actor>
+            <actor>  Fred Ripert</actor>
+            <actor> Tanguy Stoeckle</actor>
             <actor> Philippe Garguil</actor>
             <actor> Nicolas Cailleret</actor>
             <actor> Lucas Allain</actor>
@@ -1421,10 +1417,7 @@
             <actor>  Marc Rebuttini</actor>
             <actor> Jacques Martin</actor>
             <actor> Samuel Guiton</actor>
-            <actor>  Benoit Demarle</actor>
-            <actor>  Jerome Bouvier</actor>
-            <actor>  Fred Ripert</actor>
-            <actor> Tanguy Stoeckle; [B]Produzent[/B]: Martin Mészáros</actor>
+            <actor>  Benoit Demarle; [B]Produzent[/B]: Martin Mészáros</actor>
             <actor> Ivo Filatsch</actor>
         </credits>
         <date>2014</date>
@@ -1711,6 +1704,26 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/11127352576789875661"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260811020500 +0000" stop="20260811023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
+    </programme>
+
+    <programme start="20260811023500 +0000" stop="20260811032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">11.08.2026 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
