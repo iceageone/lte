@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-10 00:53:24.590681 -->
+<!-- created on 2026-08-10 03:01:44.274576 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,74 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260810003500 +0000" stop="20260810012500 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Die kopflose Wasserleiche</sub-title>
-        <desc lang="de">Ein entsetzlicher Fund schockiert 2006 ganz Oberösterreich. Die Leiche einer jungen Frau wird von Straßenarbeitern bei Sarmingstein in der Donau entdeckt. Bei der Bergung dann der nächste Schock: der Kopf und die Hände der Toten fehlen. Sie wurde außerdem nicht nur geköpft und zerstückelt, sondern auch verbrannt. Wer ist für einen derartigen Overkill verantwortlich? Und wer war das Opfer, das so zugerichtet wurde?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S5 E6</episode-num>
-    </programme>
-
-    <programme start="20260810012500 +0000" stop="20260810021000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">10.08.2026 03:25.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20260810021000 +0000" stop="20260810022000 +0000" channel="PULS24">
-        <title lang="de">Wirtschaft 24</title>
-        <sub-title lang="de">10.08.2026 04:10.</sub-title>
-        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
-        <date>2026</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2026</episode-num>
-    </programme>
-
-    <programme start="20260810022000 +0000" stop="20260810023000 +0000" channel="PULS24">
-        <title lang="de">Wirtschaft 24</title>
-        <sub-title lang="de">10.08.2026 04:20.</sub-title>
-        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
-        <date>2026</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2026</episode-num>
-    </programme>
-
-    <programme start="20260810023000 +0000" stop="20260810030000 +0000" channel="PULS24">
-        <title lang="de">Heinzl und die VIPs - Sommergespräche</title>
-        <sub-title lang="de">10.08.2026</sub-title>
-        <desc lang="de">ATV Urgestein Dominic Heinzl hat den direkten Draht zur österreichischen Welt der Reichen und Schönen. Mit dabei bei seinen Sommergesprächen: hochkarätige Schauspieler, Kabarettlegenden bis hin zu bekannten ATV-Gesichtern.&lt;br /&gt;&lt;br /&gt;ATV Society-Reporter Dominic Heinzl trifft die Stars Österreichs zum Sommergespräch. In sechs Folgen spricht er mit ihnen über ihr Schaffen, ihr Leben und ihre Zukunft. Mit dabei: Seriendarstellerin Ursula Strauss, das erheiternde Promi-Paar Thomas Stipsits und Kathi Strasser, Kabarettlegende Roland Düringer, Schauspielerin Nina Proll, Bauexperte Günther Nussbaum und Bauer-sucht-Frau Moderatorin Arabella Kiesbauer.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Dominic Heinzl</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Talk-Show</category>
-        <icon src="https://images.mdn.ors.at/1856833989722655669"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20260810030000 +0000" stop="20260810040000 +0000" channel="PULS24">
         <title lang="de">Mediashop</title>
@@ -663,26 +595,60 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260810004500 +0000" stop="20260810013500 +0000" channel="ServusTV">
-        <title lang="de">Die Geschichte der Menschheit</title>
-        <sub-title lang="de">Die letzten Überlebenden</sub-title>
-        <desc lang="de">Lange Zeit teilte Homo sapiens die Erde mit anderen Menschenarten. In Europa lebten die Neandertaler, in Asien die rätselhaften Denisova-Menschen. Als unsere Vorfahren Afrika verließen, trafen sie auf Verwandte, die sich über Hunderttausende Jahre an ganz andere Lebensräume angepasst hatten.&lt;br /&gt;Anhand neuer Fossilienfunde, archäologischer Entdeckungen und genetischer Analysen entsteht ein vielschichtiges Bild. Neandertaler erscheinen nicht mehr als primitive Höhlenmenschen, sondern als anpassungsfähige, kulturell entwickelte Menschen mit Symbolik, Kunst und sozialen Strukturen. Doch Klimachaos, schwindende Populationen, Isolation und der wachsende Erfolg von Homo sapiens setzen ihnen immer stärker zu.&lt;br /&gt;Zuerst verschwindet der Neandertaler, später auch der Denisova-Mensch. Übrig bleibt Homo sapiens — als letzte überlebende Menschenart. Ganz verschwunden sind die anderen dennoch nicht: Ihre Spuren tragen viele Menschen bis heute in sich, verborgen im eigenen Erbgut.&lt;br /&gt;&lt;br /&gt;</desc>
+    <programme start="20260812014000 +0000" stop="20260812022000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">12.08.2026 03:40.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Josh Brolin; [B]Drehbuch[/B]: Sam Sheridan</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2025</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/10162226841199653827"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
-    <programme start="20260810013500 +0000" stop="20260810023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland, Österreich</country>
+    <programme start="20260812022000 +0000" stop="20260812025000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Sommergespräche</title>
+        <sub-title lang="de">12.08.2026</sub-title>
+        <desc lang="de">ATV Urgestein Dominic Heinzl hat den direkten Draht zur österreichischen Welt der Reichen und Schönen. Mit dabei bei seinen Sommergesprächen: hochkarätige Schauspieler, Kabarettlegenden bis hin zu bekannten ATV-Gesichtern.&lt;br /&gt;&lt;br /&gt;ATV Society-Reporter Dominic Heinzl trifft die Stars Österreichs zum Sommergespräch. In sechs Folgen spricht er mit ihnen über ihr Schaffen, ihr Leben und ihre Zukunft. Mit dabei: Seriendarstellerin Ursula Strauss, das erheiternde Promi-Paar Thomas Stipsits und Kathi Strasser, Kabarettlegende Roland Düringer, Schauspielerin Nina Proll, Bauexperte Günther Nussbaum und Bauer-sucht-Frau Moderatorin Arabella Kiesbauer.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Dominic Heinzl</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/1856833989722655669"/>
+        <country>Österreich</country>
+    </programme>
+
+    <programme start="20260812025000 +0000" stop="20260812030000 +0000" channel="PULS24">
+        <title lang="de">Wirtschaft 24</title>
+        <sub-title lang="de">12.08.2026 04:50.</sub-title>
+        <desc lang="de">PULS 24 präsentiert die aktuellen Wirtschaftsnachrichten auf einen Blick.&lt;br /&gt;&lt;br /&gt;Moderatorin Isabella Richtar präsentiert in Wirtschaft24 neue Trends und Technologien aus wirtschaftlichen Themenbereichen.</desc>
+        <date>2026</date>
+        <category lang="de">Magazin</category>
+        <icon src="https://images.mdn.ors.at/18167982537952291275"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2026</episode-num>
+    </programme>
+
+    <programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="PULS24">
+        <title lang="de">Mediashop</title>
+        <sub-title lang="de">MediaShop - Immer etwas Neues</sub-title>
+        <desc lang="de">MediaShop bietet innovative, qualitativ hochwertige Produkte, die den Alltag erleichtern zu einem sehr attraktiven Preis. Nach dem Motto "Immer etwas Neues" gibt es bei MediaShop Innovationen aus aller Welt und ein unterhaltsames Einkaufserlebnis. Das umfassende Produktportfolio beinhaltet die neuesten Produkte aus den Bereichen: KÃ¼che, Haushalt, Freizeit, Fitness, Wellness und Beauty. MediaShop vertreibt die originalen "As seen on TV" Produkte an Millionen zufriedene Kunden.&lt;br /&gt;&lt;br /&gt;MediaShop bietet innovative, qualitativ hochwertige Produkte die den Alltag erleichtern zu einem sehr attraktiven Preis. Nach dem Motto "Immer etwas Neues" gibt es bei MediaShop Innovationen aus aller Welt und ein unterhaltsames Einkaufserlebnis. Das umfassende Produktportfolio beinhaltet die neuesten Produkte aus den Bereichen: Küche, Haushalt, Freizeit, Fitness, Wellness und Beauty. MediaShop vertreibt die originalen "As seen on TV" Produkte an Millionen zufriedene Kunden.</desc>
+        <date>2025</date>
+        <category lang="de">Infomercial</category>
+        <icon src="https://images.mdn.ors.at/14765927450314812822"/>
+        <country>Österreich, Deutschland, Schweiz</country>
     </programme>
 
     <programme start="20260810023500 +0000" stop="20260810032500 +0000" channel="ServusTV">
@@ -1610,6 +1576,26 @@
         <category lang="de">Komödie</category>
         <icon src="https://images.mdn.ors.at/1745872086641"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260812014000 +0000" stop="20260812023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
+    </programme>
+
+    <programme start="20260812023500 +0000" stop="20260812032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">12.08.2026 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
