@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-11 00:52:34.491702 -->
+<!-- created on 2026-08-11 02:55:05.840733 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,64 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260811002500 +0000" stop="20260811012000 +0000" channel="PULS24">
-        <title lang="de">ATV - Die Reportage</title>
-        <sub-title lang="de">Sommer auf der Donauinsel</sub-title>
-        <desc lang="de">Von gratis Grillplätzen über Sportangebote bis hin zu dutzenden Lokalen und idyllischen Bademöglichkeiten - die Donauinsel ist DAS Erholungsgebiet der Wiener. Die künstliche Insel zwischen der neuen Donau und der Donau wurde im Jahr 1988 nach insgesamt 16 Jahren Bauzeit fertiggestellt. Einst war das Gebiet als Teil des Hochwasserschutzes für die Stadt Wien gedacht, doch mittlerweile hat es sich zu einem Freizeitparadies für die Bewohner der Hauptstadt und auch Gäste entwickelt.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Eva De Luca</actor>
-            <actor> Christian Clerici</actor>
-        </credits>
-        <date>2013</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15121622099877438611"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260811012000 +0000" stop="20260811020000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">11.08.2026 03:20.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
-
-    <programme start="20260811020000 +0000" stop="20260811024500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">11.08.2026 04:00.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260811024500 +0000" stop="20260811030000 +0000" channel="PULS24">
         <title lang="de">Wirtschaft 24</title>
@@ -399,7 +341,7 @@
         <desc lang="de">Was passiert in Österreich und der Welt? Wo staut es? Und wie wird das Wetter? Fragen, auf die "Café PULS" Montag bis Freitag die passenden Antworten hat. "Café PULS" mit einem Mix aus Information in den ersten News des Tages, Verkehrsnachrichten, dem aktuellen Wetter inklusive Wettervorschau sowie Tipps und Tricks und ein Blick in die Welt der Promis.&lt;br /&gt;&lt;br /&gt;Was passiert in Österreich und der Welt? Wo staut es? Und wie wird das Wetter? Fragen, auf die "Café PULS" Montag bis Freitag die passenden Antworten hat. "Café PULS" mit einem Mix aus Information in den ersten News des Tages, Verkehrsnachrichten, dem aktuellen Wetter inklusive Wettervorschau sowie Tipps und Tricks und ein Blick in die Welt der Promis.</desc>
         <date>2026</date>
         <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/7916396530190732388"/>
+        <icon src="https://images.mdn.ors.at/8306340723489980543"/>
         <country>Österreich</country>
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
@@ -654,29 +596,53 @@
         <episode-num system="onscreen">S1 E7</episode-num>
     </programme>
 
-    <programme start="20260811003500 +0000" stop="20260811020500 +0000" channel="ServusTV">
-        <title lang="de">Code Ava</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ava arbeitet als Söldnerin für eine weltweit verdeckt operierende Organisation. Ihr Job ist es, unliebsame Personen eiskalt aus dem Weg zu räumen. Doch als ein Auftrag schief läuft, ist es Ava selbst, die auf der Todesliste steht…</desc>
+    <programme start="20260813010000 +0000" stop="20260813014500 +0000" channel="PULS24">
+        <title lang="de">Witness to Murder - Digitale Zeugen</title>
+        <sub-title lang="de">Tod im Scheinwerferlicht</sub-title>
+        <desc lang="de">Nach dem grausamen Mord an einem angehenden Schauspieler in Georgia gehen der Polizei schnell die Spuren aus. Doch ein neues digitales forensisches Werkzeug bringt neuen Schwung in die Ermittlungen und ermöglicht es den Behörden, den Mörder präzise zu identifizieren.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Jessica Chastain</actor>
-            <actor> John Malkovich</actor>
-            <actor> Geena Davis</actor>
-            <actor> Jess Weixler</actor>
-            <actor> Ioan Gruffudd; [B]Regie[/B]: Tate Taylor; [B]Drehbuch[/B]: Matthew Newton</actor>
+            <actor>[B]Regie[/B]: SCOTT MCDONNELL; [B]DarstellerInnen[/B]: SARA PENIRELLI</actor>
         </credits>
-        <date>2020</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/11127352576789875661"/>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/5446385162309245320"/>
         <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S1 E9</episode-num>
     </programme>
 
-    <programme start="20260811020500 +0000" stop="20260811023500 +0000" channel="ServusTV">
-        <title lang="de">BilderWelten</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
-        <date>2013</date>
-        <category lang="de">Natur</category>
-        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
-        <country>Deutschland, Österreich</country>
+    <programme start="20260813014500 +0000" stop="20260813023000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">13.08.2026 03:45.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260813023000 +0000" stop="20260813030000 +0000" channel="PULS24">
+        <title lang="de">Heinzl und die VIPs - Sommergespräche</title>
+        <sub-title lang="de">13.08.2026</sub-title>
+        <desc lang="de">ATV Urgestein Dominic Heinzl hat den direkten Draht zur österreichischen Welt der Reichen und Schönen. Mit dabei bei seinen Sommergesprächen: hochkarätige Schauspieler, Kabarettlegenden bis hin zu bekannten ATV-Gesichtern.&lt;br /&gt;&lt;br /&gt;ATV Society-Reporter Dominic Heinzl trifft die Stars Österreichs zum Sommergespräch. In sechs Folgen spricht er mit ihnen über ihr Schaffen, ihr Leben und ihre Zukunft. Mit dabei: Seriendarstellerin Ursula Strauss, das erheiternde Promi-Paar Thomas Stipsits und Kathi Strasser, Kabarettlegende Roland Düringer, Schauspielerin Nina Proll, Bauexperte Günther Nussbaum und Bauer-sucht-Frau Moderatorin Arabella Kiesbauer.</desc>
+        <credits>
+            <actor>[B]GastgeberIn[/B]: Dominic Heinzl</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Talk-Show</category>
+        <icon src="https://images.mdn.ors.at/1856833989722655669"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20260811023500 +0000" stop="20260811032500 +0000" channel="ServusTV">
@@ -1352,7 +1318,7 @@
         </credits>
         <date>2020</date>
         <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
+        <icon src="https://images.mdn.ors.at/3227535128724363628"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1574,6 +1540,26 @@
         <category lang="de">Abenteuer</category>
         <icon src="https://images.mdn.ors.at/8411939482712394953"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260813015000 +0000" stop="20260813023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
+    </programme>
+
+    <programme start="20260813023500 +0000" stop="20260813032500 +0000" channel="ServusTV">
+        <title lang="de">Quizjagd</title>
+        <sub-title lang="de">13.08.2026 04:35.</sub-title>
+        <desc lang="de">Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Im Duell beantworten die beiden Kandidaten abwechselnd Fragen in unterschiedlichen Schwierigkeitsgraden. Beantwortet ein Kandidat die Frage richtig, darf er dem Schwierigkeitsgrad entsprechend viele Felder vorrücken. Beantwortet er sie falsch, bekommt der Gegner die Möglichkeit zur Antwort und erhält somit einen Bonus. Ab einem bestimmten Punkt im Spiel kann ein Kandidat bei richtiger Antwort auch entscheiden, dass er stehen bleibt, sein Gegner dafür aber entsprechend viele Felder zurück muss. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!&lt;br /&gt;&lt;br /&gt;Florian Lettner lädt ein zur spannenden Quizjagd! Zwei Gegner jagen sich gegenseitig über eine aus 50 Feldern bestehende Spirale. Wer als erstes das oberste Feld erreicht, gewinnt 5000 Euro und darf so lange gegen einen neuen Herausforderer antreten, bis er geschlagen wird. Das Duell kann jederzeit in jede Richtung kippen und sorgt für Spannung bis zur letzten Sekunde!</desc>
+        <date>2022</date>
+        <category lang="de">Gameshow</category>
+        <icon src="https://images.mdn.ors.at/3516012426285495119"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S2022</episode-num>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
