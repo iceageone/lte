@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-15 00:35:15.866173 -->
+<!-- created on 2026-08-15 02:00:57.807826 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,27 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260814235000 +0000" stop="20260815004500 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Verbrannte Frauenleiche</sub-title>
-        <desc lang="de">2008 wurde die Slowakin Denisa Šoltísová tot aus der Ager geborgen. Ein österreichischer Arzt ging damals von Selbstmord aus. Jedoch haben slowakische Mediziner inzwischen Indizien an der Leiche gefunden, die an ein Gewaltverbrechen erinnern. Auch der Fall Alois Wesenauer ist bis heute ungeklärt. Der Oberösterreicher war in den 70ern in die Karibik ausgewandert, hatte in den 80ern kurzfristig wieder Kontakt zu seiner Familie aufgenommen und war dann spurlos verschwunden.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/10661128689274655529"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E5</episode-num>
-    </programme>
-
-    <programme start="20260815004500 +0000" stop="20260815013500 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <desc lang="de">Am 14. September 1972 fällt der Tanzsportler Heinz Kern einem Giftanschlag zum Opfer. Jemand hat ihm und seiner Gattin ein Paket mit steirischen Schmankerln geschickt. Unter den Spezialitäten befindet sich auch Kerns geliebtes Verhackertes, das dem Tänzer das Leben kosten soll. Der Täter ist bis heute nicht gestellt. Neue Erkenntnisse liefert ein Zeuge im Fall Aeryn Gillern. Der US-Amerikaner war 2007 aus einer Wiener Sauna verschwunden und wird bis heute vermisst.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2022</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/10661128689274655529"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S2 E6</episode-num>
-    </programme>
 
     <programme start="20260815013500 +0000" stop="20260815022000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -664,7 +643,7 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260816151500 +0000" stop="20260816161500 +0000" channel="PULS24">
+    <programme start="20260816151500 +0000" stop="20260816161000 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Schweizerhaus</sub-title>
         <desc lang="de">Budweiser Bier, Stelzn' und ein riesiger Gastgarten - für fast jeden Wien-Touristen ist das Schweizerhaus im Prater ein Pflichtbesuch. Das Wirtshaus wird seit 1920 von Familie Kolarik betrieben - und das sehr erfolgreich, denn Stammgäste warten im Frühling schon immer sehnsüchtig auf die Eröffnung des Biergartens. "ATV - Die Reportage" begleitet die Saison eines der traditionellsten Häuser Österreichs.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -679,7 +658,7 @@
         <episode-num system="onscreen">S1</episode-num>
     </programme>
 
-    <programme start="20260816161500 +0000" stop="20260816171000 +0000" channel="PULS24">
+    <programme start="20260816161000 +0000" stop="20260816171000 +0000" channel="PULS24">
         <title lang="de">ATV - Die Reportage</title>
         <sub-title lang="de">Schnapsbrenner - Hochprozentiges aus Österreich</sub-title>
         <desc lang="de">Marille, Zwetschge, Vogelbeere - die Kunst des Schnapsbrennens liegt den Österreichern im Blut. Weltberühmt sind ihre klaren Köstlichkeiten. Doch mittlerweile versuchen sich immer mehr Destillerien nicht nur an den Klassikern, sondern auch an Whisky und Gin. "ATV Die Reportage" zeigt die Persönlichkeiten hinter den wohlklingenden Namen und wirft einen Blick ins Allerheiligste.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
@@ -805,32 +784,26 @@
         <episode-num system="onscreen">S1 E6</episode-num>
     </programme>
 
-    <programme start="20260815002500 +0000" stop="20260815011000 +0000" channel="ServusTV">
-        <title lang="de">Ostrowski macht Urlaub</title>
-        <sub-title lang="de">Auf Kur</sub-title>
-        <desc lang="de">Nach den Strapazen der Covid Pandemie braucht Michi Ruhe und Erholung. Er lässt sich einen Kuraufenthalt verschreiben. Nicht ganz überzeugt, aber doch experimentierfreudig bricht Michi auf in ein neues Abenteuer in „das Kurhaus“ in Bad Gleichenberg. Dort erwarten ihn verschiedenste Therapien der modernsten Art. Kältekammer, Unterwassergymnastik, Lomi Lomi Nui Massage, ein Nordic Walk und vieles mehr. Dort hat Michi auch einen Moment der Erleuchtung mit seinem spirituellen Führer, Erik. Gestärkt haut er aus der Kur ab und taucht wieder ins Leben ein.&lt;br /&gt;&lt;br /&gt;Michael Ostrowskis Neugier, gepaart mit einer gesunden Dosis Selbstironie und Schlagfertigkeit, garantiert Unterhaltungswert. Er testet typische österreichische Urlaubsdestinationen, die bei den Zusehern schon von vornherein klare Erwartungen wecken.</desc>
+    <programme start="20260817012500 +0000" stop="20260817020500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">17.08.2026 03:25.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Michael Ostrowski</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2022</date>
-        <category lang="de">Reisen</category>
-        <icon src="https://images.mdn.ors.at/15157635828296118420"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260815011000 +0000" stop="20260815014500 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Außergewöhnliche Artefakte</sub-title>
-        <desc lang="de">"Ancient Aliens" hat die ältesten und unglaublichsten Relikte der Welt aus unmittelbarer Nähe untersucht. Jetzt wirft Giorgio Tsoukalos einen Blick zurück auf die geheimnisvollsten Artefakte aus der ganzen Welt - Artefakte, die seiner Meinung nach unbestreitbare Beweise für außerirdische Kontakte liefern.&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2022</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/15422341268842851798"/>
-        <country>Vereinigte Staaten, Kanada, Vereinigtes Königreich</country>
-        <episode-num system="onscreen">S14 E15</episode-num>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260815014500 +0000" stop="20260815022000 +0000" channel="ServusTV">
@@ -1635,7 +1608,11 @@
             <actor> Juergen Maurer</actor>
             <actor> Leopold Altenburg</actor>
             <actor> Juergen Maurer</actor>
-            <actor> Richard Deutinger; [B]ErzählerIn[/B]: Florentin Groll; [B]DarstellerInnen[/B]: Gexi Tostmann</actor>
+            <actor> Richard Deutinger; [B]ErzählerIn[/B]: Florentin Groll; [B]DarstellerInnen[/B]: Roland David</actor>
+            <actor> Katrin Unterreiner</actor>
+            <actor> Jeremias Riezler</actor>
+            <actor> Susanne Bisovsky</actor>
+            <actor> Gexi Tostmann</actor>
             <actor> Christian Berger</actor>
             <actor> Michael Schludermann</actor>
             <actor> Katharina Rainer</actor>
@@ -1650,11 +1627,7 @@
             <actor> Erika Wrolich</actor>
             <actor> Barbara Wrolich</actor>
             <actor> Daniel Gallob</actor>
-            <actor> Pierre Bechler</actor>
-            <actor> Roland David</actor>
-            <actor> Katrin Unterreiner</actor>
-            <actor> Jeremias Riezler</actor>
-            <actor> Susanne Bisovsky; [B]Kamera[/B]: Giorgio Sironi</actor>
+            <actor> Pierre Bechler; [B]Kamera[/B]: Giorgio Sironi</actor>
             <actor> Lena Moik</actor>
             <actor> Benedikt Grobbauer</actor>
             <actor> ELIAS HUMPELER; [B]Editor[/B]:  Ivan Radovanovic</actor>
@@ -1744,8 +1717,9 @@
     </programme>
 
     <programme start="20260816181500 +0000" stop="20260816194000 +0000" channel="ServusTV">
-        <title lang="de">Episode 1</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Tiroler Paul Ivić pfiff auf Nachhaltigkeit und betrieb Raubbau am eigenen Körper. Dann kam eine triviale Eierspeis‘ und damit die Läuterung. Seit 10 Jahren ist er der Maestro im Tian, dem einzig rein vegetarischen Restaurant Österreichs mit einem Michelin Stern und ist quasi auf Mission. Im Geschwister Rauch in der Steiermark ist die Chefin Sonja Rauch, die große Schwester, der Wunderwuzzi in der Küche ist Richard, der kleine Bruder. Mit 19 Jahren das Küchenzepter übernommen, ein Jahr später: Die erste Haube. Das Steirereck am Stadtpark ist die wohl legendärste Adresse Österreichs. Drei Sterne, fünf Hauben, Koch des Jahrzehnts und Ausbilder der ganz Großen: Heinz Reitbauer. Heinz Reitbauer gilt als Tüftler und Erfinder der heimischen Nationalküche und sein Steirereck rangiert stets unter den besten 50 Restaurants der Welt. Frau Birgit hat als Serviceleiterin im zweiten Reitbauer-Restaurant am steirischen Pogusch angefangen und ist, trotz chronischen Schlafmangels, immer noch voller Enthusiasmus für die Gastronomie und ihre Stammgäste. Wobei einer ihr Herz besonders berührt hat... Im Steirereck, bei „Herrn Reitbauer“ hat auch Philip Rachinger sein Handwerk gelernt, und natürlich bei Herrn Vater Helmut. Da sie „gemeinsam nicht mehr besser werden“ haben sich die beiden nun getrennt. Aber nur räumlich. Helmut Rachinger kocht nun ein paar Meter weiter im Fernruf 7, wo er nun Smalltalk lernen muss, weil er neben der Küche auch den Service schupft. Sonst bleibt im „OIs“ im Mühltalhof in Neufelden in Oberösterreich alles beim Alten. Feine Küche mit vier Hauben, zwei Sternen, einer asiatischen Note und die Allzweck-Geheimwaffe: Oma Walburga, von Philip „die einzig wahre steirische Küchenmaschine“ genannt.</desc>
+        <title lang="de">Restaurantlegenden</title>
+        <sub-title lang="de">Episode 1</sub-title>
+        <desc lang="de">Die heimischen Sterneköche sind quasi auf Mission. Paul Ivic kocht im Tian in Wien rein vegetarisch, Heinz Reitbauer hat einmal gesagt, er wäre Landwirt, wäre er nicht Koch. Da fragt sich Richard Rauch vom Geschwister Rauch zurecht, ob er auch noch wissen muss, wie die Kuh heißt. Und was passiert, wenn sich im Mühltalhof Vater Helmut und Sohn Philip Rachinger räumlich trennen?&lt;br /&gt;&lt;br /&gt;"Das Enfant Terrible der Gastro-Szene", "Wunderkind am Herd" - Lukas Mraz soll das alles schon haben.</desc>
         <credits>
             <actor>[B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Carolin Darschin</actor>
             <actor>  Antonia Adelsberger</actor>
@@ -1754,8 +1728,8 @@
             <actor>  Michael Gügerl</actor>
         </credits>
         <date>2026</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/1498341826105749754"/>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/3194085754778676251"/>
         <country>Österreich</country>
     </programme>
 
@@ -1808,8 +1782,9 @@
     </programme>
 
     <programme start="20260816223000 +0000" stop="20260816234500 +0000" channel="ServusTV">
-        <title lang="de">Episode 1</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der Tiroler Paul Ivić pfiff auf Nachhaltigkeit und betrieb Raubbau am eigenen Körper. Dann kam eine triviale Eierspeis‘ und damit die Läuterung. Seit 10 Jahren ist er der Maestro im Tian, dem einzig rein vegetarischen Restaurant Österreichs mit einem Michelin Stern und ist quasi auf Mission. Im Geschwister Rauch in der Steiermark ist die Chefin Sonja Rauch, die große Schwester, der Wunderwuzzi in der Küche ist Richard, der kleine Bruder. Mit 19 Jahren das Küchenzepter übernommen, ein Jahr später: Die erste Haube. Das Steirereck am Stadtpark ist die wohl legendärste Adresse Österreichs. Drei Sterne, fünf Hauben, Koch des Jahrzehnts und Ausbilder der ganz Großen: Heinz Reitbauer. Heinz Reitbauer gilt als Tüftler und Erfinder der heimischen Nationalküche und sein Steirereck rangiert stets unter den besten 50 Restaurants der Welt. Frau Birgit hat als Serviceleiterin im zweiten Reitbauer-Restaurant am steirischen Pogusch angefangen und ist, trotz chronischen Schlafmangels, immer noch voller Enthusiasmus für die Gastronomie und ihre Stammgäste. Wobei einer ihr Herz besonders berührt hat... Im Steirereck, bei „Herrn Reitbauer“ hat auch Philip Rachinger sein Handwerk gelernt, und natürlich bei Herrn Vater Helmut. Da sie „gemeinsam nicht mehr besser werden“ haben sich die beiden nun getrennt. Aber nur räumlich. Helmut Rachinger kocht nun ein paar Meter weiter im Fernruf 7, wo er nun Smalltalk lernen muss, weil er neben der Küche auch den Service schupft. Sonst bleibt im „OIs“ im Mühltalhof in Neufelden in Oberösterreich alles beim Alten. Feine Küche mit vier Hauben, zwei Sternen, einer asiatischen Note und die Allzweck-Geheimwaffe: Oma Walburga, von Philip „die einzig wahre steirische Küchenmaschine“ genannt.</desc>
+        <title lang="de">Restaurantlegenden</title>
+        <sub-title lang="de">Episode 1</sub-title>
+        <desc lang="de">Die heimischen Sterneköche sind quasi auf Mission. Paul Ivic kocht im Tian in Wien rein vegetarisch, Heinz Reitbauer hat einmal gesagt, er wäre Landwirt, wäre er nicht Koch. Da fragt sich Richard Rauch vom Geschwister Rauch zurecht, ob er auch noch wissen muss, wie die Kuh heißt. Und was passiert, wenn sich im Mühltalhof Vater Helmut und Sohn Philip Rachinger räumlich trennen?&lt;br /&gt;&lt;br /&gt;"Das Enfant Terrible der Gastro-Szene", "Wunderkind am Herd" - Lukas Mraz soll das alles schon haben.</desc>
         <credits>
             <actor>[B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Carolin Darschin</actor>
             <actor>  Antonia Adelsberger</actor>
@@ -1818,8 +1793,8 @@
             <actor>  Michael Gügerl</actor>
         </credits>
         <date>2026</date>
-        <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/1498341826105749754"/>
+        <category lang="de">Essen</category>
+        <icon src="https://images.mdn.ors.at/3194085754778676251"/>
         <country>Österreich</country>
     </programme>
 
@@ -1840,23 +1815,32 @@
         <country>Vereinigte Staaten, Vereinigtes Königreich</country>
     </programme>
 
-    <programme start="20260817003000 +0000" stop="20260817011000 +0000" channel="ServusTV">
+    <programme start="20260817003000 +0000" stop="20260817011500 +0000" channel="ServusTV">
         <title lang="de">Strangest Things</title>
         <sub-title lang="de">Die goldene Platte, das Buch der Mysterien und der Spiegel zum Jenseits</sub-title>
         <desc lang="de">Verschlossen in einem Schrank an der US-amerikanischen Yale University steht ein mittelalterliches Buch, das Historiker seit Jahrhunderten rätseln lässt: das Voynich-Manuskript. Niemand weiß, wer das Werk angefertigt hat und was seine Texte bedeuten sollen. &lt;br /&gt;Die Voyager Golden Records sind hoffentlich verständlicher – diese Datenplatten enthalten Bilder, Geräusche, Lieder und eine Grußbotschaft in 55 Sprachen und wurden mit interstellaren Raumsonden ins All gesandt, um Kontakt zu Außerirdischen aufzunehmen.&lt;br /&gt;&lt;br /&gt;Versteckt in Museen, Labors und Lagerhäusern auf der ganzen Welt sind die wundersamsten Objekte der Erde. Mit Hilfe neuer Forschung und Technologie kommen wir ihnen näher als je zuvor.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Corey Johnson; [B]Drehbuch[/B]: Philip Ball; [B]DarstellerInnen[/B]: Sascha Auerbach</actor>
-            <actor> Mark Benecke</actor>
+            <actor>[B]ErzählerIn[/B]: Corey Johnson; [B]Drehbuch[/B]: Philip Ball; [B]DarstellerInnen[/B]: Mark Benecke</actor>
             <actor>  Andrew Steele</actor>
             <actor> Kevin Macdonald</actor>
             <actor> Anna Ploszajski</actor>
             <actor> Tim Denison</actor>
             <actor> Tamar Hodos</actor>
+            <actor> Sascha Auerbach</actor>
         </credits>
         <date>2020</date>
         <category lang="de">Geschichtlich</category>
         <icon src="https://images.mdn.ors.at/4210369651531603712"/>
         <country>Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260817011500 +0000" stop="20260817023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
