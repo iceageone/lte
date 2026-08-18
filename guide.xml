@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-18 00:34:44.928655 -->
+<!-- created on 2026-08-18 02:01:57.789243 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,34 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260817234500 +0000" stop="20260818003500 +0000" channel="PULS24">
-        <title lang="de">ATV - Die Reportage</title>
-        <sub-title lang="de">Buschenschanken und Heurige</sub-title>
-        <desc lang="de">Rund 27 Liter Rebensaft pro Kopf werden jährlich in Österreich konsumiert. Besonders gerne wird der Wein dort getrunken, wo er auch produziert wird: beim Winzer vor Ort. Und so vielfältig wie die Weine, so unterschiedlich sind die Heurigen und Buschenschanken des Landes. Vom ältesten Heurigen in Grinzing bis zum urigen Heurigen in der Wachau - "ATV - Die Reportage" besucht alte und neue Heurigenwirte und deren Stammgäste.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Eva De Luca</actor>
-            <actor> Christian Clerici</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15121622099877438611"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260818003500 +0000" stop="20260818012500 +0000" channel="PULS24">
-        <title lang="de">ATV - Die Reportage</title>
-        <sub-title lang="de">Rapid gegen Viktoria Backstage</sub-title>
-        <desc lang="de">Was haben der Rekordmeister Rapid und der Traditionsverein Viktoria gemeinsam? Die große Liebe zum Fußball. Doch innerhalb eines Vereines geht es um weit mehr, als das Spiel auf dem frisch gemähten Rasen. Viele kleine und große Handgriffe führen schlussendlich dazu, dass Fans ihrem Lieblingsverein am Spieltag zujubeln können. Nicht zuletzt gehört auch der Bau an der Allianz Arena dazu. "ATV - Die Reportage" gewährt einen Einblick in das tägliche Leben bei den Wiener Fußballclubs.&lt;br /&gt;&lt;br /&gt;"ATV - Die Reportage" begibt sich auf die Suche nach dem Besonderen, aber auch nach dem spannenden Detail im Alltag. Die Reporter treffen außergewöhnliche Menschen, lassen sich mitreißende Geschichten erzählen und liefern Einblicke in Lebenswelten, die oftmals im Verborgenen bleiben. Ein Format, so vielfältig wie unsere Gesellschaft.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Eva De Luca</actor>
-            <actor> Christian Clerici</actor>
-        </credits>
-        <date>2015</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15121622099877438611"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20260818012500 +0000" stop="20260818020500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -683,24 +655,40 @@
         <episode-num system="onscreen">S1 E8</episode-num>
     </programme>
 
-    <programme start="20260818002000 +0000" stop="20260818014500 +0000" channel="ServusTV">
-        <title lang="de">Die Logan Verschwörung</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Ex-CIA-Agent Logan arbeitet in Belgien für eine Sicherheitsfirma. Als seine Kollegen getötet werden, wird ihm klar, dass er seine Vergangenheit nicht hinter sich gelassen hat.</desc>
+    <programme start="20260820005500 +0000" stop="20260820014000 +0000" channel="PULS24">
+        <title lang="de">Witness to Murder - Digitale Zeugen</title>
+        <sub-title lang="de">Game Over</sub-title>
+        <desc lang="de">In Mobile, Alabama, wird ein Uni-Professor ermordet. Die Ermittler machen schnell einen Verdächtigen aus, doch die Auswertung eines vom Tatort gestohlenen technischen Geräts lenkt die Ermittlungen in eine völlig andere Richtung.&lt;br /&gt;&lt;br /&gt;Das digitale Zeitalter beeinflusst die Aufklärung von Verbrechen enorm. Was früher unmöglich war, ist jetzt ein Kinderspiel: Daten aus Quellen wie Handy, GPS-Gerät oder Überwachungskamera - ermöglichen es den Ermittlern, näher an die Täter heranzurücken.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Aaron Eckhart</actor>
-            <actor> Nick Alachiotis</actor>
-            <actor> Liana Liberato</actor>
-            <actor> Olga Kurylenko</actor>
-            <actor> Garrick Hagon</actor>
-            <actor> David Bark-Jones</actor>
-            <actor> Yassine Fadel</actor>
-            <actor> Neil Napier</actor>
-            <actor> Alexander Fehling; [B]Regie[/B]: Philipp Stölzl; [B]Drehbuch[/B]: Arash Amel</actor>
+            <actor>[B]Regie[/B]: SCOTT MCDONNELL</actor>
         </credits>
-        <date>2012</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/7395954386772669770"/>
-        <country>Vereinigte Staaten, Kanada, Belgien, Vereinigtes Königreich</country>
+        <date>2023</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/5446385162309245320"/>
+        <country>Vereinigte Staaten</country>
+        <episode-num system="onscreen">S1 E6</episode-num>
+    </programme>
+
+    <programme start="20260820014000 +0000" stop="20260820022500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">20.08.2026 03:40.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260818014500 +0000" stop="20260818023500 +0000" channel="ServusTV">
@@ -1000,7 +988,7 @@
         </credits>
         <date>2024</date>
         <category lang="de">Antiquitäten</category>
-        <icon src="https://images.mdn.ors.at/8698011102066801767"/>
+        <icon src="https://images.mdn.ors.at/14977960181002016825"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1088,7 +1076,7 @@
         </credits>
         <date>2023</date>
         <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
+        <icon src="https://images.mdn.ors.at/3227535128724363628"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1107,7 +1095,7 @@
         </credits>
         <date>2023</date>
         <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/11179945114315720152"/>
+        <icon src="https://images.mdn.ors.at/3227535128724363628"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1446,7 +1434,7 @@
         <episode-num system="onscreen">S2026 E18</episode-num>
     </programme>
 
-    <programme start="20260819160500 +0000" stop="20260819163000 +0000" channel="ServusTV">
+    <programme start="20260819160500 +0000" stop="20260819163500 +0000" channel="ServusTV">
         <title lang="de">Servus am Abend</title>
         <sub-title lang="de">19.08.2026.</sub-title>
         <desc lang="de">Servus am Abend, mit den stärksten Bildern und Geschichten aus Österreich. Hintergründig. Einordnend. Unterhaltsam. Das Fernseh-Magazin informiert Sie umfassend über die Themen, die Österreich bewegen. Menschen und ihre Herausforderungen stehen dabei stets im Mittelpunkt. Ereignisse, die vor Ihrer Haustür passieren aber ganz Österreich angehen, beleuchtet Servus am Abend mit einem individuellen und überraschenden Ansatz. Das Vorabend-Magazin schildert Missstände objektiv und unbefangen und zeigt Lösungen auf. Ob Behörden-Irrsinn, Wirtschaftsreportagen oder ambitionierte Sportler, die an ihre Grenzen gehen: Die Themenbreite ist kurzweilig und unterhaltsam. Die ServusTV-Meteorologen erklären die Wetterlage der nächsten Tage, und das von den schönsten Berggipfeln Österreichs. Die Moderatoren der Sendung sind Claudia Maxones, Pia Pichler und Philipp McAllister.&lt;br /&gt;&lt;br /&gt;Mit den besten Bildern und Geschichten des Tages in den Feierabend: Servus am Abend bietet einen bunten Themen-Mix von aktuell bis unterhaltsam – all das, was Österreich bewegt.</desc>
@@ -1462,7 +1450,7 @@
         <episode-num system="onscreen">S2026</episode-num>
     </programme>
 
-    <programme start="20260819163000 +0000" stop="20260819171700 +0000" channel="ServusTV">
+    <programme start="20260819163500 +0000" stop="20260819171700 +0000" channel="ServusTV">
         <title lang="de">Bares für Rares</title>
         <sub-title lang="de">Funkelnde Art-Déco-Ohrringe</sub-title>
         <desc lang="de">Zwei Ohrringe aus der Art-Déco-Zeit, ein elegantes Erbstück aus den 1930er Jahren, werden im Pulheimer Walzwerk angeboten und sollen gewinnbringend den Besitzer wechseln! Doch um welchen Preis? Wie taxiert die Expertin Wendela Horz den Schmuck? Gefertigt wurden die Ohrringe in den späten 1920er bzw. in den frühen 1930er Jahren. Bei dem Material handelt es sich um Platin mit Weißgold-Elementen. Besetzt wurden die Ohrringe mit Altschliff-Diamanten, insgesamt ca. 0,5 bis 0,6 Karat. Das geometrische Design ist, laut Expertin Wendela Horz, typisch für die Kunstrichtung des Art Déco. Jedoch wurde der Schraubverschluss später ergänzt. Auch weist das Schmuckstück Gebrauchsspuren und Reparaturen auf. Wie fällt also der Schätzpreis durch die Expertin aus? Stimmen Wunschpreis und Schätzpreis überein, sodass Horst Lichter die Händlerkarte überreichen kann? Und: Was sind die Händler und Händlerinnen bereit zu bieten? Es bleibt spannend!&lt;br /&gt;&lt;br /&gt;Das Trödel-Format Bares für Rares mit Horst Lichter dreht sich um Kurioses, Tinnef und in Vergessenheit geratene Schätze. In der Sendung werden verschiedenste Gegenstände von ihren Besitzern vorgestellt und von Experten begutachtet. In kurzen Einspielfilmen werden besondere Sammlerstücke näher beleuchtet, bevor sie im Händlerraum angeboten werden. Horst Lichter vermittelt dabei zwischen Anbietern und Händlern und sorgt für unterhaltsame Gespräche. Der Zuschauer erfährt so Spannendes, Informatives, Überraschendes und oft auch Kurioses und lernt sowohl die Objekte als auch ihre Besitzer näher kennen.</desc>
@@ -1471,7 +1459,7 @@
         </credits>
         <date>2024</date>
         <category lang="de">Antiquitäten</category>
-        <icon src="https://images.mdn.ors.at/8698011102066801767"/>
+        <icon src="https://images.mdn.ors.at/14977960181002016825"/>
         <country>Deutschland</country>
     </programme>
 
@@ -1536,7 +1524,7 @@
         <episode-num system="onscreen">S1 E1</episode-num>
     </programme>
 
-    <programme start="20260819191000 +0000" stop="20260819201000 +0000" channel="ServusTV">
+    <programme start="20260819191000 +0000" stop="20260819200500 +0000" channel="ServusTV">
         <title lang="de">Amerikas Westküste - 3000 Kilometer Abenteuer am Pazifik</title>
         <sub-title lang="de">Durch Oregon nach Nordkalifornien</sub-title>
         <desc lang="de">Der Pacific Coast Highway: Urwälder, fruchtbares Farmland und pulsierende Metropolen in Washington, Oregon und Kalifornien. Brutale Steigungen und gnadenloser Gegenwind. Atemraubende Felsenküsten und einsame Traumstrände. Ein R(o)adtrip mit Sehnsuchtsgarantie, zum Nachreisen, mit dem Bike, Motorrad, Van oder Wohnmobil! Dirk Rohrbachs Route schmiegt sich wieder eng ans Wasser, führt über Landzungen, durch Kiefernhaine zu kleinen State Parks, die zum Wandern einladen. Die Strände sind sandig und weitläufig. Dazwischen kleine Städtchen mit Coffeeshops und Kunstgalerien. Und dann plötzlich Sand. Soweit das Auge reicht. Wie eine gelbe Wand gleich neben dem Asphalt des Highways. Bis zu 150 Meter erheben sich die Oregon Sand Dunes. Ein Paradies für Sandboarder. Das will der Fotograf und Extremradler Dirk Rohrbach ausprobieren und scheitert kläglich. In Coos Bay trifft Dirk den Häuptling der Coquille, hilft in Bandon Sandkünstlern beim Erstellen eines riesigen Labyrinths am Strand und erfährt, wie man mit Müll die Ozeane retten kann. Und als er ganz im Süden von Oregon vor der Küste paddelt, taucht plötzlich ein Wal auf.&lt;br /&gt;&lt;br /&gt;Der Fotograf und Extremradler Dirk Rohrbach sucht an Amerikas Westküste nach wilden Landschaften, inspirierenden Typen und überraschenden Geschichten. Unterwegs mit seinem Gravelbike trifft er auf Ureinwohner, Austernzüchter, Müllkünstler, Algensammler und Surfer. Dirk folgt dem Highway 101 mit dem Rad einmal um die Olympic Peninsula, eine fast 10.000 Quadratkilometer große Landzunge mit einem von zwei Nationalparks auf der Reise, dem Olympic National Park: Wilde Küste und verwunschene Regenwälder, einsame Buchten und sturmumtoste Felsklippen.</desc>
@@ -1551,7 +1539,7 @@
         <country>Vereinigte Staaten</country>
     </programme>
 
-    <programme start="20260819201000 +0000" stop="20260819220500 +0000" channel="ServusTV">
+    <programme start="20260819200500 +0000" stop="20260819220500 +0000" channel="ServusTV">
         <title lang="de">Convoy</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Eine Gruppe amerikanischer LKW-Fahrer, die "Trucker", führen Krieg gegen Polizeiwillkür und Korruption - ein moderner Western von Kult-Regisseur Sam Peckinpah, mit Kris Kristofferson und Ali MacGraw.</desc>
         <credits>
@@ -1624,6 +1612,15 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/2046596925812937428"/>
         <country>Vereinigte Staaten, Vereinigtes Königreich, Japan</country>
+    </programme>
+
+    <programme start="20260820013000 +0000" stop="20260820023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
