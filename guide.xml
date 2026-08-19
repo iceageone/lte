@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-19 00:35:16.930723 -->
+<!-- created on 2026-08-19 02:04:27.101459 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,24 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260818234500 +0000" stop="20260819003500 +0000" channel="PULS24">
-        <title lang="de">Die Bademeister</title>
-        <desc lang="de">Kurt und Erich sind Bademeister mit Herzblut. Ihr Arbeitsplatz ist das angesehene Freibad "Wiener Gänsehäufl". Kurts Bereich ist der Kinderstrand, Erich kümmert sich um die körperlich beeinträchtigten Gäste. Für Recht und Ordnung - und das in Eigenregie - sorgt Bademeister Johann im Erlaufthaler Freibad. Frechen Teenies kann er auch mal Hausverbot erteilen. Stefan und Peter wachen im Bad am Laaberg über den Badebetrieb. Ein Highlight für die Gäste: Peters Sprünge vom Zehner.&lt;br /&gt;&lt;br /&gt;Gärtnern, Schwimmen lehren und Haustiere streicheln. Bademeister von heute müssen noch viel mehr können, als Gäste vor dem Ertrinken zu retten. Die Ausbildung selbst ist schnell gemacht. Doch ein Bademeister mit Qualitäten wird man erst mit Erfahrung und Herzblut. Und solche Fachleute findet man auch in Österreich.</desc>
-        <date>2020</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/6695311755811010265"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260819003500 +0000" stop="20260819012500 +0000" channel="PULS24">
-        <title lang="de">Die Bademeister</title>
-        <desc lang="de">Bademeister Kurt entfernt im Wiener Gänsehäufel die Algenplage am Kinderstrand der Alten Donau. An einem anderen Strand spielt sich unterdessen eine dramatische Szene ab: Eine junge Frau ist zu weit geschwommen und hat einen Krampf in der Wade erlitten. Jetzt ist Bademeister Robert gefragt. Im Florian-Berndl-Bad in Bisamberg geht es ruhig zu. Die Bademeister nutzen die Zeit, um Fundstücke zu ordnen. Im Welldorado herrscht rege Badestimmung. Besonders beliebt: der 10-Meter-Turm.&lt;br /&gt;&lt;br /&gt;Gärtnern, Schwimmen lehren und Haustiere streicheln. Bademeister von heute müssen noch viel mehr können, als Gäste vor dem Ertrinken zu retten. Die Ausbildung selbst ist schnell gemacht. Doch ein Bademeister mit Qualitäten wird man erst mit Erfahrung und Herzblut. Und solche Fachleute findet man auch in Österreich.</desc>
-        <date>2020</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/6695311755811010265"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20260819012500 +0000" stop="20260819020500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -761,22 +743,26 @@
         <episode-num system="onscreen">S6 E6</episode-num>
     </programme>
 
-    <programme start="20260819000000 +0000" stop="20260819004500 +0000" channel="ServusTV">
-        <title lang="de">Hubert und Staller</title>
-        <sub-title lang="de">Die Radieschen von unten</sub-title>
-        <desc lang="de">Immer wieder zertrampelte Beete, Glasscherben und Partymüll. Als Hubert und Staller sich an einem frühen Morgen mit der Kleingärtnerin Helga Kramer treffen wollen, um sich ein Bild über die neuesten Vandalismus-Vorfälle in der örtlichen Kleingartenanlage zu machen, finden sie die Frau tot in ihrer Laube. Alles weist auf einen Mord hin. So könnte Helga Kramer das Opfer genau der Gruppe randalierender Jugendlicher geworden sein, wegen der sie vorher die ganze Nacht als Teil einer Bürgerwehr in der Kleingartensiedlung verbracht hatte.&lt;br /&gt;&lt;br /&gt;Kripoarbeit ist Teamarbeit - und sie sind das perfekte Ermittler-Team: Cornelia Niedrig und Bernhard Kuhnt sind echte Kommissare, die Täter vor laufender Kamera dingfest machen. Schlechte Nachrichten also für Deutschlands Knacki-Elite, alle anderen dürfen sich über eine spannende und sehr erfolgreiche Polizei-Ermittler-Serie freuen.</desc>
+    <programme start="20260821012500 +0000" stop="20260821021000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">21.08.2026 03:25.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Christian Tramitz</actor>
-            <actor> Michael Brandner</actor>
-            <actor> Paul Sedlmeir</actor>
-            <actor> Hannes Ringlstetter</actor>
-            <actor> Helmfried von Lüttichau</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>2014</date>
-        <category lang="de">Krimi</category>
-        <icon src="https://images.mdn.ors.at/3733597124122161274"/>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
         <country>Deutschland</country>
-        <episode-num system="onscreen">S4 E5</episode-num>
     </programme>
 
     <programme start="20260819004500 +0000" stop="20260819021000 +0000" channel="ServusTV">
@@ -1425,13 +1411,13 @@
         <sub-title lang="de">Die Kunst des Einbrechens</sub-title>
         <desc lang="de">Das Revier ist einer ausgefuchsten Einbrecherbande auf den Fersen, die seit längerem in der Wolfratshauser High-Society ihr Unwesen treibt. Sie klaut vor allem wertvolle Gemälde, ohne Spuren zu hinterlassen. Das macht den Fall für Hubert und Girwidz schier unlösbar. Dann aber findet Hubert heraus, dass alle gestohlenen Bilder in ein und derselben Galerie gekauft wurden. Hat Galerist Weber mit den Einbrüchen zu tun? Und welche Rolle spielt der aufstrebende Künstler A. Kucha?&lt;br /&gt;&lt;br /&gt;Hubert löst seine nächsten Fälle ohne Staller. Dabei bekommt er Unterstützung vom ehemaligen Revierleiter Girwidz, der degradiert wurde.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Paul Sedlmeir</actor>
+            <actor>[B]DarstellerInnen[/B]: Michael Brandner</actor>
+            <actor> Christian Tramitz</actor>
+            <actor> Hannes Ringlstetter</actor>
+            <actor> Paul Sedlmeir</actor>
             <actor> Katharina Müller-Elmau</actor>
             <actor> Mitsou Jung</actor>
             <actor> Susu Padotzke</actor>
-            <actor> Michael Brandner</actor>
-            <actor> Christian Tramitz</actor>
-            <actor> Hannes Ringlstetter</actor>
         </credits>
         <date>2023</date>
         <category lang="de">Krimi</category>
@@ -1467,12 +1453,12 @@
     </programme>
 
     <programme start="20260820151500 +0000" stop="20260820154000 +0000" channel="ServusTV">
-        <title lang="de">UEFA Europa League Play-offs: Mjällby AIF - FC Red Bull Salzburg</title>
-        <sub-title lang="de">Fußball LIVE: Vorbericht</sub-title>
-        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;</desc>
+        <title lang="de">UEFA Europa League</title>
+        <sub-title lang="de">Play-offs: Mjällby AIF - FC Red Bull Salzburg - Vorbericht</sub-title>
+        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;Übertragung von Spielen der UEFA Europa League.</desc>
         <date>2026</date>
-        <category lang="de">Sport</category>
-        <icon src="https://images.mdn.ors.at/17042599334071851022"/>
+        <category lang="de">Fußball</category>
+        <icon src="https://images.mdn.ors.at/11093153791314834166"/>
         <country>Österreich</country>
     </programme>
 
@@ -1491,22 +1477,22 @@
     </programme>
 
     <programme start="20260820155000 +0000" stop="20260820160000 +0000" channel="ServusTV">
-        <title lang="de">UEFA Europa League Play-offs: Mjällby AIF - FC Red Bull Salzburg</title>
-        <sub-title lang="de">Fußball LIVE: Vorbericht</sub-title>
-        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;</desc>
+        <title lang="de">UEFA Europa League</title>
+        <sub-title lang="de">Play-offs: Mjällby AIF - FC Red Bull Salzburg - Vorbericht</sub-title>
+        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;Übertragung von Spielen der UEFA Europa League.</desc>
         <date>2026</date>
-        <category lang="de">Sport</category>
-        <icon src="https://images.mdn.ors.at/17042599334071851022"/>
+        <category lang="de">Fußball</category>
+        <icon src="https://images.mdn.ors.at/11093153791314834166"/>
         <country>Österreich</country>
     </programme>
 
     <programme start="20260820160000 +0000" stop="20260820164800 +0000" channel="ServusTV">
-        <title lang="de">UEFA Europa League Play-offs: Mjällby AIF - FC Red Bull Salzburg</title>
-        <sub-title lang="de">Fußball LIVE</sub-title>
-        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;</desc>
+        <title lang="de">UEFA Europa League</title>
+        <sub-title lang="de">Play-offs: Mjällby AIF - FC Red Bull Salzburg- 1. Halbzeit</sub-title>
+        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;Übertragung von Spielen der UEFA Europa League.</desc>
         <date>2026</date>
-        <category lang="de">Sport</category>
-        <icon src="https://images.mdn.ors.at/17042599334071851022"/>
+        <category lang="de">Fußball</category>
+        <icon src="https://images.mdn.ors.at/11093153791314834166"/>
         <country>Österreich</country>
     </programme>
 
@@ -1525,22 +1511,22 @@
     </programme>
 
     <programme start="20260820170000 +0000" stop="20260820174500 +0000" channel="ServusTV">
-        <title lang="de">UEFA Europa League Play-offs: Mjällby AIF - FC Red Bull Salzburg</title>
-        <sub-title lang="de">Fußball LIVE: 2. Halbzeit</sub-title>
-        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;</desc>
+        <title lang="de">UEFA Europa League</title>
+        <sub-title lang="de">Play-offs: Mjällby AIF - FC Red Bull Salzburg - 2. Halbzeit</sub-title>
+        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;Übertragung von Spielen der UEFA Europa League.</desc>
         <date>2026</date>
-        <category lang="de">Sport</category>
-        <icon src="https://images.mdn.ors.at/17042599334071851022"/>
+        <category lang="de">Fußball</category>
+        <icon src="https://images.mdn.ors.at/11093153791314834166"/>
         <country>Österreich</country>
     </programme>
 
     <programme start="20260820174500 +0000" stop="20260820181500 +0000" channel="ServusTV">
-        <title lang="de">UEFA Europa League Play-offs: Mjällby AIF - FC Red Bull Salzburg</title>
-        <sub-title lang="de">Fußball LIVE: Analyse</sub-title>
-        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;</desc>
+        <title lang="de">UEFA Europa League</title>
+        <sub-title lang="de">Play-offs: Mjällby AIF - FC Red Bull Salzburg - Analyse</sub-title>
+        <desc lang="de">Das Playoff für die UEFA Europa League LIVE im frei empfangbaren Fernsehen! Nur der Sieger darf in der Ligaphase der UEFA Europa League teilnehmen. Für den Verlierer geht es immerhin in die Ligaphase der UEFA Conference League. ServusTV und ServusTV On zeigt die Entscheidung LIVE und exklusive im Free-TV.&lt;br /&gt;&lt;br /&gt;Übertragung von Spielen der UEFA Europa League.</desc>
         <date>2026</date>
-        <category lang="de">Sport</category>
-        <icon src="https://images.mdn.ors.at/17042599334071851022"/>
+        <category lang="de">Fußball</category>
+        <icon src="https://images.mdn.ors.at/11093153791314834166"/>
         <country>Österreich</country>
     </programme>
 
@@ -1628,6 +1614,29 @@
         <category lang="de">Unterhaltung Comedy</category>
         <icon src="https://images.mdn.ors.at/3547829475576075026"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20260821005500 +0000" stop="20260821014000 +0000" channel="ServusTV">
+        <title lang="de">Man vs. Time - Im Wettlauf mit der Zeit</title>
+        <sub-title lang="de">Künstliches Licht</sub-title>
+        <desc lang="de">Vom Feuer über Kerzen und Gas bis zur Glühbirne und zum Lichtschalter: Die Elektrifizierung verlängerte den Tag, machte Schichtarbeit möglich und schuf eine globale Nachtökonomie. Der Preis dafür ist weniger Schlaf, ständige Erreichbarkeit und wachsende Lichtverschmutzung. Gleichzeitig eröffnet Licht neue Chancen: Photonik und Laser treiben Internet, Sensoren, Medizin und Industrie an – von Glasfasern bis zu minimalinvasiven Eingriffen. Lichtdesign prägt das Tempo und die Stimmung von Räumen: So kann sich ein Arbeitstag endlos ziehen – oder im Handumdrehen vergehen. Zeit und Licht sind auch eng miteinander verbunden. Entscheidend ist zudem die Frage, wie smarte Städte, Dark-Sky-Initiativen und mehr Tageslicht zu einem verantwortungsvolleren Umgang mit Licht führen können.&lt;br /&gt;&lt;br /&gt;SCHNELLER! Die Suche der Menschheit nach Zeitersparnis untersucht die zeitsparenden Erfindungen, auf die wir angewiesen sind, und erforscht deren Auswirkungen auf die Welt als Ganzes.</desc>
+        <credits>
+            <actor>[B]Regie[/B]:  Nicolas Boucher</actor>
+            <actor> Michael Lam</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3258750095495603276"/>
+        <country>Kanada</country>
+    </programme>
+
+    <programme start="20260821014000 +0000" stop="20260821023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
