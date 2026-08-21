@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-21 00:37:20.482921 -->
+<!-- created on 2026-08-21 02:10:08.435367 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,26 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260821003500 +0000" stop="20260821012500 +0000" channel="PULS24">
-        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
-        <sub-title lang="de">Lügen</sub-title>
-        <desc lang="de">Der schlimmste Albtraum einer Familie beginnt, als die 23-jährige Christina Morris verschwindet, während sie mit Freunden in Plano, Texas, unterwegs ist. Die Polizei versucht verzweifelt, sie lebend zu finden.&lt;br /&gt;&lt;br /&gt;Aus dem öffentlichen Raum sind Überwachungskameras kaum noch wegzudenken. Doch auch immer mehr Menschen installieren die elektronischen Detektive bei sich zu Hause. Die Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
-            <actor> James J. Wilson</actor>
-            <actor> Tamara Rambaran</actor>
-            <actor> Matthew Sauve</actor>
-            <actor> Drew Riedstra</actor>
-            <actor> Michal Ochkie</actor>
-            <actor> Morgan Bragg</actor>
-        </credits>
-        <date>2020</date>
-        <category lang="de">True Crime</category>
-        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
-        <country>Vereinigtes Königreich, Kanada, Vereinigte Staaten, Mexiko</country>
-        <episode-num system="onscreen">S6 E6</episode-num>
-    </programme>
 
     <programme start="20260821012500 +0000" stop="20260821021000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -684,34 +664,22 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260820233000 +0000" stop="20260821005500 +0000" channel="ServusTV">
-        <title lang="de">Kabarett am Freitag</title>
-        <sub-title lang="de">Roland Düringer - Regenerationsabend 2.0</sub-title>
-        <desc lang="de">Einmal Benzinbruder, immer Benzinbruder: Im Programm "Regenerationsabend 2.0" läuft Roland Düringer zu alter Hochform auf. Ein aktualisiertes Best of seines Klassikers - abgeklärt-nostalgisch und virtuos erzählt.&lt;br /&gt;&lt;br /&gt;Die Veranstaltungsreihe "Kabarett.Freitag" der Wachau Bühne geht in die vierte Runde!</desc>
-        <credits>
-            <actor>[B]Kamera[/B]: Gerd Schneider</actor>
-            <actor> Karl Heinz</actor>
-            <actor> Hans-Christian Vetchy</actor>
-            <actor> Wolfram Zöttel; [B]Regie[/B]: Peter Schröder; [B]Editor[/B]:  Marie Goltermann</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Unterhaltung Comedy</category>
-        <icon src="https://images.mdn.ors.at/3547829475576075026"/>
+    <programme start="20260823004500 +0000" stop="20260823014000 +0000" channel="PULS24">
+        <title lang="de">Pfusch am Bau</title>
+        <desc lang="de">Beim Dach des Hauses von Fadime Kizil in Niederösterreich wurde ordentlich gepfuscht. Und ein Pärchen wollte sich den Traum vom Eigenheim verwirklichen - bislang ist es leider jedoch ein Albtraum. Kann Günther Nussbaum in beiden Fällen helfen?&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
+        <date>2016</date>
+        <category lang="de">Rund ums Haus</category>
+        <icon src="https://images.mdn.ors.at/947581550505729740"/>
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260821005500 +0000" stop="20260821014000 +0000" channel="ServusTV">
-        <title lang="de">Man vs. Time - Im Wettlauf mit der Zeit</title>
-        <sub-title lang="de">Künstliches Licht</sub-title>
-        <desc lang="de">Vom Feuer über Kerzen und Gas bis zur Glühbirne und zum Lichtschalter: Die Elektrifizierung verlängerte den Tag, machte Schichtarbeit möglich und schuf eine globale Nachtökonomie. Der Preis dafür ist weniger Schlaf, ständige Erreichbarkeit und wachsende Lichtverschmutzung. Gleichzeitig eröffnet Licht neue Chancen: Photonik und Laser treiben Internet, Sensoren, Medizin und Industrie an – von Glasfasern bis zu minimalinvasiven Eingriffen. Lichtdesign prägt das Tempo und die Stimmung von Räumen: So kann sich ein Arbeitstag endlos ziehen – oder im Handumdrehen vergehen. Zeit und Licht sind auch eng miteinander verbunden. Entscheidend ist zudem die Frage, wie smarte Städte, Dark-Sky-Initiativen und mehr Tageslicht zu einem verantwortungsvolleren Umgang mit Licht führen können.&lt;br /&gt;&lt;br /&gt;SCHNELLER! Die Suche der Menschheit nach Zeitersparnis untersucht die zeitsparenden Erfindungen, auf die wir angewiesen sind, und erforscht deren Auswirkungen auf die Welt als Ganzes.</desc>
-        <credits>
-            <actor>[B]Regie[/B]:  Nicolas Boucher</actor>
-            <actor> Michael Lam</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/3258750095495603276"/>
-        <country>Kanada</country>
+    <programme start="20260823014000 +0000" stop="20260823023000 +0000" channel="PULS24">
+        <title lang="de">Pfusch am Bau</title>
+        <desc lang="de">Heute gibt es ein Wiedersehen mit dem ehemaligen Profifußballer Mario Hieblinger. Die Häuslbauer aus Oberösterreich haben bereits 170.000 Euro in ein Fertigteilhaus gesteckt. Nun hakt es mit der Sanierung ...&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
+        <date>2016</date>
+        <category lang="de">Rund ums Haus</category>
+        <icon src="https://images.mdn.ors.at/947581550505729740"/>
+        <country>Österreich</country>
     </programme>
 
     <programme start="20260821014000 +0000" stop="20260821023500 +0000" channel="ServusTV">
@@ -861,14 +829,14 @@
         <sub-title lang="de">Unheimliche Begegnungen der fünften Art</sub-title>
         <desc lang="de">Das "Center for the Study of Extra-Terrestrial Intelligence" definiert eine "Begegnung der fünften Art" als direkten menschlichen Kontakt und Kommunikation mit außerirdischem Leben. Aber ist dies eine Klassifizierung, die erst in ferner Zukunft nützlich sein wird, oder haben solche Begegnungen bereits stattgefunden ... und zwar auf höchster Ebene der US-Regierung?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
         <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: George Knapp</actor>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress</actor>
+            <actor> Linda Moulton Howe</actor>
+            <actor> George Knapp</actor>
             <actor> Nick Pope</actor>
             <actor> Jeremy Kenyon Lockyer Corbell</actor>
             <actor> Travis Taylor</actor>
-            <actor> Paul Hynek</actor>
-            <actor> Giorgio A. Tsoukalos</actor>
-            <actor> David Childress</actor>
-            <actor> Linda Moulton Howe; [B]Regie[/B]: Kevin Burns</actor>
+            <actor> Paul Hynek; [B]Regie[/B]: Kevin Burns</actor>
         </credits>
         <date>2023</date>
         <category lang="de">Geschichtlich</category>
@@ -1409,7 +1377,7 @@
     <programme start="20260822140000 +0000" stop="20260822150000 +0000" channel="ServusTV">
         <title lang="de">Formel 1</title>
         <sub-title lang="de">Heineken Grand Prix der Niederlande - Qualifying</sub-title>
-        <desc lang="de">Die Formel-1-Saison 2026 verspricht eines der spannendsten Jahre der jüngeren Geschichte zu werden. Mit dem Start der neuen Motoren-Ära und überarbeiteten Aerodynamik-Regeln beginnt ein völlig neues Kapitel der Königsklasse. Andrea Schlager und Christian Klien liefern Stimmungsberichte, News und Interviews von vor Ort gemeinsam mit Reporter Raphael Sampt. Die Rennen werden von Andreas Gröbl und den Experten Mathias Lauda, Philipp Eng und Philipp Brändle kommentiert.&lt;br /&gt;&lt;br /&gt;Übertragung der spannendsten Rennen der Formel 1.</desc>
+        <desc lang="de">Neue Teamkonstellationen, eine komplett neue Fahrergeneration und ein technisches Regelwerk, das alles auf den Kopf stellen könnte – die Formel-1-Saison 2026 verspricht eines der spannendsten Jahre der jüngeren Geschichte zu werden. Mit dem Start der neuen Motoren-Ära und überarbeiteten Aerodynamik-Regeln beginnt ein völlig neues Kapitel der Königsklasse. Lando Norris geht  als Titelverteidiger ins Rennen, doch die Karten werden neu gemischt: Lewis Hamilton startet in sein zweites Jahr bei Ferrari, Red Bull will mit Max Verstappen und Teamkollegen Isack Hadjar zurück an die Spitze und auch Audi &amp; Cadillac, die neu mit dabei sind rechnen sich dank intensiver Entwicklungsarbeit große Chancen aus. Bei sämtlichen Live-Übertragungen liefern Moderatorin Andrea Schlager und Reporter Raphael Sampt gemeinsam mit Experte Christian Klien exklusive Stimmungsberichte, aktuelle News und spannende Interviews direkt aus den Boxengassen. Kommentiert werden die Rennen von Andreas Gröbl und Daniel Goggi, unterstützt von Experte Mathias Lauda. Ergänzt wird das Programm durch ausführliche Vorschauen, detaillierte Nachbetrachtungen, tiefgehende Analysen und fesselnde Hintergrundgeschichten rund um die Formel 1. Die Saison 2026 steht für Motorsport auf höchstem Niveau – mit packenden Zweikämpfen, taktischen Meisterleistungen und vielleicht dem Beginn einer völlig neuen Ära in der Königsklasse.&lt;br /&gt;&lt;br /&gt;Übertragung der spannendsten Rennen der Formel 1.</desc>
         <date>2026</date>
         <category lang="de">Formel 1</category>
         <icon src="https://images.mdn.ors.at/6175881132359638424"/>
@@ -1519,7 +1487,7 @@
         </credits>
         <date>2026</date>
         <category lang="de">Magazin</category>
-        <icon src="https://images.mdn.ors.at/1498341826105749754"/>
+        <icon src="https://images.mdn.ors.at/6598446817804050229"/>
         <country>Österreich</country>
     </programme>
 
@@ -1602,6 +1570,15 @@
         <category lang="de">Thriller</category>
         <icon src="https://images.mdn.ors.at/5678011587438043824"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260823014000 +0000" stop="20260823022000 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
