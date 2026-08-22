@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-22 00:34:48.934499 -->
+<!-- created on 2026-08-22 02:01:48.465532 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,39 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260822002500 +0000" stop="20260822011500 +0000" channel="PULS24">
-        <title lang="de">Ungelöst - Cold Case Austria</title>
-        <sub-title lang="de">Folge 12</sub-title>
-        <desc lang="de">"Ungelöst - Cold Case Austria" rollt einen Mordfall neu auf, der sich im Grazer Rotlichtmilieu zugetragen hat. Der Drogenhändler und Zuhälter Werner H. hatte sich mit einem der einflussreichsten Drogenbosse der Stadt angelegt und musste daraufhin mit dem Leben bezahlen. Die Polizei konnte inzwischen die beiden Verdächtigen ausmachen, die Werner H. offenbar in einem Wald erschossen haben. Jedoch wurden die Männer vor Gericht mittlerweile freigesprochen.&lt;br /&gt;&lt;br /&gt;Es gibt Vermisstenfälle in Österreich, bei denen selbst die Polizei im Dunkeln tappt. Die Serie "Ungelöst - Cold Case Austria" zeigt einige Beispiele von Personen, deren Verschwinden bis heute ungeklärt ist.</desc>
-        <date>2023</date>
-        <category lang="de">Dokumentation</category>
-        <icon src="https://images.mdn.ors.at/10661128689274655529"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E2</episode-num>
-    </programme>
-
-    <programme start="20260822011500 +0000" stop="20260822020000 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">22.08.2026 03:15.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2024</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260822020000 +0000" stop="20260822024500 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -691,34 +658,37 @@
         <episode-num system="onscreen">S3 E1</episode-num>
     </programme>
 
-    <programme start="20260822002000 +0000" stop="20260822010000 +0000" channel="ServusTV">
-        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-        <sub-title lang="de">Unheimliche Begegnungen der fünften Art</sub-title>
-        <desc lang="de">Das "Center for the Study of Extra-Terrestrial Intelligence" definiert eine "Begegnung der fünften Art" als direkten menschlichen Kontakt und Kommunikation mit außerirdischem Leben. Aber ist dies eine Klassifizierung, die erst in ferner Zukunft nützlich sein wird, oder haben solche Begegnungen bereits stattgefunden ... und zwar auf höchster Ebene der US-Regierung?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
-            <actor> David Childress</actor>
-            <actor> Linda Moulton Howe</actor>
-            <actor> George Knapp</actor>
-            <actor> Nick Pope</actor>
-            <actor> Jeremy Kenyon Lockyer Corbell</actor>
-            <actor> Travis Taylor</actor>
-            <actor> Paul Hynek; [B]Regie[/B]: Kevin Burns</actor>
-        </credits>
-        <date>2023</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/1435567584985693662"/>
-        <country>Vereinigte Staaten</country>
+    <programme start="20260824004000 +0000" stop="20260824013500 +0000" channel="PULS24">
+        <title lang="de">Österreichs schockierendste Verbrechen</title>
+        <sub-title lang="de">Der tödliche Villacher Frauenzirkel</sub-title>
+        <desc lang="de">Am 19. Oktober 2018 wird eine Frau tot in ihrer Wohnung in Villach aufgefunden. Der Fundort wirkt unauffällig und die Leiche der Frau wird zur Einäscherung freigegeben. Doch der Polizist Harald Wucherer glaubt nicht an einen natürlichen Tod, denn ihre Wahl-Tochter ist eine amtsbekannte Betrügerin. Er erwirkt eine Obduktion und tatsächlich: die Frau wurde erwürgt. Doch von wem? Die Hauptverdächtige, Margit T., ist Mitglied in einem okkulten Zirkel ...&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
+        <date>2022</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
+        <country>Österreich</country>
+        <episode-num system="onscreen">S3 E5</episode-num>
     </programme>
 
-    <programme start="20260822010000 +0000" stop="20260822014500 +0000" channel="ServusTV">
-        <title lang="de">TM Wissen Spezial</title>
-        <sub-title lang="de">Vom Meeresgrund bis in den Weltraum</sub-title>
-        <desc lang="de">In dieser Spezialausgabe von TM Wissen: Wie retten wir alte Obstsorten? // Wie findet man DNA-Spuren von Insekten? // Wie funktioniert Astrofotografie? // Was ist ein Astrolabium? // Warum attackieren Orcas Boote? // Warum sind manche Meerestiere so giftig? // Kann die Entsalzung von Meerwasser nachhaltig sein?&lt;br /&gt;&lt;br /&gt;Faszinierende Geschichten und spannende Phänomene: Im wöchentlichen Magazin TM Wissen präsentiert Moderator, Wissenschaftler und Analog-Astronaut Gernot Grömer regelmäßig Faszinierendes, Überraschendes und Skurriles aus der Welt der Forschung.</desc>
+    <programme start="20260824013500 +0000" stop="20260824022000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">24.08.2026 03:35.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
         <date>2024</date>
-        <category lang="de">Wissensmagazin</category>
-        <icon src="https://images.mdn.ors.at/14847630671746813673"/>
-        <country>Österreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260822014500 +0000" stop="20260822022000 +0000" channel="ServusTV">
@@ -1645,6 +1615,28 @@
         <icon src="https://images.mdn.ors.at/7322181314753512070"/>
         <country>Österreich</country>
         <episode-num system="onscreen">E2</episode-num>
+    </programme>
+
+    <programme start="20260824011500 +0000" stop="20260824020000 +0000" channel="ServusTV">
+        <title lang="de">Die Geschichte der Menschheit</title>
+        <sub-title lang="de">Das große Wagnis</sub-title>
+        <desc lang="de">Hunderttausende Jahre lang lebte Homo sapiens in kleinen, mobilen Gruppen. Dann beginnt im Nahen Osten ein tiefgreifender Wandel. In Göbekli Tepe entstehen monumentale Kultstätten und erste dauerhafte Siedlungen — Zeichen dafür, dass Menschen sesshaft werden und ihr Wissen, ihre Rituale und ihre Kultur an festen Orten bündeln. Mit der Haltung von Schafen und Ziegen verändert sich das Leben erneut: Nahrung wird planbarer, die Bevölkerung wächst, und aus Siedlungen werden immer größere Gemeinschaften.&lt;br /&gt;Doch der Fortschritt hat seinen Preis. In frühen Orten wie Çatalhöyük zeigt sich, dass dichtes Zusammenleben mit Menschen und Tieren neue Probleme hervorbringt: Krankheiten, Konflikte und soziale Spannungen. Manche dieser frühen urbanen Experimente scheitern. Erst an den großen Flüssen, vor allem im Niltal, finden Menschen neue Wege, dauerhaft in großer Zahl zusammenzuleben: mit Landwirtschaft im großen Maßstab, Arbeitsteilung und komplexen sozialen Strukturen.&lt;br /&gt;Aus dieser neuen Welt entsteht schließlich eine der folgenreichsten Erfindungen der Menschheitsgeschichte: die Schrift. Sie macht es möglich, Wissen, Gesetze und Erinnerungen über Generationen hinweg zu bewahren. Und mit der Entwicklung des Alphabets wird Schreiben einfacher und zugänglicher als je zuvor. Die Dokumentation erzählt so die Geschichte eines großen Wagnisses: den Weg der Menschheit von der nomadischen Existenz zur Grundlage der modernen Zivilisation.&lt;br /&gt;&lt;br /&gt;</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Josh Brolin; [B]Drehbuch[/B]: Sam Sheridan</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/10162226841199653827"/>
+        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260824020000 +0000" stop="20260824023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
