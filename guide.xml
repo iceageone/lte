@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-23 00:37:49.404422 -->
+<!-- created on 2026-08-23 02:11:32.179184 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,27 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260822235500 +0000" stop="20260823004500 +0000" channel="PULS24">
-        <title lang="de">Mein Recht! Ich geb' nicht auf!</title>
-        <desc lang="de">Christopher und Jaqueline Stein erwarben ein günstiges Bauernhaus in Niederösterreich. Doch die Freude währte nur kurz: Ein Schädlingsbefall im Dachstuhl droht, das Haus unbewohnbar zu machen. War der Schaden beim Kauf bekannt? Können sie den Verkäufer haftbar machen? Ein Fall für Dr. Horwath ...&lt;br /&gt;&lt;br /&gt;In der Doku-Reihe begleitet der Rechtsanwalt Dr. Christian Horwath Menschen bei ihrem Kampf um Gerechtigkeit.</desc>
-        <credits>
-            <actor>[B]GastgeberIn[/B]: Dr. Horwath</actor>
-        </credits>
-        <date>2021</date>
-        <category lang="de">Reality-TV</category>
-        <icon src="https://images.mdn.ors.at/8689994436928598273"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260823004500 +0000" stop="20260823014000 +0000" channel="PULS24">
-        <title lang="de">Pfusch am Bau</title>
-        <desc lang="de">Beim Dach des Hauses von Fadime Kizil in Niederösterreich wurde ordentlich gepfuscht. Und ein Pärchen wollte sich den Traum vom Eigenheim verwirklichen - bislang ist es leider jedoch ein Albtraum. Kann Günther Nussbaum in beiden Fällen helfen?&lt;br /&gt;&lt;br /&gt;Bei der Dokusoap „Pfusch am Bau” wird mit zweifelhaften Methoden gearbeitet.</desc>
-        <date>2016</date>
-        <category lang="de">Rund ums Haus</category>
-        <icon src="https://images.mdn.ors.at/947581550505729740"/>
-        <country>Österreich</country>
-    </programme>
 
     <programme start="20260823014000 +0000" stop="20260823023000 +0000" channel="PULS24">
         <title lang="de">Pfusch am Bau</title>
@@ -709,23 +688,26 @@
         <episode-num system="onscreen">S1</episode-num>
     </programme>
 
-    <programme start="20260822234000 +0000" stop="20260823014000 +0000" channel="ServusTV">
-        <title lang="de">Der Staatsfeind Nr. 1</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Der republikanische Senator Phillip Hammersley weigert sich ein neues Überwachungsgesetz zu unterstützen und wird deshalb ermordet. Zum Leidwesen von Thomas Reynolds, dem Abteilungsleiter des US-Geheimdienstes NSA, wird der als Unfall dargestellte Mord von einer versteckten Kamera aufgezeichnet. Der Naturbeobachter Daniel Zavitz steckt dem ahnungslosen Anwalt Robert Clayton Dean eine Kopie des Videos zu, kurz bevor er selbst stirbt. So wird Dean unversehens zum Staatsfeind Nr. 1. Von da an zerstört die NSA systematisch sein bisheriges Leben und jagt ihn unerbittlich, bis er sich schliesslich mit Hilfe des Überwachungsexperten Edward ‘Brill’ Lyle zur Wehr setzen kann.</desc>
+    <programme start="20260825013000 +0000" stop="20260825021500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">25.08.2026 03:30.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Will Smith</actor>
-            <actor> Gene Hackman</actor>
-            <actor> Jon Voight</actor>
-            <actor> Lisa Bonet</actor>
-            <actor> Regina King</actor>
-            <actor> Stuart Wilson</actor>
-            <actor> Loren Dean</actor>
-            <actor> Laura Cayouette; [B]Regie[/B]: Tony Scott; [B]Drehbuch[/B]: David Marconi</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
-        <date>1998</date>
-        <category lang="de">Thriller</category>
-        <icon src="https://images.mdn.ors.at/5678011587438043824"/>
-        <country>Vereinigte Staaten</country>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260823014000 +0000" stop="20260823022000 +0000" channel="ServusTV">
@@ -1636,6 +1618,29 @@
         <category lang="de">Action</category>
         <icon src="https://images.mdn.ors.at/2304488471125986521"/>
         <country>Vereinigte Staaten, Australien, Vereinigtes Königreich</country>
+    </programme>
+
+    <programme start="20260825012000 +0000" stop="20260825020000 +0000" channel="ServusTV">
+        <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
+        <sub-title lang="de">Die MUFON-Akten</sub-title>
+        <desc lang="de">Das Mutual UFO Network - besser bekannt als MUFON - ist die weltweit führende Organisation, die sich mit der wissenschaftlichen Untersuchung von unidentifizierten Luftphänomenen und anderen unerklärlichen Begegnungen beschäftigt. Könnte die umfangreiche Datenbank von MUFON, die seit über fünf Jahrzehnten aufgebaut wird, endgültige Beweise für außerirdische Besuche enthalten?&lt;br /&gt;&lt;br /&gt;Die Doku-Serie geht der Frage nach, ob intelligente Lebensformen bereits vor vielen tausend Jahren die Erde besuchten und mit ihren Technologien die Geschichte der Menschheit spürbar beeinflussten.</desc>
+        <credits>
+            <actor>[B]ErzählerIn[/B]: Robert Clotworthy; [B]DarstellerInnen[/B]: Giorgio A. Tsoukalos</actor>
+            <actor> David Childress; [B]Regie[/B]: Kevin Burns</actor>
+        </credits>
+        <date>2023</date>
+        <category lang="de">Geschichtlich</category>
+        <icon src="https://images.mdn.ors.at/1435567584985693662"/>
+        <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260825020000 +0000" stop="20260825023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
