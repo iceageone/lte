@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-24 00:36:54.902340 -->
+<!-- created on 2026-08-24 02:09:14.789198 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,28 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260823235000 +0000" stop="20260824004000 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Die mörderische Eislady</sub-title>
-        <desc lang="de">Am 06. Juni 2011 machen Bauarbeiter in einem Kellerabteil in Wien Meidling einen grausamen Fund: männliche Leichenteile einbetoniert in Kühltruhen und Mörtelwannen, zerstückelt mit einer Motorsäge. Schnell ist klar: Bei den Männern handelt es sich um die ehemaligen Lebensgefährten der Eissalonbesitzerin Estibaliz C. Doch wer ist diese Frau? Ist sie selbst ein Opfer der Schikanen ihrer Männer?&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2022</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E1</episode-num>
-    </programme>
-
-    <programme start="20260824004000 +0000" stop="20260824013500 +0000" channel="PULS24">
-        <title lang="de">Österreichs schockierendste Verbrechen</title>
-        <sub-title lang="de">Der tödliche Villacher Frauenzirkel</sub-title>
-        <desc lang="de">Am 19. Oktober 2018 wird eine Frau tot in ihrer Wohnung in Villach aufgefunden. Der Fundort wirkt unauffällig und die Leiche der Frau wird zur Einäscherung freigegeben. Doch der Polizist Harald Wucherer glaubt nicht an einen natürlichen Tod, denn ihre Wahl-Tochter ist eine amtsbekannte Betrügerin. Er erwirkt eine Obduktion und tatsächlich: die Frau wurde erwürgt. Doch von wem? Die Hauptverdächtige, Margit T., ist Mitglied in einem okkulten Zirkel ...&lt;br /&gt;&lt;br /&gt;Die Kriminalreportage widmet sich spektakulären aktuellen österreichischen Kriminalfällen. Tatortermittler, Gerichtsmediziner, Kriminalpsychologen, Profiler und Forensiker gewähren hautnah Einblicke in ihre Arbeit. Außerdem sprechen exklusiv Angehörige von Opfern und Tätern und Augenzeugen. Im Fokus von "Österreichs schockierendste Verbrechen" stehen ungeklärte und mysteriöse Verbrechen. Die Kriminalreportage nimmt die Zuseher mit auf Motivsuche, auf die Suche nach der Wahrheit.</desc>
-        <date>2022</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/17468387157953399566"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">S3 E5</episode-num>
-    </programme>
 
     <programme start="20260824013500 +0000" stop="20260824022000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -671,35 +649,48 @@
         <country>Österreich</country>
     </programme>
 
-    <programme start="20260824000000 +0000" stop="20260824011500 +0000" channel="ServusTV">
-        <title lang="de">Restaurantlegenden</title>
-        <sub-title lang="de">Episode 2</sub-title>
-        <desc lang="de">Juan Amador ist als spanisches Gastarbeiterkind in der schwäbischen Pampa aufgewachsen und ist heute mit einer Österreicherin verheiratet. Nach Wien hat ihn also die Liebe verschlagen. Und dort hat er das geschafft, was vor ihm noch niemand erreich hat: In Österreich drei Michelin-Sterne zu erkochen. Ein Skandal im Feinschmeckerland Österreich. Seit 2018 ist Lukas Mraz offiziell eigentlich nur „Sohn“ – auch wenn ihm so einiges andere nachgesagt wird, wie „das Enfant terrible der Gastro-Szene“ oder „Wunderkind am Herd“. Denn seit 2017 steht er im mit 2 Michelin-Sternen gekrönten Familienrestaurant „Mraz und Sohn“ gemeinsam mit seinem Vater Markus am Herd. Über seine Ausbildung in französischen Drei-Sterne-Tempeln sagt Lukas rückblickend: „In Frankreich wirst du eigentlich jeden Tag nur angeschrien, du bist danach eigentlich ein schlechterer Koch als vorher und hast ungeheure Aggressionen in dir.“ Max Stiegl ist bekannt für Innereien und seine spitze Zunge. Fleisch-Raritäten wie Stierhoden, Biberherzen oder Pansen stehen im Gut Purbach im Burgenland auf der Karte. Der Koch verarbeitet Tiere auch aus Respekt grundsätzlich zur Gänze, er belächelt „dilettantische Köche, die nur Filet und Schlögl verarbeiten“ und verehrt das klassische, alte Handwerk. Die Eheleute Maria und Josef Steffner betreiben gemeinsam das Mesnerhaus in Mauterndorf im Salzburger Lungau. Maria ist Herrscherin über den Weinkeller, Josef führt das Regiment in der Küche. Verliebt haben sich die Beiden - wo soll‘s auch anders sein - am Herd!&lt;br /&gt;Die Spitzenköche dieser Folge sprechen unter anderem auch darüber, welches Gericht es bei ihnen als Henkersmahlzeit gäbe, sollten sie dann doch irgendwann „den Löffel abgeben“.&lt;br /&gt;&lt;br /&gt;"Das Enfant Terrible der Gastro-Szene", "Wunderkind am Herd" - Lukas Mraz soll das alles schon haben.</desc>
+    <programme start="20260826012000 +0000" stop="20260826020500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">26.08.2026 03:20.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
         <credits>
-            <actor>[B]Regie[/B]: Alexander Saran; [B]Editor[/B]: Carolin Darschin</actor>
-            <actor>  Antonia Adelsberger</actor>
-            <actor>  Dirk Teubler; [B]Kamera[/B]: Michael Kaufmann</actor>
-            <actor> Felix Raitz von Frentz</actor>
-            <actor>  Michael Gügerl</actor>
-        </credits>
-        <date>2026</date>
-        <category lang="de">Essen</category>
-        <icon src="https://images.mdn.ors.at/7322181314753512070"/>
-        <country>Österreich</country>
-        <episode-num system="onscreen">E2</episode-num>
-    </programme>
-
-    <programme start="20260824011500 +0000" stop="20260824020000 +0000" channel="ServusTV">
-        <title lang="de">Die Geschichte der Menschheit</title>
-        <sub-title lang="de">Das große Wagnis</sub-title>
-        <desc lang="de">Hunderttausende Jahre lang lebte Homo sapiens in kleinen, mobilen Gruppen. Dann beginnt im Nahen Osten ein tiefgreifender Wandel. In Göbekli Tepe entstehen monumentale Kultstätten und erste dauerhafte Siedlungen — Zeichen dafür, dass Menschen sesshaft werden und ihr Wissen, ihre Rituale und ihre Kultur an festen Orten bündeln. Mit der Haltung von Schafen und Ziegen verändert sich das Leben erneut: Nahrung wird planbarer, die Bevölkerung wächst, und aus Siedlungen werden immer größere Gemeinschaften.&lt;br /&gt;Doch der Fortschritt hat seinen Preis. In frühen Orten wie Çatalhöyük zeigt sich, dass dichtes Zusammenleben mit Menschen und Tieren neue Probleme hervorbringt: Krankheiten, Konflikte und soziale Spannungen. Manche dieser frühen urbanen Experimente scheitern. Erst an den großen Flüssen, vor allem im Niltal, finden Menschen neue Wege, dauerhaft in großer Zahl zusammenzuleben: mit Landwirtschaft im großen Maßstab, Arbeitsteilung und komplexen sozialen Strukturen.&lt;br /&gt;Aus dieser neuen Welt entsteht schließlich eine der folgenreichsten Erfindungen der Menschheitsgeschichte: die Schrift. Sie macht es möglich, Wissen, Gesetze und Erinnerungen über Generationen hinweg zu bewahren. Und mit der Entwicklung des Alphabets wird Schreiben einfacher und zugänglicher als je zuvor. Die Dokumentation erzählt so die Geschichte eines großen Wagnisses: den Weg der Menschheit von der nomadischen Existenz zur Grundlage der modernen Zivilisation.&lt;br /&gt;&lt;br /&gt;</desc>
-        <credits>
-            <actor>[B]ErzählerIn[/B]: Josh Brolin; [B]Drehbuch[/B]: Sam Sheridan</actor>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
         </credits>
         <date>2025</date>
-        <category lang="de">Geschichtlich</category>
-        <icon src="https://images.mdn.ors.at/10162226841199653827"/>
-        <country>Vereinigte Staaten, Vereinigtes Königreich</country>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
+    </programme>
+
+    <programme start="20260826020500 +0000" stop="20260826025000 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">26.08.2026 04:05.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260824020000 +0000" stop="20260824023500 +0000" channel="ServusTV">
@@ -1095,11 +1086,11 @@
         <title lang="de">Boss Level</title>
         <desc lang="de">&lt;br /&gt;&lt;br /&gt;Eine unangenehme Zeitschleife macht dem ehemaligen Delta-Force-Kämpfer Roy Pulver zu schaffen: Jeden Morgen wird er in seiner Wohnung von einer Gruppe Attentäter angegriffen. Je häufiger sich diese Attacken wiederholen, umso länger lernt Roy zu überleben. Im Laufe der Zeit muss er feststellen, dass auch seine Ex-Frau Jemma und sein Sohn Joe in die Ereignisse involviert sind und an dem Tag sterben, wenn Roy es nicht verhindert.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Will Sasso</actor>
-            <actor> Frank Grillo</actor>
+            <actor>[B]DarstellerInnen[/B]: Frank Grillo</actor>
             <actor> Mel Gibson</actor>
             <actor> Naomi Watts</actor>
             <actor> Michelle Yeoh</actor>
+            <actor> Will Sasso</actor>
             <actor> Annabelle Wallis</actor>
             <actor> Michelle Yeon</actor>
             <actor> Sheaun McKinney</actor>
@@ -1576,6 +1567,15 @@
         <category lang="de">Western</category>
         <icon src="https://images.mdn.ors.at/14904149138748503650"/>
         <country>Vereinigte Staaten</country>
+    </programme>
+
+    <programme start="20260826014500 +0000" stop="20260826023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
