@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2026-08-26 00:36:53.487855 -->
+<!-- created on 2026-08-26 02:11:12.081911 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.5+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  ZAPPN  CHANNEL LIST -->
@@ -31,38 +31,6 @@
         <display-name lang="de">Sky Replay</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5727b8cc057a36b525abafb23b46d02bb24fed70.png" />
     </channel>
-
-    <programme start="20260826003500 +0000" stop="20260826012000 +0000" channel="PULS24">
-        <title lang="de">Österreich unzensiert - Kurioser Alltag</title>
-        <sub-title lang="de">Beim Pfandleiher</sub-title>
-        <desc lang="de">Wenn das Geld nicht bis zum Monatsende reicht, führt der letzte Ausweg oft ins Pfandhaus. Die Inflation löst in der Pfandleih-Branche einen regelrechten Boom aus. Auch Scheidungen und Arbeitslosigkeit sind oft der direkte Weg in die Armut. Oftmals spielen sich hinter den Türen der Pfandhäuser Tragödien ab. Hitzige Diskussionen und Frustration stehen auf der Tagesordnung, denn häufig liegt der tatsächliche Wert deutlich unter der Wunschvorstellung der Besitzer:innen.&lt;br /&gt;&lt;br /&gt;Die Reportage-Reihe "Österreich unzensiert" taucht in die verschiedenen sozialen Welten der Alpenrepublik ein und gibt jenen eine Stimme, die oft nicht gehört werden. Unzensiert und frei aus dem Bauch heraus erzählt die österreichische Bevölkerung über Freuden, Sorgen und Ängste aus ihrem Leben und gibt Einblick in ihre Lebensrealität.</desc>
-        <date>2023</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/16865161290173684679"/>
-        <country>Österreich</country>
-    </programme>
-
-    <programme start="20260826012000 +0000" stop="20260826020500 +0000" channel="PULS24">
-        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
-        <sub-title lang="de">26.08.2026 03:20.</sub-title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
-        <credits>
-            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
-            <actor> Lukas Olschinka</actor>
-            <actor> Thomas Haselof</actor>
-            <actor> Benjamin Wenderlich</actor>
-            <actor> Nico Kramski</actor>
-            <actor> Andreas Karschunke</actor>
-            <actor> Danilo Grübnau</actor>
-            <actor> Marina Ehli</actor>
-            <actor>  Jan Hübler</actor>
-            <actor> Frank Eiber</actor>
-        </credits>
-        <date>2025</date>
-        <category lang="de">Reportage</category>
-        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
-        <country>Deutschland</country>
-    </programme>
 
     <programme start="20260826020500 +0000" stop="20260826025000 +0000" channel="PULS24">
         <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
@@ -587,7 +555,7 @@
         <category lang="de">True Crime</category>
         <icon src="https://images.mdn.ors.at/4971106503314978860"/>
         <country>Vereinigtes Königreich, Kanada, Vereinigte Staaten, Mexiko</country>
-        <episode-num system="onscreen">S6 E9</episode-num>
+        <episode-num system="onscreen">S6 E4</episode-num>
     </programme>
 
     <programme start="20260827191000 +0000" stop="20260827201000 +0000" channel="PULS24">
@@ -607,7 +575,7 @@
         <category lang="de">True Crime</category>
         <icon src="https://images.mdn.ors.at/4971106503314978860"/>
         <country>Vereinigtes Königreich, Kanada, Vereinigte Staaten, Mexiko</country>
-        <episode-num system="onscreen">S6 E10</episode-num>
+        <episode-num system="onscreen">S6 E9</episode-num>
     </programme>
 
     <programme start="20260827201000 +0000" stop="20260827210500 +0000" channel="PULS24">
@@ -667,7 +635,7 @@
         <category lang="de">True Crime</category>
         <icon src="https://images.mdn.ors.at/4971106503314978860"/>
         <country>Vereinigtes Königreich, Kanada, Vereinigte Staaten, Mexiko</country>
-        <episode-num system="onscreen">S6 E9</episode-num>
+        <episode-num system="onscreen">S6 E4</episode-num>
     </programme>
 
     <programme start="20260827230000 +0000" stop="20260827235000 +0000" channel="PULS24">
@@ -687,7 +655,7 @@
         <category lang="de">True Crime</category>
         <icon src="https://images.mdn.ors.at/4971106503314978860"/>
         <country>Vereinigtes Königreich, Kanada, Vereinigte Staaten, Mexiko</country>
-        <episode-num system="onscreen">S6 E10</episode-num>
+        <episode-num system="onscreen">S6 E9</episode-num>
     </programme>
 
     <programme start="20260827235000 +0000" stop="20260828004000 +0000" channel="PULS24">
@@ -710,21 +678,46 @@
         <episode-num system="onscreen">S6 E7</episode-num>
     </programme>
 
-    <programme start="20260826001000 +0000" stop="20260826014500 +0000" channel="ServusTV">
-        <title lang="de">Der Tag der Abrechnung</title>
-        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Free-TV-Premiere: Elf Jahre sind vergangen, seit Jonas Trapp seine Heimatstadt und seine Frau Jessie verlassen hat. Im texanischen Cold Iron der 1880er Jahre gab es für den Cowboy keine Arbeit, und so beschloss Trapp, sich als Büffeljäger sein Geld zu verdienen. Jetzt ist er auf dem Weg zurück. Trapp will nun mit seiner Gattin eine Familie gründen. Aber dann wird Trapp von drei Männern überfallen. Diese halten ihn für einen Viehdieb. Trapp wird gebrandmarkt und sein komplettes Vermögen gestohlen. In Cold Iron muss er zudem feststellen, dass seine Gattin inzwischen mit dem Banker Brooks Durham verlobt ist. Jessie hatte über die Jahre nie eine Nachricht von Trapp erhalten. Der Büffeljäger denkt nur noch an Rache. Er macht sich daran, die drei Männer, die ihn beraubt haben, zu suchen. Einer davon ist Durham, der Verlobte Jessies.&lt;br /&gt;&lt;br /&gt;„Der Tag der Abrechnung“ erzählt seine Geschichte von Erniedrigung und Rache geradlinig und ohne Schnörkel. Zu spüren ist die Erfahrung von Bernard McEveety als Western-Regisseur, erarbeitet und gesammelt durch eine Vielzahl von Episoden für Fernsehserien wie "Bonanza" und „Rauchende Colts“. Die Hauptrolle des auf Rache sinnenden Büffeljägers Jonas Trapp spielt Chuck Connors, der neben seiner Tätigkeit als Schauspieler auch ein sehr erfolgreicher Baseball- und Basketball-Spieler war. Berühmt wurde er als Protagonist der TV-Westernserie „Westlich von Santa Fé“.</desc>
+    <programme start="20260828004000 +0000" stop="20260828013000 +0000" channel="PULS24">
+        <title lang="de">Das Böse im Blick - Augenzeuge Kamera</title>
+        <sub-title lang="de">Mord im sicheren Heim</sub-title>
+        <desc lang="de">Die junge Immobilienmaklerin Sasha Samsudean verschwindet an einem Abend in der Innenstadt von Orlando. Am nächsten Tag rufen besorgte Freunde die Polizei um Hilfe. Die Beamten finden Sasha erdrosselt in ihrer eigenen Wohnung auf.&lt;br /&gt;&lt;br /&gt;Aus dem öffentlichen Raum sind Überwachungskameras kaum noch wegzudenken. Doch auch immer mehr Menschen installieren die elektronischen Detektive bei sich zu Hause. Die Kameras können nicht jede Straftat verhindern. Doch wie diese Kriminal-Serie zeigt, sind sie für die Polizei manchmal entscheidende Zeugen bei der Aufklärung von Verbrechen.</desc>
         <credits>
-            <actor>[B]DarstellerInnen[/B]: Chuck Conners</actor>
-            <actor> Michael Rennie</actor>
-            <actor> Kathryn Hays</actor>
-            <actor> Joan Blondell</actor>
-            <actor> Gloria Grahame; [B]Regie[/B]: Bernard McEveety; [B]Drehbuch[/B]: Andrew J. Fenady</actor>
-            <actor> Al Dewlen</actor>
+            <actor>[B]ErzählerIn[/B]: Ross Huguet; [B]DarstellerInnen[/B]: Bryan Edwards</actor>
+            <actor> James J. Wilson</actor>
+            <actor> Tamara Rambaran</actor>
+            <actor> Matthew Sauve</actor>
+            <actor> Drew Riedstra</actor>
+            <actor> Michal Ochkie</actor>
+            <actor> Morgan Bragg</actor>
         </credits>
-        <date>1966</date>
-        <category lang="de">Western</category>
-        <icon src="https://images.mdn.ors.at/14904149138748503650"/>
-        <country>Vereinigte Staaten</country>
+        <date>2020</date>
+        <category lang="de">True Crime</category>
+        <icon src="https://images.mdn.ors.at/4971106503314978860"/>
+        <country>Vereinigtes Königreich, Kanada, Vereinigte Staaten, Mexiko</country>
+        <episode-num system="onscreen">S6 E2</episode-num>
+    </programme>
+
+    <programme start="20260828013000 +0000" stop="20260828021500 +0000" channel="PULS24">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">28.08.2026 03:30.</sub-title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;"Lebensretter hautnah - Wenn jede Sekunde zählt" zeigt die wichtige und emotionale Arbeit von Rettungskräften in Deutschland. Die Zuschauer:innen begleiten die Rettungskräfte bei ihren Notfalleinsätzen aus der Sicht der Sanitäter:innen und Ärzt:innen mit.</desc>
+        <credits>
+            <actor>[B]DarstellerInnen[/B]: Sirko Schulz</actor>
+            <actor> Lukas Olschinka</actor>
+            <actor> Thomas Haselof</actor>
+            <actor> Benjamin Wenderlich</actor>
+            <actor> Nico Kramski</actor>
+            <actor> Andreas Karschunke</actor>
+            <actor> Danilo Grübnau</actor>
+            <actor> Marina Ehli</actor>
+            <actor>  Jan Hübler</actor>
+            <actor> Frank Eiber</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Reportage</category>
+        <icon src="https://images.mdn.ors.at/15572578452400321479"/>
+        <country>Deutschland</country>
     </programme>
 
     <programme start="20260826014500 +0000" stop="20260826023500 +0000" channel="ServusTV">
@@ -1540,6 +1533,29 @@
         <category lang="de">Unterhaltung Comedy</category>
         <icon src="https://images.mdn.ors.at/3547829475576075026"/>
         <country>Österreich</country>
+    </programme>
+
+    <programme start="20260828004500 +0000" stop="20260828013000 +0000" channel="ServusTV">
+        <title lang="de">Man vs. Time - Im Wettlauf mit der Zeit</title>
+        <sub-title lang="de">Landkarte</sub-title>
+        <desc lang="de">Verloren im Nirgendwo und ohne Orientierung? Dank GPS gehört das der Vergangenheit an! Oder etwa doch nicht? Eine faszinierende Reise durch die Geschichte der Landkarte: Von den ersten in Sand gezeichneten Linien über die großen Entdeckungsreisen bis hin zur digitalen Revolution von Google Maps. Was haben wir dabei gewonnen und was verloren? Karten, einst Werkzeuge der Erkundung und Kontrolle, zeigen uns heute nicht nur den schnellsten Weg, sondern bestimmen, wie wir über Zeit, Raum und unser Leben nachdenken.&lt;br /&gt;&lt;br /&gt;SCHNELLER! Die Suche der Menschheit nach Zeitersparnis untersucht die zeitsparenden Erfindungen, auf die wir angewiesen sind, und erforscht deren Auswirkungen auf die Welt als Ganzes.</desc>
+        <credits>
+            <actor>[B]Regie[/B]:  Nicolas Boucher</actor>
+            <actor> Michael Lam</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Dokumentation</category>
+        <icon src="https://images.mdn.ors.at/3258750095495603276"/>
+        <country>Kanada</country>
+    </programme>
+
+    <programme start="20260828013000 +0000" stop="20260828023500 +0000" channel="ServusTV">
+        <title lang="de">BilderWelten</title>
+        <desc lang="de">&lt;br /&gt;&lt;br /&gt;Bilder aus der Vogelperspektive bilden den Kern von BilderWelten. In unterschiedlichen Specials finden Zeitlupen-Studien und Unterwasseraufnahmen ebenso Platz wie ein virtueller Flug über die Oberfläche des Mars. BilderWelten bietet Entspannung pur und ist rund um die Uhr als Online-Stream verfügbar.</desc>
+        <date>2013</date>
+        <category lang="de">Natur</category>
+        <icon src="https://images.mdn.ors.at/9828049829320918821"/>
+        <country>Deutschland, Österreich</country>
     </programme>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
